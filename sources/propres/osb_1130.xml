@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<liturgia>
+ <commun>
+<la>apotres</la>
+</commun>
+<osb_vig_ant1 id="AN_Vidit_Dominus_"/>
+<osb_vig_ps1>
+<la>ps18</la>
+</osb_vig_ps1>
+<osb_vig_ant2 id="AN_Venite_post_me"/>
+<osb_vig_ps2>
+<la>ps33</la>
+</osb_vig_ps2>
+<osb_vig_ant3 id="AN_Relictis_retibus"/>
+<osb_vig_ps3>
+<la>ps44</la>
+</osb_vig_ps3>
+<osb_vig_ant4 id="AN_Christus_me"/>
+<osb_vig_ps4>
+<la>ps46</la>
+</osb_vig_ps4>
+<osb_vig_ant5 id="AN_Ego_si_crucis"/>
+<osb_vig_ps5>
+<la>ps60</la>
+</osb_vig_ps5>
+<osb_vig_ant6 id="AN_Dignum_sibi_"/>
+<osb_vig_ps6>
+<la>ps63</la>
+</osb_vig_ps6>
+<osb_vig_vers1 id="VERS_Quod_vidimus_et_audivimus_annuntiamus"/>
+<osb_vig_ant7 id="AN_Videns_Andreas_"/>
+<osb_vig_ps7>
+<la>ps74</la>
+</osb_vig_ps7>
+<osb_vig_ant8 id="AN_Dilexit_Andream"/>
+<osb_vig_ps8>
+<la>ps95</la>
+</osb_vig_ps8>
+<osb_vig_ant9 id="AN_Biduo_vivens"/>
+<osb_vig_ps9>
+<la>ps96</la>
+</osb_vig_ps9>
+<osb_vig_ant10 id="AN_Non_me_permittas"/>
+<osb_vig_ps10>
+<la>ps97</la>
+</osb_vig_ps10>
+<osb_vig_ant11 id="AN_Andreas_vero_"/>
+<osb_vig_ps11>
+<la>ps98</la>
+</osb_vig_ps11>
+<osb_vig_ant12 id="AN_Accipe_me_"/>
+<osb_vig_ps12>
+<la>ps100</la>
+</osb_vig_ps12>
+<osb_vig_vers2 id="VERS_Narraverunt_laudes_Domini_et_virtutes"/>
+</liturgia>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica II Paschae</la>
+<fr>II&#xB0; dimanche de P&#xE2;ques</fr>
+</intitule>
+<magnificat_1V id="AN_Post_dies_octo"/>
+<oratio id="COL_Deus_misericordiae_sempiternae_qui_in_ipso"/>
+<benedictus id="AN_Mitte_manum"/>
+<magnificat id="AN_Quia_vidisti_me"/>
+</liturgia>

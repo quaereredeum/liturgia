@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 2 maii</la>
+<fr>Le 2 mai</fr>
+</jour>
+<intitule>
+<la>S. ATHANASII, EPISCOPI ET ECCLESI&#xC6; DOCTORIS</la>
+<fr>S. ATHANASE, EVEQUE ET DOCTEUR DE L'EGLISE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Fontem_sapientiae_Dominum"/>
+<HYMNUS_laudes id="hy_Inclitus_rector_pater_atque_prudens"/>
+<LB_matin id="LB_Hebr_13_7-9a"/>
+<RB_matin id="RB_Super_te_Ierusalem_constitui_custodes"/>
+<benedictus id="AN_Non_vos_estis"/>
+<preces_matin>
+<la>preces_III</la>
+</preces_matin>
+<oratio id="COL_Omnipotens_sempiterne_Deus_qui_beatum_Athanasium"/>
+<HYMNUS_vepres id="hy_Vir_celse_forma_fulgida"/>
+<LB_soir id="LB_1_Petr_5_1-4"/>
+<RB_soir id="RB_Hic_est_fratrum_amator_qui"/>
+<magnificat id="AN_Iste_est_fidelis"/>
+<preces_soir>
+</preces_soir>
+</liturgia>

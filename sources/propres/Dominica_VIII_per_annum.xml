@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica VIII per annum</la>
+<fr>VIII&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Respicite_volatilia_caeli"/>
+<magnificat1_B id="AN_Quanto_tempore_habent"/>
+<magnificat1_C id="AN_Eice_primum_trabem"/>
+<oratio id="COL_Da_nobis_quaesumus_Domine_ut_et"/>
+<benedictus_A id="AN_Nolite_solliciti_esse"/>
+<benedictus_B id="AN_Loquar_ad_cor"/>
+<benedictus_C id="AN_Non_potest_arbor"/>
+<magnificat2_A id="AN_Quaerite_primum_regnum"/>
+<magnificat2_B id="AN_Nemo_mittit_vinum"/>
+<magnificat2_C id="AN_Bonus_homo_de"/>
+</liturgia>

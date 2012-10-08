@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<liturgia>
+ <osb_vig_ant1 id="AN_Dixit_Dominus_Simoni"/>
+<osb_vig_ps1>
+<la>ps18</la>
+</osb_vig_ps1>
+<osb_vig_ant2 id="AN_Tu_es_Christus"/>
+<osb_vig_ps2>
+<la>ps33</la>
+</osb_vig_ps2>
+<osb_vig_ant3 id="AN_Ecce_nubes_lucida"/>
+<osb_vig_ps3>
+<la>ps44</la>
+</osb_vig_ps3>
+<osb_vig_ant4 id="AN_Tu_es_pastor"/>
+<osb_vig_ps4>
+<la>ps46</la>
+</osb_vig_ps4>
+<osb_vig_ant5 id="AN_Ait_Petrus_"/>
+<osb_vig_ps5>
+<la>ps60</la>
+</osb_vig_ps5>
+<osb_vig_ant6 id="AN_Petre_amas_me"/>
+<osb_vig_ps6>
+<la>ps63</la>
+</osb_vig_ps6>
+<osb_vig_vers1 id="VERS_Tu_es_pastor_ovium_Princeps"/>
+<osb_vig_ant7 id="AN_Dixit_Iesus_"/>
+<osb_vig_ps7>
+<la>ps74</la>
+</osb_vig_ps7>
+<osb_vig_ant8 id="AN_Simon_Petre_"/>
+<osb_vig_ps8>
+<la>ps95</la>
+</osb_vig_ps8>
+<osb_vig_ant9 id="AN_Dixit_Dominus_Petro"/>
+<osb_vig_ps9>
+<la>ps96</la>
+</osb_vig_ps9>
+<osb_vig_ant10 id="AN_Petrus_servabatur_"/>
+<osb_vig_ps10>
+</osb_vig_ps10>
+<osb_vig_ant11 id="AN_Misit_Dominus_"/>
+<osb_vig_ps11>
+</osb_vig_ps11>
+<osb_vig_ant12 id="AN_Ego_pro_te"/>
+<osb_vig_ps12>
+</osb_vig_ps12>
+<osb_vig_vers2 id="VERS_Simon_Ioannis_diligis_me_plus"/>
+<osb_vig_ben2>
+</osb_vig_ben2>
+<osb_vig_ant13 id="AN_Gaudete_et"/>
+<osb_vig_ps13>
+<la>AT30</la>
+</osb_vig_ps13>
+<osb_vig_ps14>
+<la>AT31</la>
+</osb_vig_ps14>
+<osb_vig_ps15>
+<la>AT16</la>
+</osb_vig_ps15>
+<osb_vig_vers3 id="VERS_Domine_ad_quem_ibimus_"/>
+</liturgia>

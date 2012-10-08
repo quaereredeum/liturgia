@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Regem_venturum_Dominum"/>
+<HYMNUS_laudes id="hy_Vox_clara_ecce_intonat"/>
+<ant1 id="AN_Praevenerunt_oculi_mei"/>
+<ant2 id="AN_Fortitudo_mea_et"/>
+<ant3 id="AN_Laudate_Dominum_omnes"/>
+<LB_matin id="LB_Is_11_1-3a"/>
+<RB_matin id="RB_Super_te_Ierusalem_Orietur_Dominus"/>
+<benedictus id="AN_Sion_noli_timere"/>
+<oratio id="COL_Deus_qui_ad_liberandum_humanum_genus"/>
+<preces_matin>
+<la>preces_II</la>
+</preces_matin>
+<HYMNUS_tertiam id="hy_Nunc_Sancte_nobis_Spiritus"/>
+<HYMNUS_sextam id="hy_Rector_potens_verax_Deus"/>
+<HYMNUS_nonam id="hy_Rerum_Deus_tenax_vigor"/>
+<ant4 id="AN_Prophetae_praedicaverunt_nasci"/>
+<LB_3 id="LB_Is_4_2"/>
+<RB_3 id="VERS_Timebunt_gentes_nomen_tuum_Domine"/>
+<ant5 id="AN_Gabriel_angelus_locutus"/>
+<LB_6 id="LB_Is_4_3"/>
+<RB_6 id="VERS_Memento_nostri_Domine_in_beneplacito"/>
+<ant6 id="AN_Maria_dixit_Qualis"/>
+<LB_9 id="LB_Is_61_11"/>
+<RB_9 id="VERS_Veni_Domine_et_noli_tardare"/>
+</liturgia>

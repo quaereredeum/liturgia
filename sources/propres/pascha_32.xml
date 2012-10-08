@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Surrexit_Dominus_vere"/>
+<HYMNUS_laudes id="hy_Aurora_lucis_rutilat"/>
+<ant1 id="AN_Cor_meum_et"/>
+<ant2 id="AN_Elevata_est_domus"/>
+<ant3 id="AN_Dicite_in_gentibus"/>
+<LB_matin id="LB_Rom_10_8b-10"/>
+<RB_matin id="RB_Surrexit_Dominus_de_sepulcro_Alleluia"/>
+<benedictus id="AN_Operamini_non_cibum"/>
+<oratio id="COL_Deus_qui_errantibus_ut_in_viam"/>
+<HYMNUS_tertiam id="hy_Iam_surgit_hora_tertia"/>
+<HYMNUS_sextam id="hy_Venite_servi_supplices"/>
+<HYMNUS_nonam id="hy_Haec_hora_quae_resplenduit"/>
+<ant4 id="AN_Alleluia_alleluia_alleluia."/>
+<ant5 id="AN_Alleluia_alleluia_alleluia."/>
+<ant6 id="AN_Alleluia_alleluia_alleluia."/>
+<LB_3 id="LB_Ap_1_17c-18"/>
+<RB_3 id="VERS_Surrexit_Dominus_vere_alleluia"/>
+<LB_6 id="LB_Col_2_9._10a._12"/>
+<RB_6 id="VERS_Gavisi_sunt_discipuli_alleluia"/>
+<LB_9 id="LB_2_Tim_2_8._11"/>
+<RB_9 id="VERS_Mane_nobiscum_Domine_alleluia"/>
+<HYMNUS_vesperas id="hy_Ad_cenam_Agni_providi"/>
+<ant7 id="AN_Erit_tibi_Dominus"/>
+<ant8 id="AN_Laqueus_contritus_est"/>
+<ant9 id="AN_Ego_si_exaltatus"/>
+<LB_soir id="LB_Hebr_8_1b-3a"/>
+<RB_soir id="RB_Gavisi_sunt_discipuli_Alleluia_alleluia"/>
+<magnificat id="AN_Hoc_est_opus"/>
+</liturgia>

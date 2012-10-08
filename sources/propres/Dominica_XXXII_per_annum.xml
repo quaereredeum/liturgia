@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XXXII per annum</la>
+<fr>XXXII&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Prudentes_virgines_aptate"/>
+<magnificat1_B id="AN_Sedens_Iesus_contra"/>
+<magnificat1_C id="AN_Illi_qui_digni"/>
+<oratio id="COL_Omnipotens_et_misericors_Deus_universa_nobis"/>
+<benedictus_A id="AN_Media_nocte_clamor"/>
+<benedictus_B id="AN_Amen_dico_vobis"/>
+<benedictus_C id="AN_Moyses_ostendit_secus"/>
+<magnificat2_A id="AN_Amen_dico_vobis"/>
+<magnificat2_B id="AN_Vidua_illa_pauper"/>
+<magnificat2_C id="AN_Deus_non_est"/>
+</liturgia>

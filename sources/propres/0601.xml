@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 1 iunii</la>
+<fr>Le 1er juin</fr>
+</jour>
+<intitule>
+<la>S. IUSTINI, MARTYRIS</la>
+<fr>S. JUSTIN, MARTYR</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Regem_martyrum_Dominum"/>
+<HYMNUS_laudes id="hy_Martyr_Dei"/>
+<LB_matin id="LB_Act_15_7b-9"/>
+<RB_matin id="RB_Constitues_eos_principes_Super"/>
+<benedictus id="AN_In_omnibus_oblationibus"/>
+<preces_matin>
+<la>preces_V</la>
+</preces_matin>
+<oratio id="COL_Deus_qui_per_stultitiam_crucis_eminentem"/>
+<HYMNUS_vepres id="hy_Deus_tuorum_militum"/>
+<LB_soir id="LB_1_Petr_4_13-14"/>
+<RB_soir id="RB_Probasti_nos_Deus_Et"/>
+<magnificat id="AN_Mihi_statim_in"/>
+<preces_soir>
+<la>preces_VI</la>
+</preces_soir>
+</liturgia>

@@ -1,0 +1,632 @@
+<?xml version="1.0"?>
+<mois><ordo id="RE">
+		<jour date="20130601">
+		<intitule>
+		<la>S. Iustini, martyris</la>
+		<fr>St Justin, martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130602">
+		<intitule>
+		<la>SS.MI CORPORIS ET SANGUINIS CHRISTI</la>
+		<fr>TRES SAINT CORPS ET SANG DU CHRIST</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130603">
+		<intitule>
+		<la>Ss. Caroli Lwanga et sociorum, martyrum</la>
+		<fr>St Charles Lwanga et ses compagnons, martyrs.</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130604">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130605">
+		<intitule>
+		<la>S. Bonifatii, episcopi et martyris</la>
+		<fr>St Boniface, &#xE9;v&#xEA;que et martyr.</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130606">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130607">
+		<intitule>
+		<la>SACRATISSIMI CORDIS IESU</la>
+		<fr>TRES SAINT COEUR DE JESUS</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130608">
+		<intitule>
+		<la>Immaculati Cordis B. Mariae Virginis</la>
+		<fr>Immaculati Cordis B. Mariae Virginis</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130609">
+		<intitule>
+		<la>Dominica X per annum</la>
+		<fr>X&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130610">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130611">
+		<intitule>
+		<la>S. Barnabae, apostoli</la>
+		<fr>St Barnab&#xE9;, ap&#xF4;tre.</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130612">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130613">
+		<intitule>
+		<la>S. Antonii de Padova, presbyteri et Ecclesiae doctoris</la>
+		<fr>St Antoine de Padoue, pr&#xEA;tre et docteur de l'&#xC9;glise.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130614">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130615">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130616">
+		<intitule>
+		<la>Dominica XI per annum</la>
+		<fr>XI&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130617">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130618">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130619">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130620">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130621">
+		<intitule>
+		<la>S Aloisii Gonzaga, religiosi</la>
+		<fr>St Louis de Gonzague, religieux</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130622">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130623">
+		<intitule>
+		<la>Dominica XII per annum</la>
+		<fr>XII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130624">
+		<intitule>
+		<la>IN NATIVITATE S. IOANNIS BAPTISTAE</la>
+		<fr>NATIVITE DE SAINT JEAN BAPTISTE</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130625">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130626">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130627">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130628">
+		<intitule>
+		<la>S. Irenaei, episcopi et martyris</la>
+		<fr>St Ir&#xE9;n&#xE9;e, &#xE9;v&#xEA;que et martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130629">
+		<intitule>
+		<la>Ss. PETRI ET PAULI, APOSTOLORUM</la>
+		<fr>STS PIERRE ET PAUL, APOTRES</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130630">
+		<intitule>
+		<la>Dominica XIII per annum</la>
+		<fr>XIII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour></ordo><ordo id="SWF">
+		<jour date="20130601">
+		<intitule>
+		<la>S. Vulfran</la>
+		<fr>S. Vulfran</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130602">
+		<intitule>
+		<la>SS.MI CORPORIS ET SANGUINIS CHRISTI</la>
+		<fr>TRES SAINT CORPS ET SANG DU CHRIST</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130603">
+		<intitule>
+		<la>Ss. Caroli Lwanga et sociorum, martyrum</la>
+		<fr>St Charles Lwanga et ses compagnons, martyrs.</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130604">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130605">
+		<intitule>
+		<la>S. Bonifatii, episcopi et martyris</la>
+		<fr>St Boniface, &#xE9;v&#xEA;que et martyr.</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130606">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130607">
+		<intitule>
+		<la>SACRATISSIMI CORDIS IESU</la>
+		<fr>TRES SAINT COEUR DE JESUS</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130608">
+		<intitule>
+		<la>Immaculati Cordis B. Mariae Virginis</la>
+		<fr>Immaculati Cordis B. Mariae Virginis</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130609">
+		<intitule>
+		<la>Dominica X per annum</la>
+		<fr>X&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130610">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130611">
+		<intitule>
+		<la>S. Barnabae, apostoli</la>
+		<fr>St Barnab&#xE9;, ap&#xF4;tre.</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130612">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130613">
+		<intitule>
+		<la>S. Antonii de Padova, presbyteri et Ecclesiae doctoris</la>
+		<fr>St Antoine de Padoue, pr&#xEA;tre et docteur de l'&#xC9;glise.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130614">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130615">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130616">
+		<intitule>
+		<la>Dominica XI per annum</la>
+		<fr>XI&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130617">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130618">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130619">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130620">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130621">
+		<intitule>
+		<la>S Aloisii Gonzaga, religiosi</la>
+		<fr>St Louis de Gonzague, religieux</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130622">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130623">
+		<intitule>
+		<la>Dominica XII per annum</la>
+		<fr>XII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130624">
+		<intitule>
+		<la>IN NATIVITATE S. IOANNIS BAPTISTAE</la>
+		<fr>NATIVITE DE SAINT JEAN BAPTISTE</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130625">
+		<intitule>
+		<la>S. Saturnin</la>
+		<fr>S. Saturnin</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130626">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130627">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130628">
+		<intitule>
+		<la>S. Irenaei, episcopi et martyris</la>
+		<fr>St Ir&#xE9;n&#xE9;e, &#xE9;v&#xEA;que et martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130629">
+		<intitule>
+		<la>Ss. PETRI ET PAULI, APOSTOLORUM</la>
+		<fr>STS PIERRE ET PAUL, APOTRES</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130630">
+		<intitule>
+		<la>Dominica XIII per annum</la>
+		<fr>XIII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour></ordo><ordo id="SMK">
+		<jour date="20130601">
+		<intitule>
+		<la>S. Iustini, martyris</la>
+		<fr>St Justin, martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130602">
+		<intitule>
+		<la>SS.MI CORPORIS ET SANGUINIS CHRISTI</la>
+		<fr>TRES SAINT CORPS ET SANG DU CHRIST</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130603">
+		<intitule>
+		<la>Ss. Caroli Lwanga et sociorum, martyrum</la>
+		<fr>St Charles Lwanga et ses compagnons, martyrs.</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130604">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130605">
+		<intitule>
+		<la>S. Bonifatii, episcopi et martyris</la>
+		<fr>St Boniface, &#xE9;v&#xEA;que et martyr.</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130606">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130607">
+		<intitule>
+		<la>SACRATISSIMI CORDIS IESU</la>
+		<fr>TRES SAINT COEUR DE JESUS</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130608">
+		<intitule>
+		<la>Immaculati Cordis B. Mariae Virginis</la>
+		<fr>Immaculati Cordis B. Mariae Virginis</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130609">
+		<intitule>
+		<la>Dominica X per annum</la>
+		<fr>X&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130610">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130611">
+		<intitule>
+		<la>S. Barnabae, apostoli</la>
+		<fr>St Barnab&#xE9;, ap&#xF4;tre.</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130612">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130613">
+		<intitule>
+		<la>S. Antonii de Padova, presbyteri et Ecclesiae doctoris</la>
+		<fr>St Antoine de Padoue, pr&#xEA;tre et docteur de l'&#xC9;glise.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130614">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130615">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130616">
+		<intitule>
+		<la>Dominica XI per annum</la>
+		<fr>XI&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130617">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130618">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130619">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130620">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130621">
+		<intitule>
+		<la>S Aloisii Gonzaga, religiosi</la>
+		<fr>St Louis de Gonzague, religieux</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130622">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130623">
+		<intitule>
+		<la>Dominica XII per annum</la>
+		<fr>XII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130624">
+		<intitule>
+		<la>IN NATIVITATE S. IOANNIS BAPTISTAE</la>
+		<fr>NATIVITE DE SAINT JEAN BAPTISTE</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130625">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130626">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130627">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130628">
+		<intitule>
+		<la>S. Irenaei, episcopi et martyris</la>
+		<fr>St Ir&#xE9;n&#xE9;e, &#xE9;v&#xEA;que et martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130629">
+		<intitule>
+		<la>Ss. PETRI ET PAULI, APOSTOLORUM</la>
+		<fr>STS PIERRE ET PAUL, APOTRES</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130630">
+		<intitule>
+		<la>Dominica XIII per annum</la>
+		<fr>XIII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour></ordo></mois>

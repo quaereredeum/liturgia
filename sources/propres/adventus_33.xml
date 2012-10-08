@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Regem_venturum_Dominum"/>
+<HYMNUS_laudes id="hy_Vox_clara_ecce_intonat"/>
+<ant1 id="AN_Benedixisti_Domine_terram"/>
+<ant2 id="AN_Anima_mea_desideravit"/>
+<ant3 id="AN_Illumina_Domine_vultum"/>
+<LB_matin id="LB_Gen_49_10"/>
+<RB_matin id="RB_Super_te_Ierusalem_Orietur_Dominus"/>
+<benedictus id="AN_Elevare_elevare"/>
+<oratio id="COL_Deus_qui_novam_creaturam_per_Unigenitum"/>
+<HYMNUS_tertiam id="hy_Nunc_Sancte_nobis_Spiritus"/>
+<HYMNUS_sextam id="hy_Rector_potens_verax_Deus"/>
+<HYMNUS_nonam id="hy_Rerum_Deus_tenax_vigor"/>
+<ant4 id="AN_Prophetae_praedicaverunt_nasci"/>
+<LB_3 id="LB_Ier_23_5"/>
+<RB_3 id="VERS_Timebunt_gentes_nomen_tuum_Domine"/>
+<ant5 id="AN_Gabriel_angelus_locutus"/>
+<LB_6 id="LB_Ier_23_6"/>
+<RB_6 id="VERS_Memento_nostri_Domine_in_beneplacito"/>
+<ant6 id="AN_Maria_dixit_Qualis"/>
+<LB_9 id="LB_Cf.Ez_34_15-16"/>
+<RB_9 id="VERS_Veni_Domine_et_noli_tardare"/>
+<HYMNUS_vesperas id="hy_Conditor_alme_siderum"/>
+<ant7 id="AN_Dominus_in_circuitu"/>
+<ant8 id="AN_Nisi_efficiamini_sicut"/>
+<ant9 id="AN_Fecisti_nos_Domine"/>
+<LB_soir id="LB_Cf_1_Cor_1_7b-9"/>
+<RB_soir id="RB_Veni_ad_liberandum_nos_Domine"/>
+<magnificat id="AN_Antequam_convenirent_inventa"/>
+</liturgia>

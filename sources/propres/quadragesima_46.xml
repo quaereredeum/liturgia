@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Christum_Dominum_pro"/>
+<HYMNUS_laudes id="hy_Iam_Christe_sol_iustitiae"/>
+<ant1 id="AN_Cor_contritum_et"/>
+<ant2 id="AN_Cum_iratus_fueris"/>
+<ant3 id="AN_Lauda_Ierusalem_Dominum."/>
+<LB_matin id="LB_Is_53_11b-12"/>
+<RB_matin id="RB_Ipse_liberabit_me_De"/>
+<benedictus id="AN_Et_me_scitis"/>
+<oratio id="COL_Deus_qui_fragilitati_nostrae_congrua_subsidia"/>
+<HYMNUS_tertiam id="hy_Dei_fide_qua_vivimus"/>
+<HYMNUS_sextam id="hy_Qua_Christus_hora_sitiit"/>
+<HYMNUS_nonam id="hy_Ternis_ter_horis_numerus"/>
+<ant4 id="AN_Advenerunt_nobis_dies"/>
+<ant5 id="AN_Vivo_ego_dicit"/>
+<ant6 id="AN_Per_arma_iustitiae"/>
+<LB_3 id="LB_Is_55_3"/>
+<RB_3 id="VERS_Cor_mundum_crea_in_me"/>
+<LB_6 id="LB_Cf._Ier_3_12b._14a"/>
+<RB_6 id="VERS_Averte_faciem_tuam_a_peccatis"/>
+<LB_9 id="LB_Iac_1_27"/>
+<RB_9 id="VERS_Sacrificium_Deo_spiritus_contribulatus"/>
+<HYMNUS_vesperas id="hy_Iesu_quadragenariae"/>
+<ant7 id="AN_Domine_libera_animam"/>
+<ant8 id="AN_Auxilium_meum_a"/>
+<ant9 id="AN_Iustae_et_verae"/>
+<LB_soir id="LB_Iac_5_16.19-20"/>
+<RB_soir id="RB_Ego_dixi_Domine_Miserere"/>
+<magnificat id="AN_Nemo_in_Iesum"/>
+</liturgia>

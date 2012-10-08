@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 28 ianuarii</la>
+<fr>Le 28 janvier</fr>
+</jour>
+<intitule>
+<la>S. THOM&#xC6; DE AQUINO, PRESBYTERI ET ECCLESI&#xC6; DOCTORIS</la>
+<fr>S. THOMAS D'AQUIN, PRETRE ET DOCTEUR DE L'EGLISE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Fontem_sapientiae_Dominum"/>
+<HYMNUS_laudes id="hy_Doctor_aeternus_coleris_piusque"/>
+<LB_matin id="LB_Sap_7_13-14"/>
+<RB_matin id="RB_Sapientiam_sanctorum_Narrent_populi"/>
+<benedictus id="AN_Benedictus_Dominus_pro"/>
+<preces_matin>
+</preces_matin>
+<oratio id="COL_Deus_qui_beatum_Thomam_sanctitatis_zelo"/>
+<HYMNUS_vepres id="hy_Aterne_sol_qui_lumine"/>
+<LB_soir id="LB_Iac_3_17-18"/>
+<RB_soir id="RB_In_medio_Ecclesiae_Aperuit"/>
+<magnificat id="AN_Dedit_ei_Deus"/>
+<preces_soir>
+</preces_soir>
+</liturgia>

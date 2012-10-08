@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<liturgia>
+ <commun>
+<la>apotres</la>
+</commun>
+<osb_vig_ant1 id="AN_Tu_es_Christus"/>
+<osb_vig_ant2 id="AN_Non_emim_iudicavi"/>
+<osb_vig_ant3 id="AN_Si_diligis_me"/>
+<osb_vig_ant4 id="AN_Tu_es_vas"/>
+<osb_vig_ant5 id="AN_Domine_si_tu"/>
+<osb_vig_ant6 id="AN_Scio_cui_credidi"/>
+<osb_vig_vers1 id="VERS_In_omnen_terram_exivit_sonus"/>
+<osb_vig_ant7 id="AN_Cum_esses_iunior"/>
+<osb_vig_ant8 id="AN_Constans_esto_"/>
+<osb_vig_ant9 id="AN_Ego_rogavi_pro"/>
+<osb_vig_ant10 id="AN_Bonum_certatem_"/>
+<osb_vig_ant11 id="AN_Domine_tecum"/>
+<osb_vig_ant12 id="AN_Mihi_vivere_"/>
+<osb_vig_vers2 id="VERS_Quam_pulchri_pedes_annuntiantis_et"/>
+<osb_vig_ant3 id="AN_Si_diligis_me"/>
+<osb_vig_vers3 id="VERS_Verbum_Domini_manet_in_aeternum"/>
+<osb_vig_vers3 id="VERS_Verbum_Domini_manet_in_aeternum"/>
+<osb_vig_ant10 id="AN_Laetamini_omnes"/>
+<osb_vig_ps10>
+<la>ps63</la>
+</osb_vig_ps10>
+<osb_vig_ant11 id="AN_Notum_fecit_Dominus"/>
+<osb_vig_ps11>
+<la>ps64</la>
+</osb_vig_ps11>
+<osb_vig_ant12 id="AN_Exaltate_Dominum"/>
+<osb_vig_ps12>
+<la>ps91</la>
+</osb_vig_ps12>
+<osb_vig_vers2 id="VERS_Quam_pulchri_pedes_annuntiantis_et"/>
+<osb_vig_ant13 id="AN_Inseparabilis_fides_"/>
+<osb_vig_ps13>
+<la>AT35</la>
+</osb_vig_ps13>
+<osb_vig_ps14>
+<la>AT13</la>
+</osb_vig_ps14>
+<osb_vig_ps15>
+<la>AT14</la>
+</osb_vig_ps15>
+<osb_vig_vers3 id="VERS_Verbum_Domini_manet_in_aeternum"/>
+</liturgia>

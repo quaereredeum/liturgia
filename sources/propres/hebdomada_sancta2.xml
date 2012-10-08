@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<liturgia>
+ <HYMNUS_laudes id="hy_En_acetum_fel_arundo"/>
+<ant1 id="AN_Ait_Iesus_Tristis"/>
+<ant2 id="AN_Nunc_iudicium_est"/>
+<ant3 id="AN_Auctor_fidei_nostrae"/>
+<LB_matin id="LB_Ier_11_19-20"/>
+<RB_matin id="RB_Redemisti_nos_Domine_In"/>
+<benedictus id="AN_Pater_iuste"/>
+<preces_matin>
+<la>preces_IX</la>
+</preces_matin>
+<oratio_laudes id="COL_Da_quaesumus_omnipotens_Deus_ut_qui"/>
+<HYMNUS_tertiam id="hy_Celsae_salutis_gaudia"/>
+<HYMNUS_sextam id="hy_Celsae_salutis_gaudia"/>
+<HYMNUS_nonam id="hy_Celsae_salutis_gaudia"/>
+<ant4 id="AN_Ante_diem_festum"/>
+<ant5 id="AN_Sicut_novit_me"/>
+<ant6 id="AN_Mihi_vivere_Christus"/>
+<LB_3 id="LB_Ez_33_10b._11a"/>
+<RB_3 id="VERS_Oblatus_est_quia_ipse_voluit"/>
+<oratio_3 id="COL_Da_quaesumus_omnipotens_Deus_ut_qui"/>
+<LB_6 id="LB_Ier_18_20b"/>
+<RB_6 id="VERS_Vere_languores_nostros_ipse_tulit"/>
+<oratio_6 id="COL_Da_quaesumus_omnipotens_Deus_ut_qui"/>
+<LB_9 id="LB_1_Petr_5_10-11"/>
+<RB_9 id="VERS_Adoremus_crucis_signaculum_Per"/>
+<oratio_9 id="COL_Da_quaesumus_omnipotens_Deus_ut_qui"/>
+<HYMNUS_vesperas id="hy_Vexilla_regis_prodeunt"/>
+<ant7 id="AN_Non_est_ei"/>
+<ant8 id="AN_Dispertiam_ei_plurimos"/>
+<ant9 id="AN_Gratificavit_nos_Deus"/>
+<LB_soir id="LB_Rom_5_8-9"/>
+<RB_soir id="RB_Adoramus_te_Christe_Et"/>
+<magnificat id="AN_Sicut_Moyses_exaltavit"/>
+<oratio_vesperas id="COL_Da_quaesumus_omnipotens_Deus_ut_qui"/>
+<preces_soir>
+<la>preces_X</la>
+</preces_soir>
+</liturgia>

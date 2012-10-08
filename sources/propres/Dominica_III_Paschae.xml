@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica III Paschae</la>
+<fr>III&#xB0; dimanche de P&#xE2;ques</fr>
+</intitule>
+<magnificat1_A id="AN_Mane_nobiscum_quoniam"/>
+<magnificat1_B id="AN_Ipse_Iesus_stetit"/>
+<magnificat1_C id="AN_Dixit_Iesus_discipulis"/>
+<oratio id="COL_Semper_exsultet_populus_tuus_Deus_renovata"/>
+<benedictus_A id="AN_Oportebat_Christum_pati"/>
+<benedictus_B id="AN_Videte_manus_meas"/>
+<benedictus_C id="AN_Venit_Iesus_et"/>
+<magnificat2_A id="AN_Dum_recumberet_cum"/>
+<magnificat2_B id="AN_Sic_scriptum_est"/>
+<magnificat2_C id="AN_Simon_Ioannis_amas"/>
+</liturgia>

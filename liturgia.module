@@ -1,0 +1,104 @@
+<?php
+// $Id$
+
+/**
+* Display help and module information
+* @param path which path of the site we're displaying help
+* @param arg array that holds the current path as would be returned from arg() function
+* @return help text for the path
+*/
+$lang=$_GET['lang'];
+$date=$_GET['date'];
+$option=$_GET['option'];
+$q=$_GET['q'];
+
+
+include_once ("sites/all/modules/liturgia/calendarium.php");
+include_once ("sites/all/modules/liturgia/fonctions.php");
+include_once ("sites/all/modules/liturgia/tableau.php");
+include_once ("sites/all/modules/liturgia/invitatoire.php");
+include_once ("sites/all/modules/liturgia/osb_vigiles.php");
+include_once ("sites/all/modules/liturgia/lectures.php");
+include_once ("sites/all/modules/liturgia/laudes2.php");
+include_once ("sites/all/modules/liturgia/messe.php");
+include_once ("sites/all/modules/liturgia/tierce.php");
+include_once ("sites/all/modules/liturgia/sexte.php");
+include_once ("sites/all/modules/liturgia/none.php");
+include_once ("sites/all/modules/liturgia/vepres.php");
+include_once ("sites/all/modules/liturgia/complies.php");
+
+/**
+* Implementation of hook_node_info().
+*/
+function liturgia_node_info() {
+  return array(
+    'liturgia' => array(
+    'name' => t('Liturgia'),
+    'module' => 'liturgia',
+    'description' => "Liturgia",
+    )
+  );
+}
+
+
+function liturgia_help($path,$arg) {
+$output = '';  //declare your output variable
+  switch ($path) {
+    case "admin/help#liturgia":
+      $output = '<p>'.  t("Liturgie romaine en latin et traductions") .'</p>';
+      break;
+  }
+  return $output;
+} // function onthisdate_help
+
+/**
+* Valid permissions for this module
+* @return array An array of valid permissions for the Liturgia module
+*/
+function liturgia_perm() {
+  return array('access liturgia content');
+} // function liturgia_perm()
+
+	
+/**
+* Generate HTML for the Liturgia block
+* @param op the operation from the URL
+* @param delta offset
+* @returns block HTML
+*/
+
+function liturgia_block($op='list', $delta=0) {
+  
+    if ($op == "list") {
+    // Génère le listing des blocs pour ce module, pour la pages Admin/Blocs
+    $block = array();
+    $block[0]["info"] = t('Liturgia');
+    return $block;
+  }
+  else if ($op == 'view') {
+  //print"<br> OPTION=".$_GET['option'];
+  //print"<br>TASK=".$_GET['task'];
+  //print_r[$_GET];
+  //print"<br>";
+
+	if($_GET['task']=="setpref") { 
+		$livre=$_POST['livre'];
+		$lang=$_GET['lang'];	
+		setcookie("pref", $livre, time()+2592000) ;
+		//print"<br> pref=".$livre;
+	}   
+   
+    // Génère notre contenu du bloc
+
+    // la variable content sera retournée pour l'affichage
+    //if($_GET['q']=="liturgie") $block_content .= affichage();
+		
+    $block_content .= affichage();
+    //$block_content .= gestion_des_maj();
+    // configurer le bloc
+    $block['subject'] = 'Liturgia';
+    
+    $block['content'] = $block_content;
+    return $block;
+  }
+}  // end liturgia_block

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 11 iulii</la>
+<fr>Le 11 juillet</fr>
+</jour>
+<intitule>
+<la>S. BENEDICTI, ABBATIS</la>
+<fr>S. BENOIT, ABBE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Mirabilem_Deum_in"/>
+<HYMNUS_laudes id="hy_Legifer_prudens_venerande_doctor"/>
+<LB_matin id="LB_Rom_12_1-2"/>
+<RB_matin id="RB_Lex_Dei_eius_In"/>
+<benedictus id="AN_Fuit_vir_vitae"/>
+<oratio id="COL_Deus_qui_beatum_Benedictum_abbatem_in"/>
+<HYMNUS_vepres id="hy_Inter_aeternas_superum_coronas"/>
+<LB_soir id="LB_Rom_8_28-30"/>
+<RB_soir id="RB_Iustus_Dominus_Et_iustitiam"/>
+<magnificat id="AN_Hic_accepit_benedictionem"/>
+<HYMNUS_lectures id="HY_Inter_aeternas_superum_coronas"/>
+<HYMNUS_lec_jour id=""/>
+</liturgia>

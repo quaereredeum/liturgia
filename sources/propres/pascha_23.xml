@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Surrexit_Dominus_vere"/>
+<HYMNUS_laudes id="hy_Aurora_lucis_rutilat"/>
+<ant1 id="AN_Accessistis_ad_Sion"/>
+<ant2 id="AN_Tu_Domine_eruisti"/>
+<ant3 id="AN_Visitasti_terram_et"/>
+<LB_matin id="LB_Act_13_30-33"/>
+<RB_matin id="RB_Surrexit_Dominus_de_sepulcro_Alleluia"/>
+<benedictus id="AN_Ego_sum_alpha"/>
+<preces_matin>
+<la>preces_XI</la>
+</preces_matin>
+<oratio_laudes id="COL_Fac_nos_quaesumus_omnipotens_Deus_Domini"/>
+<HYMNUS_tertiam id="hy_Iam_surgit_hora_tertia"/>
+<HYMNUS_sextam id="hy_Venite_servi_supplices"/>
+<HYMNUS_nonam id="hy_Haec_hora_quae_resplenduit"/>
+<ant4 id="AN_Alleluia_alleluia_alleluia."/>
+<ant5 id="AN_Alleluia_alleluia_alleluia."/>
+<ant6 id="AN_Alleluia_alleluia_alleluia."/>
+<LB_3 id="LB_Act_4_11-12"/>
+<RB_3 id="VERS_Surrexit_Dominus_vere_alleluia"/>
+<oratio_3 id="COL_Fac_nos_quaesumus_omnipotens_Deus_Domini"/>
+<LB_6 id="LB_1_Petr_3_21-22a"/>
+<RB_6 id="VERS_Gavisi_sunt_discipuli_alleluia"/>
+<oratio_6 id="COL_Fac_nos_quaesumus_omnipotens_Deus_Domini"/>
+<LB_9 id="LB_Col_3_1-2"/>
+<RB_9 id="VERS_Mane_nobiscum_Domine_alleluia"/>
+<oratio_9 id="COL_Fac_nos_quaesumus_omnipotens_Deus_Domini"/>
+<HYMNUS_vesperas id="hy_Ad_cenam_Agni_providi"/>
+<ant7 id="AN_Quae_sursum_sunt"/>
+<ant8 id="AN_Redemit_Dominus_animam"/>
+<ant9 id="AN_Tua_est_Domine"/>
+<LB_soir id="LB_1_Petr_2_4-5"/>
+<RB_soir id="RB_Gavisi_sunt_discipuli_Alleluia_alleluia"/>
+<magnificat id="AN_Nonne_cor_nostrum"/>
+<oratio_vesperas id="COL_Fac_nos_quaesumus_omnipotens_Deus_Domini"/>
+<preces_soir>
+<la>preces_XII</la>
+</preces_soir>
+</liturgia>

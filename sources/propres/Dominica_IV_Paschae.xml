@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica IV Paschae</la>
+<fr>IV&#xB0; dimanche de P&#xE2;ques</fr>
+</intitule>
+<magnificat1_A id="AN_Amen_dico_vobis"/>
+<magnificat1_B id="AN_Ego_sum_pastor"/>
+<magnificat1_C id="AN_Oves_meae_vocem"/>
+<oratio id="COL_Omnipotens_sempiterne_Deus_deduc_nos_ad"/>
+<benedictus_A id="AN_Ego_sum_ostium"/>
+<benedictus_B id="AN_Ego_sum_pastor"/>
+<benedictus_C id="AN_Ego_vitam_aeternam"/>
+<magnificat2_A id="AN_Ego_sum_pastor"/>
+<magnificat2_B id="AN_Alias_oves_habeo"/>
+<magnificat2_C id="AN_Pater_meus_quod"/>
+</liturgia>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica II Adventus</la>
+<fr>II&#xB0; dimanche de l'Avent</fr>
+</intitule>
+<magnificat1_A id="AN_Venit_Ioannes_Baptista"/>
+<magnificat1_B id="AN_Ecce_mitto_angelum"/>
+<magnificat1_C id="AN_Veni_Domine_visitare"/>
+<oratio id="COL_Omnipotens_et_misericors_Deus_in_tui"/>
+<benedictus_A id="AN_Vox_clamantis_in"/>
+<benedictus_B id="AN_Fuit_Ioannes_in"/>
+<benedictus_C id="AN_Factum_est_verbum"/>
+<magnificat2_A id="AN_Ego_vos_baptizo"/>
+<magnificat2_B id="AN_Ioannes_praedicabat_dicens"/>
+<magnificat2_C id="AN_Omnis_vallis_implebitur"/>
+</liturgia>

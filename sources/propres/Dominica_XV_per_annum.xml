@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XV per annum</la>
+<fr>XV&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Locutus_est_Iesus"/>
+<magnificat1_B id="AN_Convocavit_Iesus_Duodecim"/>
+<magnificat1_C id="AN_Diliges_Dominum_Deum"/>
+<oratio id="COL_Deus_qui_errantibus_ut_in_viam"/>
+<benedictus_A id="AN_Vobis_datum_est"/>
+<benedictus_B id="AN_Exeuntes_discipuli_praedicaverunt"/>
+<benedictus_C id="AN_Samaritanus_quidam_iter"/>
+<magnificat2_A id="AN_Semen_est_verbum"/>
+<magnificat2_B id="AN_Daemonia_multa_eiciebant"/>
+<magnificat2_C id="AN_Quis_tibi_videtur"/>
+</liturgia>

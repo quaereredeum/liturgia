@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica V per annum</la>
+<fr>V&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Vos_estis_sal"/>
+<magnificat1_B id="AN_Vespere_autem_facto"/>
+<magnificat1_C id="AN_Ascendens_Iesus_in"/>
+<oratio id="COL_Familiam_tuam_quaesumus_Domine_continua_pietate"/>
+<benedictus_A id="AN_Vos_estis_lux"/>
+<benedictus_B id="AN_Diluculo_valde_surgens"/>
+<benedictus_C id="AN_Praeceptor_per_totam"/>
+<magnificat2_A id="AN_Luceat_lux_vestra"/>
+<magnificat2_B id="AN_Simon_et_qui"/>
+<magnificat2_C id="AN_Exi_a_me"/>
+</liturgia>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XXXI per annum</la>
+<fr>XXXI&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Omnes_vos_fratres"/>
+<magnificat1_B id="AN_Diliges_Dominum_Deum"/>
+<magnificat1_C id="AN_Zachaee_festinans_descende"/>
+<oratio id="COL_Omnipotens_et_misericors_Deus_de_cuius"/>
+<benedictus_A id="AN_Unus_est_magister"/>
+<benedictus_B id="AN_Unus_est_Deus"/>
+<benedictus_C id="AN_Hodie_salus_domui"/>
+<magnificat2_A id="AN_Qui_maior_est"/>
+<magnificat2_B id="AN_Iesus_videns_quod"/>
+<magnificat2_C id="AN_Venit_Filius_hominis"/>
+</liturgia>

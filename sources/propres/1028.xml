@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 28 octobris</la>
+<fr>Le 28 octobre.</fr>
+</jour>
+<intitule>
+<la>SS. SIMONIS ET IUDAE, APOSTOLORUM.</la> 
+<fr>Ss. SIMON ET JUDAS, APOTRES.</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<HYMNUS_laudes id="HY_Commune_vos_apostoli"/>
+<LB_matin id="LB_Eph_2_19-22"/>
+<RB_matin id="RB_Constitues_eos_principes_Super"/>
+<benedictus id="AN_In_fundamentis_civitatis"/>
+<preces_matin>
+Fratres caríssimi, hereditátem cæléstem ab Apóstolis habéntes, grátias agámus Patri nostro pro ómnibus donis eius, clamántes: 
+Te laudat Apostolórum chorus, Dómine.
+Laus tibi, Dómine, pro mensa córporis et sánguinis, nobis ab Apóstolis trádita, 
+—qua refícimur et vívimus: Te laudat Apostolórum chorus, Dómine.
+Pro mensa verbi tui, nobis ab Apóstolis paráta, 
+—qua lumen et gáudium nobis dantur: Te laudat Apostolórum chorus, Dómine.
+Pro Ecclésia tua sancta, super Apóstolos ædificáta, 
+—qua in unum concorporamur: Te laudat Apostolórum chorus, Dómine.
+Pro lavácro baptísmi et pæniténtiæ, Apóstolis concrédito, 
+—quo ab ómnibus peccátis ablúimur: Te laudat Apostolórum chorus, Dómine.
+Pater noster.
+</preces_matin>
+<oratio id="COL_Deus_qui_nos_per_beatos"/>
+</liturgia>

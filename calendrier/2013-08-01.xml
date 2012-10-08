@@ -1,0 +1,681 @@
+<?xml version="1.0"?>
+<calendarium><ordo id="RE"><messe>08-01</messe><priorite>10</priorite><pV/><couleur>Blanc</couleur><reference>S. Alfonsi Mariae de Liguori, episcopi et Ecclesiae doctoris</reference><sanctoral><la>S. Alfonsi Mariae de Liguori, episcopi et Ecclesiae doctoris</la><fr>St Alphonse-Marie de Liguori, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XVII per annum</la><fr>XVII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. Alfonsi Mariae de Liguori, episcopi et Ecclesiae doctoris</la><fr>St Alphonse-Marie de Liguori, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr></intitule><rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang><hebdomada_psalterium>1</hebdomada_psalterium><phase_lunaire>29,48</phase_lunaire><age_lunaire>24</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_15</psautier>
+		<psalterium>psalterium_15</psalterium>
+		<ferie>perannum_15</ferie>
+		<special/>
+		<propre>0801</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_15</psautier>
+		<psalterium>psalterium_15</psalterium>
+		<ferie>perannum_15</ferie>
+		<special/>
+		<propre>0801</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. ALFONSI MARl&#xC6; DE LIGUORI, EPISCOPI ET ECCLESI&#xC6; DOCTORIS"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Nox_atra_rerum_contegit</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Christe_precamur_adnuas</HYMNUS_lec_jour>
+<antL1 id="HY_Christe_precamur_adnuas"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Liberasti_virgam</Vant1>
+<Vps1>ps73</Vps1>
+<Vant2>AN_Et_invocabimus</Vant2>
+<Vps2>ps74</Vps2>
+<Vant3>AN_Tu_es_Deus_qui_factis</Vant3>
+<Vps3>ps76</Vps3>
+<Vant4>AN_Inclinate_aurem</Vant4>
+<Vps4>ps77I</Vps4>
+<Vant5/>
+<Vps5>ps77II</Vps5>
+<Vant6>AN_Propitius_esto</Vant6>
+<Vps6>ps78</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia</Vant7>
+<Vps7>ps79</Vps7>
+<Vant8/>
+<Vps8>ps80</Vps8>
+<Vant9/>
+<Vps9>ps81</Vps9>
+<Vant10/>
+<Vps10>ps82</Vps10>
+<Vant11/>
+<Vps11>ps83</Vps11>
+<Vant12/>
+<Vps12>ps84</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Doctor_aeternus_coleris_piusque</HYMNUS_laudes>
+<ant1>AN_Exsurge_psalterium_et</ant1>
+<ps1>ps56</ps1>
+<ant2>AN_Populus_meus</ant2>
+<ps2>AT36</ps2>
+<ant3>AN_Magnus_Dominus_et</ant3>
+<ps3>ps47</ps3>
+<LB_matin>LB_Sap_7_13-14</LB_matin> 
+<RB_matin>RB_Sapientiam_sanctorum_Narrent_populi</RB_matin> <benedictus>AN_Qui_docti_fuerint</benedictus><laudes_preces>pastorum</laudes_preces><oratio_laudes>COL_Deus_qui_in_Ecclesia_tua_nova</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Revela_oculos_meos</ant4>
+<ps4>ps118III</ps4>
+<ant5>AN_Dirige_me_in</ant5>
+<ps5>ps24I</ps5>
+<ant6>AN_Respice_in_me</ant6>
+<ps6>ps24II</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. ALFONSI MARl&#xC6; DE LIGUORI, EPISCOPI ET ECCLESI&#xC6; DOCTORIS</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Aterne_sol_qui_lumine</HYMNUS_vepres>
+<ant7>AN_Clamavi_ad_te</ant7>
+<ps7>ps29</ps7>
+<ant8>AN_Beatus_vir_cui</ant8>
+<ps8>ps31</ps8>
+<ant9>AN_Dedit_ei_Dominus</ant9>
+<ps9>NT10</ps9>
+<LB_soir>LB_Iac_3_17-18</LB_soir>
+<RB_soir>RB_In_medio_Ecclesiae_Aperuit</RB_soir>
+<magnificat>AN_O_doctor_optime</magnificat>
+<vepres_preces>pastorum</vepres_preces>
+<oratio_vepres>COL_Deus_qui_in_Ecclesia_tua_nova</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
+<comp_ant1>AN_Caro_mea</comp_ant1>
+<comp_ps1>ps15</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Th_5_23-24</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Domine_Deus_noster</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="08-01">
+<IN>IN_Lex_Domini</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_qui_in_Ecclesia_tua_nova</COL>
+<LEC1>08-01</LEC1>	
+<PS1>GR_Beatus_vir_qui_timet</PS1>
+<LEC2/>
+<PS2>AL_Iuravit_Dominus</PS2>
+<SEQ/>
+<EV>EV_08-01</EV>
+<OF>OF_Inveni_David</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Iustus_Dominus</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SWF"><messe>08-01</messe><priorite>10</priorite><pV/><couleur>Blanc</couleur><reference>S. Alfonsi Mariae de Liguori, episcopi et Ecclesiae doctoris</reference><sanctoral><la>S. Alfonsi Mariae de Liguori, episcopi et Ecclesiae doctoris</la><fr>St Alphonse-Marie de Liguori, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XVII per annum</la><fr>XVII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. Alfonsi Mariae de Liguori, episcopi et Ecclesiae doctoris</la><fr>St Alphonse-Marie de Liguori, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr></intitule><rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang><hebdomada_psalterium>1</hebdomada_psalterium><phase_lunaire>29,48</phase_lunaire><age_lunaire>24</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_15</psautier>
+		<psalterium>psalterium_15</psalterium>
+		<ferie>perannum_15</ferie>
+		<special/>
+		<propre>0801</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_15</psautier>
+		<psalterium>psalterium_15</psalterium>
+		<ferie>perannum_15</ferie>
+		<special/>
+		<propre>0801</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. ALFONSI MARl&#xC6; DE LIGUORI, EPISCOPI ET ECCLESI&#xC6; DOCTORIS"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Nox_atra_rerum_contegit</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Christe_precamur_adnuas</HYMNUS_lec_jour>
+<antL1 id="HY_Christe_precamur_adnuas"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Liberasti_virgam</Vant1>
+<Vps1>ps73</Vps1>
+<Vant2>AN_Et_invocabimus</Vant2>
+<Vps2>ps74</Vps2>
+<Vant3>AN_Tu_es_Deus_qui_factis</Vant3>
+<Vps3>ps76</Vps3>
+<Vant4>AN_Inclinate_aurem</Vant4>
+<Vps4>ps77I</Vps4>
+<Vant5/>
+<Vps5>ps77II</Vps5>
+<Vant6>AN_Propitius_esto</Vant6>
+<Vps6>ps78</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia</Vant7>
+<Vps7>ps79</Vps7>
+<Vant8/>
+<Vps8>ps80</Vps8>
+<Vant9/>
+<Vps9>ps81</Vps9>
+<Vant10/>
+<Vps10>ps82</Vps10>
+<Vant11/>
+<Vps11>ps83</Vps11>
+<Vant12/>
+<Vps12>ps84</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Doctor_aeternus_coleris_piusque</HYMNUS_laudes>
+<ant1>AN_Exsurge_psalterium_et</ant1>
+<ps1>ps56</ps1>
+<ant2>AN_Populus_meus</ant2>
+<ps2>AT36</ps2>
+<ant3>AN_Magnus_Dominus_et</ant3>
+<ps3>ps47</ps3>
+<LB_matin>LB_Sap_7_13-14</LB_matin> 
+<RB_matin>RB_Sapientiam_sanctorum_Narrent_populi</RB_matin> <benedictus>AN_Qui_docti_fuerint</benedictus><laudes_preces>pastorum</laudes_preces><oratio_laudes>COL_Deus_qui_in_Ecclesia_tua_nova</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Revela_oculos_meos</ant4>
+<ps4>ps118III</ps4>
+<ant5>AN_Dirige_me_in</ant5>
+<ps5>ps24I</ps5>
+<ant6>AN_Respice_in_me</ant6>
+<ps6>ps24II</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. ALFONSI MARl&#xC6; DE LIGUORI, EPISCOPI ET ECCLESI&#xC6; DOCTORIS</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Aterne_sol_qui_lumine</HYMNUS_vepres>
+<ant7>AN_Clamavi_ad_te</ant7>
+<ps7>ps29</ps7>
+<ant8>AN_Beatus_vir_cui</ant8>
+<ps8>ps31</ps8>
+<ant9>AN_Dedit_ei_Dominus</ant9>
+<ps9>NT10</ps9>
+<LB_soir>LB_Iac_3_17-18</LB_soir>
+<RB_soir>RB_In_medio_Ecclesiae_Aperuit</RB_soir>
+<magnificat>AN_O_doctor_optime</magnificat>
+<vepres_preces>pastorum</vepres_preces>
+<oratio_vepres>COL_Deus_qui_in_Ecclesia_tua_nova</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
+<comp_ant1>AN_Caro_mea</comp_ant1>
+<comp_ps1>ps15</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Th_5_23-24</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Domine_Deus_noster</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="08-01">
+<IN>IN_Lex_Domini</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_qui_in_Ecclesia_tua_nova</COL>
+<LEC1>08-01</LEC1>	
+<PS1>GR_Beatus_vir_qui_timet</PS1>
+<LEC2/>
+<PS2>AL_Iuravit_Dominus</PS2>
+<SEQ/>
+<EV>EV_08-01</EV>
+<OF>OF_Inveni_David</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Iustus_Dominus</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SMK"><messe>08-01</messe><priorite>10</priorite><pV/><couleur>Blanc</couleur><reference>S. Alfonsi Mariae de Liguori, episcopi et Ecclesiae doctoris</reference><sanctoral><la>S. Alfonsi Mariae de Liguori, episcopi et Ecclesiae doctoris</la><fr>St Alphonse-Marie de Liguori, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XVII per annum</la><fr>XVII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. Alfonsi Mariae de Liguori, episcopi et Ecclesiae doctoris</la><fr>St Alphonse-Marie de Liguori, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr></intitule><rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang><hebdomada_psalterium>1</hebdomada_psalterium><phase_lunaire>29,48</phase_lunaire><age_lunaire>24</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_15</psautier>
+		<psalterium>psalterium_15</psalterium>
+		<ferie>perannum_15</ferie>
+		<special/>
+		<propre>0801</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_15</psautier>
+		<psalterium>psalterium_15</psalterium>
+		<ferie>perannum_15</ferie>
+		<special/>
+		<propre>0801</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. ALFONSI MARl&#xC6; DE LIGUORI, EPISCOPI ET ECCLESI&#xC6; DOCTORIS"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Nox_atra_rerum_contegit</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Christe_precamur_adnuas</HYMNUS_lec_jour>
+<antL1 id="HY_Christe_precamur_adnuas"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Liberasti_virgam</Vant1>
+<Vps1>ps73</Vps1>
+<Vant2>AN_Et_invocabimus</Vant2>
+<Vps2>ps74</Vps2>
+<Vant3>AN_Tu_es_Deus_qui_factis</Vant3>
+<Vps3>ps76</Vps3>
+<Vant4>AN_Inclinate_aurem</Vant4>
+<Vps4>ps77I</Vps4>
+<Vant5/>
+<Vps5>ps77II</Vps5>
+<Vant6>AN_Propitius_esto</Vant6>
+<Vps6>ps78</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia</Vant7>
+<Vps7>ps79</Vps7>
+<Vant8/>
+<Vps8>ps80</Vps8>
+<Vant9/>
+<Vps9>ps81</Vps9>
+<Vant10/>
+<Vps10>ps82</Vps10>
+<Vant11/>
+<Vps11>ps83</Vps11>
+<Vant12/>
+<Vps12>ps84</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Doctor_aeternus_coleris_piusque</HYMNUS_laudes>
+<ant1>AN_Exsurge_psalterium_et</ant1>
+<ps1>ps56</ps1>
+<ant2>AN_Populus_meus</ant2>
+<ps2>AT36</ps2>
+<ant3>AN_Magnus_Dominus_et</ant3>
+<ps3>ps47</ps3>
+<LB_matin>LB_Sap_7_13-14</LB_matin> 
+<RB_matin>RB_Sapientiam_sanctorum_Narrent_populi</RB_matin> <benedictus>AN_Qui_docti_fuerint</benedictus><laudes_preces>pastorum</laudes_preces><oratio_laudes>COL_Deus_qui_in_Ecclesia_tua_nova</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Revela_oculos_meos</ant4>
+<ps4>ps118III</ps4>
+<ant5>AN_Dirige_me_in</ant5>
+<ps5>ps24I</ps5>
+<ant6>AN_Respice_in_me</ant6>
+<ps6>ps24II</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. ALFONSI MARl&#xC6; DE LIGUORI, EPISCOPI ET ECCLESI&#xC6; DOCTORIS</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Aterne_sol_qui_lumine</HYMNUS_vepres>
+<ant7>AN_Clamavi_ad_te</ant7>
+<ps7>ps29</ps7>
+<ant8>AN_Beatus_vir_cui</ant8>
+<ps8>ps31</ps8>
+<ant9>AN_Dedit_ei_Dominus</ant9>
+<ps9>NT10</ps9>
+<LB_soir>LB_Iac_3_17-18</LB_soir>
+<RB_soir>RB_In_medio_Ecclesiae_Aperuit</RB_soir>
+<magnificat>AN_O_doctor_optime</magnificat>
+<vepres_preces>pastorum</vepres_preces>
+<oratio_vepres>COL_Deus_qui_in_Ecclesia_tua_nova</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
+<comp_ant1>AN_Caro_mea</comp_ant1>
+<comp_ps1>ps15</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Th_5_23-24</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Domine_Deus_noster</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="08-01">
+<IN>IN_Lex_Domini</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_qui_in_Ecclesia_tua_nova</COL>
+<LEC1>08-01</LEC1>	
+<PS1>GR_Beatus_vir_qui_timet</PS1>
+<LEC2/>
+<PS2>AL_Iuravit_Dominus</PS2>
+<SEQ/>
+<EV>EV_08-01</EV>
+<OF>OF_Inveni_David</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Iustus_Dominus</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><viergemarie>
+ <intitule> </intitule></viergemarie><jerusalem/><piete>
+ <intitule/></piete><calendriercivil>
+ <intitule/></calendriercivil><journeesdediees>
+ <intitule/></journeesdediees><biographie>
+ <intitule>St Alphonse-Marie de Liguori,  &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</intitule>
+ <biographiecourte>&#xC9;v&#xEA;que, fondateur des pr&#xEA;tres appel&#xE9;s r&#xE9;demptoristes, guide spirituel, moraliste, docteur de l&#x2019;&#xC9;glise (&#x2020;1787)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage>Patron des moralistes et confesseurs</patronage></biographie><martyrologe><para id="0">M&#xE9;moire de saint Ignace de Loyola, pr&#xEA;tre, mort en 1556. Converti &#xE0; l'&#xE2;ge de trente ans, apr&#xE8;s une aventureuse vie de soldat, il v&#xE9;cut dans la retraite &#xE0; Montserrat et &#xE0; Manr&#xE8;se. Il partit ensuite &#xE9;tudier &#xE0; Paris o&#xF9; il r&#xE9;unit ses premiers disciples, noyau de la Compagnie de J&#xE9;sus.</para><para id="1">A C&#xE9;sar&#xE9;e de Mauritanie, au d&#xE9;but du ive si&#xE8;cle, la passion du bienheureux Fabius. Sur son refus de porter les enseignes du gouverneur de la province, il fut d'abord jet&#xE9; en prison, puis apr&#xE8;s des interrogatoires, pers&#xE9;v&#xE9;rant &#xE0; confesser le Christ, il fut condamn&#xE9; &#xE0; la peine capitale.</para><para id="2">L'an 448, saint Germain. D'abord haut fonctionnaire de l'Empire, en r&#xE9;sidence &#xE0; Auxerre, sa ville natale, il en fut &#xE9;lu &#xE9;v&#xEA;que. Il &#xE9;tablit alors un monast&#xE8;re au-del&#xE0; de l'Yonne afin de joindre l'exemple et la pri&#xE8;re monastique &#xE0; l'activit&#xE9; apostolique du clerg&#xE9;. "P&#xE8;re spirituel" de sainte Genevi&#xE8;ve, il est honor&#xE9; &#xE0; Paris en l'&#xE9;glise Saint-Germain-L&#x2019;auxerrois. </para><para id="3">En 1860, le tr&#xE9;pas de saint Justin de Jacobis. Lazariste, n&#xE9; en Lucanie italienne, il est le vrai fondateur de la mission de l'Abyssinie. Il fut choisi comme Pr&#xE9;fet Apostolique de ce pays, et il y travailla avec z&#xE8;le, malgr&#xE9; les pers&#xE9;cutions et emprisonnements. </para><para id="4"/><para id="5">
+      
+   </para></martyrologe></calendarium>

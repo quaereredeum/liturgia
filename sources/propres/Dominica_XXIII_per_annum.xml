@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XXIII per annum</la>
+<fr>XXIII&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Si_peccaverit_in"/>
+<magnificat1_B id="AN_Dum_transiret_Dominus"/>
+<magnificat1_C id="AN_Si_quis_venit"/>
+<oratio id="COL_Deus_per_quem_nobis_et_redemptio"/>
+<benedictus_A id="AN_Si_duo_ex"/>
+<benedictus_B id="AN_Suspiciens_Iesus_in"/>
+<benedictus_C id="AN_Qui_non_baiulat"/>
+<magnificat2_A id="AN_Ubi_sunt_duo"/>
+<magnificat2_B id="AN_Bene_omnia_fecit"/>
+<magnificat2_C id="AN_Qui_non_renuntiat"/>
+</liturgia>

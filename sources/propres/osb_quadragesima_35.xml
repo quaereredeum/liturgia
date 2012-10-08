@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Christum_Dominum_pro"/>
+<HYMNUS_laudes id="hy_Iam_Christe_sol_iustitiae"/>
+<ant1 id="AN_Exsurge_psalterium_et"/>
+<ant2 id="AN_Populus_meus_ait"/>
+<ant3 id="AN_Magnus_Dominus_et"/>
+<LB_matin id="LB_Cf._1_Reg_8_51-53a"/>
+<RB_matin id="RB_Ipse_liberabit_me_De"/>
+<benedictus id="AN_Si_in_digito"/>
+<oratio id="COL_Maiestatem_tuam_Domine_suppliciter_imploramus_ut"/>
+<HYMNUS_tertiam id="hy_Dei_fide_qua_vivimus"/>
+<HYMNUS_sextam id="hy_Qua_Christus_hora_sitiit"/>
+<HYMNUS_nonam id="hy_Ternis_ter_horis_numerus"/>
+<ant4 id="AN_Advenerunt_nobis_dies"/>
+<ant5 id="AN_Vivo_ego_dicit"/>
+<ant6 id="AN_Per_arma_iustitiae"/>
+<LB_3 id="LB_Is_55_6-7"/>
+<RB_3 id="VERS_Cor_mundum_crea_in_me"/>
+<LB_6 id="LB_Deut_30_2-3a"/>
+<RB_6 id="VERS_Averte_faciem_tuam_a_peccatis"/>
+<LB_9 id="LB_Hebr_10_35-36"/>
+<RB_9 id="VERS_Sacrificium_Deo_spiritus_contribulatus"/>
+<HYMNUS_vesperas id="hy_Iesu_quadragenariae"/>
+<ant7 id="AN_Clamavi_ad_te"/>
+<ant8 id="AN_Beatus_vir_cui"/>
+<ant9 id="AN_Dedit_ei_Dominus"/>
+<LB_soir id="LB_Iac_4_7-8.10"/>
+<RB_soir id="RB_Ego_dixi_Domine_Miserere"/>
+<magnificat id="AN_Extollens_vocem_quaedam"/>
+</liturgia>

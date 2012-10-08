@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 1 augusti</la>
+<fr>Le 1er ao&#xFB;t</fr>
+</jour>
+<intitule>
+<la>S. ALFONSI MARl&#xC6; DE LIGUORI, EPISCOPI ET ECCLESI&#xC6; DOCTORIS</la>
+<fr>S. ALPHONSE MARIE DE LIGORI, EVEQUE ET DOCTEUR DE L'EGLISE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Fontem_sapientiae_Dominum"/>
+<preces id="pastorum"/>
+<HYMNUS_laudes id="hy_Doctor_aeternus_coleris_piusque"/>
+<LB_matin id="LB_Sap_7_13-14"/>
+<RB_matin id="RB_Sapientiam_sanctorum_Narrent_populi"/>
+<benedictus id="AN_Qui_docti_fuerint"/>
+<oratio id="COL_Deus_qui_in_Ecclesia_tua_nova"/>
+<HYMNUS_vesperas id="hy_Aterne_sol_qui_lumine"/>
+<LB_soir id="LB_Iac_3_17-18"/>
+<RB_soir id="RB_In_medio_Ecclesiae_Aperuit"/>
+<magnificat id="AN_O_doctor_optime"/>
+</liturgia>

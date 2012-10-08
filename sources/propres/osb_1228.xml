@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<liturgia>
+ <commun>
+<la>plusieurs_martyrs</la>
+</commun>
+<osb_vig_vers1 id="VERS_Cantabant_sancti_canticum_novum_ante"/>
+<osb_vig_vers2 id="VERS_Martyres_Domini_Dominum_benedicite_in"/>
+<osb_ant13>
+</osb_ant13>
+<osb_vers_3>
+</osb_vers_3>
+<HYMNUS_lectures id="HY_Hymnum_canentes_martyrum"/>
+</liturgia>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XXIX per annum</la>
+<fr>XXIX&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Magister_scimus_quia"/>
+<magnificat1_B id="AN_Calicem_quem_ego"/>
+<magnificat1_C id="AN_Dicebat_Iesus_discipulis"/>
+<oratio id="COL_Omnipotens_sempiterne_Deus_fac_nos_tibi"/>
+<benedictus_A id="AN_Sciant_ab_ortu"/>
+<benedictus_B id="AN_Quicumque_voluerit_fieri"/>
+<benedictus_C id="AN_Deus_faciet_vindictam"/>
+<magnificat2_A id="AN_Reddite_quae_sunt"/>
+<magnificat2_B id="AN_Filius_hominis_non"/>
+<magnificat2_C id="AN_Dum_venerit_Filius"/>
+</liturgia>

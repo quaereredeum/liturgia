@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<liturgia>
+ <commun>
+<la>BVM</la>
+</commun>
+<HYMNUS_lectures id="HY_Te_dicimus_praeconio"/>
+<osb_vig_ant1 id="AN_Admirabile_est"/>
+<osb_vig_ps1>
+<la>ps8</la>
+</osb_vig_ps1>
+<osb_vig_ant2 id="AN_In_sole_"/>
+<osb_vig_ps2>
+<la>ps18</la>
+</osb_vig_ps2>
+<osb_vig_ant3 id="AN_In_conceptione_sua"/>
+<osb_vig_ps3>
+<la>ps23</la>
+</osb_vig_ps3>
+<osb_vig_ant4 id="AN_Diffusa_est_gratia"/>
+<osb_vig_ps4>
+<la>ps44</la>
+</osb_vig_ps4>
+<osb_vig_ant5 id="AN_Adiuvit_eam_"/>
+<osb_vig_ps5>
+<la>ps45</la>
+</osb_vig_ps5>
+<osb_vig_ant6 id="AN_Fundatur_exsultatione"/>
+<osb_vig_ps6>
+<la>ps47</la>
+</osb_vig_ps6>
+<osb_vig_vers1 id="VERS_Deus_omnipotens_praecinxit_me_virtute"/>
+<osb_vig_ant7 id="AN_Misericordia_et"/>
+<osb_vig_ps7>
+<la>ps84</la>
+</osb_vig_ps7>
+<osb_vig_ant8 id="AN_Gloriosa_dicta"/>
+<osb_vig_ps8>
+<la>ps86</la>
+</osb_vig_ps8>
+<osb_vig_ant9 id="AN_Sanctimonia_et"/>
+<osb_vig_ps9>
+<la>ps95</la>
+</osb_vig_ps9>
+<osb_vig_ant10 id="AN_Laetamini_omnes"/>
+<osb_vig_ps10>
+<la>ps96</la>
+</osb_vig_ps10>
+<osb_vig_ant11 id="AN_Notum_fecit_Dominus"/>
+<osb_vig_ps11>
+<la>ps97</la>
+</osb_vig_ps11>
+<osb_vig_ant12 id="AN_Exaltate_Dominum"/>
+<osb_vig_ps12>
+<la>ps98</la>
+</osb_vig_ps12>
+<osb_vig_vers2 id="VERS_In_hoc_cognovi_quoniam_voluisti"/>
+<osb_ant13>
+</osb_ant13>
+<osb_vers_3>
+</osb_vers_3>
+</liturgia>

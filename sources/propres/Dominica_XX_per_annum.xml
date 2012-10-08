@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XX per annum</la>
+<fr>XX&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Mulier_Chananaea_clamabat"/>
+<magnificat1_B id="AN_Ego_sum_panis"/>
+<magnificat1_C id="AN_Ignem_veni_mittere"/>
+<oratio id="COL_Deus_qui_diligentibus_te_bona_invisibilia"/>
+<benedictus_A id="AN_Mulier_Chananaea_venit"/>
+<benedictus_B id="AN_Caro_mea_vere"/>
+<benedictus_C id="AN_Baptismo_habeo_baptizar"/>
+<magnificat2_A id="AN_O_mulier_magna"/>
+<magnificat2_B id="AN_Sicut_misit_me"/>
+<magnificat2_C id="AN_Putatis_quia_pacem"/>
+</liturgia>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica III per annum</la>
+<fr>III&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Dicit_Dominus_Paenitentiam"/>
+<magnificat1_B id="AN_Venit_Iesus_in"/>
+<magnificat1_C id="AN_Venit_Iesus_in"/>
+<oratio id="COL_Omnipotens_sempiterne_Deus_dirige_actus_nostros"/>
+<benedictus_A id="AN_Ambulans_iuxta_mare"/>
+<benedictus_B id="AN_Venite_post_me"/>
+<benedictus_C id="AN_Spiritus_Domini_super"/>
+<magnificat2_A id="AN_Praedicabat_Iesus_Evangelium"/>
+<magnificat2_B id="AN_Relictis_retibus_suis"/>
+<magnificat2_C id="AN_Cum_plicuisset_librum"/>
+</liturgia>

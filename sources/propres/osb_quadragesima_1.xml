@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<liturgia>
+ <osb_vig_vers1 id="VERS"/>
+<osb_vig_ant7 id="AN_Dominus_defensor"/>
+<osb_vig_ps7>
+<la>ps26</la>
+</osb_vig_ps7>
+<osb_vig_ant8 id="AN_Factus_est_"/>
+<osb_vig_ps8>
+<la>ps27</la>
+</osb_vig_ps8>
+<osb_vig_ant9 id="AN_Adorate_Dominum_"/>
+<osb_vig_ps9>
+<la>ps28</la>
+</osb_vig_ps9>
+<osb_vig_ant10 id="AN_Exaltabo_te_Domine"/>
+<osb_vig_ps10>
+<la>ps29</la>
+</osb_vig_ps10>
+<osb_vig_ant11 id="AN_In_tua_iustitia"/>
+<osb_vig_ps11>
+<la>ps30</la>
+</osb_vig_ps11>
+<osb_vig_ant12 id="AN_Laetamini_in"/>
+<osb_vig_ps12>
+<la>ps31</la>
+</osb_vig_ps12>
+<osb_vig_ant13 id="AN_Ecce_nunc_"/>
+<osb_vig_ps13>
+<la>AT34</la>
+</osb_vig_ps13>
+<osb_vig_ps14>
+<la>AT38</la>
+</osb_vig_ps14>
+<osb_vig_ps15>
+<la>AT37</la>
+</osb_vig_ps15>
+<HYMNUS_lectures id="HY_Ex_more_docti_mystico"/>
+<HYMNUS_lec_jour id=""/>
+</liturgia>

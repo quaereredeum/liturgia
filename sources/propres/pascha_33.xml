@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Surrexit_Dominus_vere"/>
+<HYMNUS_laudes id="hy_Aurora_lucis_rutilat"/>
+<ant1 id="AN_Deus_tu_conversus"/>
+<ant2 id="AN_Speravimus_in_Domino;"/>
+<ant3 id="AN_Terra_dedit_fructum"/>
+<LB_matin id="LB_Act_13_30-33"/>
+<RB_matin id="RB_Surrexit_Dominus_de_sepulcro_Alleluia"/>
+<benedictus id="AN_Amen_amen_dico"/>
+<preces_matin>
+<la>preces_XI</la>
+</preces_matin>
+<oratio_laudes id="COL_Deus_qui_renatis_ex_aqua_et"/>
+<HYMNUS_tertiam id="hy_Iam_surgit_hora_tertia"/>
+<HYMNUS_sextam id="hy_Venite_servi_supplices"/>
+<HYMNUS_nonam id="hy_Haec_hora_quae_resplenduit"/>
+<ant4 id="AN_Alleluia_alleluia_alleluia."/>
+<ant5 id="AN_Alleluia_alleluia_alleluia."/>
+<ant6 id="AN_Alleluia_alleluia_alleluia."/>
+<LB_3 id="LB_Act_4_11-12"/>
+<RB_3 id="VERS_Surrexit_Dominus_vere_alleluia"/>
+<oratio_3 id="COL_Deus_qui_renatis_ex_aqua_et"/>
+<LB_6 id="LB_1_Petr_3_21-22a"/>
+<RB_6 id="VERS_Gavisi_sunt_discipuli_alleluia"/>
+<oratio_6 id="COL_Deus_qui_renatis_ex_aqua_et"/>
+<LB_9 id="LB_Col_3_1-2"/>
+<RB_9 id="VERS_Mane_nobiscum_Domine_alleluia"/>
+<oratio_9 id="COL_Deus_qui_renatis_ex_aqua_et"/>
+<HYMNUS_vesperas id="hy_Ad_cenam_Agni_providi"/>
+<ant7 id="AN_Pax_vobis_ego"/>
+<ant8 id="AN_Speret_Israel_in"/>
+<ant9 id="AN_Tibi_serviat_omnis"/>
+<LB_soir id="LB_1_Petr_2_4-5"/>
+<RB_soir id="RB_Gavisi_sunt_discipuli_Alleluia_alleluia"/>
+<magnificat id="AN_Panis_Dei_est"/>
+<oratio_vesperas id="COL_Deus_qui_renatis_ex_aqua_et"/>
+<preces_soir>
+<la>preces_XII</la>
+</preces_soir>
+</liturgia>

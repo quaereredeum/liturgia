@@ -1,0 +1,680 @@
+<?xml version="1.0"?>
+<calendarium><ordo id="RE"><messe>06-11</messe><priorite>10</priorite><pV/><couleur>Rouge</couleur><reference>S. Barnabae, apostoli</reference><sanctoral><la>S. Barnabae, apostoli</la><fr>St Barnab&#xE9;, ap&#xF4;tre.</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada X per annum</la><fr>X&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. Barnabae, apostoli</la><fr>St Barnab&#xE9;, ap&#xF4;tre.</fr></intitule><rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang><hebdomada_psalterium>2</hebdomada_psalterium><phase_lunaire>54,67</phase_lunaire><age_lunaire>21</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_22</psautier>
+		<psalterium>psalterium_22</psalterium>
+		<ferie>perannum_22</ferie>
+		<special/>
+		<propre>0611</propre>
+		<lettre_annee>B</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_22</psautier>
+		<psalterium>psalterium_22</psalterium>
+		<ferie>perannum_22</ferie>
+		<special/>
+		<propre>0611</propre>
+		<lettre_annee>B</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. BARNAB&#xC6;, APOSTOLI"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Ipsum_nunc_nobis_tempus_est</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Vita_sanctorum_via_spes_salusque</HYMNUS_lec_jour>
+<antL1 id="HY_Vita_sanctorum_via_spes_salusque"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Rectos_decet</Vant1>
+<Vps1>ps32</Vps1>
+<Vant2>AN_Immitet_angelus</Vant2>
+<Vps2>ps33</Vps2>
+<Vant3>AN_Expugna_impugnantes</Vant3>
+<Vps3>ps34</Vps3>
+<Vant4>AN_Revela_Domino</Vant4>
+<Vps4>ps36I</Vps4>
+<Vant5>AN_Custodi_innocentiam</Vant5>
+<Vps5>ps36II</Vps5>
+<Vant6>AN_Ne_in_ira</Vant6>
+<Vps6>ps37</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia_alleluia</Vant7>
+<Vps7>ps38</Vps7>
+<Vant8/>
+<Vps8>ps39</Vps8>
+<Vant9/>
+<Vps9>ps40</Vps9>
+<Vant10/>
+<Vps10>ps41</Vps10>
+<Vant11/>
+<Vps11>ps43</Vps11>
+<Vant12/>
+<Vps12>ps44</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Barnabae_clarum_colimus_tropaeum</HYMNUS_laudes>
+<ant1>AN_Quando_veniam_et</ant1>
+<ps1>ps41</ps1>
+<ant2>AN_Ostende_nobis_Domine</ant2>
+<ps2>AT15</ps2>
+<ant3>AN_Benedictus_es_Domine</ant3>
+<ps3>ps18A</ps3>
+<LB_matin>LB_1_Cor_15_1-2a._3-4</LB_matin> 
+<RB_matin>RB_Narraverunt_laudes_Domini_Et_virtutes</RB_matin> <benedictus>AN_Profectus_est_Barnabas</benedictus><laudes_preces>perannum_22</laudes_preces><oratio_laudes>COL_Deus_qui_beatum_Barnabam_plenum_fide</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Beati_qui_audiunt</ant4>
+<ps4>ps118VI</ps4>
+<ant5>AN_Meus_cibus_est</ant5>
+<ps5>ps39I</ps5>
+<ant6>AN_Pauper_sum_ego;</ant6>
+<ps6>ps39II</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. BARNAB&#xC6;, APOSTOLI</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Luminis_fons_lux_et_origo_lucis</HYMNUS_vepres>
+<ant7>AN_Speciosus_forma_prae</ant7>
+<ps7>ps44I</ps7>
+<ant8>AN_Ecce_Sponsus_venit</ant8>
+<ps8>ps44II</ps8>
+<ant9>AN_Proposuit_Deus_in</ant9>
+<ps9>NT4</ps9>
+<LB_soir>LB_Col_1_3-6a</LB_soir>
+<RB_soir>RB_Annuntiate_inter_gentes_gloriam_Domini</RB_soir>
+<magnificat>AN_Tacuit_omnis_multitudo</magnificat>
+<vepres_preces>perannum_22</vepres_preces>
+<oratio_vepres>COL_Deus_qui_beatum_Barnabam_plenum_fide</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+<comp_ps1>ps85</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="06-11">
+<IN>IN_Mihi_autem_nimis</IN><IN>IN_Vocem_iucunditatis</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_qui_beatum_Barnabam_plenum_fide</COL>
+<LEC1>06-11</LEC1>	
+<PS1>GR_In_omnem_terram</PS1>
+<LEC2/>
+<PS2>AL_Ego_vos_elegi</PS2>
+<SEQ/>
+<EV>EV_06-11</EV>
+<OF>OF_Constitues_eos</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Vos_qui_secuti_estis_me</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SWF"><messe>06-11</messe><priorite>10</priorite><pV/><couleur>Rouge</couleur><reference>S. Barnabae, apostoli</reference><sanctoral><la>S. Barnabae, apostoli</la><fr>St Barnab&#xE9;, ap&#xF4;tre.</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada X per annum</la><fr>X&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. Barnabae, apostoli</la><fr>St Barnab&#xE9;, ap&#xF4;tre.</fr></intitule><rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang><hebdomada_psalterium>2</hebdomada_psalterium><phase_lunaire>54,67</phase_lunaire><age_lunaire>21</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_22</psautier>
+		<psalterium>psalterium_22</psalterium>
+		<ferie>perannum_22</ferie>
+		<special/>
+		<propre>0611</propre>
+		<lettre_annee>B</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_22</psautier>
+		<psalterium>psalterium_22</psalterium>
+		<ferie>perannum_22</ferie>
+		<special/>
+		<propre>0611</propre>
+		<lettre_annee>B</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. BARNAB&#xC6;, APOSTOLI"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Ipsum_nunc_nobis_tempus_est</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Vita_sanctorum_via_spes_salusque</HYMNUS_lec_jour>
+<antL1 id="HY_Vita_sanctorum_via_spes_salusque"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Rectos_decet</Vant1>
+<Vps1>ps32</Vps1>
+<Vant2>AN_Immitet_angelus</Vant2>
+<Vps2>ps33</Vps2>
+<Vant3>AN_Expugna_impugnantes</Vant3>
+<Vps3>ps34</Vps3>
+<Vant4>AN_Revela_Domino</Vant4>
+<Vps4>ps36I</Vps4>
+<Vant5>AN_Custodi_innocentiam</Vant5>
+<Vps5>ps36II</Vps5>
+<Vant6>AN_Ne_in_ira</Vant6>
+<Vps6>ps37</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia_alleluia</Vant7>
+<Vps7>ps38</Vps7>
+<Vant8/>
+<Vps8>ps39</Vps8>
+<Vant9/>
+<Vps9>ps40</Vps9>
+<Vant10/>
+<Vps10>ps41</Vps10>
+<Vant11/>
+<Vps11>ps43</Vps11>
+<Vant12/>
+<Vps12>ps44</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Barnabae_clarum_colimus_tropaeum</HYMNUS_laudes>
+<ant1>AN_Quando_veniam_et</ant1>
+<ps1>ps41</ps1>
+<ant2>AN_Ostende_nobis_Domine</ant2>
+<ps2>AT15</ps2>
+<ant3>AN_Benedictus_es_Domine</ant3>
+<ps3>ps18A</ps3>
+<LB_matin>LB_1_Cor_15_1-2a._3-4</LB_matin> 
+<RB_matin>RB_Narraverunt_laudes_Domini_Et_virtutes</RB_matin> <benedictus>AN_Profectus_est_Barnabas</benedictus><laudes_preces>perannum_22</laudes_preces><oratio_laudes>COL_Deus_qui_beatum_Barnabam_plenum_fide</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Beati_qui_audiunt</ant4>
+<ps4>ps118VI</ps4>
+<ant5>AN_Meus_cibus_est</ant5>
+<ps5>ps39I</ps5>
+<ant6>AN_Pauper_sum_ego;</ant6>
+<ps6>ps39II</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. BARNAB&#xC6;, APOSTOLI</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Luminis_fons_lux_et_origo_lucis</HYMNUS_vepres>
+<ant7>AN_Speciosus_forma_prae</ant7>
+<ps7>ps44I</ps7>
+<ant8>AN_Ecce_Sponsus_venit</ant8>
+<ps8>ps44II</ps8>
+<ant9>AN_Proposuit_Deus_in</ant9>
+<ps9>NT4</ps9>
+<LB_soir>LB_Col_1_3-6a</LB_soir>
+<RB_soir>RB_Annuntiate_inter_gentes_gloriam_Domini</RB_soir>
+<magnificat>AN_Tacuit_omnis_multitudo</magnificat>
+<vepres_preces>perannum_22</vepres_preces>
+<oratio_vepres>COL_Deus_qui_beatum_Barnabam_plenum_fide</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+<comp_ps1>ps85</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="06-11">
+<IN>IN_Mihi_autem_nimis</IN><IN>IN_Vocem_iucunditatis</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_qui_beatum_Barnabam_plenum_fide</COL>
+<LEC1>06-11</LEC1>	
+<PS1>GR_In_omnem_terram</PS1>
+<LEC2/>
+<PS2>AL_Ego_vos_elegi</PS2>
+<SEQ/>
+<EV>EV_06-11</EV>
+<OF>OF_Constitues_eos</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Vos_qui_secuti_estis_me</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SMK"><messe>06-11</messe><priorite>10</priorite><pV/><couleur>Rouge</couleur><reference>S. Barnabae, apostoli</reference><sanctoral><la>S. Barnabae, apostoli</la><fr>St Barnab&#xE9;, ap&#xF4;tre.</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada X per annum</la><fr>X&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. Barnabae, apostoli</la><fr>St Barnab&#xE9;, ap&#xF4;tre.</fr></intitule><rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang><hebdomada_psalterium>2</hebdomada_psalterium><phase_lunaire>54,67</phase_lunaire><age_lunaire>21</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_22</psautier>
+		<psalterium>psalterium_22</psalterium>
+		<ferie>perannum_22</ferie>
+		<special/>
+		<propre>0611</propre>
+		<lettre_annee>B</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_22</psautier>
+		<psalterium>psalterium_22</psalterium>
+		<ferie>perannum_22</ferie>
+		<special/>
+		<propre>0611</propre>
+		<lettre_annee>B</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. BARNAB&#xC6;, APOSTOLI"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Ipsum_nunc_nobis_tempus_est</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Vita_sanctorum_via_spes_salusque</HYMNUS_lec_jour>
+<antL1 id="HY_Vita_sanctorum_via_spes_salusque"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Rectos_decet</Vant1>
+<Vps1>ps32</Vps1>
+<Vant2>AN_Immitet_angelus</Vant2>
+<Vps2>ps33</Vps2>
+<Vant3>AN_Expugna_impugnantes</Vant3>
+<Vps3>ps34</Vps3>
+<Vant4>AN_Revela_Domino</Vant4>
+<Vps4>ps36I</Vps4>
+<Vant5>AN_Custodi_innocentiam</Vant5>
+<Vps5>ps36II</Vps5>
+<Vant6>AN_Ne_in_ira</Vant6>
+<Vps6>ps37</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia_alleluia</Vant7>
+<Vps7>ps38</Vps7>
+<Vant8/>
+<Vps8>ps39</Vps8>
+<Vant9/>
+<Vps9>ps40</Vps9>
+<Vant10/>
+<Vps10>ps41</Vps10>
+<Vant11/>
+<Vps11>ps43</Vps11>
+<Vant12/>
+<Vps12>ps44</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Barnabae_clarum_colimus_tropaeum</HYMNUS_laudes>
+<ant1>AN_Quando_veniam_et</ant1>
+<ps1>ps41</ps1>
+<ant2>AN_Ostende_nobis_Domine</ant2>
+<ps2>AT15</ps2>
+<ant3>AN_Benedictus_es_Domine</ant3>
+<ps3>ps18A</ps3>
+<LB_matin>LB_1_Cor_15_1-2a._3-4</LB_matin> 
+<RB_matin>RB_Narraverunt_laudes_Domini_Et_virtutes</RB_matin> <benedictus>AN_Profectus_est_Barnabas</benedictus><laudes_preces>perannum_22</laudes_preces><oratio_laudes>COL_Deus_qui_beatum_Barnabam_plenum_fide</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Beati_qui_audiunt</ant4>
+<ps4>ps118VI</ps4>
+<ant5>AN_Meus_cibus_est</ant5>
+<ps5>ps39I</ps5>
+<ant6>AN_Pauper_sum_ego;</ant6>
+<ps6>ps39II</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. BARNAB&#xC6;, APOSTOLI</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Luminis_fons_lux_et_origo_lucis</HYMNUS_vepres>
+<ant7>AN_Speciosus_forma_prae</ant7>
+<ps7>ps44I</ps7>
+<ant8>AN_Ecce_Sponsus_venit</ant8>
+<ps8>ps44II</ps8>
+<ant9>AN_Proposuit_Deus_in</ant9>
+<ps9>NT4</ps9>
+<LB_soir>LB_Col_1_3-6a</LB_soir>
+<RB_soir>RB_Annuntiate_inter_gentes_gloriam_Domini</RB_soir>
+<magnificat>AN_Tacuit_omnis_multitudo</magnificat>
+<vepres_preces>perannum_22</vepres_preces>
+<oratio_vepres>COL_Deus_qui_beatum_Barnabam_plenum_fide</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+<comp_ps1>ps85</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="06-11">
+<IN>IN_Mihi_autem_nimis</IN><IN>IN_Vocem_iucunditatis</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_qui_beatum_Barnabam_plenum_fide</COL>
+<LEC1>06-11</LEC1>	
+<PS1>GR_In_omnem_terram</PS1>
+<LEC2/>
+<PS2>AL_Ego_vos_elegi</PS2>
+<SEQ/>
+<EV>EV_06-11</EV>
+<OF>OF_Constitues_eos</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Vos_qui_secuti_estis_me</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><viergemarie>
+ <intitule> </intitule></viergemarie><jerusalem>
+ <texte>Saint Barnab&#xE9;, ap&#xF4;tre </texte></jerusalem><piete>
+ <intitule/></piete><calendriercivil>
+ <intitule/></calendriercivil><journeesdediees>
+ <intitule/></journeesdediees><biographie>
+ <intitule>St Barnab&#xE9;, ap&#xF4;tre.</intitule>
+ <biographiecourte> "Homme de la consolation", compagnon de St Paul, serait mort martyr &#xE0; Chypre en 60</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie><martyrologe/><compendium/></calendarium>

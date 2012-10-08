@@ -1,0 +1,679 @@
+<?xml version="1.0"?>
+<calendarium><ordo id="RE"><messe>07-31</messe><priorite>10</priorite><pV/><couleur>Blanc</couleur><reference>S. Ignatii de Loyola, presbyteri</reference><sanctoral><la>S. Ignatii de Loyola, presbyteri</la><fr>St Ignace de Loyola, pr&#xEA;tre</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XVII per annum</la><fr>XVII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. Ignatii de Loyola, presbyteri</la><fr>St Ignace de Loyola, pr&#xEA;tre</fr></intitule><rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang><hebdomada_psalterium>1</hebdomada_psalterium><phase_lunaire>38,57</phase_lunaire><age_lunaire>23</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_14</psautier>
+		<psalterium>psalterium_14</psalterium>
+		<ferie>perannum_14</ferie>
+		<special/>
+		<propre>0731</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_14</psautier>
+		<psalterium>psalterium_14</psalterium>
+		<ferie>perannum_14</ferie>
+		<special/>
+		<propre>0731</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. IGNATII DE LOYOLA, PRESBYTERI"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Rerum_creator_optime</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Scientiarum_Domino</HYMNUS_lec_jour>
+<antL1 id="HY_Scientiarum_Domino"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Da_nobis_Domine</Vant1>
+<Vps1>ps59</Vps1>
+<Vant2>AN_Dum_anxiaretur</Vant2>
+<Vps2>ps60</Vps2>
+<Vant3>AN_Benedicite_gentes</Vant3>
+<Vps3>ps61</Vps3>
+<Vant4>AN_Audite_omnes</Vant4>
+<Vps4>ps65</Vps4>
+<Vant5>AN_In_ecclesiis</Vant5>
+<Vps5>ps67I</Vps5>
+<Vant6>AN_Confitebor_tibi</Vant6>
+<Vps6>ps67II</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia</Vant7>
+<Vps7>ps68I</Vps7>
+<Vant8/>
+<Vps8>ps68II</Vps8>
+<Vant9/>
+<Vps9>ps69</Vps9>
+<Vant10/>
+<Vps10>ps70</Vps10>
+<Vant11/>
+<Vps11>ps71</Vps11>
+<Vant12/>
+<Vps12>ps72</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Magnae_cohortis_principem</HYMNUS_laudes>
+<ant1>AN_Deus_in_lumine</ant1>
+<ps1>PS35</ps1>
+<ant2>AN_Domine_magnus_es</ant2>
+<ps2>AT7</ps2>
+<ant3>AN_Iubilate_Deo_in</ant3>
+<ps3>ps46</ps3>
+<LB_matin>LB_Rom_12_1-2</LB_matin> 
+<RB_matin>RB_Lex_Dei_eius_In</RB_matin> <benedictus>AN_Utinam_possim_cognoscere</benedictus><laudes_preces>pastorum</laudes_preces><oratio_laudes>COL_Deus_qui_ad_maiorem_tui_nominis</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Benedictus_es_Domine;</ant4>
+<ps4>ps118II</ps4>
+<ant5>AN_Retine_gressus_meos</ant5>
+<ps5>ps16I</ps5>
+<ant6>AN_Exsurge_Domine_eripe</ant6>
+<ps6>ps16II</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. IGNATII DE LOYOLA, PRESBYTERI</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Magnae_cohortis_principem</HYMNUS_vepres>
+<ant7>AN_Dominus_illuminatio_mea</ant7>
+<ps7>ps26I</ps7>
+<ant8>AN_Vultum_tuum_Domine</ant8>
+<ps8>ps26II</ps8>
+<ant9>AN_Ipse_primogenitus_omnis</ant9>
+<ps9>NT6</ps9>
+<LB_soir>LB_Rom_8_28-30</LB_soir>
+<RB_soir>RB_Iustus_Dominus_Et_iustitiam</RB_soir>
+<magnificat>AN_Quid_prodest_homini</magnificat>
+<vepres_preces>pastorum</vepres_preces>
+<oratio_vepres>COL_Deus_qui_ad_maiorem_tui_nominis</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
+<comp_ant1>AN_Esto_mihi_in_Deum</comp_ant1>
+<comp_ps1>ps30</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_Eph_4_26-27</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Domine_Iesu_Christe_qui_iugum_suave</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="07-31">
+<IN>IN_In_nomine_Iesu</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_qui_ad_maiorem_tui_nominis</COL>
+<LEC1>07-31</LEC1>	
+<PS1>GR_Iustus_ut_palma</PS1>
+<LEC2/>
+<PS2>AL_Beatus_vir_qui_suffert</PS2>
+<SEQ/>
+<EV>EV_07-31</EV>
+<OF>OF_Veritas_mea</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Qui_meditabitur</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SWF"><messe>07-31</messe><priorite>10</priorite><pV/><couleur>Blanc</couleur><reference>S. Ignatii de Loyola, presbyteri</reference><sanctoral><la>S. Ignatii de Loyola, presbyteri</la><fr>St Ignace de Loyola, pr&#xEA;tre</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XVII per annum</la><fr>XVII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. Ignatii de Loyola, presbyteri</la><fr>St Ignace de Loyola, pr&#xEA;tre</fr></intitule><rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang><hebdomada_psalterium>1</hebdomada_psalterium><phase_lunaire>38,57</phase_lunaire><age_lunaire>23</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_14</psautier>
+		<psalterium>psalterium_14</psalterium>
+		<ferie>perannum_14</ferie>
+		<special/>
+		<propre>0731</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_14</psautier>
+		<psalterium>psalterium_14</psalterium>
+		<ferie>perannum_14</ferie>
+		<special/>
+		<propre>0731</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. IGNATII DE LOYOLA, PRESBYTERI"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Rerum_creator_optime</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Scientiarum_Domino</HYMNUS_lec_jour>
+<antL1 id="HY_Scientiarum_Domino"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Da_nobis_Domine</Vant1>
+<Vps1>ps59</Vps1>
+<Vant2>AN_Dum_anxiaretur</Vant2>
+<Vps2>ps60</Vps2>
+<Vant3>AN_Benedicite_gentes</Vant3>
+<Vps3>ps61</Vps3>
+<Vant4>AN_Audite_omnes</Vant4>
+<Vps4>ps65</Vps4>
+<Vant5>AN_In_ecclesiis</Vant5>
+<Vps5>ps67I</Vps5>
+<Vant6>AN_Confitebor_tibi</Vant6>
+<Vps6>ps67II</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia</Vant7>
+<Vps7>ps68I</Vps7>
+<Vant8/>
+<Vps8>ps68II</Vps8>
+<Vant9/>
+<Vps9>ps69</Vps9>
+<Vant10/>
+<Vps10>ps70</Vps10>
+<Vant11/>
+<Vps11>ps71</Vps11>
+<Vant12/>
+<Vps12>ps72</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Magnae_cohortis_principem</HYMNUS_laudes>
+<ant1>AN_Deus_in_lumine</ant1>
+<ps1>PS35</ps1>
+<ant2>AN_Domine_magnus_es</ant2>
+<ps2>AT7</ps2>
+<ant3>AN_Iubilate_Deo_in</ant3>
+<ps3>ps46</ps3>
+<LB_matin>LB_Rom_12_1-2</LB_matin> 
+<RB_matin>RB_Lex_Dei_eius_In</RB_matin> <benedictus>AN_Utinam_possim_cognoscere</benedictus><laudes_preces>pastorum</laudes_preces><oratio_laudes>COL_Deus_qui_ad_maiorem_tui_nominis</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Benedictus_es_Domine;</ant4>
+<ps4>ps118II</ps4>
+<ant5>AN_Retine_gressus_meos</ant5>
+<ps5>ps16I</ps5>
+<ant6>AN_Exsurge_Domine_eripe</ant6>
+<ps6>ps16II</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. IGNATII DE LOYOLA, PRESBYTERI</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Magnae_cohortis_principem</HYMNUS_vepres>
+<ant7>AN_Dominus_illuminatio_mea</ant7>
+<ps7>ps26I</ps7>
+<ant8>AN_Vultum_tuum_Domine</ant8>
+<ps8>ps26II</ps8>
+<ant9>AN_Ipse_primogenitus_omnis</ant9>
+<ps9>NT6</ps9>
+<LB_soir>LB_Rom_8_28-30</LB_soir>
+<RB_soir>RB_Iustus_Dominus_Et_iustitiam</RB_soir>
+<magnificat>AN_Quid_prodest_homini</magnificat>
+<vepres_preces>pastorum</vepres_preces>
+<oratio_vepres>COL_Deus_qui_ad_maiorem_tui_nominis</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
+<comp_ant1>AN_Esto_mihi_in_Deum</comp_ant1>
+<comp_ps1>ps30</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_Eph_4_26-27</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Domine_Iesu_Christe_qui_iugum_suave</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="07-31">
+<IN>IN_In_nomine_Iesu</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_qui_ad_maiorem_tui_nominis</COL>
+<LEC1>07-31</LEC1>	
+<PS1>GR_Iustus_ut_palma</PS1>
+<LEC2/>
+<PS2>AL_Beatus_vir_qui_suffert</PS2>
+<SEQ/>
+<EV>EV_07-31</EV>
+<OF>OF_Veritas_mea</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Qui_meditabitur</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SMK"><messe>07-31</messe><priorite>10</priorite><pV/><couleur>Blanc</couleur><reference>S. Ignatii de Loyola, presbyteri</reference><sanctoral><la>S. Ignatii de Loyola, presbyteri</la><fr>St Ignace de Loyola, pr&#xEA;tre</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XVII per annum</la><fr>XVII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. Ignatii de Loyola, presbyteri</la><fr>St Ignace de Loyola, pr&#xEA;tre</fr></intitule><rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang><hebdomada_psalterium>1</hebdomada_psalterium><phase_lunaire>38,57</phase_lunaire><age_lunaire>23</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_14</psautier>
+		<psalterium>psalterium_14</psalterium>
+		<ferie>perannum_14</ferie>
+		<special/>
+		<propre>0731</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_14</psautier>
+		<psalterium>psalterium_14</psalterium>
+		<ferie>perannum_14</ferie>
+		<special/>
+		<propre>0731</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. IGNATII DE LOYOLA, PRESBYTERI"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Rerum_creator_optime</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Scientiarum_Domino</HYMNUS_lec_jour>
+<antL1 id="HY_Scientiarum_Domino"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Da_nobis_Domine</Vant1>
+<Vps1>ps59</Vps1>
+<Vant2>AN_Dum_anxiaretur</Vant2>
+<Vps2>ps60</Vps2>
+<Vant3>AN_Benedicite_gentes</Vant3>
+<Vps3>ps61</Vps3>
+<Vant4>AN_Audite_omnes</Vant4>
+<Vps4>ps65</Vps4>
+<Vant5>AN_In_ecclesiis</Vant5>
+<Vps5>ps67I</Vps5>
+<Vant6>AN_Confitebor_tibi</Vant6>
+<Vps6>ps67II</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia</Vant7>
+<Vps7>ps68I</Vps7>
+<Vant8/>
+<Vps8>ps68II</Vps8>
+<Vant9/>
+<Vps9>ps69</Vps9>
+<Vant10/>
+<Vps10>ps70</Vps10>
+<Vant11/>
+<Vps11>ps71</Vps11>
+<Vant12/>
+<Vps12>ps72</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Magnae_cohortis_principem</HYMNUS_laudes>
+<ant1>AN_Deus_in_lumine</ant1>
+<ps1>PS35</ps1>
+<ant2>AN_Domine_magnus_es</ant2>
+<ps2>AT7</ps2>
+<ant3>AN_Iubilate_Deo_in</ant3>
+<ps3>ps46</ps3>
+<LB_matin>LB_Rom_12_1-2</LB_matin> 
+<RB_matin>RB_Lex_Dei_eius_In</RB_matin> <benedictus>AN_Utinam_possim_cognoscere</benedictus><laudes_preces>pastorum</laudes_preces><oratio_laudes>COL_Deus_qui_ad_maiorem_tui_nominis</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Benedictus_es_Domine;</ant4>
+<ps4>ps118II</ps4>
+<ant5>AN_Retine_gressus_meos</ant5>
+<ps5>ps16I</ps5>
+<ant6>AN_Exsurge_Domine_eripe</ant6>
+<ps6>ps16II</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. IGNATII DE LOYOLA, PRESBYTERI</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Magnae_cohortis_principem</HYMNUS_vepres>
+<ant7>AN_Dominus_illuminatio_mea</ant7>
+<ps7>ps26I</ps7>
+<ant8>AN_Vultum_tuum_Domine</ant8>
+<ps8>ps26II</ps8>
+<ant9>AN_Ipse_primogenitus_omnis</ant9>
+<ps9>NT6</ps9>
+<LB_soir>LB_Rom_8_28-30</LB_soir>
+<RB_soir>RB_Iustus_Dominus_Et_iustitiam</RB_soir>
+<magnificat>AN_Quid_prodest_homini</magnificat>
+<vepres_preces>pastorum</vepres_preces>
+<oratio_vepres>COL_Deus_qui_ad_maiorem_tui_nominis</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
+<comp_ant1>AN_Esto_mihi_in_Deum</comp_ant1>
+<comp_ps1>ps30</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_Eph_4_26-27</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Domine_Iesu_Christe_qui_iugum_suave</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="07-31">
+<IN>IN_In_nomine_Iesu</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_qui_ad_maiorem_tui_nominis</COL>
+<LEC1>07-31</LEC1>	
+<PS1>GR_Iustus_ut_palma</PS1>
+<LEC2/>
+<PS2>AL_Beatus_vir_qui_suffert</PS2>
+<SEQ/>
+<EV>EV_07-31</EV>
+<OF>OF_Veritas_mea</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Qui_meditabitur</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><viergemarie>
+ <intitule> </intitule></viergemarie><jerusalem/><piete>
+ <intitule/></piete><calendriercivil>
+ <intitule/></calendriercivil><journeesdediees>
+ <intitule/></journeesdediees><biographie>
+ <intitule>St Ignace de Loyola, pr&#xEA;tre</intitule>
+ <biographiecourte>Pr&#xEA;tre, fondateur de la Compagnie de J&#xE9;sus. &#xC0; sa mort, en 1556, son ordre comptait plus d'un millier de j&#xE9;suites</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie><martyrologe><para id="0">A Imola, sa ville natale, en Italie, vers 451, la naissance au ciel de saint Pierre, &#xE9;v&#xEA;que de Ravenne. Il m&#xE9;rita par ses pr&#xE9;dications populaires et sa doctrine, le surnom de "Chrysologue" et le titre de Docteur de l'&#xC9;glise.</para><para id="1">En Afrique, vers 300, la passion des saintes Maxima, Donatille et Seconde, qui souffrirent divers supplices et furent mises &#xE0; mort par le glaive &#xE0; Tuburbe, en Afrique proconsulaire ; Seconde n'avait que douze ans.</para><para id="2">A C&#xE9;sar&#xE9;e de Cappadoce, vers l'an 303, le martyre de sainte Julitte, riche veuve de C&#xE9;sar&#xE9;e, qu'un notable de la ville fit d&#xE9;pouiller de presque tous ses biens par des moyens frauduleux. Somm&#xE9;e de sacrifier aux idoles, elle refusa et fut condamn&#xE9;e au feu. </para><para id="3">Au vie si&#xE8;cle, saint Ursus ou encore Ours. Reclus &#xE0; proximit&#xE9; de l'&#xE9;glise&#xA0;Saint-Amateur &#xE0; Auxerre, il fut nomm&#xE9; &#xE9;v&#xEA;que de la m&#xEA;me ville &#xE0; l'&#xE2;ge de soixante-quinze ans et d&#xE9;pensa au service de son &#xC9;glise les derni&#xE8;res ann&#xE9;es de sa vie.</para><para id="4">M&#xE9;moire du bienheureux Mann&#xE8;s, mort en 1236. Fr&#xE8;re de saint Dominique, il fut aussi l'un de ses premiers disciples. Il fit partie en 1217 du groupe qui fonda le couvent Saint-Jacques &#xE0; Paris.</para><para id="5">L'an 1540, le martyre des bienheureux &#xC9;douard Powel, Richard Featherstone et Thomas Abel, docteurs de l'Universit&#xE9; d'Oxford, morts dans la communion de l'&#xC9;glise Romaine.</para></martyrologe></calendarium>

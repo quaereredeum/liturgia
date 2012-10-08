@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 21 ianuarii</la>
+<fr>Le 21 janvier</fr>
+</jour>
+<intitule>
+<la>S. AGNETIS, VIRGINIS ET MARTYRIS</la>
+<fr>S. AGNES, VIERGE ET MARTYRE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Regem_martyrum_Dominum"/>
+<HYMNUS_laudes id="hy_Agnes_beatae_virginis"/>
+<ant1 id="AN_Anulo_suo_subarrhavit"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Ipsi_sum"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Congaudete_mecum_et"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_2_Cor_1_3-5"/>
+<RB_matin id="RB_Adiuvabit_eam_Deus_vultu"/>
+<benedictus id="AN_Ecce_quod_concupivi"/>
+<oratio id="COL_Omnipotens_sempiterne_Deus_qui_infirma_mundi"/>
+<HYMNUS_vesperas id="hy_Agnes_beatae_virginis"/>
+<ant7 id="AN_Christi_virgo_nec"/>
+<ps7 id="ps114"/>
+<ant8 id="AN_Ipsi_soli_servo"/>
+<ps8 id="ps115"/>
+<ant9 id="AN_Benedico_te_Pater"/>
+<ps9 id="NT9"/>
+<LB_soir id="LB_1_Petr_4_13-14"/>
+<RB_soir id="RB_Elegit_eam_Deus_Et"/>
+<magnificat id="AN_Beata_Agnes_expansis"/>
+</liturgia>

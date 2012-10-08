@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 12 novembris</la>
+<fr>Le 12 novembre</fr>
+</jour>
+<intitule>
+<la>S. IOSAPHAT, EPISCOPI ET MARTYRIS</la>
+<fr>S. JOSAPHAT, EVEQUE ET MARTYR</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Regem_martyrum_Dominum"/>
+<HYMNUS_laudes id="hy_Martyr_Dei"/>
+<LB_matin id="LB_2_Cor_1_3-5"/>
+<RB_matin id="RB_Fortitudo_mea_Et_laus"/>
+<benedictus id="AN_Magnificabitur_Christus_in"/>
+<preces_matin>
+<la>preces_V</la>
+</preces_matin>
+<oratio id="COL_Excita_quaesumus_Domine_in_Ecclesia_tua"/>
+<HYMNUS_vepres id="hy_Deus_tuorum_militum"/>
+<LB_soir id="LB_1_Petr_4_13-14"/>
+<RB_soir id="RB_Probasti_nos_Deus_Et"/>
+<magnificat id="AN_Domine_Deus_omnipotens"/>
+<preces_soir>
+<la>preces_VI</la>
+</preces_soir>
+</liturgia>

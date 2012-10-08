@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Alleluia_Spiritus_Domini"/>
+<HYMNUS_laudes id="hy_Beata_nobis_gaudia"/>
+<ant1 id="AN_O_quam_bonus"/>
+<ant2 id="AN_Fontes_et_omnia"/>
+<ant3 id="AN_Loquebantur_variis_linguis"/>
+<LB_matin id="LB_Act_5_30-32"/>
+<RB_matin id="RB_Repleti_sunt_omnes_Spiritu_Sancto"/>
+</liturgia>

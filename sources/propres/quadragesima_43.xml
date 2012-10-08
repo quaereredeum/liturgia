@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Christum_Dominum_pro"/>
+<HYMNUS_laudes id="hy_Iam_Christe_sol_iustitiae"/>
+<ant1 id="AN_Emitte_lucem_tuam"/>
+<ant2 id="AN_Cunctis_diebus_vitae"/>
+<ant3 id="AN_Te_decet_hymnus"/>
+<LB_matin id="LB_Ioel_2_12-13"/>
+<RB_matin id="RB_Ipse_liberabit_me_De"/>
+<benedictus id="AN_Qui_me_sanum"/>
+<oratio id="COL_Exercitatio_veneranda_sanctae_devotionis_Domine_tuorum"/>
+<HYMNUS_tertiam id="hy_Dei_fide_qua_vivimus"/>
+<HYMNUS_sextam id="hy_Qua_Christus_hora_sitiit"/>
+<HYMNUS_nonam id="hy_Ternis_ter_horis_numerus"/>
+<ant4 id="AN_Advenerunt_nobis_dies"/>
+<ant5 id="AN_Vivo_ego_dicit"/>
+<ant6 id="AN_Per_arma_iustitiae"/>
+<LB_3 id="LB_Ioel_2_17"/>
+<RB_3 id="VERS_Cor_mundum_crea_in_me"/>
+<LB_6 id="LB_Ier_3_25b"/>
+<RB_6 id="VERS_Averte_faciem_tuam_a_peccatis"/>
+<LB_9 id="LB_Is_58_1-2a"/>
+<RB_9 id="VERS_Sacrificium_Deo_spiritus_contribulatus"/>
+<HYMNUS_vesperas id="hy_Iesu_quadragenariae"/>
+<ant7 id="AN_Non_potestis_Deo"/>
+<ant8 id="AN_Thesaurizate_vobis_thesauros"/>
+<ant9 id="AN_Dignus_est_Agnus"/>
+<LB_soir id="LB_Iac_2_14._17._18b"/>
+<RB_soir id="RB_Ego_dixi_Domine_Miserere"/>
+<magnificat id="AN_Ecce_sanus_factus"/>
+</liturgia>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 11 iunii</la>
+<fr>Le 11 juin</fr>
+</jour>
+<intitule>
+<la>S. BARNAB&#xC6;, APOSTOLI</la>
+<fr>S. BARNABE, APOTRE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Spiritum_Sanctum_qui"/>
+<HYMNUS_laudes id="hy_Barnabae_clarum_colimus_tropaeum"/>
+<LB_matin id="LB_1_Cor_15_1-2a._3-4"/>
+<RB_matin id="RB_Narraverunt_laudes_Domini_Et_virtutes"/>
+<benedictus id="AN_Profectus_est_Barnabas"/>
+<oratio id="COL_Deus_qui_beatum_Barnabam_plenum_fide"/>
+<LB_3 id="LB_2_Cor_5_19_b-20"/>
+<RB_3 id="VERS_In_omnem_terram_exivit_sonus"/>
+<LB_6 id="LB_Act_5_12_a._14"/>
+<RB_6 id="VERS_Custodiebant_testimonia_Dei_Et_praecepta"/>
+<LB_9 id="LB_Act_5_41-42"/>
+<RB_9 id="VERS_Gaudete_et_exsultate_dicit_Dominus"/>
+<HYMNUS_vepres id="hy_Barnabae_clarum_colimus_tropaeum"/>
+<LB_soir id="LB_Col_1_3-6a"/>
+<RB_soir id="RB_Annuntiate_inter_gentes_gloriam_Domini"/>
+<magnificat id="AN_Tacuit_omnis_multitudo"/>
+</liturgia>

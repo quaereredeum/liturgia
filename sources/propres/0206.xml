@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 6 februarii</la>
+<fr>Le 6 f&#xE9;vrier</fr>
+</jour>
+<intitule>
+<la>SS. PAULI MIKI ET SOCIORUM, MARTYRUM</la>
+<fr>SS. PAUL MIKI ET SES COMPAGNONS, MARTYRS</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Regem_martyrum_Dominum"/>
+<HYMNUS_laudes id="HY_Aterna_Christi_munera"/>
+<LB_matin id="LB_2_Cor_1_3-5"/>
+<RB_matin id="RB_Iusti_autem_In_perpetuum"/>
+<benedictus id="AN_Beati_qui_persecutionem"/>
+<preces_matin>
+</preces_matin>
+<oratio id="COL_Deus_omnium_fortitudo_sanctorum_qui_beatos"/>
+<HYMNUS_vepres id="hy_Sanctorum_meritis_inclita_gaudia"/>
+<LB_soir id="LB_1_Petr_4_13-14"/>
+<RB_soir id="RB_Laetamini_in_Domino_Et"/>
+<magnificat id="AN_Gaudent_in_caelis"/>
+<preces_soir>
+</preces_soir>
+</liturgia>

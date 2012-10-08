@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XVII per annum</la>
+<fr>XVII&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Simile_est_regnum"/>
+<magnificat1_B id="AN_Cum_sublevasset_oculos"/>
+<magnificat1_C id="AN_Cum_esset_Iesus"/>
+<oratio id="COL_Protector_in_te_sperantium_Deus_sine"/>
+<benedictus_A id="AN_Simile_est_regnum"/>
+<benedictus_B id="AN_Satiavit_Dominus_quinque"/>
+<benedictus_C id="AN_Petite_et_dabitur"/>
+<magnificat2_A id="AN_Omnis_scriba_doctus"/>
+<magnificat2_B id="AN_Illi_homines_cum"/>
+<magnificat2_C id="AN_Si_vos_cum"/>
+</liturgia>

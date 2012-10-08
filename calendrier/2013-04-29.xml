@@ -1,0 +1,679 @@
+<?xml version="1.0"?>
+<calendarium><ordo id="RE"><messe>04-29</messe><priorite>8</priorite><pV/><couleur>Blanc</couleur><reference>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</reference><sanctoral><la>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</la><fr>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</fr></sanctoral><tempus><la>Tempus Paschale</la><fr>Temps pascal</fr></tempus><hebdomada><la>Hebdomada V Paschae</la><fr>V&#xE8;me semaine de P&#xE2;ques</fr></hebdomada><intitule><la>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</la><fr>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</fr></intitule><rang><la>F&#xEA;te</la><fr>F&#xEA;te</fr></rang><hebdomada_psalterium>1</hebdomada_psalterium><phase_lunaire>85,94</phase_lunaire><age_lunaire>18</age_lunaire><selection/><matin>
+		<temps>Tempus Paschale</temps>
+		<psautier>psautier_12</psautier>
+		<psalterium>psalterium_12</psalterium>
+		<ferie>pascha_52</ferie>
+		<special/>
+		<propre>0429</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus Paschale</temps>
+		<psautier>psautier_12</psautier>
+		<psalterium>psalterium_12</psalterium>
+		<ferie>pascha_52</ferie>
+		<special/>
+		<propre>0429</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres>0</premieresvepres>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. CATHARINA SENENSIS, VIRGINIS ET ECCLESIAE DOCTORIS"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Somno_refectis_artubus</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Aeterna_lux_divinitas</HYMNUS_lec_jour>
+<antL1 id="HY_Aeterna_lux_divinitas"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Rectos_decet</Vant1>
+<Vps1>ps32</Vps1>
+<Vant2>AN_Immitet_angelus</Vant2>
+<Vps2>ps33</Vps2>
+<Vant3>AN_Expugna_impugnantes</Vant3>
+<Vps3>ps34</Vps3>
+<Vant4>AN_Revela_Domino</Vant4>
+<Vps4>ps36I</Vps4>
+<Vant5>AN_Custodi_innocentiam</Vant5>
+<Vps5>ps36II</Vps5>
+<Vant6>AN_Ne_in_ira</Vant6>
+<Vps6>ps37</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia_alleluia</Vant7>
+<Vps7>ps38</Vps7>
+<Vant8/>
+<Vps8>ps39</Vps8>
+<Vant9/>
+<Vps9>ps40</Vps9>
+<Vant10/>
+<Vps10>ps41</Vps10>
+<Vant11/>
+<Vps11>ps43</Vps11>
+<Vant12/>
+<Vps12>ps44</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>HY_Te_Catharina</HYMNUS_laudes>
+<ant1>AN_Gloriabuntur_in_te</ant1>
+<ps1>ps5</ps1>
+<ant2>AN_Tuum_Domine_regnum</ant2>
+<ps2>AT4</ps2>
+<ant3>AN_Sedebit_Dominus_rex</ant3>
+<ps3>ps28</ps3>
+<LB_matin>LB_Cant_8_7</LB_matin> 
+<RB_matin>RB_Afferentur_Regi_virgines</RB_matin> <benedictus>AN_Sancta_virgo_Catharina</benedictus><laudes_preces>perannum_12</laudes_preces><oratio_laudes>COL_Deus_qui_beatam_Catharinam</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+<ps4>ps18B</ps4>
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+<ps5>ps7I</ps5>
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+<ps6>ps7II</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. CATHARINA SENENSIS, VIRGINIS ET ECCLESIAE DOCTORIS</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+<ant7>AN_Confidite_ego_vici</ant7>
+<ps7>ps10</ps7>
+<ant8>AN_Habitabit_in_tabernaculo</ant8>
+<ps8>ps14</ps8>
+<ant9>AN_Ego_si_exaltatus</ant9>
+<ps9>NT4</ps9>
+<LB_soir>LB_Hebr_8_1b-3a</LB_soir>
+<RB_soir>RB_Gavisi_sunt_discipuli_Alleluia_alleluia</RB_soir>
+<magnificat>AN_Semper_et_ubique_Catharina</magnificat>
+<vepres_preces>perannum_12</vepres_preces>
+<oratio_vepres>COL_Deus_qui_beatam_Catharinam</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+<comp_ps1>ps85</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Regina_caeli</comp_AM><messe id="04-29">
+<IN>IN_Dilexisti</IN><IN>IN_Caritas_Dei</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_qui_beatam_Catharinam</COL>
+<LEC1>04-29</LEC1>	
+<PS1/>
+<LEC2/>
+<PS2>AL_Adducentur</PS2>
+<SEQ/>
+<EV>EV_04-29</EV>
+<OF>OF_Filiae_regum</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Quinque_prudentes_virgines</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SWF"><messe>04-29</messe><priorite>8</priorite><pV/><couleur>Blanc</couleur><reference>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</reference><sanctoral><la>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</la><fr>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</fr></sanctoral><tempus><la>Tempus Paschale</la><fr>Temps pascal</fr></tempus><hebdomada><la>Hebdomada V Paschae</la><fr>V&#xE8;me semaine de P&#xE2;ques</fr></hebdomada><intitule><la>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</la><fr>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</fr></intitule><rang><la>F&#xEA;te</la><fr>F&#xEA;te</fr></rang><hebdomada_psalterium>1</hebdomada_psalterium><phase_lunaire>85,94</phase_lunaire><age_lunaire>18</age_lunaire><selection/><matin>
+		<temps>Tempus Paschale</temps>
+		<psautier>psautier_12</psautier>
+		<psalterium>psalterium_12</psalterium>
+		<ferie>pascha_52</ferie>
+		<special/>
+		<propre>0429</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus Paschale</temps>
+		<psautier>psautier_12</psautier>
+		<psalterium>psalterium_12</psalterium>
+		<ferie>pascha_52</ferie>
+		<special/>
+		<propre>0429</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres>0</premieresvepres>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. CATHARINA SENENSIS, VIRGINIS ET ECCLESIAE DOCTORIS"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Somno_refectis_artubus</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Aeterna_lux_divinitas</HYMNUS_lec_jour>
+<antL1 id="HY_Aeterna_lux_divinitas"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Rectos_decet</Vant1>
+<Vps1>ps32</Vps1>
+<Vant2>AN_Immitet_angelus</Vant2>
+<Vps2>ps33</Vps2>
+<Vant3>AN_Expugna_impugnantes</Vant3>
+<Vps3>ps34</Vps3>
+<Vant4>AN_Revela_Domino</Vant4>
+<Vps4>ps36I</Vps4>
+<Vant5>AN_Custodi_innocentiam</Vant5>
+<Vps5>ps36II</Vps5>
+<Vant6>AN_Ne_in_ira</Vant6>
+<Vps6>ps37</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia_alleluia</Vant7>
+<Vps7>ps38</Vps7>
+<Vant8/>
+<Vps8>ps39</Vps8>
+<Vant9/>
+<Vps9>ps40</Vps9>
+<Vant10/>
+<Vps10>ps41</Vps10>
+<Vant11/>
+<Vps11>ps43</Vps11>
+<Vant12/>
+<Vps12>ps44</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>HY_Te_Catharina</HYMNUS_laudes>
+<ant1>AN_Gloriabuntur_in_te</ant1>
+<ps1>ps5</ps1>
+<ant2>AN_Tuum_Domine_regnum</ant2>
+<ps2>AT4</ps2>
+<ant3>AN_Sedebit_Dominus_rex</ant3>
+<ps3>ps28</ps3>
+<LB_matin>LB_Cant_8_7</LB_matin> 
+<RB_matin>RB_Afferentur_Regi_virgines</RB_matin> <benedictus>AN_Sancta_virgo_Catharina</benedictus><laudes_preces>perannum_12</laudes_preces><oratio_laudes>COL_Deus_qui_beatam_Catharinam</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+<ps4>ps18B</ps4>
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+<ps5>ps7I</ps5>
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+<ps6>ps7II</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. CATHARINA SENENSIS, VIRGINIS ET ECCLESIAE DOCTORIS</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+<ant7>AN_Confidite_ego_vici</ant7>
+<ps7>ps10</ps7>
+<ant8>AN_Habitabit_in_tabernaculo</ant8>
+<ps8>ps14</ps8>
+<ant9>AN_Ego_si_exaltatus</ant9>
+<ps9>NT4</ps9>
+<LB_soir>LB_Hebr_8_1b-3a</LB_soir>
+<RB_soir>RB_Gavisi_sunt_discipuli_Alleluia_alleluia</RB_soir>
+<magnificat>AN_Semper_et_ubique_Catharina</magnificat>
+<vepres_preces>perannum_12</vepres_preces>
+<oratio_vepres>COL_Deus_qui_beatam_Catharinam</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+<comp_ps1>ps85</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Regina_caeli</comp_AM><messe id="04-29">
+<IN>IN_Dilexisti</IN><IN>IN_Caritas_Dei</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_qui_beatam_Catharinam</COL>
+<LEC1>04-29</LEC1>	
+<PS1/>
+<LEC2/>
+<PS2>AL_Adducentur</PS2>
+<SEQ/>
+<EV>EV_04-29</EV>
+<OF>OF_Filiae_regum</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Quinque_prudentes_virgines</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SMK"><messe>04-29</messe><priorite>8</priorite><pV/><couleur>Blanc</couleur><reference>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</reference><sanctoral><la>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</la><fr>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</fr></sanctoral><tempus><la>Tempus Paschale</la><fr>Temps pascal</fr></tempus><hebdomada><la>Hebdomada V Paschae</la><fr>V&#xE8;me semaine de P&#xE2;ques</fr></hebdomada><intitule><la>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</la><fr>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</fr></intitule><rang><la>F&#xEA;te</la><fr>F&#xEA;te</fr></rang><hebdomada_psalterium>1</hebdomada_psalterium><phase_lunaire>85,94</phase_lunaire><age_lunaire>18</age_lunaire><selection/><matin>
+		<temps>Tempus Paschale</temps>
+		<psautier>psautier_12</psautier>
+		<psalterium>psalterium_12</psalterium>
+		<ferie>pascha_52</ferie>
+		<special/>
+		<propre>0429</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus Paschale</temps>
+		<psautier>psautier_12</psautier>
+		<psalterium>psalterium_12</psalterium>
+		<ferie>pascha_52</ferie>
+		<special/>
+		<propre>0429</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres>0</premieresvepres>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. CATHARINA SENENSIS, VIRGINIS ET ECCLESIAE DOCTORIS"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Somno_refectis_artubus</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Aeterna_lux_divinitas</HYMNUS_lec_jour>
+<antL1 id="HY_Aeterna_lux_divinitas"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Rectos_decet</Vant1>
+<Vps1>ps32</Vps1>
+<Vant2>AN_Immitet_angelus</Vant2>
+<Vps2>ps33</Vps2>
+<Vant3>AN_Expugna_impugnantes</Vant3>
+<Vps3>ps34</Vps3>
+<Vant4>AN_Revela_Domino</Vant4>
+<Vps4>ps36I</Vps4>
+<Vant5>AN_Custodi_innocentiam</Vant5>
+<Vps5>ps36II</Vps5>
+<Vant6>AN_Ne_in_ira</Vant6>
+<Vps6>ps37</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia_alleluia</Vant7>
+<Vps7>ps38</Vps7>
+<Vant8/>
+<Vps8>ps39</Vps8>
+<Vant9/>
+<Vps9>ps40</Vps9>
+<Vant10/>
+<Vps10>ps41</Vps10>
+<Vant11/>
+<Vps11>ps43</Vps11>
+<Vant12/>
+<Vps12>ps44</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>HY_Te_Catharina</HYMNUS_laudes>
+<ant1>AN_Gloriabuntur_in_te</ant1>
+<ps1>ps5</ps1>
+<ant2>AN_Tuum_Domine_regnum</ant2>
+<ps2>AT4</ps2>
+<ant3>AN_Sedebit_Dominus_rex</ant3>
+<ps3>ps28</ps3>
+<LB_matin>LB_Cant_8_7</LB_matin> 
+<RB_matin>RB_Afferentur_Regi_virgines</RB_matin> <benedictus>AN_Sancta_virgo_Catharina</benedictus><laudes_preces>perannum_12</laudes_preces><oratio_laudes>COL_Deus_qui_beatam_Catharinam</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Iam_surgit_hora_tertia</HYMNUS_3>
+<HYMNUS_6>hy_Venite_servi_supplices</HYMNUS_6>
+<HYMNUS_9>hy_Haec_hora_quae_resplenduit</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Alleluia_alleluia_alleluia.</ant4>
+<ps4>ps18B</ps4>
+<ant5>AN_Alleluia_alleluia_alleluia.</ant5>
+<ps5>ps7I</ps5>
+<ant6>AN_Alleluia_alleluia_alleluia.</ant6>
+<ps6>ps7II</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. CATHARINA SENENSIS, VIRGINIS ET ECCLESIAE DOCTORIS</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+<ant7>AN_Confidite_ego_vici</ant7>
+<ps7>ps10</ps7>
+<ant8>AN_Habitabit_in_tabernaculo</ant8>
+<ps8>ps14</ps8>
+<ant9>AN_Ego_si_exaltatus</ant9>
+<ps9>NT4</ps9>
+<LB_soir>LB_Hebr_8_1b-3a</LB_soir>
+<RB_soir>RB_Gavisi_sunt_discipuli_Alleluia_alleluia</RB_soir>
+<magnificat>AN_Semper_et_ubique_Catharina</magnificat>
+<vepres_preces>perannum_12</vepres_preces>
+<oratio_vepres>COL_Deus_qui_beatam_Catharinam</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+<comp_ps1>ps85</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Regina_caeli</comp_AM><messe id="04-29">
+<IN>IN_Dilexisti</IN><IN>IN_Caritas_Dei</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_qui_beatam_Catharinam</COL>
+<LEC1>04-29</LEC1>	
+<PS1/>
+<LEC2/>
+<PS2>AL_Adducentur</PS2>
+<SEQ/>
+<EV>EV_04-29</EV>
+<OF>OF_Filiae_regum</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Quinque_prudentes_virgines</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><viergemarie>
+ <intitule> </intitule></viergemarie><jerusalem/><piete>
+ <intitule/></piete><calendriercivil>
+ <intitule/></calendriercivil><journeesdediees>
+ <intitule/></journeesdediees><biographie>
+ <intitule>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</intitule>
+ <biographiecourte>Vierge, docteur de l'&#xC9;glise elle persuada le pape Gr&#xE9;goire XI de revenir &#xE0; Rome (&#x2020;1380)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage>Co-patronne de l'Europe</patronage></biographie><martyrologe><para id="0">1. M&#xE9;moire de saint Pierre Chanel, pr&#xEA;tre et martyr. Apr&#xE8;s neuf ans de minist&#xE8;re dans le dioc&#xE8;se de Belley, au service d&#x2019;une paroisse rurale et dans l&#x2019;&#xE9;ducation des enfants, il entra dans la Soci&#xE9;t&#xE9; de Marie qui venait de se fonder et fut envoy&#xE9; avec quelques compagnons &#xE0; la mission de l&#x2019;Oc&#xE9;anie occidentale. Il aborda dans l&#x2019;&#xEE;le de Futuna o&#xF9; il n&#x2019;y avait pas encore de chr&#xE9;tiens et o&#xF9; son action fut entrav&#xE9;e par le m&#xE9;pris des pa&#xEF;ens, les emb&#xFB;ches et la faim. Mais fort d&#x2019;une douceur extraordinaire, il en convertit quelques-uns &#xE0; la foi, et parmi eux le fils du roi lui-m&#xEA;me, qui, irrit&#xE9;, donna l&#x2019;ordre de le tuer. Il fut, en 1841, le premier martyr de l&#x2019;Oc&#xE9;anie. </para><para id="1">2. M&#xE9;moire &#xE9;galement de saint Louise-Marie Grignion de Montfort, pr&#xEA;tre, qui annon&#xE7;a &#xE0; travers l&#x2019;Ouest de la France le myst&#xE8;re de la Sagesse &#xE9;ternelle, fonda l&#x2019;Institut des Filles de la Sagesse et, pour les pr&#xEA;tres, la Compagnie de Marie, pr&#xEA;cha et &#xE9;crivit sur la Croix du Christ et la vraie d&#xE9;votion &#xE0; la Vierge Marie et conduisit des foules &#xE0; la p&#xE9;nitence. Il acheva sa p&#xE9;r&#xE9;grination sur terre &#xE0; Saint-Laurent-sur-S&#xE8;vre, en 1716.</para><para id="2">3. &#xC0; B&#xE9;ziers, saint Aphrodise, v&#xE9;n&#xE9;r&#xE9; comme le premier &#xE9;v&#xEA;que de la ville. </para><para id="3">4. &#xC0; Nicom&#xE9;die, les saints martyrs Eus&#xE8;be, Charalampe et leurs compagnons. </para><para id="4">5. &#xC0; Dorostore en M&#xE9;sie, vers 303, les saints martyrs Maxime, Dadas et Quintilien, victimes de la pers&#xE9;cution de Diocl&#xE9;tien.</para><para id="5">6. &#xC0; Tarazona en Espagne, au Ve ou VIe si&#xE8;cle, saint Prudence, &#xE9;v&#xEA;que. </para><para id="6">7. &#xC0; Sulmona dans les Abruzzes, vers 700, la mise au tombeau de saint Pamphile, &#xE9;v&#xEA;que de Valva. </para><para id="7">8*. &#xC0; Poggi-Bonzi en Toscane, l&#x2019;an 1260, le bienheureux Luchesio. Venu dans cette ville pour y faire commerce et devenu riche et avare, il fut touch&#xE9; par la gr&#xE2;ce, rev&#xEA;tit l&#x2019;habit du Tiers-Ordre de Saint-Fran&#xE7;ois, vendit ses biens en faveur des pauvres et se mit avec un esprit &#xE9;vang&#xE9;lique au service de Dieu et de son prochain dans la pauvret&#xE9; et l&#x2019;humilit&#xE9;. </para><para id="8">9*. &#xC0; Saint-Laurent-sur-S&#xE8;vre, en 1759, la bienheureuse Marie-Louise Trichet, vierge, qui fut attir&#xE9;e &#xE0; la vie religieuse par saint Louise-Marie Grignion et devint &#xE0; Poitiers la premi&#xE8;re recrue de la Congr&#xE9;gation des Filles de la Sagesse, qu&#x2019;elle dirigea avec prudence. </para><para id="9">10. &#xC0; Ninh Binh au Tonkin en 1840, les saints martyrs Paul Pham Khac Khoan, pr&#xEA;tre, Jean-Baptiste Dinh Van Thanh et Pierre Nguyen Van Hieu, cat&#xE9;chistes, qui furent mis aux fers, tortur&#xE9;s pour leur faire renier la foi chr&#xE9;tienne et enfin d&#xE9;capit&#xE9;s, sous l&#x2019;empereur Minh Mang</para><para id="10">. </para><para id="11">11*. Au camp de concentration de Mauthausen en Autriche, l&#x2019;an 1941, le bienheureux Joseph Cebula, pr&#xEA;tre polonais de la Congr&#xE9;gation des Missionnaires Oblats de Marie Immacul&#xE9;e et martyr. D&#xE9;port&#xE9; de son pays en haine de la foi, il subit de cruelles tortures et mourut fusill&#xE9;. </para><para id="12">12*. &#xC0; Magenta dans le Milanais, en 1961, la bienheureuse Jeanne Beretta Molla, m&#xE8;re de famille, qui, alors qu&#x2019;elle &#xE9;tait enceinte dans des conditions difficiles, pr&#xE9;f&#xE9;ra donner la vie &#xE0; son enfant au p&#xE9;ril de la sienne. </para></martyrologe></calendarium>

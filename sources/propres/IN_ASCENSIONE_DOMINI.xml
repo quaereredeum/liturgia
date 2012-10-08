@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>IN ASCENSIONE DOMINI </la>
+<fr>ASCENSION DU SEIGNEUR</fr>
+</intitule>
+<rang>
+<la>Solemnitas</la>
+<fr>Sollennit&#xE9;</fr>
+</rang>
+<HYMNUS id="hy_Iesu_nostra_redemptio"/>
+<magnificat1_A id="AN"/>
+<magnificat1_B id="AN"/>
+<magnificat1_C id="AN"/>
+<oratio id="COL"/>
+<benedictus_A id="AN"/>
+<benedictus_B id="AN"/>
+<benedictus_C id="AN"/>
+<magnificat2_A id="AN"/>
+<magnificat2_B id="AN"/>
+<magnificat2_C id="AN"/>
+</liturgia>

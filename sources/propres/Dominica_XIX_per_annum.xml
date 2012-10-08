@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XIX per annum</la>
+<fr>XIX&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Dimissis_turbis_ascendit"/>
+<magnificat1_B id="AN_Nemo_potest_venire"/>
+<magnificat1_C id="AN_Ubi_est_thesaurus"/>
+<oratio id="COL_Omnipotens_sempiterne_Deus_quem_paterno_nomine"/>
+<benedictus_A id="AN_Locutus_est_Iesus"/>
+<benedictus_B id="AN_Amen_amen_dico"/>
+<benedictus_C id="AN_Beati_illi_servi"/>
+<magnificat2_A id="AN_Domine_iube_me"/>
+<magnificat2_B id="AN_Hic_est_panis"/>
+<magnificat2_C id="AN_Sint_lumbi_vestri"/>
+</liturgia>

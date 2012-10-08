@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XII per annum</la>
+<fr>XII&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Quod_dico_vobis"/>
+<magnificat1_B id="AN_Domine_salva_nos"/>
+<magnificat1_C id="AN_Dixit_Iesus_discipulis"/>
+<oratio id="COL_Sancti_nominis_tui_Domine_timorem_pariter"/>
+<benedictus_A id="AN_Vestri_capilli"/>
+<benedictus_B id="AN_Exsurgens_Iesus_comminatus"/>
+<benedictus_C id="AN_Oportet_Filium_hominis"/>
+<magnificat2_A id="AN_Qui_me_confessus"/>
+<magnificat2_B id="AN_Timuerunt_discipuli_magno"/>
+<magnificat2_C id="AN_Qui_vult_venire"/>
+</liturgia>

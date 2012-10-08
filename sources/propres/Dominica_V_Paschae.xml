@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica V Paschae</la>
+<fr>V&#xB0; dimanche de P&#xE2;ques</fr>
+</intitule>
+<magnificat1_A id="AN_Si_abiero_et"/>
+<magnificat1_B id="AN_Ego_sum_vitis"/>
+<magnificat1_C id="AN_Nunc_clarificatus_est"/>
+<oratio id="COL_Deus_per_quem_nobis_et_redemptio"/>
+<benedictus_A id="AN_Ego_sum_via"/>
+<benedictus_B id="AN_Qui_manet_in"/>
+<benedictus_C id="AN_Mandatum_novum_do"/>
+<magnificat2_A id="AN_Domine_ostende_nobis"/>
+<magnificat2_B id="AN_In_hoc_clarificatus"/>
+<magnificat2_C id="AN_In_hoc_cognoscent"/>
+</liturgia>

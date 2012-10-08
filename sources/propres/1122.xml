@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 22 novembris</la>
+<fr>Le 22 novembre</fr>
+</jour>
+<intitule>
+<la>S. C&#xC6;CILI&#xC6;, VIRGINIS ET MARTYRIS</la>
+<fr>S. CECILE, VIERGE ET MARTYRE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Regem_martyrum_Dominum"/>
+<HYMNUS_laudes id="hy_O_castitatis_signifer"/>
+<LB_matin id="LB_2_Cor_1_3-5"/>
+<RB_matin id="RB_Fortitudo_mea_Et_laus"/>
+<benedictus id="AN_Dum_aurora_finem"/>
+<oratio id="COL_Supplicationibus_nostris_Domine_adesto_propitius_et"/>
+<HYMNUS_vesperas id="hy_Virginis_Proles_opifexque_Matris"/>
+<LB_soir id="LB_1_Petr_4_13-14"/>
+<RB_soir id="RB_Probasti_nos_Deus_Et"/>
+<magnificat id="AN_Virgo_Caecilia_semper"/>
+</liturgia>

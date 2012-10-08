@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Deum_qui_glorificatur"/>
+<jour>
+<la>Die 1 novembris</la>
+<fr>Le 1er Novembre</fr>
+</jour>
+<intitule>
+<la>OMNIUM SANCTORUM</la>
+<fr>TOUSSAINT</fr>
+</intitule>
+<rang>
+<la>Sollemnitas</la>
+<fr>Solennit&#xE9;</fr>
+</rang>
+<HYMNUS_1V id="hy_Christe_redemptor_omnium"/>
+<ant01 id="AN_Lux_perpetua_lucebit"/>
+<ps01 id="ps112"/>
+<ant02 id="AN_Ierusalem_civitas_Dei"/>
+<ps02 id="ps147"/>
+<ant03 id="AN_Cantabant_sancti_canticum"/>
+<ps03 id="NT12"/>
+<LB_1V id="LB_Hebr_12_22-24"/>
+<RB_1V id="RB_Exsultent_iusti_In_conspectu"/>
+<pmagnificat>
+<la>Te glori&#xF3;sus Apostol&#xF3;rum chorus, te prophet&#xE1;rum laud&#xE1;bilis n&#xFA;merus, te m&#xE1;rtyrum candid&#xE1;tus laudat ex&#xE9;rcitus, te omnes sancti et el&#xE9;cti voce confit&#xE9;ntur un&#xE1;nimes, be&#xE1;ta Tr&#xED;nitas, unus Deus.</la>
+<fr>Le ch&#x9C;ur glorieux des ap&#xF4;tres, la phalange v&#xE9;n&#xE9;rable des proph&#xE8;tes, l'arm&#xE9;e des martyrs v&#xEA;tus de blanc c&#xE9;l&#xE8;brent tes louanges ; tous les saints et tous les &#xE9;lus proclament d'une voix unanime : &#xF4; bienheureuse Trinit&#xE9;, seule Divinit&#xE9;.</fr>
+</pmagnificat>
+<oratio_1V id="COL_Omnipotens_sempiterne_Deus_qui_nos_omnium"/>
+<HYMNUS_laudes id="hy_Iesu_salvator_saeculi"/>
+<ant1 id="AN_In_caelestibus_regnis"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Sancti_Domini"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Hymnus_omnibus"/>
+<ps3 id="ps149"/>
+<ant4 id="AN_Consolabitur_Dominus_Sion;"/>
+<LB_matin id="LB_Eph_1_17-18"/>
+<RB_matin id="RB_Laetamini_in_Domino_Et_exsultate"/>
+<oratio id="COL_Omnipotens_sempiterne_Deus_qui_nos_omnium"/>
+<ps4 id="ps122"/>
+<ant5 id="AN_Sapientiam_sanctorum_narrant"/>
+<ps5 id="ps123"/>
+<ant6 id="AN_Sancti_per_fidem"/>
+<ps6 id="ps124"/>
+<LB_3 id="LB_Is_65_18-19"/>
+<RB_3 id="VERS_Gaudete_et_exsultate_omnes_sancti"/>
+<LB_6 id="LB_1_Petr_1_15-16"/>
+<RB_6 id="VERS_Laetamini_iusti_in_Domino_Et"/>
+<LB_9 id="LB_Ap_21_10-11a;_22_3b-4"/>
+<RB_9 id="VERS_Iusti_confitebuntur_nomini_tuo_Domine"/>
+<benedictus id="AN_Iusti_fulgebunt_sicut"/>
+<magnificat id="AN_O_quam_gloriosum"/>
+<ant7 id="AN_Vidi_turbam_magnam"/>
+<ps7 id="ps109"/>
+<ant8 id="AN_Deus_tentavit_illos"/>
+<ps8 id="ps115"/>
+<ant9 id="AN_Redemisti_nos_Domine"/>
+<ps9 id="NT4"/>
+<LB_matin id="LB_Eph_1_17-18"/>
+<RB_soir id="RB_Sancti_et_iusti_In_Domino"/>
+<LB_soir id="LB_Cor_6_16b;_7_1"/>
+<HYMNUS_vesperas id="hy_Christe_redemptor_omnium"/>
+<HYMNUS_lectures id="HY_Christe_caelorum_habitator_alme"/>
+<HYMNUS_lec_jour id=""/>
+</liturgia>

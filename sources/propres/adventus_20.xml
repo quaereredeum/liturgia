@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica II Adventus</la>
+<fr>II&#xB0; dimanche de l'Avent</fr>
+</intitule>
+<HYMNUS_vesperas id="hy_Conditor_alme_siderum"/>
+<HYMNUS_1V id="hy_Conditor_alme_siderum"/>
+<ant7 id="AN_Gaude_et_laetare"/>
+<ant8 id="AN_Confortate_manus_dissolutas;"/>
+<ant9 id="AN_Lex_per_Moysen"/>
+<LB_soir id="LB_1Th_5_23-24"/>
+<RB_soir id="RB_Ostende_nobis_Domine_Misericordiam"/>
+<pmagnificat_A>
+<la>Venit Io&#xE1;nnes Bapt&#xED;sta pr&#xE6;dicans in des&#xE9;rto et dicens: P&#xE6;nit&#xE9;ntiam &#xE1;gite; appropinqu&#xE1;vit enim regnum c&#xE6;l&#xF3;rum.</la>
+<fr>Jean-Baptiste est venu, pr&#xEA;chant dans le d&#xE9;sert en disant : faites p&#xE9;nitence ; voici que le royaume des cieux approche.</fr>
+</pmagnificat_A>
+<pmagnificat_B>
+<la>Ecce mitto &#xE1;ngelum meum ante f&#xE1;ciem tuam, qui pr&#xE6;par&#xE1;vit viam tuam.</la>
+<fr>Voici que j'envoie un ange devant ta face, qui pr&#xE9;parera ton chemin.</fr>
+</pmagnificat_B>
+<pmagnificat_C>
+<la>Veni, D&#xF3;mine, visit&#xE1;re nos in pace, ut l&#xE6;t&#xE9;mur coram te corde perf&#xE9;cto.</la>
+<fr>Viens, Seigneur, nous visiter dans la paix, pour que nous puissions nous r&#xE9;jouir devant ta face d'un c&#x9C;ur parfait.</fr>
+</pmagnificat_C>
+<oratio_vesperas id="COL_Omnipotens_et_misericors_Deus_in_tui"/>
+<preces_soir>
+<la>preces_III</la>
+</preces_soir>
+</liturgia>

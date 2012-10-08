@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XXVIII per annum</la>
+<fr>XXVIII&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Simile_est_regnum"/>
+<magnificat1_B id="AN_Unum_tibi_deest"/>
+<magnificat1_C id="AN_Occurrerunt_decem_viri"/>
+<oratio id="COL_Tua_nos_quaesumus_Domine_gratia_semper"/>
+<benedictus_A id="AN_Dicite_invitatis_Ecce"/>
+<benedictus_B id="AN_Quam_difficile_qui"/>
+<benedictus_C id="AN_Unus_ex_illis"/>
+<magnificat2_A id="AN_Nuptiae_quidem_paratae"/>
+<magnificat2_B id="AN_Vos_qui_reliquistis"/>
+<magnificat2_C id="AN_Non_sunt_inventi"/>
+</liturgia>

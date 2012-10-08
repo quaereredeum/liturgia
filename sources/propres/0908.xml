@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 8 septembris</la>
+<fr>Le 8 septembre</fr>
+</jour>
+<intitule>
+<la>IN NATIVITATE BEAT&#xC6; MARI&#xC6; VIRGINIS</la>
+<fr>NATIVITE DE LA BIENHEUREUSE VIERGE MARIE</fr>
+</intitule>
+<rang>
+<la>Festum</la>
+<fr>F&#xEA;te</fr>
+</rang>
+<ant_invit id="INV_Nativitatem_Virginis_Mariae"/>
+<HYMNUS_laudes id="hy_O_sancta_mundi_domina"/>
+<ant1 id="AN_Nativitas_gloriosae_Virginis"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Quando_nata_est"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Cum_iucunditate_Nativitatem"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Is_11_1-3a"/>
+<RB_matin id="RB_Elegit_eam_Deus_Et_praeelegit"/>
+<benedictus id="AN_Nativitas_tua"/>
+<preces_matin>
+<la>preces_V</la>
+</preces_matin>
+<oratio id="COL_Famulis_tuis_quaesumus_Domine_caelestis_gratiae"/>
+<ant4 id="AN_Nativitas_est_hodie"/>
+<LB_3 id="LB_Cant_6_10"/>
+<RB_3 id="VERS_Beati_qui_audiunt_verbum_Dei"/>
+<ant5 id="AN_Regali_ex_progenie"/>
+<LB_6 id="LB_Iudt_13_18-19"/>
+<RB_6 id="VERS_Beata_viscera_Mariae_Virginis_Quae"/>
+<ant6 id="AN_Corde_et_animo"/>
+<LB_9 id="LB_Ap_21_3"/>
+<RB_9 id="VERS_Benedicta_tu_in_mulieribus_Et"/>
+<HYMNUS_vepres id="hy_Beata_Dei_genetrix"/>
+<ant7 id="AN_De_Iesse_progenie"/>
+<ps7 id="ps121"/>
+<ant8 id="AN_Nativitas_est_hodie"/>
+<ps8 id="ps126"/>
+<ant9 id="AN_Benedicta_et_venerabilis"/>
+<ps9 id="NT5"/>
+<LB_soir id="LB_Rom_9_4-5"/>
+<RB_soir id="RB_Ave_Maria_gratia_plena;_Dominus"/>
+<magnificat id="AN_Gloriosae_Virginis_Mariae"/>
+<preces_soir>
+<la>preces_VI</la>
+</preces_soir>
+<HYMNUS_lectures id="HY_Beata_Dei_genetrix"/>
+<HYMNUS_lec_jour id=""/>
+</liturgia>

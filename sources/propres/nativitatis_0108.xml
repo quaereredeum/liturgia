@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>DIE 8 IANUARII</la>
+<fr>LE 8 JANVIER</fr>
+</jour>
+<ant_invit id="INV_Christus_apparuit_nobis"/>
+<HYMNUS_laudes id="hy_Quicumque_Christum_quaeritis"/>
+<LB_matin id="LB_Is_4_2-3"/>
+<RB_matin id="RB_Adorabunt_eum_Omnes_reges"/>
+<benedictus id="AN_Tria_sunt_munera"/>
+<oratio id="COL_Deus_cuius_Unigenitus_in_substantia_nostrae"/>
+<HYMNUS_tertiam id="hy_Certum_tenentes_ordinem"/>
+<ant4 id="AN_Mysterium_quod_absconditum"/>
+<LB_3 id="LB_Is_45_13"/>
+<RB_3 id="VERS_In_terris_visus_est_Et"/>
+<HYMNUS_sextam id="hy_Dicamus_laudes_Domino"/>
+<ant5 id="AN_Veniens_Christus_evangelizavit"/>
+<LB_6 id="LB_Is_48_20"/>
+<RB_6 id="VERS_Videbunt_gentes_iustum_tuum_Et"/>
+<HYMNUS_nonam id="hy_Ternis_horarum_terminis"/>
+<ant6 id="AN_Ecce_dedi_te"/>
+<LB_9 id="LB_Is_65_1"/>
+<RB_9 id="VERS_Benedicite_gentes_Deum_nostrum_Et"/>
+<HYMNUS_vepres id="hy_Hostis_Herodes_impie"/>
+<LB_soir id="LB_Eph_2_3b-5"/>
+<RB_soir id="RB_Benedicentur_in_ipso_Omnes"/>
+<magnificat id="AN_Lux_de_luce"/>
+</liturgia>

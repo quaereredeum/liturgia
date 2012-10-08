@@ -1,0 +1,679 @@
+<?xml version="1.0"?>
+<calendarium><ordo id="RE"><messe>01-31</messe><priorite>10</priorite><pV/><couleur>Blanc</couleur><reference>S. Ioannis Bosco, presbyteri</reference><sanctoral><la>S. Ioannis Bosco, presbyteri</la><fr>St Jean Bosco, pr&#xEA;tre.</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada III per annum</la><fr>III&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. Ioannis Bosco, presbyteri</la><fr>St Jean Bosco, pr&#xEA;tre.</fr></intitule><rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang><hebdomada_psalterium>3</hebdomada_psalterium><phase_lunaire>85,42</phase_lunaire><age_lunaire>18</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_35</psautier>
+		<psalterium>psalterium_35</psalterium>
+		<ferie>perannum_35</ferie>
+		<special/>
+		<propre>0131</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_35</psautier>
+		<psalterium>psalterium_35</psalterium>
+		<ferie>perannum_35</ferie>
+		<special/>
+		<propre>0131</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. IOANNIS BOSCO, PRESBYTERI"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Nox_atra_rerum_contegit</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Christe_precamur_adnuas</HYMNUS_lec_jour>
+<antL1 id="HY_Christe_precamur_adnuas"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Liberasti_virgam</Vant1>
+<Vps1>ps73</Vps1>
+<Vant2>AN_Et_invocabimus</Vant2>
+<Vps2>ps74</Vps2>
+<Vant3>AN_Tu_es_Deus_qui_factis</Vant3>
+<Vps3>ps76</Vps3>
+<Vant4>AN_Inclinate_aurem</Vant4>
+<Vps4>ps77I</Vps4>
+<Vant5/>
+<Vps5>ps77II</Vps5>
+<Vant6>AN_Propitius_esto</Vant6>
+<Vps6>ps78</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia</Vant7>
+<Vps7>ps79</Vps7>
+<Vant8/>
+<Vps8>ps80</Vps8>
+<Vant9/>
+<Vps9>ps81</Vps9>
+<Vant10/>
+<Vps10>ps82</Vps10>
+<Vant11/>
+<Vps11>ps83</Vps11>
+<Vant12/>
+<Vps12>ps84</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Inclitus_rector_pater_atque_prudens</HYMNUS_laudes>
+<ant1>AN_Gloriosa_dicta_sunt</ant1>
+<ps1>ps86</ps1>
+<ant2>AN_Dominus_in_fortitudine</ant2>
+<ps2>AT25</ps2>
+<ant3>AN_Exaltate_Dominum_Deum</ant3>
+<ps3>ps98</ps3>
+<LB_matin>LB_Hebr_13_7-9a</LB_matin> 
+<RB_matin>RB_Super_te_Ierusalem_Constitui</RB_matin> <benedictus>AN_Non_vos_estis</benedictus><laudes_preces>perannum_35</laudes_preces><oratio_laudes>COL_Deus_qui_beatum_Ioannem_presbyterum_adulescentium</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Suscipe_me_Domine</ant4>
+<ps4>ps118XV</ps4>
+<ant5>AN_Adiuva_nos_Deus</ant5>
+<ps5>ps78</ps5>
+<ant6>AN_Deus_virtutum_respice</ant6>
+<ps6>ps79</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. IOANNIS BOSCO, PRESBYTERI</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Magnae_Deus_potentiae</HYMNUS_vepres>
+<ant7>AN_Sancti_tui_exsultent</ant7>
+<ps7>ps131I</ps7>
+<ant8>AN_Elegit_Dominus_Sion</ant8>
+<ps8>ps131II</ps8>
+<ant9>AN_Dedit_ei_Dominus</ant9>
+<ps9>NT10</ps9>
+<LB_soir>LB_1_Petr_5_1-4</LB_soir>
+<RB_soir>RB_Hic_est_fratrum_amator_</RB_soir>
+<magnificat>AN_Iste_est_fidelis</magnificat>
+<vepres_preces>perannum_35</vepres_preces>
+<oratio_vepres>COL_Deus_qui_beatum_Ioannem_presbyterum_adulescentium</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
+<comp_ant1>AN_Caro_mea</comp_ant1>
+<comp_ps1>ps15</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Th_5_23-24</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Domine_Deus_noster</comp_oratio><comp_AM>Alma_redemptoris</comp_AM><messe id="01-31">
+<IN>IN_Dispersit_dedit_pauperibus</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_qui_beatum_Ioannem_presbyterum_adulescentium</COL>
+<LEC1>01-31</LEC1>	
+<PS1>GR_Venite_filii</PS1>
+<LEC2/>
+<PS2>AL_Iustus_germinabit</PS2>
+<SEQ/>
+<EV>EV_01-31</EV>
+<OF>OF_Factus_est_Dominus</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Amen_dico_vobis_quod_uni</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SWF"><messe>01-31</messe><priorite>10</priorite><pV/><couleur>Blanc</couleur><reference>S. Ioannis Bosco, presbyteri</reference><sanctoral><la>S. Ioannis Bosco, presbyteri</la><fr>St Jean Bosco, pr&#xEA;tre.</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada III per annum</la><fr>III&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. Ioannis Bosco, presbyteri</la><fr>St Jean Bosco, pr&#xEA;tre.</fr></intitule><rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang><hebdomada_psalterium>3</hebdomada_psalterium><phase_lunaire>85,42</phase_lunaire><age_lunaire>18</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_35</psautier>
+		<psalterium>psalterium_35</psalterium>
+		<ferie>perannum_35</ferie>
+		<special/>
+		<propre>0131</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_35</psautier>
+		<psalterium>psalterium_35</psalterium>
+		<ferie>perannum_35</ferie>
+		<special/>
+		<propre>0131</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. IOANNIS BOSCO, PRESBYTERI"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Nox_atra_rerum_contegit</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Christe_precamur_adnuas</HYMNUS_lec_jour>
+<antL1 id="HY_Christe_precamur_adnuas"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Liberasti_virgam</Vant1>
+<Vps1>ps73</Vps1>
+<Vant2>AN_Et_invocabimus</Vant2>
+<Vps2>ps74</Vps2>
+<Vant3>AN_Tu_es_Deus_qui_factis</Vant3>
+<Vps3>ps76</Vps3>
+<Vant4>AN_Inclinate_aurem</Vant4>
+<Vps4>ps77I</Vps4>
+<Vant5/>
+<Vps5>ps77II</Vps5>
+<Vant6>AN_Propitius_esto</Vant6>
+<Vps6>ps78</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia</Vant7>
+<Vps7>ps79</Vps7>
+<Vant8/>
+<Vps8>ps80</Vps8>
+<Vant9/>
+<Vps9>ps81</Vps9>
+<Vant10/>
+<Vps10>ps82</Vps10>
+<Vant11/>
+<Vps11>ps83</Vps11>
+<Vant12/>
+<Vps12>ps84</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Inclitus_rector_pater_atque_prudens</HYMNUS_laudes>
+<ant1>AN_Gloriosa_dicta_sunt</ant1>
+<ps1>ps86</ps1>
+<ant2>AN_Dominus_in_fortitudine</ant2>
+<ps2>AT25</ps2>
+<ant3>AN_Exaltate_Dominum_Deum</ant3>
+<ps3>ps98</ps3>
+<LB_matin>LB_Hebr_13_7-9a</LB_matin> 
+<RB_matin>RB_Super_te_Ierusalem_Constitui</RB_matin> <benedictus>AN_Non_vos_estis</benedictus><laudes_preces>perannum_35</laudes_preces><oratio_laudes>COL_Deus_qui_beatum_Ioannem_presbyterum_adulescentium</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Suscipe_me_Domine</ant4>
+<ps4>ps118XV</ps4>
+<ant5>AN_Adiuva_nos_Deus</ant5>
+<ps5>ps78</ps5>
+<ant6>AN_Deus_virtutum_respice</ant6>
+<ps6>ps79</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. IOANNIS BOSCO, PRESBYTERI</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Magnae_Deus_potentiae</HYMNUS_vepres>
+<ant7>AN_Sancti_tui_exsultent</ant7>
+<ps7>ps131I</ps7>
+<ant8>AN_Elegit_Dominus_Sion</ant8>
+<ps8>ps131II</ps8>
+<ant9>AN_Dedit_ei_Dominus</ant9>
+<ps9>NT10</ps9>
+<LB_soir>LB_1_Petr_5_1-4</LB_soir>
+<RB_soir>RB_Hic_est_fratrum_amator_</RB_soir>
+<magnificat>AN_Iste_est_fidelis</magnificat>
+<vepres_preces>perannum_35</vepres_preces>
+<oratio_vepres>COL_Deus_qui_beatum_Ioannem_presbyterum_adulescentium</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
+<comp_ant1>AN_Caro_mea</comp_ant1>
+<comp_ps1>ps15</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Th_5_23-24</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Domine_Deus_noster</comp_oratio><comp_AM>Alma_redemptoris</comp_AM><messe id="01-31">
+<IN>IN_Dispersit_dedit_pauperibus</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_qui_beatum_Ioannem_presbyterum_adulescentium</COL>
+<LEC1>01-31</LEC1>	
+<PS1>GR_Venite_filii</PS1>
+<LEC2/>
+<PS2>AL_Iustus_germinabit</PS2>
+<SEQ/>
+<EV>EV_01-31</EV>
+<OF>OF_Factus_est_Dominus</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Amen_dico_vobis_quod_uni</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SMK"><messe>01-31</messe><priorite>10</priorite><pV/><couleur>Blanc</couleur><reference>S. Ioannis Bosco, presbyteri</reference><sanctoral><la>S. Ioannis Bosco, presbyteri</la><fr>St Jean Bosco, pr&#xEA;tre.</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada III per annum</la><fr>III&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. Ioannis Bosco, presbyteri</la><fr>St Jean Bosco, pr&#xEA;tre.</fr></intitule><rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang><hebdomada_psalterium>3</hebdomada_psalterium><phase_lunaire>85,42</phase_lunaire><age_lunaire>18</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_35</psautier>
+		<psalterium>psalterium_35</psalterium>
+		<ferie>perannum_35</ferie>
+		<special/>
+		<propre>0131</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_35</psautier>
+		<psalterium>psalterium_35</psalterium>
+		<ferie>perannum_35</ferie>
+		<special/>
+		<propre>0131</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. IOANNIS BOSCO, PRESBYTERI"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Nox_atra_rerum_contegit</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Christe_precamur_adnuas</HYMNUS_lec_jour>
+<antL1 id="HY_Christe_precamur_adnuas"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Liberasti_virgam</Vant1>
+<Vps1>ps73</Vps1>
+<Vant2>AN_Et_invocabimus</Vant2>
+<Vps2>ps74</Vps2>
+<Vant3>AN_Tu_es_Deus_qui_factis</Vant3>
+<Vps3>ps76</Vps3>
+<Vant4>AN_Inclinate_aurem</Vant4>
+<Vps4>ps77I</Vps4>
+<Vant5/>
+<Vps5>ps77II</Vps5>
+<Vant6>AN_Propitius_esto</Vant6>
+<Vps6>ps78</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia</Vant7>
+<Vps7>ps79</Vps7>
+<Vant8/>
+<Vps8>ps80</Vps8>
+<Vant9/>
+<Vps9>ps81</Vps9>
+<Vant10/>
+<Vps10>ps82</Vps10>
+<Vant11/>
+<Vps11>ps83</Vps11>
+<Vant12/>
+<Vps12>ps84</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Inclitus_rector_pater_atque_prudens</HYMNUS_laudes>
+<ant1>AN_Gloriosa_dicta_sunt</ant1>
+<ps1>ps86</ps1>
+<ant2>AN_Dominus_in_fortitudine</ant2>
+<ps2>AT25</ps2>
+<ant3>AN_Exaltate_Dominum_Deum</ant3>
+<ps3>ps98</ps3>
+<LB_matin>LB_Hebr_13_7-9a</LB_matin> 
+<RB_matin>RB_Super_te_Ierusalem_Constitui</RB_matin> <benedictus>AN_Non_vos_estis</benedictus><laudes_preces>perannum_35</laudes_preces><oratio_laudes>COL_Deus_qui_beatum_Ioannem_presbyterum_adulescentium</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Suscipe_me_Domine</ant4>
+<ps4>ps118XV</ps4>
+<ant5>AN_Adiuva_nos_Deus</ant5>
+<ps5>ps78</ps5>
+<ant6>AN_Deus_virtutum_respice</ant6>
+<ps6>ps79</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. IOANNIS BOSCO, PRESBYTERI</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Magnae_Deus_potentiae</HYMNUS_vepres>
+<ant7>AN_Sancti_tui_exsultent</ant7>
+<ps7>ps131I</ps7>
+<ant8>AN_Elegit_Dominus_Sion</ant8>
+<ps8>ps131II</ps8>
+<ant9>AN_Dedit_ei_Dominus</ant9>
+<ps9>NT10</ps9>
+<LB_soir>LB_1_Petr_5_1-4</LB_soir>
+<RB_soir>RB_Hic_est_fratrum_amator_</RB_soir>
+<magnificat>AN_Iste_est_fidelis</magnificat>
+<vepres_preces>perannum_35</vepres_preces>
+<oratio_vepres>COL_Deus_qui_beatum_Ioannem_presbyterum_adulescentium</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
+<comp_ant1>AN_Caro_mea</comp_ant1>
+<comp_ps1>ps15</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Th_5_23-24</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Domine_Deus_noster</comp_oratio><comp_AM>Alma_redemptoris</comp_AM><messe id="01-31">
+<IN>IN_Dispersit_dedit_pauperibus</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_qui_beatum_Ioannem_presbyterum_adulescentium</COL>
+<LEC1>01-31</LEC1>	
+<PS1>GR_Venite_filii</PS1>
+<LEC2/>
+<PS2>AL_Iustus_germinabit</PS2>
+<SEQ/>
+<EV>EV_01-31</EV>
+<OF>OF_Factus_est_Dominus</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Amen_dico_vobis_quod_uni</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><viergemarie>
+ <intitule> </intitule></viergemarie><jerusalem/><piete>
+ <intitule/></piete><calendriercivil>
+ <intitule/></calendriercivil><journeesdediees>
+ <intitule/></journeesdediees><biographie>
+ <intitule>St Jean Bosco, pr&#xEA;tre.</intitule>
+ <biographiecourte>Fondateur de la famille sal&#xE9;sienne (&#x2020;1888)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage>P&#xE8;re et ma&#xEE;tre des jeunes</patronage></biographie><martyrologe><para id="0">1. M&#xE9;moire de saint Jean Bosco, pr&#xEA;tre. Il connut une enfance pauvre et dure, et apr&#xE8;s son ordination, il mit &#xE0; Turin toute son &#xE9;nergie &#xE0; l&#x2019;&#xE9;ducation des jeunes et fonda la Soci&#xE9;t&#xE9; de Saint-Fran&#xE7;ois de Sales et, avec l&#x2019;aide de sainte Marie-Dominique Mazarello, l&#x2019;Institut des Filles de Marie Auxiliatrice, pour enseigner aux jeunes un m&#xE9;tier et la vie chr&#xE9;tienne. Apr&#xE8;s avoir r&#xE9;alis&#xE9; tant de projets, il mourut &#xE0; Turin en 1888. </para><para id="1">2. Comm&#xE9;moraison de saint M&#xE9;ran, martyr d&#x2019;Alexandrie, en 249. Avant m&#xEA;me la pers&#xE9;cution de D&#xE8;ce, les pa&#xEF;ens voulurent le contraindre &#xE0; prof&#xE9;rer des paroles impies, il s&#x2019;y refusa&#xA0;; ils le ru&#xE8;rent de coups et le lapid&#xE8;rent hors de la ville. </para><para id="2">3. &#xC0; Corinthe, en 250, les saints martyrs Victorin, Victor, Nic&#xE9;phore, Claude, Diodore, S&#xE9;rapion et Papias, dont on rapporte le martyre en divers supplices sous l&#x2019;empereur D&#xE8;ce. </para><para id="3">4. &#xC0; Alexandrie, au IVe si&#xE8;cle, les saints martyrs Cyr et Jean, qui, apr&#xE8;s beaucoup de tourments pour avoir confess&#xE9; la foi du Christ, furent d&#xE9;capit&#xE9;s. </para><para id="4">5. En Perse, l&#x2019;an 345, la passion de saint Abraham, &#xE9;v&#xEA;que d&#x2019;Arbel. Sous le roi des Perses Sapor, comme on lui ordonnait d&#x2019;adorer le soleil, il refusa et fut d&#xE9;capit&#xE9;. </para><para id="5">6. &#xC0; Mod&#xE8;ne en &#xC9;milie, vers 396, saint G&#xE9;minien, &#xE9;v&#xEA;que, qui ramena son &#xC9;glise, de l&#x2019;erreur des ariens, &#xE0; la foi orthodoxe.</para><para id="6">7. &#xC0; Novare en Ligurie, au IVe si&#xE8;cle, saint Jules, pr&#xEA;tre. </para><para id="7">8. &#xC0; Rome, comm&#xE9;moraison de sainte Marcelle, veuve, en 410. Comme l&#x2019;&#xE9;crit saint J&#xE9;r&#xF4;me, elle m&#xE9;prisa richesses et noblesse et se rendit plus noble par sa pauvret&#xE9; et son humilit&#xE9;. </para><para id="8">9*. &#xC0; Fern en Irlande, vers 626, saint Maedhoc ou Aidan, &#xE9;v&#xEA;que, qui fonda en cet endroit un monast&#xE8;re et se rendit c&#xE9;l&#xE8;bre par une extr&#xEA;me aust&#xE9;rit&#xE9;. </para><para id="9">10*. Sur le territoire de Coutances, au VIIe si&#xE8;cle, saint Gaud, qui fut &#xE9;v&#xEA;que d&#x2019;&#xC9;vreux. </para><para id="10">11*. Au mont Saint Victor pr&#xE8;s de Rankweil en Bavi&#xE8;re, l&#x2019;an 884, saint Eus&#xE8;be, ermite. Irlandais d&#x2019;origine, il se fit p&#xE8;lerin pour le Christ, moine &#xE0; Saint-Gall en Suisse et enfin ermite. </para><para id="11">12*. &#xC0; Rome, en 1533, la bienheureuse Louise Albertoni. Elle &#xE9;leva tr&#xE8;s chr&#xE9;tiennement ses trois filles et, apr&#xE8;s la mort de son mari, elle prit l&#x2019;habit du Tiers-Ordre franciscain, secourut abondamment les pauvres et, de riche qu&#x2019;elle &#xE9;tait, devint elle-m&#xEA;me tr&#xE8;s pauvre. </para><para id="12">13. &#xC0; Naples en Campanie, l&#x2019;an 1715, saint Fran&#xE7;ois-Xavier-Marie Bianchi, pr&#xEA;tre de l&#x2019;Ordre des Clercs r&#xE9;guliers de Saint Paul. Riche de dons mystiques, il amena beaucoup avec lui pour vivre sous la gr&#xE2;ce de l&#x2019;&#xC9;vangile. </para><para id="13">14. En Cor&#xE9;e, l&#x2019;an 1840, les saints martyrs Augustin Pak Chong-won, cat&#xE9;chiste, et cinq compagnons. Apr&#xE8;s avoir support&#xE9; de nombreux supplices, ils continu&#xE8;rent &#xE0; professer la foi chr&#xE9;tienne avec une force intr&#xE9;pide et furent d&#xE9;capit&#xE9;s, rendant ainsi gloire &#xE0; Dieu. </para><para id="14">15*. &#xC0; Picassent dans la r&#xE9;gion de Valence en Espagne, l&#x2019;an 1937, la bienheureuse Marie-Louise Montesimos Ordu&#xF1;a, vierge et martyre. Membre de l&#x2019;action catholique ouvri&#xE8;re, elle fut ex&#xE9;cut&#xE9;e avec son p&#xE8;re, ses trois fr&#xE8;res et son oncle dans la pers&#xE9;cution d&#xE9;cha&#xEE;n&#xE9;e contre l&#x2019;&#xC9;glise au cours de la guerre civile espagnole.</para><para id="15">&#xA0;</para><para id="16"/></martyrologe></calendarium>

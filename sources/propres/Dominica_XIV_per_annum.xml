@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XIV per annum</la>
+<fr>XIV&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Confiteor_tibi_Pater"/>
+<magnificat1_B id="AN_Multi_audientes_admirabantur"/>
+<magnificat1_C id="AN_Messis_quidem_multa"/>
+<oratio id="COL_Deus_qui_in_Filii_tui_humilitate"/>
+<benedictus_A id="AN_Tollite_iugum_meum"/>
+<benedictus_B id="AN_Amen_dico_vobis"/>
+<benedictus_C id="AN_In_quamcumque_domum"/>
+<magnificat2_A id="AN_Iugum_meum_suave"/>
+<magnificat2_B id="AN_Egressus_Iesus_e"/>
+<magnificat2_C id="AN_Gaudete_et_exsultate"/>
+</liturgia>

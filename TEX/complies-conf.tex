@@ -1,0 +1,231 @@
+\setmarginsrb{1.4cm}{1cm}{1.4cm}{2cm}{0.25cm}{15pt}{0.25cm}{0cm}
+\renewcommand{\headheight}{13pt}
+\renewcommand{\headrulewidth}{0pt}
+
+\chead{{\fontfamily{toxj}\fontshape{it}\fontsize{12}{12}\selectfont Complies}}
+\rhead[]{{\fontsize{13}{13}\selectfont\thepage\relax}}
+\lhead[\fontfamily{pagj}{\fontsize{13}{13}\selectfont\thepage\relax}]{}
+\cfoot{}
+
+\def\grebf#1{%
+{\fontfamily{pagj}\fontseries{b}\selectfont #1}%
+}
+
+\def\gae{\~n\kern 0.3pt\relax}
+
+\def\ae{\gae}
+
+\def\greoe{%
+\oe\kern 0.5pt%
+\relax %
+}
+
+\pagestyle{fancy}
+
+\def\grestar{%
+{\gregoriansymbolfont \char 71}%
+\relax %
+}
+
+% the macro to typeset a dagger
+\def\gredagger{%
+{\gregoriansymbolfont \char 68}%
+\relax%
+}
+
+% macro to typeset a (malt) cross
+\def\grecross{%
+{\gregoriansymbolfont \char 84}%
+\relax%
+}
+
+\definecolor{rougeliturgique}{rgb}{0.828,0.218,0.07}
+
+\font\gregoriansymbolfont = gresym at 13pt
+
+
+\def\greitalic#1{{\fontfamily{toxj}\fontshape{it}\fontsize{11}{11}\selectfont #1}}
+
+\def\greitalicaftersc#1{{\fontfamily{toxj}\fontshape{it}\fontsize{14}{14}\selectfont #1}}
+
+\def\greitalicnormal#1{{\fontfamily{toxj}\fontshape{it}\fontsize{12}{12}\selectfont #1}}
+
+\def\greitalicsmall#1{{\fontfamily{toxj}\fontshape{it}\fontsize{12}{12}\selectfont #1}}
+
+\def\grecomment#1{{\fontfamily{toxj}\fontshape{it}\fontsize{12}{12}\selectfont #1}}
+
+\def\grecommentnotsosmall#1{{\fontfamily{toxj}\fontshape{it}\fontsize{11.2}{11.2}\selectfont #1}}
+
+\def\greperiod#1{%
+{\fontfamily{tovj}\fontseries{b}\fontsize{11.4}{11.4}\selectfont #1}%
+}
+
+\def\greperiodsmall#1{%
+{\fontfamily{tovj}\fontseries{b}\fontsize{11}{11}\selectfont #1}%
+}
+
+% the worst hack in the world
+\def\gzero{%
+\kern 0pt\char 160\kern 0pt}
+
+\def\gone{%
+\kern 0pt\char 161\kern 1.5pt}
+
+\def\gtwo{%
+\kern 0pt\char 162\kern 0pt}
+
+\def\gthree{%
+\kern 0pt\char 163\kern 0pt}
+
+\def\gfour{%
+\kern 0pt\char 164\kern 1pt}
+
+\def\gfive{%
+\kern 0pt\char 165\kern 0pt}
+
+\def\gsix{%
+\kern 0pt\char 166\kern 0pt}
+
+\def\gseven{%
+\kern 0pt\char 167\kern 0pt}
+
+\def\gheight{%
+\kern 0pt\char 169\kern -2pt}
+
+\def\gnine{%
+\kern 1pt\char 170\kern 2pt}
+
+\def\oremus{%
+\twocolspace{0.6cm}%
+\latin{\hfill Orémus.\hfill\ }%
+\vern{\hfill Prions.\hfill\ }%
+
+\twocolspace{0.1cm}%
+}
+
+\def\aeacute{%
+%{\fontencoding{OT2}\selectfont\'\  \relax}
+{\kern -0.2pt\~a\kern 2.2pt\relax}%
+}
+
+\def\divinum{%
+\latin{\vbar\ Divínum auxílium máneat semper nobíscum.}
+\vern{\vbar\ Puisse l'aide divine rester éternellement avec nous.}
+
+\latin{\rbar\ Et cum frátribus nostris abséntibus. Amen.}
+\vern{\rbar\ Et avec nos frères absents. Amen.}
+}
+
+\def\amen{%
+\latin{\rbar\ Amen.}%
+\vern{\rbar\ Amen.}%
+\relax %
+}
+
+\def\latin#1{%
+\selectlanguage{latin}
+\ParallelLText{#1}%
+\selectlanguage{francais}%
+\relax %
+}
+
+\def\vern#1{%
+\ParallelRText{#1}%
+%\ParallelLText{\ \vspace*{1mm}}\ParallelRText{\ \vspace*{1mm}}%
+\ParallelPar %
+%\kern -1mm%
+\relax %
+}
+
+\def\firstlatin#1#2#3#4{%
+\latin{%
+\noindent\begin{minipage}{\ParallelLWidth}%
+\grelettrine{#2}{#3}{#1}#4\vspace{0.9mm}\vspace{0.13cm}%
+\end{minipage}%
+}%
+\vspace{-0.2cm}%
+}
+
+\def\firstlatinq#1#2#3#4{%
+\latin{%
+\noindent\begin{minipage}{\ParallelLWidth}%
+\grelettrineq{#2}{#3}{#1}#4\vspace{0.9mm}\vspace{0.13cm}%
+\end{minipage}%
+}%
+\vspace{-0.2cm}%
+}
+
+\font\linefont = gresym at 200pt
+
+\def\rbar{%
+%{{\fontfamily{tovj}\selectfont R}\kern -3pt\lower 1.1pt\hbox{\barfont\char 67}}%
+%\kern 3.5pt%
+{\goth\char 77}%
+\kern 2pt%
+\relax %
+}
+
+\def\vbar{%
+%{{\fontfamily{tovj}\selectfont V}\kern -8.3pt\lower 0.6pt\hbox{\barfont\char 74}}%
+%\kern 5pt%
+{\goth\char 78}%
+\kern 2pt%
+\relax %
+}
+
+\def\breakparallel{%
+\twocolspace{0.5cm}\vspace{-0.5cm}\end{Parallel}\ \begin{Parallel}[v]{\colwidth}{\colwidth}%
+}
+
+\font\barfont=gresym at 15.7pt
+\font\goth=gresym at 13pt
+
+
+\def\firstvern#1#2#3#4{%
+\vern{%
+\noindent\begin{minipage}{\ParallelRWidth}%
+\grelettrine{#2}{#3}{#1}#4\vspace{0.9mm}\vspace{0.13cm}%
+\end{minipage}%
+}%
+\vspace{-0.2cm}%
+}
+
+\def\firstvernq#1#2#3#4{%
+\vern{%
+\noindent\begin{minipage}{\ParallelRWidth}%
+\grelettrineq{#2}{#3}{#1}#4\vspace{0.9mm}\vspace{0.13cm}%
+\end{minipage}%
+}%
+\vspace{-0.2cm}%
+}
+
+
+\def\grelettrine#1#2#3{%
+\lettrine[#3]{\fontfamily{toxj}\selectfont #1\relax }{#2}%
+}
+
+\def\grelettrineq#1#2#3{%
+\lettrine[#3]{\fontfamily{touj}\selectfont #1\relax }{#2}%
+}
+
+\newdimen\colwidth
+\colwidth=5.7cm
+
+\newdimen\temp 
+\def\twocolspace#1{%
+\temp=#1%
+\advance\temp by 1mm%
+\latin{\ \vspace{\temp}}\vern{\ \vspace{\temp}}%
+\kern -1mm%
+\relax %
+}
+
+\def\twocolstrictspace#1{%
+\temp=#1%
+\advance\temp by 1mm%
+\ParallelLText{\ \vspace*{\temp}}\ParallelRText{\ \vspace*{\temp}}%
+\kern -1mm%
+\relax %
+}
+
+\def\gresc#1{{\fontfamily{tovj}\fontshape{sc}\selectfont #1}}

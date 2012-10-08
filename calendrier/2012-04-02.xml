@@ -1,0 +1,679 @@
+<?xml version="1.0"?>
+<calendarium><ordo id="RE"><messe>Feria_II_hebdomadae_sanctae</messe><priorite>2</priorite><pV/><couleur>Violet</couleur><reference>Feria II hebdomadae sanctae</reference><sanctoral><la>St Nizier, &#xE9;v&#xEA;que.</la><fr>St Nizier, &#xE9;v&#xEA;que.</fr></sanctoral><tempus><la>Tempus passionis</la><fr>Temps de la Passion</fr></tempus><hebdomada><la>Hebdomada Sancta</la><fr>Semaine sainte</fr></hebdomada><intitule><la>Feria II hebdomadae sanctae</la><fr>Lundi de la semaine sainte</fr></intitule><rang><la/><fr/></rang><hebdomada_psalterium>2</hebdomada_psalterium><phase_lunaire>72,17</phase_lunaire><age_lunaire>9</age_lunaire><selection/><matin>
+		<temps>Tempus passionis</temps>
+		<psautier>psautier_22</psautier>
+		<psalterium>psalterium_22</psalterium>
+		<ferie>passionis_2</ferie>
+		<special/>
+		<propre>Feria II hebdomadae sanctae</propre>
+		<lettre_annee>B</lettre_annee>
+		<cel>Feria II hebdomadae sanctae</cel>
+	</matin><soir>
+		<temps>Tempus passionis</temps>
+		<psautier>psautier_22</psautier>
+		<psalterium>psalterium_22</psalterium>
+		<ferie>passionis_2</ferie>
+		<special/>
+		<propre>Feria II hebdomadae sanctae</propre>
+		<lettre_annee>B</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="HEBDOMADA SANCTA - Feria Secunda"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Ipsum_nunc_nobis_tempus_est</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Vita_sanctorum_via_spes_salusque</HYMNUS_lec_jour>
+<antL1 id="HY_Vita_sanctorum_via_spes_salusque"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Rectos_decet</Vant1>
+<Vps1>ps32</Vps1>
+<Vant2>AN_Immitet_angelus</Vant2>
+<Vps2>ps33</Vps2>
+<Vant3>AN_Expugna_impugnantes</Vant3>
+<Vps3>ps34</Vps3>
+<Vant4>AN_Revela_Domino</Vant4>
+<Vps4>ps36I</Vps4>
+<Vant5>AN_Custodi_innocentiam</Vant5>
+<Vps5>ps36II</Vps5>
+<Vant6>AN_Ne_in_ira</Vant6>
+<Vps6>ps37</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia_alleluia</Vant7>
+<Vps7>ps38</Vps7>
+<Vant8/>
+<Vps8>ps39</Vps8>
+<Vant9/>
+<Vps9>ps40</Vps9>
+<Vant10/>
+<Vps10>ps41</Vps10>
+<Vant11/>
+<Vps11>ps43</Vps11>
+<Vant12/>
+<Vps12>ps44</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_En_acetum_fel_arundo</HYMNUS_laudes>
+<ant1>AN_Ait_Iesus_Tristis</ant1>
+<ps1>ps41</ps1>
+<ant2>AN_Nunc_iudicium_est</ant2>
+<ps2>AT15</ps2>
+<ant3>AN_Auctor_fidei_nostrae</ant3>
+<ps3>ps18A</ps3>
+<LB_matin>LB_Ier_11_19-20</LB_matin> 
+<RB_matin>RB_Redemisti_nos_Domine_In</RB_matin> <benedictus>AN_Pater_iuste</benedictus><laudes_preces>perannum_22</laudes_preces><oratio_laudes>COL_Da_quaesumus_omnipotens_Deus_ut_qui</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Salva_Redemptor_plasma_tuum_nobile</HYMNUS_3>
+<HYMNUS_6>hy_Crux_mundi_benedictio</HYMNUS_6>
+<HYMNUS_9>hy_Per_crucem_Christe_quaesumus</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Ante_diem_festum</ant4>
+<ps4>ps118VI</ps4>
+<ant5>AN_Sicut_novit_me</ant5>
+<ps5>ps39I</ps5>
+<ant6>AN_Mihi_vivere_Christus</ant6>
+<ps6>ps39II</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>HEBDOMADA SANCTA - Feria Secunda</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Vexilla_regis_prodeunt</HYMNUS_vepres>
+<ant7>AN_Non_est_ei</ant7>
+<ps7>ps44I</ps7>
+<ant8>AN_Dispertiam_ei_plurimos</ant8>
+<ps8>ps44II</ps8>
+<ant9>AN_Gratificavit_nos_Deus</ant9>
+<ps9>NT4</ps9>
+<LB_soir>LB_Rom_5_8-9</LB_soir>
+<RB_soir>RB_Adoramus_te_Christe_Et</RB_soir>
+<magnificat>AN_Sicut_Moyses_exaltavit</magnificat>
+<vepres_preces>perannum_22</vepres_preces>
+<oratio_vepres>COL_Da_quaesumus_omnipotens_Deus_ut_qui</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+<comp_ps1>ps85</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Ave_regina_caelorum</comp_AM><messe id="Feria_II_hebdomadae_sanctae">
+<IN/>
+
+<KY/>
+<GLO/><COL>COL_Da_quaesumus_omnipotens_Deus_ut_qui</COL>
+<LEC1>Feria_II_hebdomadae_sanctae_B</LEC1>	
+<PS1/>
+<LEC2>Feria_II_hebdomadae_sanctae_B</LEC2>
+<PS2/>
+<SEQ/>
+<EV>EV_Feria_II_hebdomadae_sanctae_B</EV>
+<OF/>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO/>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SWF"><messe>Feria_II_hebdomadae_sanctae</messe><priorite>2</priorite><pV/><couleur>Violet</couleur><reference>Feria II hebdomadae sanctae</reference><sanctoral><la>S. Francisci de Paola, eremitae</la><fr>St Fran&#xE7;ois de Paule, ermite</fr></sanctoral><tempus><la>Tempus passionis</la><fr>Temps de la Passion</fr></tempus><hebdomada><la>Hebdomada Sancta</la><fr>Semaine sainte</fr></hebdomada><intitule><la>Feria II hebdomadae sanctae</la><fr>Lundi de la semaine sainte</fr></intitule><rang><la/><fr/></rang><hebdomada_psalterium>2</hebdomada_psalterium><phase_lunaire>72,17</phase_lunaire><age_lunaire>9</age_lunaire><selection/><matin>
+		<temps>Tempus passionis</temps>
+		<psautier>psautier_22</psautier>
+		<psalterium>psalterium_22</psalterium>
+		<ferie>passionis_2</ferie>
+		<special/>
+		<propre>Feria II hebdomadae sanctae</propre>
+		<lettre_annee>B</lettre_annee>
+		<cel>Feria II hebdomadae sanctae</cel>
+	</matin><soir>
+		<temps>Tempus passionis</temps>
+		<psautier>psautier_22</psautier>
+		<psalterium>psalterium_22</psalterium>
+		<ferie>passionis_2</ferie>
+		<special/>
+		<propre>Feria II hebdomadae sanctae</propre>
+		<lettre_annee>B</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="HEBDOMADA SANCTA - Feria Secunda"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Ipsum_nunc_nobis_tempus_est</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Vita_sanctorum_via_spes_salusque</HYMNUS_lec_jour>
+<antL1 id="HY_Vita_sanctorum_via_spes_salusque"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Rectos_decet</Vant1>
+<Vps1>ps32</Vps1>
+<Vant2>AN_Immitet_angelus</Vant2>
+<Vps2>ps33</Vps2>
+<Vant3>AN_Expugna_impugnantes</Vant3>
+<Vps3>ps34</Vps3>
+<Vant4>AN_Revela_Domino</Vant4>
+<Vps4>ps36I</Vps4>
+<Vant5>AN_Custodi_innocentiam</Vant5>
+<Vps5>ps36II</Vps5>
+<Vant6>AN_Ne_in_ira</Vant6>
+<Vps6>ps37</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia_alleluia</Vant7>
+<Vps7>ps38</Vps7>
+<Vant8/>
+<Vps8>ps39</Vps8>
+<Vant9/>
+<Vps9>ps40</Vps9>
+<Vant10/>
+<Vps10>ps41</Vps10>
+<Vant11/>
+<Vps11>ps43</Vps11>
+<Vant12/>
+<Vps12>ps44</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_En_acetum_fel_arundo</HYMNUS_laudes>
+<ant1>AN_Ait_Iesus_Tristis</ant1>
+<ps1>ps41</ps1>
+<ant2>AN_Nunc_iudicium_est</ant2>
+<ps2>AT15</ps2>
+<ant3>AN_Auctor_fidei_nostrae</ant3>
+<ps3>ps18A</ps3>
+<LB_matin>LB_Ier_11_19-20</LB_matin> 
+<RB_matin>RB_Redemisti_nos_Domine_In</RB_matin> <benedictus>AN_Pater_iuste</benedictus><laudes_preces>perannum_22</laudes_preces><oratio_laudes>COL_Da_quaesumus_omnipotens_Deus_ut_qui</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Salva_Redemptor_plasma_tuum_nobile</HYMNUS_3>
+<HYMNUS_6>hy_Crux_mundi_benedictio</HYMNUS_6>
+<HYMNUS_9>hy_Per_crucem_Christe_quaesumus</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Ante_diem_festum</ant4>
+<ps4>ps118VI</ps4>
+<ant5>AN_Sicut_novit_me</ant5>
+<ps5>ps39I</ps5>
+<ant6>AN_Mihi_vivere_Christus</ant6>
+<ps6>ps39II</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>HEBDOMADA SANCTA - Feria Secunda</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Vexilla_regis_prodeunt</HYMNUS_vepres>
+<ant7>AN_Non_est_ei</ant7>
+<ps7>ps44I</ps7>
+<ant8>AN_Dispertiam_ei_plurimos</ant8>
+<ps8>ps44II</ps8>
+<ant9>AN_Gratificavit_nos_Deus</ant9>
+<ps9>NT4</ps9>
+<LB_soir>LB_Rom_5_8-9</LB_soir>
+<RB_soir>RB_Adoramus_te_Christe_Et</RB_soir>
+<magnificat>AN_Sicut_Moyses_exaltavit</magnificat>
+<vepres_preces>perannum_22</vepres_preces>
+<oratio_vepres>COL_Da_quaesumus_omnipotens_Deus_ut_qui</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+<comp_ps1>ps85</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Ave_regina_caelorum</comp_AM><messe id="Feria_II_hebdomadae_sanctae">
+<IN/>
+
+<KY/>
+<GLO/><COL>COL_Da_quaesumus_omnipotens_Deus_ut_qui</COL>
+<LEC1>Feria_II_hebdomadae_sanctae_B</LEC1>	
+<PS1/>
+<LEC2>Feria_II_hebdomadae_sanctae_B</LEC2>
+<PS2/>
+<SEQ/>
+<EV>EV_Feria_II_hebdomadae_sanctae_B</EV>
+<OF/>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO/>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SMK"><messe>Feria_II_hebdomadae_sanctae</messe><priorite>2</priorite><pV/><couleur>Violet</couleur><reference>Feria II hebdomadae sanctae</reference><sanctoral><la>S. Francisci de Paola, eremitae</la><fr>St Fran&#xE7;ois de Paule, ermite</fr></sanctoral><tempus><la>Tempus passionis</la><fr>Temps de la Passion</fr></tempus><hebdomada><la>Hebdomada Sancta</la><fr>Semaine sainte</fr></hebdomada><intitule><la>Feria II hebdomadae sanctae</la><fr>Lundi de la semaine sainte</fr></intitule><rang><la/><fr/></rang><hebdomada_psalterium>2</hebdomada_psalterium><phase_lunaire>72,17</phase_lunaire><age_lunaire>9</age_lunaire><selection/><matin>
+		<temps>Tempus passionis</temps>
+		<psautier>psautier_22</psautier>
+		<psalterium>psalterium_22</psalterium>
+		<ferie>passionis_2</ferie>
+		<special/>
+		<propre>Feria II hebdomadae sanctae</propre>
+		<lettre_annee>B</lettre_annee>
+		<cel>Feria II hebdomadae sanctae</cel>
+	</matin><soir>
+		<temps>Tempus passionis</temps>
+		<psautier>psautier_22</psautier>
+		<psalterium>psalterium_22</psalterium>
+		<ferie>passionis_2</ferie>
+		<special/>
+		<propre>Feria II hebdomadae sanctae</propre>
+		<lettre_annee>B</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="HEBDOMADA SANCTA - Feria Secunda"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Ipsum_nunc_nobis_tempus_est</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Vita_sanctorum_via_spes_salusque</HYMNUS_lec_jour>
+<antL1 id="HY_Vita_sanctorum_via_spes_salusque"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Rectos_decet</Vant1>
+<Vps1>ps32</Vps1>
+<Vant2>AN_Immitet_angelus</Vant2>
+<Vps2>ps33</Vps2>
+<Vant3>AN_Expugna_impugnantes</Vant3>
+<Vps3>ps34</Vps3>
+<Vant4>AN_Revela_Domino</Vant4>
+<Vps4>ps36I</Vps4>
+<Vant5>AN_Custodi_innocentiam</Vant5>
+<Vps5>ps36II</Vps5>
+<Vant6>AN_Ne_in_ira</Vant6>
+<Vps6>ps37</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia_alleluia</Vant7>
+<Vps7>ps38</Vps7>
+<Vant8/>
+<Vps8>ps39</Vps8>
+<Vant9/>
+<Vps9>ps40</Vps9>
+<Vant10/>
+<Vps10>ps41</Vps10>
+<Vant11/>
+<Vps11>ps43</Vps11>
+<Vant12/>
+<Vps12>ps44</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_En_acetum_fel_arundo</HYMNUS_laudes>
+<ant1>AN_Ait_Iesus_Tristis</ant1>
+<ps1>ps41</ps1>
+<ant2>AN_Nunc_iudicium_est</ant2>
+<ps2>AT15</ps2>
+<ant3>AN_Auctor_fidei_nostrae</ant3>
+<ps3>ps18A</ps3>
+<LB_matin>LB_Ier_11_19-20</LB_matin> 
+<RB_matin>RB_Redemisti_nos_Domine_In</RB_matin> <benedictus>AN_Pater_iuste</benedictus><laudes_preces>perannum_22</laudes_preces><oratio_laudes>COL_Da_quaesumus_omnipotens_Deus_ut_qui</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Salva_Redemptor_plasma_tuum_nobile</HYMNUS_3>
+<HYMNUS_6>hy_Crux_mundi_benedictio</HYMNUS_6>
+<HYMNUS_9>hy_Per_crucem_Christe_quaesumus</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Ante_diem_festum</ant4>
+<ps4>ps118VI</ps4>
+<ant5>AN_Sicut_novit_me</ant5>
+<ps5>ps39I</ps5>
+<ant6>AN_Mihi_vivere_Christus</ant6>
+<ps6>ps39II</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>HEBDOMADA SANCTA - Feria Secunda</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Vexilla_regis_prodeunt</HYMNUS_vepres>
+<ant7>AN_Non_est_ei</ant7>
+<ps7>ps44I</ps7>
+<ant8>AN_Dispertiam_ei_plurimos</ant8>
+<ps8>ps44II</ps8>
+<ant9>AN_Gratificavit_nos_Deus</ant9>
+<ps9>NT4</ps9>
+<LB_soir>LB_Rom_5_8-9</LB_soir>
+<RB_soir>RB_Adoramus_te_Christe_Et</RB_soir>
+<magnificat>AN_Sicut_Moyses_exaltavit</magnificat>
+<vepres_preces>perannum_22</vepres_preces>
+<oratio_vepres>COL_Da_quaesumus_omnipotens_Deus_ut_qui</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+<comp_ps1>ps85</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Ave_regina_caelorum</comp_AM><messe id="Feria_II_hebdomadae_sanctae">
+<IN/>
+
+<KY/>
+<GLO/><COL>COL_Da_quaesumus_omnipotens_Deus_ut_qui</COL>
+<LEC1>Feria_II_hebdomadae_sanctae_B</LEC1>	
+<PS1/>
+<LEC2>Feria_II_hebdomadae_sanctae_B</LEC2>
+<PS2/>
+<SEQ/>
+<EV>EV_Feria_II_hebdomadae_sanctae_B</EV>
+<OF/>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO/>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><viergemarie>
+ <intitule>Premi&#xE8;re Apparition &#xE0; Zeitoun (1968), reconnaissance du Patriarche copte  : f&#xEA;te liturgique des Apparitions de Zeitoun </intitule></viergemarie><jerusalem/><piete>
+ <intitule/></piete><calendriercivil>
+ <intitule/></calendriercivil><journeesdediees>
+ <intitule/></journeesdediees><biographie>
+ <intitule>St Fran&#xE7;ois de Paule, ermite</intitule>
+ <biographiecourte>Fondateur des Minimes, confesseur de Louis XI (&#x2020;1507)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie><martyrologe/><compendium/></calendarium>

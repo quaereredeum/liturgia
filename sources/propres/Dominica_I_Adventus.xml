@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica I Adventus</la>
+<fr>Ier dimanche de l'Avent</fr>
+</intitule>
+<magnificat1_A id="AN_Vigilate_ergo_dicit"/>
+<magnificat1_B id="AN_Ecce_nomen_Domini"/>
+<magnificat1_C id="AN_Erunt_signa_in"/>
+<oratio id="COL_Da_quaesumus_omnipotens_Deus_hanc_tuis"/>
+<benedictus_A id="AN_Si_sciret_paterfamilias"/>
+<benedictus_B id="AN_Vigilate_ergo_nescitis"/>
+<benedictus_C id="AN_Respicite_et_levate"/>
+<magnificat2_A id="AN_Spiritus_Sanctus_in"/>
+<magnificat2_B id="AN_Ne_timeas_Maria"/>
+<magnificat2_C id="AN_Beata_es_Maria"/>
+<superoblata>
+<la>S&#xFA;scipe, quaesumus, D&#xF3;mine, m&#xFA;nera quae de tuis off&#xE9;rimus coll&#xE1;ta benef&#xED;ciis, et, quod nostrae devoti&#xF3;ni conc&#xE9;dis &#xE9;ffici tempor&#xE1;li, tuae nobis fiat praemium redempti&#xF3;nis aet&#xE9;rnae. Per Christum.</la>
+<fr>Seigneur, nous ne pourrons jamais T'offrir que les biens venus de Toi : accepte ceux que nous T'apportons,  et puisque c'est Toi qui nous donne maintenant de c&#xE9;l&#xE9;brer l'eucharistie, fais qu'elle soit pour nous le gage du salut &#xE9;ternel.</fr>
+</superoblata>
+<postcommunio>
+<la>Prosint nobis, quaesumus, D&#xF3;mine, frequent&#xE1;ta myst&#xE9;ria, quibus nos, inter praetere&#xFA;ntia ambul&#xE1;ntes, iam nunc inst&#xED;tuis am&#xE1;re cael&#xE9;stia et inhaer&#xE9;re mans&#xFA;ris. Per Christum.</la>
+</postcommunio>
+<IN_lu>
+<la>Cf. Ps 24,1-3 Ad te lev&#xE1;vi &#xE1;nimam meam, Deus meus, in te conf&#xED;do, non erub&#xE9;scam. Neque irr&#xED;deant me inim&#xED;ci mei, &#xE9;tenim univ&#xE9;rsi qui te exsp&#xE9;ctant non confund&#xE9;ntur. </la>
+<fr>Vers Toi, &#xF4; mon Dieu, j'ai &#xE9;lev&#xE9; mon &#xE2;me. En Toi j'ai mis ma confiance, et je sais que je n'aurai point &#xE0; en rougir. En vain les ennemis de mon salut riront de ma patience : quiconque T'attend ne sera point confondu.</fr>
+</IN_lu>
+<CO_lu>
+<la>Ps 84,13 D&#xF3;minus dabit benignit&#xE1;tem, et terra nostra dabit fructum suum. </la>
+<fr>Le Seigneur r&#xE9;pandra sur nous Son bienfait, et notre terre produira son fruit. </fr>
+</CO_lu>
+<IN>
+<la>IN_Ad te levavi</la>
+</IN>
+<PSAL1>
+<la>GR_Universi</la>
+</PSAL1>
+<PSAL2>
+<la>AL_Ost&#xE9;nde nobis</la>
+</PSAL2>
+<OF>
+<la>OF_Ad te lev&#xE1;vi</la>
+</OF>
+<CO>
+<la>CO_D&#xF3;minus dabit</la>
+</CO>
+<PREF>
+<la>PRAEFATIO_I_DE ADVENTU</la>
+</PREF>
+<L1_A>
+<la>Is 2,1-5</la>
+</L1_A>
+<L2_A>
+<la>Rm 13,11-14</la>
+</L2_A>
+<EV_A>
+<la>Mt 24,37-44</la>
+</EV_A>
+<L1_B>
+<la>Is 63,16b-17,19b_64,2b-7</la>
+</L1_B>
+<L2_B>
+<la>1 Co 1,3-9</la>
+</L2_B>
+<EV_B>
+<la>Mc 13,33-37</la>
+</EV_B>
+<L1_C>
+<la>Jr 33,14-16</la>
+</L1_C>
+<L2_C>
+<la>1 Th 3,12-4,2</la>
+</L2_C>
+<EV_C>
+<la>Lc 21,25-28,34-36</la>
+</EV_C>
+</liturgia>

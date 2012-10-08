@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>DOMINICA IN PALMIS DE PASSIONE DOMINI</la>
+<fr>DIMANCHE DES RAMEAUX ET DE LA PASSION DU SEIGNEUR</fr>
+</intitule>
+<magnificat1_A id="AN_Dicite_filiae_Sion"/>
+<magnificat1_B id="AN_Multi_vestimenta_sua"/>
+<magnificat1_C id="AN_Discipuli_iactantes_vestimenta"/>
+<oratio id="COL_Omnipotens_sempiterne_Deus_qui_humano_generi"/>
+<benedictus_A id="AN_Fulgentibus_palmis_prosternimur"/>
+<benedictus_B id="AN_Qui_praeibant_et"/>
+<benedictus_C id="AN_Coeperunt_omnes_turbae"/>
+<magnificat2_A id="AN_Scriptum_est_Percutiam"/>
+<magnificat2_B id="AN_Ave_Rex_noster"/>
+<magnificat2_C id="AN_Dico_enim_vobis"/>
+<ant_invit id="INV_Christum_Dominum_pro"/>
+<HYMNUS_1V id="hy_Vexilla_regis_prodeunt"/>
+<ant01 id="AN_Tanto_tempore_vobiscum"/>
+<ant02 id="AN_Dominus_Deus_auxiliator"/>
+<ant03 id="AN_Humiliavit_semetipsum_Dominus"/>
+<LB_1V id="LB_1_Petr_1_18-21"/>
+<HYMNUS_laudes id="hy_En_acetum_fel_arundo"/>
+<ant1 id="AN_Turba_multa"/>
+<ant2 id="AN_Cum_Angelis"/>
+<ant3 id="AN_Benedictus_qui_venit"/>
+<LB_matin id="LB_Zac_9_9"/>
+<RB_matin id="RB_Redemisti_nos_Domine_In"/>
+<HYMNUS_tertiam id="hy_Celsae_salutis_gaudia"/>
+<HYMNUS_sextam id="hy_Celsae_salutis_gaudia"/>
+<HYMNUS_nonam id="hy_Celsae_salutis_gaudia"/>
+<ant4 id="AN_Ante_diem_festum"/>
+<ant5 id="AN_Sicut_novit_me"/>
+<ant6 id="AN_Mihi_vivere_Christus"/>
+<LB_3 id="LB_Cf._2_Cor_4_10-11"/>
+<RB_3 id="VERS_Oblatus_est_quia_ipse_voluit"/>
+<LB_6 id="LB_1_Petr_4_13-14"/>
+<RB_6 id="VERS_Vere_languores_nostros_ipse_tulit"/>
+<LB_9 id="LB_1_Petr_5_10-11"/>
+<RB_9 id="VERS_Adoremus_crucis_signaculum_Per"/>
+<HYMNUS_vesperas id="hy_Vexilla_regis_prodeunt"/>
+<ant7 id="AN_Percussum_et_humiliatum"/>
+<ant8 id="AN_Sanguis_Christi_emundat"/>
+<ant9 id="AN_Peccata_nostra_ipse"/>
+<ps9 id="Canticum_1_Petr_2_21-24"/>
+<LB_soir id="LB_Act_13_26-30a"/>
+<RB_soir id="RB_Adoramus_te_Christe_Et"/>
+</liturgia>

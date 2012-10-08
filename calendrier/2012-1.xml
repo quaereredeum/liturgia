@@ -1,0 +1,653 @@
+<?xml version="1.0"?>
+<mois><ordo id="RE">
+		<jour date="20120101">
+		<intitule>
+		<la>In octava Nativitatis SOLLEMNITAS SANCTAE DEI GENITRICIS MARIAE</la>
+		<fr>Octave de la Nativit&#xE9; SOLENNITE DE LA SAINTE MERE DE DIEU, MARIE</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120102">
+		<intitule>
+		<la>Ss. Basilii et Gregorii Nazianzeni, episcoporum et Ecclesiae doctorum</la>
+		<fr>Sts. Basile et Gr&#xE9;goire de Nazianze, &#xE9;v&#xEA;ques et docteurs de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120103">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120104">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120105">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120106">
+		<intitule>
+		<la>IN EPIPHANIA DOMINI</la>
+		<fr>EPIPHANIE DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120107">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120108">
+		<intitule>
+		<la>Dominica II post Nativitatem</la>
+		<fr>II&#xE8;me dimanche apr&#xE8;s la Nativit&#xE9;</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120109">
+		<intitule>
+		<la>IN BAPTISMATE DOMINI</la>
+		<fr>BAPTEME DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120110">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120111">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120112">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120113">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120114">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120115">
+		<intitule>
+		<la>Dominica II per annum</la>
+		<fr>II&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120116">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120117">
+		<intitule>
+		<la>S. Antonii, abbatis</la>
+		<fr>St Antoine, abb&#xE9;.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120118">
+		<intitule>
+		<la>S. Mariae-Bernardae Soubirous, virginis</la>
+		<fr>S. Mariae-Bernardae Soubirous, virginis</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120119">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120120">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120121">
+		<intitule>
+		<la>S. Agnetis, virginis et martyris</la>
+		<fr>St Agn&#xE8;s, vierge et martyre.</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120122">
+		<intitule>
+		<la>Dominica III per annum</la>
+		<fr>III&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120123">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120124">
+		<intitule>
+		<la>S. Francisci de Sales, episcopi et Ecclesiae doctoris</la>
+		<fr>St Fran&#xE7;ois de Sales, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120125">
+		<intitule>
+		<la>In conversione S. Pauli, apostoli</la>
+		<fr>Conversion de Saint Paul, ap&#xF4;tre.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120126">
+		<intitule>
+		<la>Ss. Timothei et Titi, episcoporum</la>
+		<fr>Sts Timoth&#xE9;e et Tite, &#xE9;v&#xEA;ques.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120127">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120128">
+		<intitule>
+		<la>S. Thomae de Aquino, presbyteri et Ecclesiae doctoris</la>
+		<fr>St Thomas d'Aquin, pr&#xEA;tre et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120129">
+		<intitule>
+		<la>Dominica IV per annum</la>
+		<fr>IV&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120130">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120131">
+		<intitule>
+		<la>S. Ioannis Bosco, presbyteri</la>
+		<fr>St Jean Bosco, pr&#xEA;tre.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour></ordo><ordo id="SWF">
+		<jour date="20120101">
+		<intitule>
+		<la>In octava Nativitatis SOLLEMNITAS SANCTAE DEI GENITRICIS MARIAE</la>
+		<fr>Octave de la Nativit&#xE9; SOLENNITE DE LA SAINTE MERE DE DIEU, MARIE</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120102">
+		<intitule>
+		<la>Ss. Basilii et Gregorii Nazianzeni, episcoporum et Ecclesiae doctorum</la>
+		<fr>Sts. Basile et Gr&#xE9;goire de Nazianze, &#xE9;v&#xEA;ques et docteurs de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120103">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120104">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120105">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120106">
+		<intitule>
+		<la>IN EPIPHANIA DOMINI</la>
+		<fr>EPIPHANIE DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120107">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120108">
+		<intitule>
+		<la>IN BAPTISMATE DOMINI</la>
+		<fr>BAPTEME DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120109">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120110">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120111">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120112">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120113">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120114">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120115">
+		<intitule>
+		<la>Dominica II per annum</la>
+		<fr>II&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120116">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120117">
+		<intitule>
+		<la>S. Antonii, abbatis.</la>
+		<fr>S. Antonii, abbatis.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120118">
+		<intitule>
+		<la>S. Mariae-Bernardae Soubirous, virginis</la>
+		<fr>S. Mariae-Bernardae Soubirous, virginis</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120119">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120120">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120121">
+		<intitule>
+		<la>S. Agnetis, virginis et martyris</la>
+		<fr>St Agn&#xE8;s, vierge et martyre.</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120122">
+		<intitule>
+		<la>Dominica III per annum</la>
+		<fr>III&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120123">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120124">
+		<intitule>
+		<la>S. Francisci de Sales, episcopi et Ecclesiae doctoris</la>
+		<fr>St Fran&#xE7;ois de Sales, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120125">
+		<intitule>
+		<la>In conversione S. Pauli, apostoli</la>
+		<fr>Conversion de Saint Paul, ap&#xF4;tre.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120126">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120127">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120128">
+		<intitule>
+		<la>S. Thomae de Aquino, presbyteri et Ecclesiae doctoris</la>
+		<fr>St Thomas d'Aquin, pr&#xEA;tre et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120129">
+		<intitule>
+		<la>Dominica IV per annum</la>
+		<fr>IV&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120130">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120131">
+		<intitule>
+		<la>S. Ioannis Bosco, presbyteri</la>
+		<fr>St Jean Bosco, pr&#xEA;tre.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour></ordo><ordo id="SMK">
+		<jour date="20120101">
+		<intitule>
+		<la>In octava Nativitatis SOLLEMNITAS SANCTAE DEI GENITRICIS MARIAE</la>
+		<fr>Octave de la Nativit&#xE9; SOLENNITE DE LA SAINTE MERE DE DIEU, MARIE</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120102">
+		<intitule>
+		<la>Ss. Basilii et Gregorii Nazianzeni, episcoporum et Ecclesiae doctorum</la>
+		<fr>Sts. Basile et Gr&#xE9;goire de Nazianze, &#xE9;v&#xEA;ques et docteurs de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120103">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120104">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120105">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120106">
+		<intitule>
+		<la>IN EPIPHANIA DOMINI</la>
+		<fr>EPIPHANIE DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120107">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120108">
+		<intitule>
+		<la>IN BAPTISMATE DOMINI</la>
+		<fr>BAPTEME DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120109">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120110">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120111">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120112">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120113">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120114">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120115">
+		<intitule>
+		<la>Dominica II per annum</la>
+		<fr>II&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120116">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120117">
+		<intitule>
+		<la>S. Antonii, abbatis.</la>
+		<fr>S. Antonii, abbatis.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120118">
+		<intitule>
+		<la>S. Mariae-Bernardae Soubirous, virginis</la>
+		<fr>S. Mariae-Bernardae Soubirous, virginis</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120119">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120120">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120121">
+		<intitule>
+		<la>S. Agnetis, virginis et martyris</la>
+		<fr>St Agn&#xE8;s, vierge et martyre.</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120122">
+		<intitule>
+		<la>Dominica III per annum</la>
+		<fr>III&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120123">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120124">
+		<intitule>
+		<la>S. Francisci de Sales, episcopi et Ecclesiae doctoris</la>
+		<fr>St Fran&#xE7;ois de Sales, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120125">
+		<intitule>
+		<la>In conversione S. Pauli, apostoli</la>
+		<fr>Conversion de Saint Paul, ap&#xF4;tre.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120126">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120127">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120128">
+		<intitule>
+		<la>S. Thomae de Aquino, presbyteri et Ecclesiae doctoris</la>
+		<fr>St Thomas d'Aquin, pr&#xEA;tre et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120129">
+		<intitule>
+		<la>Dominica IV per annum</la>
+		<fr>IV&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120130">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120131">
+		<intitule>
+		<la>S. Ioannis Bosco, presbyteri</la>
+		<fr>St Jean Bosco, pr&#xEA;tre.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour></ordo></mois>

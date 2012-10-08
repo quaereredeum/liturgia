@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Christum_Dominum_pro"/>
+<intitule>
+<la>FERIA QUARTA CINERUM</la>
+<mode>MERCREDI DES CENDRES</mode>
+</intitule>
+<HYMNUS_laudes id="hy_Iam_Christe_sol_iustitiae"/>
+<ant1 id="AN_Tibi_soli_peccavi"/>
+<ps1 id="ps50"/>
+<ant2 id="AN_Non_nos_derelinquas;"/>
+<ps2 id="AT34"/>
+<ant3 id="AN_Servite_Domino_in"/>
+<ps3 id="ps99"/>
+<LB_matin id="LB_Deut_7_6b._8-9"/>
+<RB_matin id="RB_Ipse_liberabit_me_De"/>
+<benedictus id="AN_Cum_facis_eleemosynam"/>
+<preces_matin>
+<la>preces_V</la>
+</preces_matin>
+<oratio id="COL_Concede_nobis_Domine_praesidia_militiae_christianae"/>
+<HYMNUS_tertiam id="hy_Dei_fide_qua_vivimus"/>
+<HYMNUS_sextam id="hy_Qua_Christus_hora_sitiit"/>
+<HYMNUS_nonam id="hy_Ternis_ter_horis_numerus"/>
+<ant4 id="AN_Advenerunt_nobis_dies"/>
+<ant5 id="AN_Vivo_ego_dicit"/>
+<ant6 id="AN_Per_arma_iustitiae"/>
+<LB_3 id="LB_Ez_18_30b-32"/>
+<RB_3 id="VERS_Cor_mundum_crea_in_me"/>
+<LB_6 id="LB_1_Tim_1_14-15"/>
+<RB_6 id="VERS_Averte_faciem_tuam_a_peccatis"/>
+<LB_9 id="LB_1_Tim_1_16"/>
+<RB_9 id="VERS_Sacrificium_Deo_spiritus_contribulatus"/>
+<HYMNUS_vepres id="hy_Iesu_quadragenariae"/>
+<ant7 id="AN_Domine_probasti_me"/>
+<ps7 id="ps138I"/>
+<ant8 id="AN_Deduc_me_in"/>
+<ps8 id="ps138II"/>
+<ant9 id="AN_Candor_est_lucis"/>
+<ps9 id="NT10"/>
+<LB_soir id="LB_Phil_2_12b-15a"/>
+<RB_soir id="RB_Ego_dixi_Domine_Miserere"/>
+<magnificat id="AN_Cum_facis_eleemosynam"/>
+<preces_soir>
+<la>preces_XVI</la>
+</preces_soir>
+</liturgia>

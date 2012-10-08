@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<liturgia>
+ <osb_vig_vers1 id="VERS"/>
+<osb_vig_ant7 id="AN"/>
+<osb_vig_ant8 id="AN"/>
+<osb_vig_ant9 id="AN"/>
+<osb_vig_ant10 id="AN"/>
+<osb_vig_ant11 id="AN"/>
+<osb_vig_ant12 id="AN"/>
+<osb_vig_vers2 id="VERS"/>
+<HYMNUS_lectures id="HY_Nunc_tempus_acceptabile"/>
+<HYMNUS_lec_jour id=""/>
+<LB_osb_vigiles id="LB_Ez18_21-22"/>
+<RB_osb_vigiles id="RB"/>
+</liturgia>

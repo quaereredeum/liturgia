@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XXXIII per annum</la>
+<fr>XXXIII&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Domine_quinque_talenta"/>
+<magnificat1_B id="AN_Videbunt_Filium_hominis"/>
+<magnificat1_C id="AN_Cum_audieritis_proelia"/>
+<oratio id="COL_Da_nobis_quaesumus_Domine_Deus_noster"/>
+<benedictus_A id="AN_Serve_bone_intra"/>
+<benedictus_B id="AN_Dominus_mittet_angelos"/>
+<benedictus_C id="AN_Ego_dabo_vobis"/>
+<magnificat2_A id="AN_Euge_serve_bone"/>
+<magnificat2_B id="AN_Amen_dico_vobis"/>
+<magnificat2_C id="AN_In_patientia_vestra"/>
+</liturgia>

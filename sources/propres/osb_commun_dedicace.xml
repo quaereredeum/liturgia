@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<liturgia>
+ <osb_vig_ant1 id="AN"/>
+<osb_vig_ps1>
+<la>ps5</la>
+</osb_vig_ps1>
+<osb_vig_ant2 id="AN"/>
+<osb_vig_ps2>
+<la>ps10</la>
+</osb_vig_ps2>
+<osb_vig_ant3 id="AN"/>
+<osb_vig_ps3>
+<la>ps23</la>
+</osb_vig_ps3>
+<osb_vig_ant4 id="AN"/>
+<osb_vig_ps4>
+<la>ps28</la>
+</osb_vig_ps4>
+<osb_vig_ant5 id="AN"/>
+<osb_vig_ps5>
+<la>ps45</la>
+</osb_vig_ps5>
+<osb_vig_ant6 id="AN"/>
+<osb_vig_ps6>
+<la>ps47</la>
+</osb_vig_ps6>
+<osb_vig_vers1 id="VERS"/>
+<osb_vig_ant7 id="AN"/>
+<osb_vig_ps7>
+<la>ps83</la>
+</osb_vig_ps7>
+<osb_vig_ant8 id="AN"/>
+<osb_vig_ps8>
+<la>ps86</la>
+</osb_vig_ps8>
+<osb_vig_ant9 id="AN"/>
+<osb_vig_ps9>
+<la>ps87</la>
+</osb_vig_ps9>
+<osb_vig_ant10 id="AN"/>
+<osb_vig_ps10>
+<la>ps90</la>
+</osb_vig_ps10>
+<osb_vig_ant11 id="AN"/>
+<osb_vig_ps11>
+<la>ps95</la>
+</osb_vig_ps11>
+<osb_vig_ant12 id="AN"/>
+<osb_vig_ps12>
+<la>ps98</la>
+</osb_vig_ps12>
+<osb_vig_vers2 id="VERS"/>
+<osb_vig_ben2>
+</osb_vig_ben2>
+<osb_vig_ant13 id="AN"/>
+<osb_vig_ps13>
+<la>AT6</la>
+</osb_vig_ps13>
+<osb_vig_ps14>
+<la>AT17</la>
+</osb_vig_ps14>
+<osb_vig_ps15>
+<la>AT35</la>
+</osb_vig_ps15>
+<osb_vig_vers3 id="VERS"/>
+<HYMNUS_lectures id="HY_O_sempiternae_curiae"/>
+<HYMNUS_lec_jour id=""/>
+</liturgia>

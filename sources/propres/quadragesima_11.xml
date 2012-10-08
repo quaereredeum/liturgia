@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Christum_Dominum_pro"/>
+<HYMNUS_laudes id="hy_Precemur_omnes_cernui"/>
+<ant1 id="AN_Benedicam_te_in"/>
+<ant2 id="AN_Hymnum_dicite_et"/>
+<ant3 id="AN_Beneplacitum_est_Domino"/>
+<LB_matin id="LB_Neh_8_9b._l0b"/>
+<RB_matin id="RB_Christe_Fili_Dei_vivi_"/>
+<preces_matin>
+<la>preces_IX</la>
+</preces_matin>
+<HYMNUS_tertiam id="hy_Dei_fide_qua_vivimus"/>
+<HYMNUS_sextam id="hy_Qua_Christus_hora_sitiit"/>
+<HYMNUS_nonam id="hy_Ternis_ter_horis_numerus"/>
+<ant4 id="AN_Advenerunt_nobis_dies"/>
+<ant5 id="AN_Vivo_ego_dicit"/>
+<ant6 id="AN_Per_arma_iustitiae"/>
+<LB_3 id="LB_1_Th_4_1._7"/>
+<RB_3 id="VERS_Cor_mundum_crea_in_me"/>
+<LB_6 id="LB_Is_30_15._18"/>
+<RB_6 id="VERS_Averte_faciem_tuam_a_peccatis"/>
+<oratio_6 id="COL_Converte_nos_Deus_salutaris_noster_et"/>
+<LB_9 id="LB_Deut_4_29-31"/>
+<RB_9 id="VERS_Sacrificium_Deo_spiritus_contribulatus"/>
+<HYMNUS_vesperas id="hy_Audi_benigne_Conditor"/>
+<ant7 id="AN_Dominum_Deum_tuum"/>
+<ant8 id="AN_Ecce_nunc_tempus"/>
+<ant9 id="AN_Ecce_ascendimus_Ierosolymam"/>
+<ps9 id="Canticum_1_Petr_2_21-24"/>
+<LB_soir id="LB_Cf._1_Cor_9_24-25"/>
+<RB_soir id="RB_Attende_Domine_et_miserere_"/>
+</liturgia>

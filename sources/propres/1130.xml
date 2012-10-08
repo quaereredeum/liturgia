@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 30 novembris</la>
+<fr>Le 30 novembre</fr>
+</jour>
+<intitule>
+<la>S. ANDRE&#xC6;, APOSTOLI</la>
+<fr>S. ANDRE, APOTRE</fr>
+</intitule>
+<rang>
+<la>Festum</la>
+<fr>F&#xEA;te</fr>
+</rang>
+<HYMNUS_laudes id="HY_Captator_olim_piscium"/>
+<ant1 id="AN_Unus_ex_duobus"/>
+<ant2 id="AN_Dilexit_Dominus_Andream"/>
+<ant3 id="AN_Dixit_Andreas_Simoni"/>
+<benedictus id="AN_Salve_crux_pretiosa"/>
+<oratio id="COL_Maiestatem_tuam_Domine_suppliciter_exoramus_ut"/>
+<HYMNUS_vesperas id="hy_Exsultet_caelum_laudibus"/>
+<ant7 id="AN_Vidit_Dominus_Petrum"/>
+<ant8 id="AN_Venite_post_me"/>
+<ant9 id="AN_Relictis_retibus_suis"/>
+<magnificat id="AN_Andreas_Christi_famulus"/>
+<commun>
+<la>apotres</la>
+</commun>
+</liturgia>

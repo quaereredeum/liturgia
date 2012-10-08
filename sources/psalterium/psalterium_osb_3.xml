@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<liturgia>
+ <osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente>ps3</osb_vig_ps_attente>
+<osb_vig_ant1 id="AN_Adiutor"/>
+<osb_vig_ps1>ps45</osb_vig_ps1>
+<osb_vig_ant2 id="AN_Iubilate_in_voce"/>
+<osb_vig_ps2>ps46</osb_vig_ps2>
+<osb_vig_ant3 id="AN_Magnus_Dominus"/>
+<osb_vig_ps3>ps47</osb_vig_ps3>
+<osb_vig_ant4 id="AN_Auribus_percipite"/>
+<osb_vig_ps4>ps48</osb_vig_ps4>
+<osb_vig_ant5 id="AN_Deus_deorum"/>
+<osb_vig_ps5>ps49</osb_vig_ps5>
+<osb_vig_ant6 id="AN_Confitebor_tibi"/>
+<osb_vig_ps6>ps51</osb_vig_ps6>
+<osb_vig_vers1 id="VERS_Diriget_Dominus"/>
+<osb_vig_ben1>
+<la>Ipsius p&#xED;etas et miseric&#xF3;rdia nos adiuvet, qui cum Patre et Sp&#xED;ritu Sancto vivit et regnat in sa&#xE9;cula saecul&#xF3;rum. R/. Amen.</la>
+<fr>Que viennent &#xE0; notre aide la bont&#xE9; et la mis&#xE9;ricorde de Celui qui vit et r&#xE8;gne avec le P&#xE8;re et l'Esprit Saint pour les si&#xE8;cles des si&#xE8;cles. R/. Amen.</fr>
+</osb_vig_ben1>
+<osb_vig_ant7 id="AN_Alleluia_alleluia"/>
+<osb_vig_ps7>ps52</osb_vig_ps7>
+<osb_vig_ant8 id=""/>
+<osb_vig_ps8>ps53</osb_vig_ps8>
+<osb_vig_ant9 id=""/>
+<osb_vig_ps9>ps54</osb_vig_ps9>
+<osb_vig_ant10 id=""/>
+<osb_vig_ps10>ps55</osb_vig_ps10>
+<osb_vig_ant11 id=""/>
+<osb_vig_ps11>ps57</osb_vig_ps11>
+<osb_vig_ant12 id=""/>
+<osb_vig_ps12>ps58</osb_vig_ps12>
+</liturgia>

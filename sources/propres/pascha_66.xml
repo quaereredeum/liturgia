@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Christum_Dominum_qui"/>
+<HYMNUS_laudes id="hy_Optatus_votis_omnium"/>
+<ant1 id="AN_Confide_fili_remittuntur"/>
+<ant2 id="AN_Egressus_es_Domine"/>
+<ant3 id="AN_Lauda_Deum_tuum"/>
+<LB_matin id="LB_Act_5_30-32"/>
+<RB_matin id="RB_Surrexit_Dominus_de_sepulcro_Alleluia"/>
+<benedictus id="AN_Videmus_Iesum_propter"/>
+<preces_matin>
+<la>preces_XVII</la>
+</preces_matin>
+<oratio_laudes id="COL_Deus_qui_ad_aeternam_vitam_in"/>
+<HYMNUS_tertiam id="hy_Iam_surgit_hora_tertia"/>
+<HYMNUS_sextam id="hy_Venite_servi_supplices"/>
+<HYMNUS_nonam id="hy_Haec_hora_quae_resplenduit"/>
+<ant4 id="AN_Alleluia_alleluia_alleluia."/>
+<ant5 id="AN_Alleluia_alleluia_alleluia."/>
+<ant6 id="AN_Alleluia_alleluia_alleluia."/>
+<LB_3 id="LB_Act_2_32._36"/>
+<RB_3 id="VERS_Surrexit_Dominus_vere_alleluia"/>
+<oratio_3 id="COL_Deus_qui_ad_aeternam_vitam_in"/>
+<LB_6 id="LB_Gal_3_27-28"/>
+<RB_6 id="VERS_Gavisi_sunt_discipuli_alleluia"/>
+<oratio_6 id="COL_Deus_qui_ad_aeternam_vitam_in"/>
+<LB_9 id="LB_1_Cor_5_7-8"/>
+<RB_9 id="VERS_Mane_nobiscum_Domine_alleluia"/>
+<oratio_9 id="COL_Deus_qui_ad_aeternam_vitam_in"/>
+<HYMNUS_vesperas id="hy_Veni_creator_Spiritus"/>
+<ant7 id="AN_De_angustiis_inferni"/>
+<ant8 id="AN_Quasi_pupillam_oculi"/>
+<ant9 id="AN_Fortitudo_mea_et"/>
+<LB_soir id="LB_Hebr_5_8-10"/>
+<RB_soir id="RB_Spiritus_Paraclitus_Alleluia_alleluia"/>
+<magnificat id="AN_Pater_vester_de"/>
+<oratio_vesperas id="COL_Deus_qui_ad_aeternam_vitam_in"/>
+<preces_soir>
+<la>preces_XVIII</la>
+</preces_soir>
+</liturgia>

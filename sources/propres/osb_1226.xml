@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<liturgia>
+ <commun>
+<la>martyr</la>
+</commun>
+<osb_vig_ant1 id="AN_Elegerunt_Stephanum_"/>
+<osb_vig_ps1>
+<la>ps1</la>
+</osb_vig_ps1>
+<osb_vig_ant2 id="AN_Nemo_poterat"/>
+<osb_vig_ps2>
+<la>ps2</la>
+</osb_vig_ps2>
+<osb_vig_ant3 id="AN_Eritis_odio_omnibus"/>
+<osb_vig_ps3>
+<la>ps4</la>
+</osb_vig_ps3>
+<osb_vig_ant4 id="AN_Cum_esset_Stephanus"/>
+<osb_vig_ps4>
+<la>ps5</la>
+</osb_vig_ps4>
+<osb_vig_ant5 id="AN_Videbant_omnes_"/>
+<osb_vig_ps5>
+<la>ps8</la>
+</osb_vig_ps5>
+<osb_vig_ant6 id="AN_Stephanus_positis"/>
+<osb_vig_ps6>
+<la>ps10</la>
+</osb_vig_ps6>
+<osb_vig_vers1 id="VERS_Paulo_minus_consummaverunt_me_in"/>
+<osb_vig_ant7 id="AN_Testes_deposuerunt_"/>
+<osb_vig_ps7>
+<la>ps14</la>
+</osb_vig_ps7>
+<osb_vig_ant8 id="AN_Non_sunt_condignae"/>
+<osb_vig_ps8>
+<la>ps20</la>
+</osb_vig_ps8>
+<osb_vig_ant9 id="AN_Patefactae_sunt_"/>
+<osb_vig_ps9>
+<la>ps23</la>
+</osb_vig_ps9>
+<osb_vig_ant10 id="AN_Mortem_quam"/>
+<osb_vig_ps10>
+<la>ps63</la>
+</osb_vig_ps10>
+<osb_vig_ant11 id="AN_Hesterna_die_"/>
+<osb_vig_ps11>
+<la>ps64</la>
+</osb_vig_ps11>
+<osb_vig_ant12 id="AN_Facta_est_persecutio"/>
+<osb_vig_ps12>
+<la>ps91</la>
+</osb_vig_ps12>
+<osb_vig_vers2 id="VERS_Accedite_ad_Deum_et_illuminamini"/>
+<osb_ant13>
+</osb_ant13>
+<osb_vers_3>
+</osb_vers_3>
+<ant13 id="AN"/>
+</liturgia>

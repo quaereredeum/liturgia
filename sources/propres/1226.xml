@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 26 decembris </la>
+<fr>Le 26 d&#xE9;cembre</fr>
+</jour>
+<intitule>
+<la>S. STEPHANI, PROTOMARTYRIS </la>
+<fr>S. ETIENNE, PROTOMARTYR.</fr>
+</intitule>
+<rang>
+<la>Festum</la>
+<fr>F&#xEA;te</fr>
+</rang>
+<ant_invit id="INV_Christum_natum_qui"/>
+<HYMNUS_laudes id="hy_Christus_est_vita_veniens_in_orbem"/>
+<ant1 id="AN_Adhaesit_anima_mea"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Stephanus_vidit_caelos"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Ecce_video_caelos"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Act_6_2_b-5_a"/>
+<RB_matin id="RB_Fortitudo_mea_Et_laus"/>
+<benedictus id="AN_Patefactae_sunt_ianuae"/>
+<oratio id="COL_Da_nobis_quaesumus_Domine_imitari_quod"/>
+<HYMNUS_tertiam id="hy_Nunc_Sancte_nobis_Spiritus"/>
+<ant4 id="AN_Erant_Ioseph_et"/>
+<LB_3 id="LB_1_Petr_5_10-11"/>
+<RB_3 id="VERS_Stola_iucunditatis_induit_eum_Dominus"/>
+<HYMNUS_sextam id="hy_Rector_potens_verax_Deus"/>
+<ant5 id="AN_Maria_autem_conservabat"/>
+<LB_6 id="LB_Iac_1_12"/>
+<RB_6 id="VERS_In_Deo_speravi_Non"/>
+<HYMNUS_nonam id="hy_Rerum_Deus_tenax_vigor"/>
+<ant6 id="AN_Multiplicabitur_eius_imperium"/>
+<LB_9 id="LB_Sap_3_1-2_a._3_b"/>
+<RB_9 id="VERS_Venientes_venient_cum_exsultatione"/>
+<HYMNUS_vepres id="hy_Christe_redemptor_omnium2"/>
+<ant7 id="AN_Tecum_principium_in"/>
+<ps7 id="ps109"/>
+<ant8 id="AN_Apud_Dominum_misericordia"/>
+<ps8 id="ps129"/>
+<ant9 id="AN_In_principio_et"/>
+<ps9 id="NT6"/>
+<LB_soir id="LB_1_Io_1_5b._7"/>
+<RB_soir id="RB_Verbum_caro_factum_est_"/>
+<magnificat id="AN_Dum_medium_silentium"/>
+<oratio_vesperas id="COL_Concede_quaesumus_omnipotens_Deus_ut_nos"/>
+</liturgia>

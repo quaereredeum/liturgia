@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Surrexit_Dominus_vere"/>
+<HYMNUS_laudes id="hy_Aurora_lucis_rutilat"/>
+<ant1 id="AN_Exaltare_super_caelos"/>
+<ant2 id="AN_Redemit_Dominus_populum"/>
+<ant3 id="AN_Hic_est_Deus"/>
+<LB_matin id="LB_Rom_8_10-11"/>
+<RB_matin id="RB_Surrexit_Dominus_de_sepulcro_Alleluia"/>
+<benedictus id="AN_Si_praecepta_mea"/>
+<preces_matin>
+<la>preces_XV</la>
+</preces_matin>
+<oratio_laudes id="COL_Deus_cuius_gratia_iusti_ex_impiis"/>
+<HYMNUS_tertiam id="hy_Iam_surgit_hora_tertia"/>
+<HYMNUS_sextam id="hy_Venite_servi_supplices"/>
+<HYMNUS_nonam id="hy_Haec_hora_quae_resplenduit"/>
+<ant4 id="AN_Alleluia_alleluia_alleluia."/>
+<ant5 id="AN_Alleluia_alleluia_alleluia."/>
+<ant6 id="AN_Alleluia_alleluia_alleluia."/>
+<LB_3 id="LB_1_Cor_12_13"/>
+<RB_3 id="VERS_Surrexit_Dominus_vere_alleluia"/>
+<oratio_3 id="COL_Deus_cuius_gratia_iusti_ex_impiis"/>
+<LB_6 id="LB_Tit_3_5b-7"/>
+<RB_6 id="VERS_Gavisi_sunt_discipuli_alleluia"/>
+<oratio_6 id="COL_Deus_cuius_gratia_iusti_ex_impiis"/>
+<LB_9 id="LB_Col_1_12-14"/>
+<RB_9 id="VERS_Mane_nobiscum_Domine_alleluia"/>
+<oratio_9 id="COL_Deus_cuius_gratia_iusti_ex_impiis"/>
+<HYMNUS_vesperas id="hy_Ad_cenam_Agni_providi"/>
+<ant7 id="AN_Convertisti_planctum_meum"/>
+<ant8 id="AN_Reconciliati_sumus_Deo"/>
+<ant9 id="AN_Quis_similis_tui"/>
+<LB_soir id="LB_1_Petr_3_18._21b-22"/>
+<RB_soir id="RB_Gavisi_sunt_discipuli_Alleluia_alleluia"/>
+<magnificat id="AN_Haec_locutus_sum"/>
+<oratio_vesperas id="COL_Deus_cuius_gratia_iusti_ex_impiis"/>
+<preces_soir>
+<la>preces_XVI</la>
+</preces_soir>
+</liturgia>

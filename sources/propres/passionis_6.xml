@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Christum_Dei_Filium"/>
+<HYMNUS_laudes id="hy_En_acetum_fel_arundo"/>
+<ant1 id="AN_Proprio_Filio_suo"/>
+<ant2 id="AN_Iesus_Christus_dilexit"/>
+<ant3 id="AN_Crucem_tuam_adoramus"/>
+<LB_matin id="LB_Is_52_13-15"/>
+<RB_matin id="RB_Christus_factus_est_pro_nobis_oboediens"/>
+<benedictus id="AN_Posuerunt"/>
+<oratio id="COL_Respice_quaesumus_Domine_super_hanc_familiam"/>
+<HYMNUS_tertiam id="hy_Salva_Redemptor_plasma_tuum_nobile"/>
+<HYMNUS_sextam id="hy_Crux_mundi_benedictio"/>
+<HYMNUS_nonam id="hy_Per_crucem_Christe_quaesumus"/>
+<ant4 id="AN_Erat_hora_tertia"/>
+<ant5 id="AN_Hora_sexta_tenebrae"/>
+<ant6 id="AN_Hora_nona_exclamavit"/>
+<LB_3 id="LB_Is_53_2-3"/>
+<RB_3 id="VERS_Adoramus_te_Christe_et_benedicimus"/>
+<LB_6 id="LB_Is_53_4-5"/>
+<RB_6 id="VERS_Memento_mei_Domine_Dum_veneris"/>
+<LB_9 id="LB_Is_53_6-7"/>
+<RB_9 id="VERS_Collocavit_me_in_obscuris"/>
+<HYMNUS_vesperas id="hy_Vexilla_regis_prodeunt"/>
+<ant7 id="AN_Attendite_universi_populi"/>
+<ant8 id="AN_Anxiatus_est_in"/>
+<ant9 id="AN_Cum_accepisset_Iesus"/>
+<LB_soir id="LB_1_Petr_2_21b-24"/>
+<RB_soir id="RB_Christus_factus_est_pro_nobis_oboediens"/>
+<magnificat id="AN_Cum_inimici_essemus"/>
+</liturgia>

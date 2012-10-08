@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Prope_est_iam"/>
+<HYMNUS_laudes id="hy_Magnis_prophetae_vocibus"/>
+<LB_matin id="LB_Is_11_1-3a"/>
+<RB_matin id="RB_Super_te_Ierusalem_Orietur"/>
+<benedictus id="AN_Scitote_quia_prope"/>
+<oratio id="COL_Deus_humanae_conditor_et_redemptor_naturae"/>
+<preces_matin>
+<la>preces_II</la>
+</preces_matin>
+<HYMNUS_tertiam id="hy_Nunc_Sancte_nobis_Spiritus"/>
+<HYMNUS_sextam id="hy_Rector_potens_verax_Deus"/>
+<HYMNUS_nonam id="hy_Rerum_Deus_tenax_vigor"/>
+<ant4 id="AN_Prophetae_praedicaverunt_nasci"/>
+<LB_3 id="LB_Is_4_2"/>
+<RB_3 id="VERS_Timebunt_gentes_nomen_tuum_Domine"/>
+<ant5 id="AN_Gabriel_angelus_locutus"/>
+<LB_6 id="LB_Is_4_3"/>
+<RB_6 id="VERS_Memento_nostri_Domine_in_beneplacito"/>
+<ant6 id="AN_Maria_dixit_Qualis"/>
+<LB_9 id="LB_Is_61_11"/>
+<RB_9 id="VERS_Veni_Domine_et_noli_tardare"/>
+<HYMNUS_vesperas id="hy_Verbum_salutis_omnium"/>
+<LB_soir id="LB_1_Th_5_23-24"/>
+<RB_soir id="RB_Ostende_nobis_Domine_Misericordiam"/>
+<magnificat id="AN_O_Sapientia_quae"/>
+<preces_soir>
+<la>preces_III</la>
+</preces_soir>
+</liturgia>

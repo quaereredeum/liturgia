@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica I Adventus</la>
+<fr>Ier dimanche de l'Avent</fr>
+</intitule>
+<HYMNUS_vesperas id="hy_Conditor_alme_siderum"/>
+<HYMNUS_1V id="hy_Conditor_alme_siderum"/>
+<ant7 id="AN_Annuntiate_populis_et"/>
+<ant8 id="AN_Ecce_Dominus_veniet"/>
+<ant9 id="AN_Veniet_Dominus_in"/>
+<LB_soir id="LB_1Th_5_23-24"/>
+<RB_soir id="RB_Ostende_nobis_Domine_Misericordiam"/>
+<pmagnificat_A>
+<la>Vigil&#xE1;te ergo, dicit Iesus, quia nesc&#xED;tis qua die D&#xF3;minus vester vent&#xFA;rus sit.</la>
+<fr>Veillez donc, dit J&#xE9;sus, car vous ne savez pas quel jour le Seigneur va venir.</fr>
+</pmagnificat_A>
+<pmagnificat_B>
+<la>Ecce nomen D&#xF3;mini venit de long&#xED;nquo, et cl&#xE1;ritas eius replet orbem terr&#xE1;rum.</la>
+<fr>Voici que le nom du Seigneur vient de loin, et sa gloire emplit l'univers.</fr>
+</pmagnificat_B>
+<pmagnificat_C>
+<la>Erunt signa in sole et luna et stellis, et super terram press&#xFA;ra g&#xE9;ntium, et tunc vid&#xE9;bunt F&#xED;lium h&#xF3;minis veni&#xE9;ntem in nube cum potest&#xE1;te et gl&#xF3;ria magna.</la>
+<fr>Il y aura des signes dans le soleil, dans la lune et dans les astres, et, sur la terre, une angoisse des nations, alors on verra le Fils de l'homme venant dans une nu&#xE9;e avec grande puissance et grande gloire.
+</fr>
+</pmagnificat_C>
+<oratio_vesperas id="COL_Da_quaesumus_omnipotens_Deus_hanc_tuis"/>
+</liturgia>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 15 octobris</la>
+<fr>Le 15 octobre.</fr>
+</jour>
+<intitule>
+<la>S. TERESI&#xC6; A IESU, VIRGINIS ET ECCLESI&#xC6; DOCTORIS</la>
+<fr>S. THERESE DE JESUS, VIERGE ET DOCTEUR DE L'EGLISE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Regem_virginum_Dominum"/>
+<HYMNUS_laudes id="hy_Regis_superni_nuntia"/>
+<LB_matin id="LB_Cant_8_7"/>
+<RB_matin id="RB_Tibi_dixit_cor_meum_"/>
+<benedictus id="AN_Ecce_prudens_virgo"/>
+<oratio id="COL_Deus_qui_per_Spiritum_tuum_beatam"/>
+<HYMNUS_vepres id="hy_Haec_est_dies_qua_candidae"/>
+<LB_soir id="LB_1_Cor_7_32_b._34_a"/>
+<RB_soir id="RB_Afferentur_Regi_virgines_In"/>
+<magnificat id="AN_Veni_sponsa_Christi"/>
+</liturgia>

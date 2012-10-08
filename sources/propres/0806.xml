@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 6 augusti</la>
+<fr>Le 6 ao&#xFB;t</fr>
+</jour>
+<intitule>
+<la>IN TRANSFIGURATIONE DOMINI</la>
+<fr>TRANSFIGURATION DU SEIGNEUR</fr>
+</intitule>
+<rang>
+<la>Festum</la>
+<fr>F&#xEA;te</fr>
+</rang>
+<HYMNUS_1V id="hy_O_nata_lux_de_lumine"/>
+<ant01 id="AN_Assumpsit_Iesus_discipulos"/>
+<ps01 id="ps112"/>
+<ant02 id="AN_Et_ecce_apparuerunt"/>
+<ps02 id="ps116"/>
+<ant03 id="AN_Domine_bonum_est"/>
+<ps03 id="NT4"/>
+<LB_1V id="LB_Phil_3_20-21"/>
+<RB_1V id="RB_Gloriosus_apparuisti_in_conspectu_Domini"/>
+<magnificat_1V id="AN_Christus_Iesus_splendor"/>
+<ant_invit id="INV_Summum_Regem_gloriae"/>
+<HYMNUS_laudes id="hy_Dulcis_Iesu_memoria"/>
+<ant1 id="AN_Hodie_Dominus_Iesus"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Hodie_transfigurato_ac"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Lex_per_Moysen"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Ap_21_10._23"/>
+<RB_matin id="RB_Gloria_et_honore_coronasti_eum"/>
+<benedictus id="AN_Ecce_vox_de"/>
+<oratio id="COL_Deus_qui_fidei_sacramenta_in_Unigeniti"/>
+<ant4 id="AN_Ut_testimonium_haberet"/>
+<LB_3 id="LB_Ex_19_8b-9"/>
+<RB_3 id="VERS_Speciosus_forma_es_prae_filiis"/>
+<ant5 id="AN_Dominus_Deus_salvator"/>
+<LB_6 id="LB_Ex_33_9._11a"/>
+<RB_6 id="VERS_Respicite_ad_Dominum_et_illuminamini"/>
+<ant6 id="AN_Audientes_discipuli_Patris"/>
+<LB_9 id="LB_2_Cor_3_18"/>
+<RB_9 id="VERS_Domine_apud_te_est_fons"/>
+<HYMNUS_vesperas id="hy_O_nata_lux_de_lumine"/>
+<ant7 id="AN_Assumpsit_Iesus_Petrum"/>
+<ps7 id="ps109"/>
+<ant8 id="AN_Nubes_lucida_obumbravit"/>
+<ps8 id="ps120"/>
+<ant9 id="AN_Descendentibus_illis_de"/>
+<ps9 id="NT7"/>
+<LB_soir id="LB_Rom_8_16-17"/>
+<RB_soir id="RB_Magnificentia_et_pulchritudo_in_conspectu"/>
+<magnificat id="AN_Et_audientes_discipuli"/>
+<preces id="TRANSFIGURATIONE"/>
+<HYMNUS_lectures id="HY_Caelestis_formam_gloriae"/>
+<HYMNUS_lec_jour id=""/>
+</liturgia>

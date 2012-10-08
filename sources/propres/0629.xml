@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Regem_Apostolorum_Dominum"/>
+<jour>
+<la>Die 29 iunii</la>
+<fr>Le 29 juin</fr>
+</jour>
+<intitule>
+<la>SS. PETRI ET PAULI, APOSTOLORUM</la>
+<fr>SS. PIERRE ET PAUL, APOTRES</fr>
+</intitule>
+<rang>
+<la>Sollemnitas</la>
+<fr>Solennit&#xE9;</fr>
+</rang>
+<HYMNUS_1V id="hy_Aurea_luce_et_decore_roseo"/>
+<ant01 id="AN_Tu_es_Christus"/>
+<ps01 id="ps116"/>
+<ant02 id="AN_Tu_es_Petrus"/>
+<ps02 id="ps147"/>
+<ant03 id="AN_Tu_es_vas"/>
+<ps03 id="NT4"/>
+<LB_1V id="LB_Rom_1_1-3a._7"/>
+<RB_1V id="RB_Loquebantur_Apostoli_verbum_Dei_"/>
+<magnificat_1V id="AN_Gloriosi_Apostoli_Christi"/>
+<HYMNUS_laudes id="hy_Apostolorum_passio"/>
+<ant1 id="AN_Scio_cui_credidi"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Gratia_Dei_in"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Bonum_certamen_certavi"/>
+<ps3 id="ps149"/>
+<ant4 id="AN_Adhuc_loquente_Petro"/>
+<ps4 id="ps122"/>
+<ant5 id="AN_Ascendit_Petrus_in"/>
+<ps5 id="ps123"/>
+<ant6 id="AN_Petrus_et_Ioannes"/>
+<ps6 id="ps124"/>
+<LB_3 id="LB_Act_15_7b-9"/>
+<RB_3 id="VERS_In_omnem_terram_exivit_sonus"/>
+<LB_6 id="LB_Gal_1_15-16a._17b-18a"/>
+<RB_6 id="VERS_Custodiebant_testimonia_Dei_Et_praecepta"/>
+<LB_9 id="LB_2_Cor_4_13-14"/>
+<RB_9 id="VERS_Gaudete_et_exsultate_dicit_Dominus"/>
+<oratio_1V id="COL_Da_nobis_quaesumus_Domine_Deus_noster"/>
+<oratio id="COL_Deus_qui_huius_diei_venerandam_sanctamque"/>
+<benedictus id="AN_Dixit_Simon_Petrus"/>
+<magnificat id="AN_Petrus_apostolus_et"/>
+<ant7 id="AN_Ego_pro_te"/>
+<ps7 id="ps115"/>
+<ant8 id="AN_Libenter_gloriabor_in"/>
+<ps8 id="ps125"/>
+<ant9 id="AN_Tu_es_pastor"/>
+<ps9 id="NT4"/>
+<LB_matin id="LB_1_Petr_4_13-14"/>
+<RB_matin id="RB_Tradiderunt_animas_suas_Pro"/>
+<LB_soir id="LB_1_Cor_15_3-5._8"/>
+<RB_soir id="RB_Loquebantur_Apostoli_verbum_Dei_"/>
+<HYMNUS_vepres id="hy_O_Roma_felix_quae_tantorum_principum"/>
+<HYMNUS_lectures id="HY_Felix_per_omnes_festum_mundi_cardines"/>
+<HYMNUS_lec_jour id=""/>
+</liturgia>

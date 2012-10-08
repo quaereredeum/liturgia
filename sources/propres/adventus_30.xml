@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica III Adventus</la>
+<fr>III&#xB0; dimanche de l'Avent</fr>
+</intitule>
+<HYMNUS_vesperas id="hy_Conditor_alme_siderum"/>
+<HYMNUS_1V id="hy_Conditor_alme_siderum"/>
+<ant7 id="AN_Ierusalem_gaude_gaudio"/>
+<ant8 id="AN_Ego_Dominus_prope"/>
+<ant9 id="AN_Emitte_Agnum_Domine"/>
+<LB_soir id="LB_1Th_5_23-24"/>
+<RB_soir id="RB_Ostende_nobis_Domine_Misericordiam"/>
+<pmagnificat_A>
+<la>Ante me non est form&#xE1;tus Deus, et post me non erit: quia mihi curv&#xE1;bitur omne genu, et confit&#xE9;bitur omnis lingua.</la>
+<fr>Avant moi aucun Dieu n'a &#xE9;t&#xE9; form&#xE9;, et il n'y en aura point apr&#xE8;s moi : devant moi tout genou fl&#xE9;chira devant moi, et toute langue me pr&#xEA;tera serment. </fr>
+</pmagnificat_A>
+<pmagnificat_B>
+<la>Fuit homo missus a Deo, cui nomen erat Io&#xE1;nnes; hic venit ut testim&#xF3;nium perhib&#xE9;ret de l&#xFA;mine.</la>
+</pmagnificat_B>
+<pmagnificat_C>
+<la>Interrog&#xE1;bant Io&#xE1;nnem turb&#xE6; dic&#xE9;ntes: Quid ergo faci&#xE9;mus? Resp&#xF3;ndens autem dic&#xE9;bat illis: Qui habet duas t&#xFA;nicas, det non hab&#xE9;nti; et qui habet escas, sim&#xED;liter faciat.</la>
+</pmagnificat_C>
+<oratio_vesperas id="COL_Deus_qui_conspicis_populum_tuum_nativitatis"/>
+<preces_soir>
+<la>preces_III</la>
+</preces_soir>
+</liturgia>

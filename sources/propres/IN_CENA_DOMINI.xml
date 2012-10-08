@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>SACRUM TRIDUUM PASCHALE &#x2013; FERIA QUINTA</la>
+<fr>TRIDUUM PASCAL SACRE &#x2013; JEUDI SAINT</fr>
+</intitule>
+<rubrique>
+<la>Vesper&#xE6; dicuntur tantum ab iis qui Miss&#xE6; vespertin&#xE6; in Cena Domini non intersunt.</la>
+<fr>Les v&#xEA;pres sont dites seulement par ceux qui n'assistent pas &#xE0; la Messe "In Cena Domini".</fr>
+</rubrique>
+<oratio id="COL_Deus_qui_ad_gloriam_tuam_et"/>
+<comp_ant1>
+<la>Alis suis obumbr&#xE1;bit tibi; non tim&#xE9;bis a tim&#xF3;re noct&#xFA;rno.</la>
+<fr>Il te couvre et te prot&#xE8;ge, tu ne craindras pas les terreurs de la nuit.</fr>
+</comp_ant1>
+<comp_ps1>
+<la>ps90</la>
+</comp_ps1>
+<comp_ant2>
+<la>abs</la>
+</comp_ant2>
+<comp_ps2>
+<la>abs</la>
+</comp_ps2>
+<comp_LB>
+<la>LB_Ap 22, 4-5</la>
+</comp_LB>
+<comp_RB>
+<la>Christus factus est pro nobis oboediens usque ad mortem.</la>
+<fr>Le Christ s'est fait pour nous ob&#xE9;issant jusqu'&#xE0; la mort.</fr>
+</comp_RB>
+<comp_oratio>
+<la>V&#xED;sita, qu&#xE6;sumus, D&#xF3;mine, habitati&#xF3;nem istam et omnes ins&#xED;dias inim&#xED;ci ab ea longe rep&#xE9;lle; &#xE1;ngeli tui sancti h&#xE1;bitent in ea, qui nos in pace cust&#xF3;diant, et bened&#xED;ctio tua sit super nos semper. Per Christum.</la>
+<fr>Nous t'en supplions, Seigneur, visite cette maison, et repousse loin d'elle toutes les emb&#xFB;ches de l'ennemi; que tes saints anges viennent l'habiter pour nous garder dans la paix; et que ta b&#xE9;n&#xE9;diction demeure &#xE0; jamais sur nous. Par le Christ notre Seigneur.</fr>
+</comp_oratio>
+</liturgia>

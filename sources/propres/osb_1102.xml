@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<liturgia>
+ <priorite>
+<la>8</la>
+</priorite>
+<commun>
+<la>martyr</la>
+</commun>
+<osb_vig_ant1 id="AN_Invidia_diaboli_"/>
+<osb_vig_ps1>
+<la>ps5</la>
+</osb_vig_ps1>
+<osb_vig_ant2 id="AN_Deus_mortem_non"/>
+<osb_vig_ps2>
+<la>ps6</la>
+</osb_vig_ps2>
+<osb_vig_ant3 id="AN_Srtatutum_est_hominibus"/>
+<osb_vig_ps3>
+<la>ps7</la>
+</osb_vig_ps3>
+<osb_vig_ant4 id="AN_Habitabit_in"/>
+<osb_vig_ps4>
+<la>ps14</la>
+</osb_vig_ps4>
+<osb_vig_ant5 id="AN_Caro_mea_"/>
+<osb_vig_ps5>
+<la>ps15</la>
+</osb_vig_ps5>
+<osb_vig_ant6 id="AN_Exspectatio_creature_"/>
+<osb_vig_ps6>
+<la>ps22</la>
+</osb_vig_ps6>
+<osb_vig_vers1 id="VERS_Misericordiae_tuae_multae_Domine_Secundum"/>
+<osb_vig_ant7 id="AN_Ipsa_creatura_"/>
+<osb_vig_ps7>
+<la>ps24</la>
+</osb_vig_ps7>
+<osb_vig_ant8 id="AN_Si_quid_patitur"/>
+<osb_vig_ps8>
+<la>ps26</la>
+</osb_vig_ps8>
+<osb_vig_ant9 id="AN_De_terra_formasti"/>
+<osb_vig_ps9>
+<la>ps39I</la>
+</osb_vig_ps9>
+<osb_vig_ant10 id="AN_Complaceat_tibi_Domine"/>
+<osb_vig_ps10>
+<la>ps39II</la>
+</osb_vig_ps10>
+<osb_vig_ant11 id="AN_Sana_Domine_"/>
+<osb_vig_ps11>
+<la>ps40</la>
+</osb_vig_ps11>
+<osb_vig_ant12 id="AN_Stivit_anima"/>
+<osb_vig_ps12>
+<la>ps41</la>
+</osb_vig_ps12>
+<osb_vig_vers2 id="VERS_A_porta_inferi_Erue_Domine"/>
+<osb_vig_ant13 id="AN_Domine_Deus_"/>
+<osb_vig_vers3 id="VERS_Credo_videre_bona_Domini_In"/>
+</liturgia>

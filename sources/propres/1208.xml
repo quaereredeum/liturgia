@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 8 decembris </la>
+<fr>Le 8 d&#xE9;cembre</fr>
+</jour>
+<intitule>
+<la>IN CONCEPTIONE IMMACULATA BEAT&#xC6; MARI&#xC6; VIRGINIS</la>
+<fr>CONCEPTION IMMACULEE DE LA BIENHEUREUSE VIERGE MARIE</fr>
+</intitule>
+<rang>
+<la>Sollemnitas</la>
+<fr>Solennit&#xE9;</fr>
+</rang>
+<HYMNUS_1V id="hy_Praeclara_custos_virginum"/>
+<ant01 id="AN_Inimicitias_ponam_inter"/>
+<ps01 id="ps112"/>
+<ant02 id="AN_Induit_me_Dominus"/>
+<ps02 id="ps147"/>
+<ant03 id="AN_Ave_Maria_gratia"/>
+<ps03 id="NT4"/>
+<LB_1V id="LB_Rom_8_29_a._30_a"/>
+<RB_1V id="RB_Exaltabo_te_Domine_Quoniam"/>
+<magnificat_1V id="AN_Beatam_me_dicent"/>
+<oratio_1V id="COL_Deus_qui_per_immaculatam_Virginis_Conceptionem"/>
+<ant_invit id="INV_Immaculatam_Conceptionem_Virginis"/>
+<HYMNUS_laudes id="hy_In_plausu_grati_carminis"/>
+<ant1 id="AN_O_quam_casta"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Benedicta_es_tu"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Trahe_nos"/>
+<ps3 id="ps149"/>
+<ant4 id="AN_Vivit_Dominus_quoniam"/>
+<ps4 id="ps122"/>
+<ant5 id="AN_Complacuit_Domino_in"/>
+<ps5 id="ps123"/>
+<ant6 id="AN_Deus_creavit_me"/>
+<ps6 id="ps124"/>
+<LB_3 id="LB_Eph_1_4"/>
+<RB_3 id="VERS_L'Immaculee_concpetion_de_la_sainte"/>
+<LB_6 id="LB_Cf._Eph_1_10_b-12_a"/>
+<RB_6 id="VERS_Cor_meum_et_caro_mea"/>
+<LB_9 id="LB_Cf._Eph_5_25-27"/>
+<RB_9 id="VERS_Immaculata_Conceptio_tua_Dei_Genetrix"/>
+<oratio id="COL_Deus_qui_per_immaculatam_Virginis_Conceptionem"/>
+<benedictus id="AN_Ait_Dominus_Deus"/>
+<magnificat id="AN_Ave_Maria_gratia"/>
+<ant7 id="AN_Tota_pulchra_es"/>
+<ps7 id="ps121"/>
+<ant8 id="AN_Tu_gloria_Ierusalem"/>
+<ps8 id="ps126"/>
+<ant9 id="AN_Vestimentum_tuum_candidum"/>
+<ps9 id="NT4"/>
+<LB_matin id="LB_Is_43_1"/>
+<RB_matin id="RB_Deus_omnipotens_Praecinxit_me"/>
+<LB_soir id="LB_Rom_5_20b-21"/>
+<RB_soir id="RB_In_hoc_cognovi_Quoniam"/>
+<HYMNUS_vepres id="hy_Praeclara_custos_virginum"/>
+<HYMNUS_lectures id="HY_Te_dicimus_praeconio"/>
+<HYMNUS_lec_jour id=""/>
+</liturgia>

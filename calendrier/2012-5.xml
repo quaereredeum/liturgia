@@ -1,0 +1,653 @@
+<?xml version="1.0"?>
+<mois><ordo id="RE">
+		<jour date="20120501">
+		<intitule>
+		<la>S. Ioseph Opificis</la>
+		<fr>St Joseph ouvrier</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120502">
+		<intitule>
+		<la>S. Athanasii, episcopi et Ecclesiae doctoris</la>
+		<fr>St Athanase, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120503">
+		<intitule>
+		<la>Ss. Philippi et Iacobi, apostolorum</la>
+		<fr>Sts Philippe et Jacques,  ap&#xF4;tres</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120504">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120505">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120506">
+		<intitule>
+		<la>Dominica V Paschae</la>
+		<fr>V&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120507">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120508">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120509">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120510">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120511">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120512">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120513">
+		<intitule>
+		<la>Dominica VI Paschae</la>
+		<fr>VI&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120514">
+		<intitule>
+		<la>S. Matthiae, apostoli</la>
+		<fr>St Matthias, ap&#xF4;tre</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120515">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120516">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120517">
+		<intitule>
+		<la>IN ASCENSIONE DOMINI</la>
+		<fr>IN ASCENSIONE DOMINI</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120518">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120519">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120520">
+		<intitule>
+		<la>Dominica VII Paschae</la>
+		<fr>VII&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120521">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120522">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120523">
+		<intitule>
+		<la>Anniversaire de la D&#xE9;dicace de la Cath&#xE9;drale </la>
+		<fr>Anniversaire de la D&#xE9;dicace de la Cath&#xE9;drale </fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120524">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120525">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120526">
+		<intitule>
+		<la>S. Philippi Neri, presbyteri</la>
+		<fr>St Philippe N&#xE9;ri, pr&#xEA;tre</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120527">
+		<intitule>
+		<la>Dominica Pentecostes</la>
+		<fr>Dimanche de la Pentec&#xF4;te</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120528">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120529">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120530">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120531">
+		<intitule>
+		<la>In Visitatione B. Mariae Virginis</la>
+		<fr>Visitation de la Bienheureuse Vierge Marie</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour></ordo><ordo id="SWF">
+		<jour date="20120501">
+		<intitule>
+		<la>S. Ioseph Opificis</la>
+		<fr>St Joseph ouvrier</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120502">
+		<intitule>
+		<la>S. Athanasii, episcopi et Ecclesiae doctoris</la>
+		<fr>St Athanase, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120503">
+		<intitule>
+		<la>Ss. Philippi et Iacobi, apostolorum</la>
+		<fr>Sts Philippe et Jacques,  ap&#xF4;tres</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120504">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120505">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120506">
+		<intitule>
+		<la>Dominica V Paschae</la>
+		<fr>V&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120507">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120508">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120509">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120510">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120511">
+		<intitule>
+		<la>SS. Odonis, Maioli, Odilonis, Hugonis et B. Petri Venerabilis, abbatum Cluniacensium, O.N.</la>
+		<fr>SS. Odonis, Maioli, Odilonis, Hugonis et B. Petri Venerabilis, abbatum Cluniacensium, O.N.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120512">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120513">
+		<intitule>
+		<la>Dominica VI Paschae</la>
+		<fr>VI&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120514">
+		<intitule>
+		<la>S. Matthiae, apostoli</la>
+		<fr>St Matthias, ap&#xF4;tre</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120515">
+		<intitule>
+		<la>S. Pac&#xF4;me</la>
+		<fr>S. Pac&#xF4;me</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120516">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120517">
+		<intitule>
+		<la>IN ASCENSIONE DOMINI</la>
+		<fr>IN ASCENSIONE DOMINI</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120518">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120519">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120520">
+		<intitule>
+		<la>Dominica VII Paschae</la>
+		<fr>VII&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120521">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120522">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120523">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120524">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120525">
+		<intitule>
+		<la>S. Beadae Venerabilis, presbyteri et Ecclesiae doctoris, O.N.</la>
+		<fr>S. Beadae Venerabilis, presbyteri et Ecclesiae doctoris, O.N.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120526">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120527">
+		<intitule>
+		<la>Dominica Pentecostes</la>
+		<fr>Dimanche de la Pentec&#xF4;te</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120528">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120529">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120530">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120531">
+		<intitule>
+		<la>In Visitatione B. Mariae Virginis</la>
+		<fr>Visitation de la Bienheureuse Vierge Marie</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour></ordo><ordo id="SMK">
+		<jour date="20120501">
+		<intitule>
+		<la>S. Ioseph Opificis</la>
+		<fr>St Joseph ouvrier</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120502">
+		<intitule>
+		<la>S. Athanasii, episcopi et Ecclesiae doctoris</la>
+		<fr>St Athanase, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120503">
+		<intitule>
+		<la>Ss. Philippi et Iacobi, apostolorum</la>
+		<fr>Sts Philippe et Jacques,  ap&#xF4;tres</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120504">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120505">
+		<intitule>
+		<la>S. Vincent Ferrier</la>
+		<fr>S. Vincent Ferrier</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120506">
+		<intitule>
+		<la>Dominica V Paschae</la>
+		<fr>V&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120507">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120508">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120509">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120510">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120511">
+		<intitule>
+		<la>SS. Odonis, Maioli, Odilonis, Hugonis et B. Petri Venerabilis, abbatum Cluniacensium, O.N.</la>
+		<fr>SS. Odonis, Maioli, Odilonis, Hugonis et B. Petri Venerabilis, abbatum Cluniacensium, O.N.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120512">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120513">
+		<intitule>
+		<la>Dominica VI Paschae</la>
+		<fr>VI&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120514">
+		<intitule>
+		<la>S. Matthiae, apostoli</la>
+		<fr>St Matthias, ap&#xF4;tre</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120515">
+		<intitule>
+		<la>S. Pac&#xF4;me</la>
+		<fr>S. Pac&#xF4;me</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120516">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120517">
+		<intitule>
+		<la>IN ASCENSIONE DOMINI</la>
+		<fr>IN ASCENSIONE DOMINI</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120518">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120519">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120520">
+		<intitule>
+		<la>Dominica VII Paschae</la>
+		<fr>VII&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120521">
+		<intitule>
+		<la>S. Paterne</la>
+		<fr>S. Paterne</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120522">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120523">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120524">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120525">
+		<intitule>
+		<la>S. Beadae Venerabilis, presbyteri et Ecclesiae doctoris, O.N.</la>
+		<fr>S. Beadae Venerabilis, presbyteri et Ecclesiae doctoris, O.N.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120526">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120527">
+		<intitule>
+		<la>Dominica Pentecostes</la>
+		<fr>Dimanche de la Pentec&#xF4;te</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120528">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120529">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120530">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120531">
+		<intitule>
+		<la>In Visitatione B. Mariae Virginis</la>
+		<fr>Visitation de la Bienheureuse Vierge Marie</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour></ordo></mois>

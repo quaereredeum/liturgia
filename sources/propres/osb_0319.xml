@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<liturgia>
+ <osb_vig_ant1 id="AN_Ascendit_Ioseph_"/>
+<osb_vig_ps1>
+<la>ps1</la>
+</osb_vig_ps1>
+<osb_vig_ant2 id="AN_Venerunt_pastores_"/>
+<osb_vig_ps2>
+<la>ps2</la>
+</osb_vig_ps2>
+<osb_vig_ant3 id="AN_Ecce_angelus_Domini"/>
+<osb_vig_ps3>
+<la>ps4</la>
+</osb_vig_ps3>
+<osb_vig_ant4 id="AN_Consurgens_Ioseph_"/>
+<osb_vig_ps4>
+<la>ps5</la>
+</osb_vig_ps4>
+<osb_vig_ant5 id="AN_Defuncto_Herode_"/>
+<osb_vig_ps5>
+<la>ps8</la>
+</osb_vig_ps5>
+<osb_vig_ant6 id="AN_Accepit_Ioseph_"/>
+<osb_vig_ps6>
+<la>ps10</la>
+</osb_vig_ps6>
+<osb_vig_vers1 id="VERS_Constituit_eum_dominum_domus_suae"/>
+<osb_vig_ant7 id="AN_Audiens_Ioseph_"/>
+<osb_vig_ps7>
+<la>ps14</la>
+</osb_vig_ps7>
+<osb_vig_ant8 id="AN_Admonitus_in_somnis"/>
+<osb_vig_ps8>
+<la>ps20</la>
+</osb_vig_ps8>
+<osb_vig_ant9 id="AN_In_duxerunt_puerum"/>
+<osb_vig_ps9>
+<la>ps23</la>
+</osb_vig_ps9>
+<osb_vig_ant10 id="AN_Erat_pater_Iesu"/>
+<osb_vig_ps10>
+<la>ps95</la>
+</osb_vig_ps10>
+<osb_vig_ant11 id="AN_Et_ut_perfecerunt"/>
+<osb_vig_ps11>
+<la>ps96</la>
+</osb_vig_ps11>
+<osb_vig_ant12 id="AN_Mirabantur_omnes_"/>
+<osb_vig_ps12>
+<la>ps97</la>
+</osb_vig_ps12>
+<osb_vig_vers2 id="VERS_Magna_est_gloria_eius_in"/>
+<osb_vig_ben2>
+</osb_vig_ben2>
+<osb_vig_ant13 id="AN_Vir_fidelis_"/>
+<osb_vig_ps13>
+<la>AT35</la>
+</osb_vig_ps13>
+<osb_vig_ps14>
+<la>AT13</la>
+</osb_vig_ps14>
+<osb_vig_ps15>
+<la>AT14</la>
+</osb_vig_ps15>
+<osb_vig_vers3 id="VERS_Iustus_germinabit_sicut_lilium_Et"/>
+</liturgia>

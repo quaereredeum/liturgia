@@ -1,0 +1,632 @@
+<?xml version="1.0"?>
+<mois><ordo id="RE">
+		<jour date="20130401">
+		<intitule>
+		<la>Feria II infra octavam Paschae</la>
+		<fr>Lundi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130402">
+		<intitule>
+		<la>Feria III infra octavam Paschae</la>
+		<fr>Mardi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130403">
+		<intitule>
+		<la>Feria IV infra octavam Paschae</la>
+		<fr>Mercredi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130404">
+		<intitule>
+		<la>Feria V infra octavam Paschae</la>
+		<fr>Jeudi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130405">
+		<intitule>
+		<la>Feria VI infra octavam Paschae</la>
+		<fr>Vendredi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130406">
+		<intitule>
+		<la>Sabbato infra octavam Paschae</la>
+		<fr>Samedi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130407">
+		<intitule>
+		<la>DOMINICA IN OCTAVA PASCH&#xC6; SEU DE SACRA MISERICORDIA</la>
+		<fr>DIMANCHE DANS L'OCTAVE DE P&#xC2;QUES OU DE LA DIVINE MISERICORDE</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130408">
+		<intitule>
+		<la>IN ANNUNTIATIONE DOMINI</la>
+		<fr>ANNONCIATION DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130409">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130410">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130411">
+		<intitule>
+		<la>S. Stanislai, episcopi et martyris</la>
+		<fr>St Stanislas , &#xE9;v&#xEA;que et martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130412">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130413">
+		<intitule>
+		<la>S. Martini I, papae et martyris</la>
+		<fr>St Martin 1er, pape et martyr</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130414">
+		<intitule>
+		<la>Dominica III Paschae</la>
+		<fr>III&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130415">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130416">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130417">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130418">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130419">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130420">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130421">
+		<intitule>
+		<la>Dominica IV Paschae</la>
+		<fr>IV&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130422">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130423">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130424">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130425">
+		<intitule>
+		<la>S. Marci, evangelistae</la>
+		<fr>St Marc, &#xE9;vang&#xE9;liste</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130426">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130427">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130428">
+		<intitule>
+		<la>Dominica V Paschae</la>
+		<fr>V&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130429">
+		<intitule>
+		<la>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</la>
+		<fr>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130430">
+		<intitule>
+		<la>S. Pii V, papae</la>
+		<fr>St Pie V, pape</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour></ordo><ordo id="SWF">
+		<jour date="20130401">
+		<intitule>
+		<la>Feria II infra octavam Paschae</la>
+		<fr>Lundi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130402">
+		<intitule>
+		<la>Feria III infra octavam Paschae</la>
+		<fr>Mardi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130403">
+		<intitule>
+		<la>Feria IV infra octavam Paschae</la>
+		<fr>Mercredi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130404">
+		<intitule>
+		<la>Feria V infra octavam Paschae</la>
+		<fr>Jeudi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130405">
+		<intitule>
+		<la>Feria VI infra octavam Paschae</la>
+		<fr>Vendredi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130406">
+		<intitule>
+		<la>Sabbato infra octavam Paschae</la>
+		<fr>Samedi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130407">
+		<intitule>
+		<la>DOMINICA IN OCTAVA PASCH&#xC6; SEU DE SACRA MISERICORDIA</la>
+		<fr>DIMANCHE DANS L'OCTAVE DE P&#xC2;QUES OU DE LA DIVINE MISERICORDE</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130408">
+		<intitule>
+		<la>IN ANNUNTIATIONE DOMINI</la>
+		<fr>ANNONCIATION DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130409">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130410">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130411">
+		<intitule>
+		<la>S. Stanislai, episcopi et martyris</la>
+		<fr>St Stanislas , &#xE9;v&#xEA;que et martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130412">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130413">
+		<intitule>
+		<la>S. Martini I, papae et martyris</la>
+		<fr>St Martin 1er, pape et martyr</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130414">
+		<intitule>
+		<la>Dominica III Paschae</la>
+		<fr>III&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130415">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130416">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130417">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130418">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130419">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130420">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130421">
+		<intitule>
+		<la>Dominica IV Paschae</la>
+		<fr>IV&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130422">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130423">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130424">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130425">
+		<intitule>
+		<la>S. Marci, evangelistae</la>
+		<fr>St Marc, &#xE9;vang&#xE9;liste</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130426">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130427">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130428">
+		<intitule>
+		<la>Dominica V Paschae</la>
+		<fr>V&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130429">
+		<intitule>
+		<la>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</la>
+		<fr>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130430">
+		<intitule>
+		<la>S. Pii V, papae</la>
+		<fr>St Pie V, pape</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour></ordo><ordo id="SMK">
+		<jour date="20130401">
+		<intitule>
+		<la>Feria II infra octavam Paschae</la>
+		<fr>Lundi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130402">
+		<intitule>
+		<la>Feria III infra octavam Paschae</la>
+		<fr>Mardi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130403">
+		<intitule>
+		<la>Feria IV infra octavam Paschae</la>
+		<fr>Mercredi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130404">
+		<intitule>
+		<la>Feria V infra octavam Paschae</la>
+		<fr>Jeudi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130405">
+		<intitule>
+		<la>Feria VI infra octavam Paschae</la>
+		<fr>Vendredi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130406">
+		<intitule>
+		<la>Sabbato infra octavam Paschae</la>
+		<fr>Samedi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130407">
+		<intitule>
+		<la>DOMINICA IN OCTAVA PASCH&#xC6; SEU DE SACRA MISERICORDIA</la>
+		<fr>DIMANCHE DANS L'OCTAVE DE P&#xC2;QUES OU DE LA DIVINE MISERICORDE</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130408">
+		<intitule>
+		<la>IN ANNUNTIATIONE DOMINI</la>
+		<fr>ANNONCIATION DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130409">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130410">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130411">
+		<intitule>
+		<la>S. Stanislai, episcopi et martyris</la>
+		<fr>St Stanislas , &#xE9;v&#xEA;que et martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130412">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130413">
+		<intitule>
+		<la>S. Martini I, papae et martyris</la>
+		<fr>St Martin 1er, pape et martyr</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130414">
+		<intitule>
+		<la>Dominica III Paschae</la>
+		<fr>III&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130415">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130416">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130417">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130418">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130419">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130420">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130421">
+		<intitule>
+		<la>Dominica IV Paschae</la>
+		<fr>IV&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130422">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130423">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130424">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130425">
+		<intitule>
+		<la>S. Marci, evangelistae</la>
+		<fr>St Marc, &#xE9;vang&#xE9;liste</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130426">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130427">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130428">
+		<intitule>
+		<la>Dominica V Paschae</la>
+		<fr>V&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130429">
+		<intitule>
+		<la>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</la>
+		<fr>Ste Catherine de Sienne, vierge et docteur de l&#x2019;&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130430">
+		<intitule>
+		<la>S. Pii V, papae</la>
+		<fr>St Pie V, pape</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour></ordo></mois>

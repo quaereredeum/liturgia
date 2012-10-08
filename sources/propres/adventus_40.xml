@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica IV Adventus</la>
+<fr>IV&#xB0; dimanche de l'Avent</fr>
+</intitule>
+<HYMNUS_vesperas id="hy_Verbum_salutis_omnium"/>
+<HYMNUS_1V id="hy_Verbum_salutis_omnium"/>
+<ant7 id="AN_Ecce_veniet_desideratus"/>
+<ant8 id="AN_Veni_Domine_et"/>
+<ant9 id="AN_Ecce_iam_venit"/>
+<LB_soir id="LB_1_Th_5_23-24"/>
+<RB_soir id="RB_Ostende_nobis_Domine_Misericordiam"/>
+<oratio id="COL_Gratiam_tuam_quaesumus_Domine_mentibus_nostris"/>
+</liturgia>

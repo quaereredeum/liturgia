@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<liturgia>
+ <rang>
+<la>Festum</la>
+<fr>F&#xEA;te</fr>
+</rang>
+<commun>
+<la>vierges</la>
+</commun>
+<priorite>
+<la>8</la>
+</priorite>
+<osb_vig_ant1 id="AN_O_quam_admirabile"/>
+<osb_vig_ant2 id="AN_Caeli_enarrant_"/>
+<osb_vig_ps2>
+<la>ps18</la>
+</osb_vig_ps2>
+<osb_vig_ant3 id="AN_Haec_accepit_"/>
+<osb_vig_ps3>
+<la>ps23</la>
+</osb_vig_ps3>
+<osb_vig_ant4 id="AN_Dilexisti_iustitiam_"/>
+<osb_vig_ps4>
+<la>ps44</la>
+</osb_vig_ps4>
+<osb_vig_ant5 id="AN_Fluminis_impetus_"/>
+<osb_vig_ps5>
+<la>ps45</la>
+</osb_vig_ps5>
+<osb_vig_ant6 id="AN_Suscepit_Scholastica_"/>
+<osb_vig_ps6>
+<la>ps47</la>
+</osb_vig_ps6>
+<osb_vig_vers1 id="VERS_In_matutinis_meditabor_in_te"/>
+<osb_vig_ant7 id="AN_Dominus_Scholasticae"/>
+<osb_vig_ps7>
+<la>ps84</la>
+</osb_vig_ps7>
+<osb_vig_ant8 id="AN_Sicut_laetantium_omnium"/>
+<osb_vig_ps8>
+<la>ps86</la>
+</osb_vig_ps8>
+<osb_vig_ant9 id="AN_Magnificentia_et_pulchritudo"/>
+<osb_vig_ps9>
+<la>ps95</la>
+</osb_vig_ps9>
+<osb_vig_ant10 id="AN_Viderunt_omnes_"/>
+<osb_vig_ps10>
+<la>ps96</la>
+</osb_vig_ps10>
+<osb_vig_ant11 id="AN_Cantate_Domino_"/>
+<osb_vig_ps11>
+<la>ps97</la>
+</osb_vig_ps11>
+<osb_vig_ant12 id="AN_Invocabat_Scholastica_"/>
+<osb_vig_ps12>
+<la>ps98</la>
+</osb_vig_ps12>
+<osb_vig_vers2 id="VERS_Mihi_adhaerere_Deo_bonum_est"/>
+<osb_vig_ben2>
+</osb_vig_ben2>
+<osb_vig_ant13 id="AN_Media_nocte_clamor"/>
+<osb_vig_ps13>
+<la>AT30</la>
+</osb_vig_ps13>
+<osb_vig_ps14>
+<la>AT31</la>
+</osb_vig_ps14>
+<osb_vig_ps15>
+<la>AT16</la>
+</osb_vig_ps15>
+<osb_vig_vers3 id="VERS_Quis_dabit_mihi_pennas_sicut"/>
+</liturgia>

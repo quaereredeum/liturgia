@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 21 novembris</la>
+<fr>Le 21 novembre</fr>
+</jour>
+<intitule>
+<la>IN PR&#xC6;SENTATIONE BEAT&#xC6; MARI&#xC6; VIRGINIS</la>
+<fr>PRESENTATION DE LA BIENHEUREUSE VIERGE MARIE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Festivitatem_beatae_Mariae"/>
+<HYMNUS_laudes id="hy_O_gloriosa_domina"/>
+<LB_matin id="LB_Cf._Is_61_10"/>
+<RB_matin id="RB_Elegit_eam_Dominus_Et"/>
+<benedictus id="AN_Beata_es_Maria"/>
+<oratio id="COL_Sanctissimae_venerantibus_Virginis_Mariae_memoriam_gloriosam"/>
+<HYMNUS_vesperas id="hy_Mole_gravati_criminum"/>
+<LB_soir id="LB_Gal_4_4-5"/>
+<RB_soir id="RB_Ave_Maria_gratia_plena;_"/>
+<magnificat id="AN_Beata_Dei_Genetrix"/>
+</liturgia>

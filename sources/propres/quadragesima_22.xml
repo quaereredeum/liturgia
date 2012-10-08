@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Christum_Dominum_pro"/>
+<HYMNUS_laudes id="hy_Iam_Christe_sol_iustitiae"/>
+<ant1 id="AN_Quando_veniam_et"/>
+<ant2 id="AN_Ostende_nobis_Domine"/>
+<ant3 id="AN_Benedictus_es_Domine"/>
+<LB_matin id="LB_Ex_19_4-6a"/>
+<RB_matin id="RB_Ipse_liberabit_me_De"/>
+<benedictus id="AN_Estote_misericordes_sicut"/>
+<preces_matin>
+<la>preces_IX</la>
+</preces_matin>
+<oratio id="COL_Deus_qui_ob_animarum_medelam_castigare"/>
+<HYMNUS_tertiam id="hy_Dei_fide_qua_vivimus"/>
+<HYMNUS_sextam id="hy_Qua_Christus_hora_sitiit"/>
+<HYMNUS_nonam id="hy_Ternis_ter_horis_numerus"/>
+<ant4 id="AN_Advenerunt_nobis_dies"/>
+<ant5 id="AN_Vivo_ego_dicit"/>
+<ant6 id="AN_Per_arma_iustitiae"/>
+<LB_3 id="LB_Sap_11_23-24a"/>
+<RB_3 id="VERS_Cor_mundum_crea_in_me"/>
+<LB_6 id="LB_Ez_18_23"/>
+<RB_6 id="VERS_Averte_faciem_tuam_a_peccatis"/>
+<LB_9 id="LB_Is_58_6a._7"/>
+<RB_9 id="VERS_Sacrificium_Deo_spiritus_contribulatus"/>
+<HYMNUS_vesperas id="hy_Iesu_quadragenariae"/>
+<ant7 id="AN_Speciosus_forma_prae"/>
+<ant8 id="AN_Ecce_Sponsus_venit"/>
+<ant9 id="AN_Proposuit_Deus_in"/>
+<LB_soir id="LB_Rom_12_1-2"/>
+<RB_soir id="RB_Ego_dixi_Domine_Miserere"/>
+<magnificat id="AN_Nolite_iudicare_et"/>
+</liturgia>

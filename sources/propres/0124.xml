@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 24 ianuarii</la>
+<fr>Le 24 janvier</fr>
+</jour>
+<intitule>
+<la>S. FRANCISCI DE SALES, EPISCOPI ET ECCLESI&#xC6; DOCTORIS</la>
+<fr>S. FRANCOIS DE SALES, EVEQUE ET DOCTEUR DE L'EGLISE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Christum_pastorum_principem"/>
+<HYMNUS_laudes id="hy_Doctor_aeternus_coleris_piusque"/>
+<LB_matin id="LB_Hebr_13_7-9a"/>
+<RB_matin id="RB_Super_te_Ierusalem_Constitui"/>
+<benedictus id="AN_Non_vos_estis"/>
+<preces_matin>
+</preces_matin>
+<oratio id="COL_Deus_qui_ad_animarum_salutem_beatum"/>
+<HYMNUS_vepres id="hy_Vir_celse_forma_fulgida"/>
+<LB_soir id="LB_1_Petr_5_1-4"/>
+<RB_soir id="RB_Hic_est_fratrum_amator_"/>
+<magnificat id="AN_Qui_fecerit_et"/>
+<preces_soir>
+</preces_soir>
+<ant6 id="AN_Usque_in_senectam"/>
+<LB_3 id="LB_2_Cor_13_11"/>
+<RB_3 id="VERS_Oculi_Domini_super_iustos_Et"/>
+<oratio_3 id="COL_Deus_Pater_optime_qui_laborem_hominibus"/>
+<LB_6 id="LB_Rom_6_22"/>
+<RB_6 id="VERS_Deus_tu_conversus_vivificabis_nos"/>
+<oratio_6 id="COL_Deus_qui_messis_ac_vineae_dominus"/>
+<LB_9 id="LB_Col_1_21-22"/>
+<RB_9 id="VERS_Psallite_Domino_sancti_eius_Et"/>
+<oratio_9 id="COL_Deus_qui_nos_advocas_illa_hora"/>
+<HYMNUS_vesperas id="hy_Immense_caeli_conditor"/>
+<ant7 id="AN_Oculi_nostri_semper"/>
+<ant8 id="AN_Adiutorium_nostrum_in"/>
+<ant9 id="AN_In_Filio_suo"/>
+<LB_soir id="LB_Iac_4_11-12"/>
+<RB_soir id="RB_Sana_animam_meam_"/>
+<magnificat id="AN_Magnificat_anima_mea"/>
+<oratio_vesperas id="COL_Deus_qui_lumen_indeficiens_merito_praedicaris"/>
+<preces_soir>
+<la>Christus omnes h&#xF3;mines ad sal&#xFA;tem vult perd&#xFA;cere. Ideo eum sinc&#xE9;ro &#xE1;nimi aff&#xE9;ctu exor&#xE9;mus: 
+R/. Trahe &#xF3;mnia ad te, D&#xF3;mine.
+Bened&#xED;ctus es, D&#xF3;mine, qui redem&#xED;sti nos per preti&#xF3;sum s&#xE1;nguinem tuum a servit&#xFA;te pecc&#xE1;ti;
+&#x2014; libert&#xE1;tem gl&#xF3;ri&#xE6; nobis tr&#xED;bue fili&#xF3;rum.
+Gr&#xE1;tiam tuam conc&#xE9;de ant&#xED;stiti nostro N. et &#xF3;mnibus Eccl&#xE9;si&#xE6; ep&#xED;scopis, 
+&#x2014; ut myst&#xE9;ria tua l&#xE6;to sp&#xED;ritus ferv&#xF3;re min&#xED;strent.
+Da &#xF3;mnibus, qui verit&#xE1;tem invest&#xED;gant, ut eam qu&#xE6;r&#xE9;ndo inv&#xE9;niant, 
+&#x2014; et inveni&#xE9;ndo semper requ&#xED;rant.
+Ad&#xE9;sto, D&#xF3;mine, &#xF3;rphanis, v&#xED;duis et &#xF3;mnibus derel&#xED;ctis, 
+&#x2014; ut prop&#xED;nquum te s&#xE9;ntiant tib&#xED;que magis adh&#xE6;reant.
+Def&#xFA;nctos fratres in c&#xE6;l&#xE9;stem civit&#xE1;tem ben&#xED;gnus acc&#xED;pias, 
+&#x2014; in qua cum Patre et Sp&#xED;ritu Sancto eris &#xF3;mnia in &#xF3;mnibus.</la>
+</preces_soir>
+<HYMNUS_lectures id="HY_Somno_refectis_artubus"/>
+<ps01 id="ps49I"/>
+<ps02 id="ps49II"/>
+<ps03 id="ps49III"/>
+<ant01 id="AN_Deus_noster_manifeste"/>
+<ant02 id="AN_Immola_Deo_sacrificium"/>
+<ant03 id="AN_Misericordiam_volui_et"/>
+<VERS id="VERS_Audi_popule_meus_et_loquar"/>
+<ps1 id="ps83"/>
+<ps2 id="AT17"/>
+<ps3 id="ps95"/>
+<ps4 id="ps118XII"/>
+<ps5 id="ps70I"/>
+<ps6 id="ps70II"/>
+<ps7 id="ps122"/>
+<ps8 id="ps123"/>
+<ps9 id="NT4"/>
+<HYMNUS_completorium id="Te_lucis_ante_terminum"/>
+<an10>
+<la>Tu, D&#xF3;mine Deus, p&#xE1;tiens et mult&#xE6; miseric&#xF3;rdi&#xE6;. </la>
+<mode>Toi, Seigneur Dieu, tu es patient et plein de mis&#xE9;ricorde.</mode>
+</an10>
+<ps10 id="ps85"/>
+<LB_completorium id="LB_1_Th_5_9-10"/>
+<oratio_completorium id="COL_Quietem_Domine_corporibus_nostris_tribue_salutarem"/>
+</liturgia>

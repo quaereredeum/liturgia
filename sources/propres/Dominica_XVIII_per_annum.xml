@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XVIII per annum</la>
+<fr>XVIII&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Cum_turba_multa"/>
+<magnificat1_B id="AN_Operamini_non_cibum"/>
+<magnificat1_C id="AN_Cavete_ab_omni"/>
+<oratio id="COL_Adesto_Domine_famulis_tuis_et_perpetuam"/>
+<benedictus_A id="AN_De_quinque_panibus"/>
+<benedictus_B id="AN_Amen_amen_dico"/>
+<benedictus_C id="AN_Thesaurizate_vobis_thesauros"/>
+<magnificat2_A id="AN_Manducaverunt_omnes_et"/>
+<magnificat2_B id="AN_Ego_sum_panis"/>
+<magnificat2_C id="AN_Si_vere_fratres"/>
+</liturgia>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<liturgia>
+ <osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente>ps3</osb_vig_ps_attente>
+<osb_vig_ant1 id="AN_Domine_in_virtute"/>
+<osb_vig_ps1>ps20</osb_vig_ps1>
+<osb_vig_ant2 id="AN_Ne_discedas_a_me"/>
+<osb_vig_ps2>ps21</osb_vig_ps2>
+<osb_vig_ant3 id="AN_Dominus_regit_me"/>
+<osb_vig_ps3>ps22</osb_vig_ps3>
+<osb_vig_ant4 id="AN_Innocens_manibus"/>
+<osb_vig_ps4>ps23</osb_vig_ps4>
+<osb_vig_ant5 id="AN_Oculi_mei"/>
+<osb_vig_ps5>ps24</osb_vig_ps5>
+<osb_vig_ant6 id="AN_Misericordia_tua"/>
+<osb_vig_ps6>ps25</osb_vig_ps6>
+<osb_vig_vers1 id="VERS_Verbum_Christi"/>
+<osb_vig_ben1>
+<la>Deus Pater omnipotens sit nobis prop&#xED;tius et clemens. R/. Amen.</la>
+<fr>Que Dieu, le P&#xE8;re tout puissant nous montre Sa faveur et Sa cl&#xE9;mence. R/. Amen.</fr>
+</osb_vig_ben1>
+<osb_vig_ant7 id="AN_Dominus_defensor"/>
+<osb_vig_ps7>ps26</osb_vig_ps7>
+<osb_vig_ant8 id="AN_Factus_est_adiutor"/>
+<osb_vig_ps8>ps27</osb_vig_ps8>
+<osb_vig_ant9 id="AN_Adorate_Dominum"/>
+<osb_vig_ps9>ps28</osb_vig_ps9>
+<osb_vig_ant10 id="AN_Exaltabo_te"/>
+<osb_vig_ps10>ps29</osb_vig_ps10>
+<osb_vig_ant11 id="AN_In_tua_iustitia"/>
+<osb_vig_ps11>ps30</osb_vig_ps11>
+<osb_vig_ant12 id="AN_Laetamini"/>
+<osb_vig_ps12>ps31</osb_vig_ps12>
+<osb_vig_vers2 id="VERS_Vestri_beati"/>
+<osb_vig_ben2>
+<la>Christus perp&#xE9;tuae det nobis g&#xE1;udia vitae. R/. Amen.</la>
+<fr>Que le Christ nous accorde les joies de la vie &#xE9;ternelle. R/. Amen.</fr>
+</osb_vig_ben2>
+<osb_vig_ant13 id="AN_Alleluia_alleluia_alleluia"/>
+<osb_vig_ps13>AT21</osb_vig_ps13>
+<osb_vig_ps14>AT22</osb_vig_ps14>
+<osb_vig_ps15>AT16</osb_vig_ps15>
+<osb_vig_vers3 id="VERS_Dirige_me"/>
+<osb_vig_ben3>
+<la>Ignem sui am&#xF3;ris acc&#xE9;ndat Deus in c&#xF3;rdibus nostris. R/. Amen.</la>
+<fr>Que Dieu allume en nos c&#x153;urs le feu de Son amour. R/. Amen.</fr>
+</osb_vig_ben3>
+</liturgia>

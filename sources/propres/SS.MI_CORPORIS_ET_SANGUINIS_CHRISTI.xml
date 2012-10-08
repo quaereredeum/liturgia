@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Panem_vitae_Christum"/>
+<intitule>
+<la>SS.MI CORPORIS ET SANGUINIS CHRISTI</la>
+<fr>TRES SAINTS CORPS ET SANG DU CHRIST</fr>
+</intitule>
+<rang>
+<la>Sollemnitas</la>
+<fr>Solennit&#xE9;</fr>
+</rang>
+<HYMNUS_1V id="hy_Pange_lingua_gloriosi"/>
+<ant01 id="AN_Miserator_Dominus_escam"/>
+<ps01 id="ps110"/>
+<ant02 id="AN_Qui_pacem_ponit"/>
+<ps02 id="ps147"/>
+<ant03 id="AN_Amen_amen_dico"/>
+<ps03 id="NT4"/>
+<LB_1V id="LB_1_Cor_10_16-17"/>
+<RB_1V id="RB_Panem_caeli_dedit_eis&#xA0;_Alleluia"/>
+<magnificat1 id="AN_O_quam_suavis"/>
+<HYMNUS_laudes id="hy_Verbum_supernum_prodiens"/>
+<ant1 id="AN_Angelorum_esca_nutrivisti"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Sacerdotes_sancti_incensum"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Vincenti_dabo_manna"/>
+<ps3 id="ps149"/>
+<ant4 id="AN_Desiderio_desideravi_hoc"/>
+<ps4 id="ps122"/>
+<ant5 id="AN_Cenantibus_illis_accepit"/>
+<ps5 id="ps123"/>
+<ant6 id="AN_Cognoverunt_Dominum_Iesum"/>
+<LB_3 id="LB_Sap_16_20"/>
+<RB_3 id="VERS_Introibo_ad_altare_Dei_alleluia"/>
+<LB_6 id="LB_Prov_9_1-2"/>
+<RB_6 id="VERS_Panem_de_caelo_praestitisti_eis"/>
+<LB_9 id="LB_Act_2_42._47a"/>
+<RB_9 id="VERS_Mane_nobiscum_Domine_alleluia"/>
+<oratio id="COL_Deus_qui_nobis_sub_sacramento_mirabili"/>
+<benedictus id="AN_Ego_sum_panis"/>
+<magnificat2 id="AN_O_sacrum_convivium"/>
+<ant7 id="AN_Sacerdos_in_aeternum"/>
+<ps7 id="ps109"/>
+<ant8 id="AN_Calicem_salutaris_accipiam"/>
+<ps8 id="ps115"/>
+<ant9 id="AN_Tu_es_via"/>
+<ps9 id="NT12"/>
+<LB_matin id="LB_Mal_1_11"/>
+<RB_matin id="RB_Educas_panem_de_terra&#xA0;_Alleluia"/>
+<LB_soir id="LB_1_Cor_11_23-25"/>
+<RB_soir id="RB_Panem_caeli_dedit_eis&#xA0;_Alleluia"/>
+<HYMNUS_vepres id="hy_Pange_lingua_gloriosi"/>
+</liturgia>

@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>DOMINI NOSTRI IESU CHRISTI UNIVERSORUM REGIS </la>
+<fr>NOTRE SEIGNEUR JESUS-CHRIST, ROI DE L'UNIVERS</fr>
+</intitule>
+<rang>
+<la>Sollemnitas</la>
+<fr>Solennit&#xE9;</fr>
+</rang>
+<HYMNUS_1V id="hy_Te_saeculorum_principem"/>
+<ant01 id="AN_Pacificus_vocabitur_et"/>
+<ps01 id="ps112"/>
+<ant02 id="AN_Regnum_eius_regnum"/>
+<ps02 id="ps116"/>
+<ant03 id="AN_Christo_datus_est"/>
+<ps03 id="NT4"/>
+<LB_1V id="LB_Cf._Eph_1_20-23"/>
+<RB_1V id="RB_Tua_est_magnificentia_et_potentia"/>
+<pmagnificat>
+<la> Dabit illi D&#xF3;minus Deus sedem David, patris eius; et regn&#xE1;bit in domo Iacob in &#xE6;t&#xE9;rnum, et regni eius non erit finis, allel&#xFA;ia.</la>
+<fr>Le Seigneur Dieu Lui donnera le tr&#xF4;ne de David, Son p&#xE8;re ; et Il r&#xE8;gnera sur la maison de Jacob pour l'&#xE9;ternit&#xE9;, et Son r&#xE8;gne n'aura pas de fin, all&#xE9;luia.</fr>
+</pmagnificat>
+<oratio_1V id="COL_Omnipotens_sempiterne_Deus_qui_in_dilecto"/>
+<ant_invit id="INV_Iesum_Christum_regem"/>
+<HYMNUS_laudes id="hy_Aterna_imago_Altissimi"/>
+<ant1 id="AN_Ecce_vir_Oriens"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Magnificabitur_usque_ad"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Dedit_ei_Dominus"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Eph_4_15-16"/>
+<RB_matin id="RB_Sancti_tui_Domine_Gloriam"/>
+<benedictus id="AN_Fecit_nos_Deo"/>
+<oratio id="COL_Omnipotens_sempiterne_Deus_qui_in_dilecto"/>
+<ant4 id="AN_Dominus_iudex_noster"/>
+<LB_3 id="LB_Cf._Col_1_12-13"/>
+<RB_3 id="VERS_Sedebit_Dominus_rex_in_aeternum"/>
+<ant5 id="AN_Exibunt_aquae_vivae"/>
+<ps4 id="ps117I"/>
+<ps5 id="ps117II"/>
+<ps6 id="ps117III"/>
+<LB_6 id="LB_Col_1_16b-18"/>
+<RB_6 id="VERS_Psallite_regi_nostro_psallite"/>
+<ant6 id="AN_Multiplicabitur_eius_imperium"/>
+<LB_9 id="LB_Col_1_19-20"/>
+<RB_9 id="VERS_Iubilate_in_conspectu_regis_Domini"/>
+<HYMNUS_vepres id="hy_Te_saeculorum_principem"/>
+<ant7 id="AN_Super_solium_David"/>
+<ps8 id="ps109"/>
+<ant8 id="AN_Regnum_tuum_regnum"/>
+<ps8 id="ps144I"/>
+<ant9 id="AN_Habet_in_vestimento"/>
+<ps9 id="NT12"/>
+<LB_soir id="LB_1_Cor_15_25-28"/>
+<RB_soir id="RB_Sedes_tua_Deus_In"/>
+<magnificat id="AN_Data_est_mihi"/>
+</liturgia>

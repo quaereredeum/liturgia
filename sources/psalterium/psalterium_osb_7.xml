@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<liturgia>
+ <osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente>ps3</osb_vig_ps_attente>
+<osb_vig_ant1 id="AN_Clamor_meus"/>
+<osb_vig_ps1>ps101</osb_vig_ps1>
+<osb_vig_ant2 id="AN_Benedic_anima_mea"/>
+<osb_vig_ps2>ps102</osb_vig_ps2>
+<osb_vig_ant3 id="AN_Domine_Deus_meus"/>
+<osb_vig_ps3>ps103I</osb_vig_ps3>
+<osb_vig_ant4 id="AN_Quam_magnificata_sunt"/>
+<osb_vig_ps4>ps103II</osb_vig_ps4>
+<osb_vig_ant5 id="AN_Laetetur_cor"/>
+<osb_vig_ps5>ps104I</osb_vig_ps5>
+<osb_vig_ant6 id="AN_Eduxit_Deus"/>
+<osb_vig_ps6>ps104II</osb_vig_ps6>
+<osb_vig_vers1 id="VERS_Venite_et"/>
+<osb_vig_ben1>
+<la>Ad societ&#xE1;tem c&#xED;vium supern&#xF3;rum perd&#xFA;cat nos rex angel&#xF3;rum. R/. Amen.</la>
+<fr>Que le Seigneur tout puissant et mis&#xE9;ricordieux nous d&#xE9;livre des liens de nos p&#xE9;ch&#xE9;s. R/. Amen.</fr>
+</osb_vig_ben1>
+<osb_vig_ant7 id="AN_Alleluia_alleluia"/>
+<osb_vig_ps7>ps105I</osb_vig_ps7>
+<osb_vig_ant8 id=""/>
+<osb_vig_ps8>ps105II</osb_vig_ps8>
+<osb_vig_ant9 id=""/>
+<osb_vig_ps9>ps106I</osb_vig_ps9>
+<osb_vig_ant10 id=""/>
+<osb_vig_ps10>ps106II</osb_vig_ps10>
+<osb_vig_ant11 id=""/>
+<osb_vig_ps11>ps107</osb_vig_ps11>
+<osb_vig_ant12 id=""/>
+<osb_vig_ps12>ps108</osb_vig_ps12>
+<osb_vig_LB>
+LB_2Pe3,13-14
+</osb_vig_LB>
+<osb_vig_RB>
+V/. Vias tuas, D&#xF3;mine, demo&#xF3;nstra mihi. R/. Et s&#xE9;mitas tuas &#xE9;doce me.
+<fr>V/. Montre-moi Tes voies, Seigneur. R/. Enseigne-moi Tes sentiers.</fr>
+</osb_vig_RB>
+</liturgia>

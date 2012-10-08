@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 7 aprilis</la>
+<fr>Le 7 avril</fr>
+</jour>
+<intitule>
+<la>S. IOANNIS BAPTIST&#xC6; DE LA SALLE, PRESBYTERI</la>
+<fr>S. JEAN-BAPTISTE DE LA SALLE, PRETRE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Christum_pastorum_principem"/>
+<HYMNUS_laudes id="hy_Inclitus_rector_pater_atque_prudens"/>
+<LB_matin id="LB_Hebr_13_7-9a"/>
+<RB_matin id="RB_Super_te_Ierusalem_Constitui"/>
+<benedictus id="AN_Qui_misericordiam_habet"/>
+<oratio id="COL_Deus_qui_ad_christianam_iuventutem_educandam"/>
+<HYMNUS_vepres id="hy_Vir_celse_forma_fulgida"/>
+<LB_soir id="LB_1_Petr_5_1-4"/>
+<RB_soir id="RB_Hic_est_fratrum_amator_"/>
+<magnificat id="AN_Sinite_parvulos_venire"/>
+</liturgia>

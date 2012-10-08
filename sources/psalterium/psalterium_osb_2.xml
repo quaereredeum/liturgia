@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<liturgia>
+ <osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente>
+ps3
+</osb_vig_ps_attente>
+<osb_vig_ant1 id="AN_Rectos_decet"/>
+<osb_vig_ps1>ps32</osb_vig_ps1>
+<osb_vig_ant2 id="AN_Immitet_angelus"/>
+<osb_vig_ps2>ps33</osb_vig_ps2>
+<osb_vig_ant3 id="AN_Expugna_impugnantes"/>
+<osb_vig_ps3>ps34</osb_vig_ps3>
+<osb_vig_ant4 id="AN_Revela_Domino"/>
+<osb_vig_ps4>ps36I</osb_vig_ps4>
+<osb_vig_ant5 id="AN_Custodi_innocentiam"/>
+<osb_vig_ps5>ps36II</osb_vig_ps5>
+<osb_vig_ant6 id="AN_Ne_in_ira"/>
+<osb_vig_ps6>ps37</osb_vig_ps6>
+<osb_vig_vers1 id="VERS_Da_mihi"/>
+<osb_vig_ben1>
+<la>Ex&#xE1;udi, D&#xF3;mine Iesu Christe, preces serv&#xF3;rum tu&#xF3;rum, et miser&#xE9;re nobis, qui cum Patre et Sp&#xED;ritu Sancto vivis et regnas in sa'ecula saecul&#xF3;rum. R/. Amen.</la>
+<fr>Exauce, Seigneur J&#xE9;sus-Christ, les pri&#xE8;res de Tes serviteurs, et aie piti&#xE9; de nous, Toi qui vis et r&#xE8;gnes avec le P&#xE8;re et l'Esprit Saint.</fr>
+</osb_vig_ben1>
+<osb_vig_ant7 id="AN_Alleluia_alleluia_alleluia"/>
+<osb_vig_ps7>ps38</osb_vig_ps7>
+<osb_vig_ant8 id=""/>
+<osb_vig_ps8>ps39</osb_vig_ps8>
+<osb_vig_ant9 id=""/>
+<osb_vig_ps9>ps40</osb_vig_ps9>
+<osb_vig_ant10 id=""/>
+<osb_vig_ps10>ps41</osb_vig_ps10>
+<osb_vig_ant11 id=""/>
+<osb_vig_ps11>ps43</osb_vig_ps11>
+<osb_vig_ant12 id=""/>
+<osb_vig_ps12>ps44</osb_vig_ps12>
+</liturgia>

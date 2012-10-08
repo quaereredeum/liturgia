@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 7 octobris</la>
+<fr>Le 7 octobre</fr>
+</jour>
+<intitule>
+<la>BEAT&#xC6; MARI&#xC6; VIRGINIS A ROSARIO</la>
+<fr>NOTRE DAME DU ROSAIRE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Festivitatem_beatae_Mariae"/>
+<HYMNUS_laudes id="hy_Te_gestientem_gaudiis"/>
+<ant1 id="AN_De_Maria_natus"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Tecum_Domino_benedicimus"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Exaltata_est_Virgo"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Cf._Is_61_10"/>
+<RB_matin id="RB_Ave_Maria_gratia_plena_Dominus"/>
+<benedictus id="AN_Beata_Mater_sentiant"/>
+<oratio id="COL_Gratiam_tuam_quaesumus_Domine_mentibus_nostris"/>
+<HYMNUS_vepres id="hy_Te_gestientem_gaudiis"/>
+<ant7 id="AN_Angelus_Gabriel_nuntiavit"/>
+<ps7 id="ps121"/>
+<ant8 id="AN_Stabat_iuxta_crucem"/>
+<ps8 id="ps126"/>
+<ant9 id="AN_Laetare_Virgo_Mater"/>
+<ps9 id="NT5"/>
+<LB_soir id="LB_Gal_4_4-5"/>
+<RB_soir id="RB_Ave_Maria_gratia_plena;_Dominus"/>
+<magnificat id="AN_Maria_conservabat_omnia"/>
+</liturgia>

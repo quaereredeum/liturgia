@@ -1,0 +1,653 @@
+<?xml version="1.0"?>
+<mois><ordo id="RE">
+		<jour date="20121201">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20121202">
+		<intitule>
+		<la>Dominica I Adventus</la>
+		<fr>Ier dimanche de l'Avent</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121203">
+		<intitule>
+		<la>S. Francisci Xavier, presbyteri</la>
+		<fr>St Fran&#xE7;ois-Xavier, pr&#xEA;tre</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121204">
+		<intitule>
+		<la>S. Ioannis Damasceni, presbyteri et Ecclesiae doctoris</la>
+		<fr>St Jean Damasc&#xE8;ne, pr&#xEA;tre et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121205">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121206">
+		<intitule>
+		<la>S. Nicolai, episcopi</la>
+		<fr>St Nicolas, &#xE9;v&#xEA;que</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121207">
+		<intitule>
+		<la>S. Ambrosii, episcopi et Ecclesiae doctoris</la>
+		<fr>St Ambroise, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121208">
+		<intitule>
+		<la>IN CONCEPTIONE IMMACULATA BEATAE MARIAE VIRGINIS</la>
+		<fr>CONCEPTION IMMACULEE DE LA BIENHEUREUSE VIERGE MARIE</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121209">
+		<intitule>
+		<la>Dominica II Adventus</la>
+		<fr>II&#xE8;me dimanche de l'Avent</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121210">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121211">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121212">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121213">
+		<intitule>
+		<la>S. Luciae, virginis et martyris</la>
+		<fr>Ste Lucie, vierge et martyre</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20121214">
+		<intitule>
+		<la>S. Ioannis a Cruce, presbyteri et Ecclesiae doctoris</la>
+		<fr>St Jean de la Croix, pr&#xEA;tre et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121215">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121216">
+		<intitule>
+		<la>Dominica III Adventus</la>
+		<fr>III&#xE8;me dimanche de l'Avent</fr>
+		</intitule>
+		<couleur>Rose</couleur>
+		</jour>
+		<jour date="20121217">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121218">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121219">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121220">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121221">
+		<intitule>
+		<la>S. Petri Canisii, presbyteri et Ecclesiae doctoris</la>
+		<fr>St Pierre Canisius, pr&#xEA;tre et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121222">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121223">
+		<intitule>
+		<la>Dominica IV Adventus</la>
+		<fr>IV&#xE8;me dimanche de l'Avent</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121224">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121225">
+		<intitule>
+		<la>IN NATIVITATE DOMINI</la>
+		<fr>NATIVITE DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121226">
+		<intitule>
+		<la>St &#xC9;tienne, protomartyr</la>
+		<fr>St &#xC9;tienne, protomartyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20121227">
+		<intitule>
+		<la>S. Ioannis, apostoli et evangelistae</la>
+		<fr>St Jean, ap&#xF4;tre et &#xE9;vang&#xE9;liste</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121228">
+		<intitule>
+		<la>Ss. Innocentium, martyrum</la>
+		<fr>Les Saints Innocents, martyrs</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20121229">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121230">
+		<intitule>
+		<la>SANCTAE FAMILIAE IESU, MARIAE ET IOSEPH</la>
+		<fr>SAINTE FAMILLE DE JESUS, MARIE ET JOSEPH</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121231">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour></ordo><ordo id="SWF">
+		<jour date="20121201">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20121202">
+		<intitule>
+		<la>Dominica I Adventus</la>
+		<fr>Ier dimanche de l'Avent</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121203">
+		<intitule>
+		<la>S. Francisci Xavier, presbyteri</la>
+		<fr>St Fran&#xE7;ois-Xavier, pr&#xEA;tre</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121204">
+		<intitule>
+		<la>S. Ioannis Damasceni, presbyteri et Ecclesiae doctoris</la>
+		<fr>St Jean Damasc&#xE8;ne, pr&#xEA;tre et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121205">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121206">
+		<intitule>
+		<la>S. Nicolai, episcopi</la>
+		<fr>St Nicolas, &#xE9;v&#xEA;que</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121207">
+		<intitule>
+		<la>S. Ambrosii, episcopi et Ecclesiae doctoris</la>
+		<fr>St Ambroise, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121208">
+		<intitule>
+		<la>In Conceptione Immaculata B. Mariae Virginis, patronae Congregationis Solesmensis.</la>
+		<fr>In Conceptione Immaculata B. Mariae Virginis, patronae Congregationis Solesmensis.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121209">
+		<intitule>
+		<la>Dominica II Adventus</la>
+		<fr>II&#xE8;me dimanche de l'Avent</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121210">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121211">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121212">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121213">
+		<intitule>
+		<la>S. Luciae, virginis et martyris</la>
+		<fr>Ste Lucie, vierge et martyre</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20121214">
+		<intitule>
+		<la>S. Ioannis a Cruce, presbyteri et Ecclesiae doctoris</la>
+		<fr>St Jean de la Croix, pr&#xEA;tre et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121215">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121216">
+		<intitule>
+		<la>Dominica III Adventus</la>
+		<fr>III&#xE8;me dimanche de l'Avent</fr>
+		</intitule>
+		<couleur>Rose</couleur>
+		</jour>
+		<jour date="20121217">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121218">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121219">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121220">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121221">
+		<intitule>
+		<la>S. Petri Canisii, presbyteri et Ecclesiae doctoris</la>
+		<fr>St Pierre Canisius, pr&#xEA;tre et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121222">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121223">
+		<intitule>
+		<la>Dominica IV Adventus</la>
+		<fr>IV&#xE8;me dimanche de l'Avent</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121224">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121225">
+		<intitule>
+		<la>IN NATIVITATE DOMINI</la>
+		<fr>NATIVITE DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121226">
+		<intitule>
+		<la>S. Stephani, protomartyris</la>
+		<fr>St &#xC9;tienne, protomartyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20121227">
+		<intitule>
+		<la>S. Ioannis, apostoli et evangelistae</la>
+		<fr>St Jean, ap&#xF4;tre et &#xE9;vang&#xE9;liste</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121228">
+		<intitule>
+		<la>Ss. Innocentium, martyrum</la>
+		<fr>Les Saints Innocents, martyrs</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20121229">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121230">
+		<intitule>
+		<la>SANCTAE FAMILIAE IESU, MARIAE ET IOSEPH</la>
+		<fr>SAINTE FAMILLE DE JESUS, MARIE ET JOSEPH</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121231">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour></ordo><ordo id="SMK">
+		<jour date="20121201">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20121202">
+		<intitule>
+		<la>Dominica I Adventus</la>
+		<fr>Ier dimanche de l'Avent</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121203">
+		<intitule>
+		<la>S. Francisci Xavier, presbyteri</la>
+		<fr>St Fran&#xE7;ois-Xavier, pr&#xEA;tre</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121204">
+		<intitule>
+		<la>S. Ioannis Damasceni, presbyteri et Ecclesiae doctoris</la>
+		<fr>St Jean Damasc&#xE8;ne, pr&#xEA;tre et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121205">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121206">
+		<intitule>
+		<la>S. Nicolai, episcopi</la>
+		<fr>St Nicolas, &#xE9;v&#xEA;que</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121207">
+		<intitule>
+		<la>S. Ambrosii, episcopi et Ecclesiae doctoris</la>
+		<fr>St Ambroise, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121208">
+		<intitule>
+		<la>In Conceptione Immaculata B. Mariae Virginis, patronae Congregationis Solesmensis.</la>
+		<fr>In Conceptione Immaculata B. Mariae Virginis, patronae Congregationis Solesmensis.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121209">
+		<intitule>
+		<la>Dominica II Adventus</la>
+		<fr>II&#xE8;me dimanche de l'Avent</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121210">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121211">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121212">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121213">
+		<intitule>
+		<la>S. Luciae, virginis et martyris</la>
+		<fr>Ste Lucie, vierge et martyre</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20121214">
+		<intitule>
+		<la>S. Ioannis a Cruce, presbyteri et Ecclesiae doctoris</la>
+		<fr>St Jean de la Croix, pr&#xEA;tre et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121215">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121216">
+		<intitule>
+		<la>Dominica III Adventus</la>
+		<fr>III&#xE8;me dimanche de l'Avent</fr>
+		</intitule>
+		<couleur>Rose</couleur>
+		</jour>
+		<jour date="20121217">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121218">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121219">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121220">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121221">
+		<intitule>
+		<la>S. Petri Canisii, presbyteri et Ecclesiae doctoris</la>
+		<fr>St Pierre Canisius, pr&#xEA;tre et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121222">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121223">
+		<intitule>
+		<la>Dominica IV Adventus</la>
+		<fr>IV&#xE8;me dimanche de l'Avent</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121224">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20121225">
+		<intitule>
+		<la>IN NATIVITATE DOMINI</la>
+		<fr>NATIVITE DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121226">
+		<intitule>
+		<la>S. Stephani, protomartyris</la>
+		<fr>St &#xC9;tienne, protomartyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20121227">
+		<intitule>
+		<la>S. Ioannis, apostoli et evangelistae</la>
+		<fr>St Jean, ap&#xF4;tre et &#xE9;vang&#xE9;liste</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121228">
+		<intitule>
+		<la>Ss. Innocentium, martyrum</la>
+		<fr>Les Saints Innocents, martyrs</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20121229">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121230">
+		<intitule>
+		<la>SANCTAE FAMILIAE IESU, MARIAE ET IOSEPH</la>
+		<fr>SAINTE FAMILLE DE JESUS, MARIE ET JOSEPH</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20121231">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour></ordo></mois>

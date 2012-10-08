@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 15 septembris</la>
+<fr>Le 15 septembre</fr>
+</jour>
+<intitule>
+<la>BEAT&#xC6; MARI&#xC6; VIRGINIS PERDOLENTIS</la>
+<fr>LA BIENHEUREUSE MARIE, VIERGE DES DOULEURS</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Salvatorem_mundi_qui"/>
+<HYMNUS_laudes id="hy_Eia_mater_fons_amoris"/>
+<ant1 id="AN_Adhaesit_anima_mea"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Communicantes_Christi_passionibus"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Complacuit_Deus_per"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Col_1_24-25"/>
+<RB_matin id="RB_Per_te_salutem_hauriamus_Virgo"/>
+<benedictus id="AN_Gaude_perdolens_Mater"/>
+<preces_matin>
+<la>preces_V</la>
+</preces_matin>
+<oratio id="COL_Deus_qui_Filio_tuo_in_cruce"/>
+<HYMNUS_vepres id="hy_Virgo_virginum_praeclara"/>
+<ant7 id="AN_Christus_est_pax"/>
+<ps7 id="ps121"/>
+<ant8 id="AN_Accedamus_ad_civitatem"/>
+<ps8 id="ps126"/>
+<ant9 id="AN_In_Christo_habemus"/>
+<ps9 id="NT5"/>
+<LB_soir id="LB_2_Tim_2_10-12a"/>
+<RB_soir id="RB_Stabat_sancta_Maria_caeli_regina"/>
+<magnificat id="AN_Cum_vidisset_Iesus"/>
+</liturgia>

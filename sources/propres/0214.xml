@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 14 februarii</la>
+<fr>Le 14 f&#xE9;vrier</fr>
+</jour>
+<intitule>
+<la>SS. CYRILLI, MONACHI, ET METHODII, EPISCOPI</la>
+<fr>SS.CYRILLE, MOINE, ET METHODE, EVEQUE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Christum_pastorum_principem"/>
+<HYMNUS_laudes id="hy_Hi_sacerdotes_Domini_sacrati"/>
+<LB_matin id="LB_Hebr_13_7-9a"/>
+<RB_matin id="RB_Super_te_Ierusalem_Constitui"/>
+<benedictus id="AN_In_sanctitate_et"/>
+<preces_matin>
+</preces_matin>
+<oratio id="COL_Deus_qui_per_beatos_fratres_Cyrillum"/>
+<HYMNUS_vepres id="hy_Sacrata_nobis_gaudia"/>
+<LB_soir id="LB_1_Petr_5_1-4"/>
+<RB_soir id="RB_Hic_est_fratrum_amator_"/>
+<magnificat id="AN_Isti_sunt_viri"/>
+<preces_soir>
+</preces_soir>
+</liturgia>

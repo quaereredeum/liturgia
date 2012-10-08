@@ -1,0 +1,679 @@
+<?xml version="1.0"?>
+<calendarium><ordo id="RE"><messe>perannum_11-1</messe><priorite>6</priorite><pV>1</pV><couleur>Vert</couleur><reference>Dominica XI per annum</reference><sanctoral><la>St Jean-Fran&#xE7;ois R&#xE9;gis, pr&#xEA;tre</la><fr>St Jean-Fran&#xE7;ois R&#xE9;gis, pr&#xEA;tre</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XI per annum</la><fr>XI&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>Dominica XI per annum</la><fr>XI&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule><rang><la/><fr/></rang><hebdomada_psalterium>3</hebdomada_psalterium><phase_lunaire>42,37</phase_lunaire><age_lunaire>6</age_lunaire><selection>St Jean-Fran&#xE7;ois R&#xE9;gis, pr&#xEA;tre</selection><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_31</psautier>
+		<psalterium>psalterium_31</psalterium>
+		<ferie>perannum_31</ferie>
+		<special/>
+		<propre>Dominica XI per annum</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_31</psautier>
+		<psalterium>psalterium_31</psalterium>
+		<ferie>perannum_31</ferie>
+		<special/>
+		<propre>Dominica XI per annum</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="Dominica XI per annum"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Primo_dierum_omnium</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+<antL1 id="HY_Dies_aetasque_ceteris"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Domine_in_virtute</Vant1>
+<Vps1>ps20</Vps1>
+<Vant2>AN_Ne_discedas_a_me</Vant2>
+<Vps2>ps21</Vps2>
+<Vant3>AN_Dominus_regit_me</Vant3>
+<Vps3>ps22</Vps3>
+<Vant4>AN_Innocens_manibus</Vant4>
+<Vps4>ps23</Vps4>
+<Vant5>AN_Oculi_mei</Vant5>
+<Vps5>ps24</Vps5>
+<Vant6>AN_Misericordia_tua</Vant6>
+<Vps6>ps25</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Dominus_defensor</Vant7>
+<Vps7>ps26</Vps7>
+<Vant8>AN_Factus_est_adiutor</Vant8>
+<Vps8>ps27</Vps8>
+<Vant9>AN_Adorate_Dominum</Vant9>
+<Vps9>ps28</Vps9>
+<Vant10>AN_Exaltabo_te</Vant10>
+<Vps10>ps29</Vps10>
+<Vant11/>
+<Vps11>ps30</Vps11>
+<Vant12/>
+<Vps12>ps31</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Aterne_rerum_conditor</HYMNUS_laudes>
+<ant1>AN_Mirabilis_in_altis</ant1>
+<ps1>ps92</ps1>
+<ant2>AN_Laudabilis_es_Domine</ant2>
+<ps2>AT41</ps2>
+<ant3>AN_Laudate_Dominum_de</ant3>
+<ps3>ps148</ps3>
+<LB_matin>LB_Ez_37,12b-14</LB_matin> 
+<RB_matin>RB_Christe_Fili_Dei_vivi</RB_matin> <benedictus>AN_Remissa_sunt_peccata</benedictus><laudes_preces>perannum_31</laudes_preces><oratio_laudes>COL_Deus_in_te_sperantium_fortitudo_invocationibus</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_De_tribulatione_invocavi</ant4>
+<ps4>ps117I</ps4>
+<ant5>AN_Dextera_Domini_fecit</ant5>
+<ps5>ps117II</ps5>
+<ant6>AN_Deus_Dominus_illuxit</ant6>
+<ps6>ps117III</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>Dominica XI per annum</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la>Ad II Vesperas</la></office_soir>
+<HYMNUS_vepres>hy_Deus_creator_omnium</HYMNUS_vepres>
+<ant7>AN_A_solis_ortu</ant7>
+<ps7>ps114</ps7>
+<ant8>AN_Calicem_salutaris_accipiam</ant8>
+<ps8>ps120</ps8>
+<ant9>AN_Humiliavit_semetipsum_Dominus</ant9>
+<ps9>NT11</ps9>
+<LB_soir>LB_Hebr_13_20-21</LB_soir>
+<RB_soir>RB_Quam_magnificata_sunt</RB_soir>
+<magnificat>AN_Recordare_Domine_misericordiae</magnificat>
+<vepres_preces>perannum_31</vepres_preces>
+<oratio_vepres>COL_Deus_in_te_sperantium_fortitudo_invocationibus</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+<comp_ps1>ps90</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="perannum_11-1">
+<IN>IN_Exaudi_Domine_adiutor</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_in_te_sperantium_fortitudo_invocationibus</COL>
+<LEC1>perannum_11-1_C</LEC1>	
+<PS1>GR_Protector_noster</PS1>
+<LEC2>perannum_11-1_C</LEC2>
+<PS2>AL_Domine_in_virtute_tua</PS2>
+<SEQ/>
+<EV>EV_perannum_11-1_C</EV>
+<OF>OF_Benedicam_Dominum</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Unam_petii</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SWF"><messe>perannum_11-1</messe><priorite>6</priorite><pV>1</pV><couleur>Vert</couleur><reference>Dominica XI per annum</reference><sanctoral><la>D&#xE9;dicace de ND de Caillouville</la><fr>D&#xE9;dicace de ND de Caillouville</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XI per annum</la><fr>XI&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>Dominica XI per annum</la><fr>XI&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule><rang><la/><fr/></rang><hebdomada_psalterium>3</hebdomada_psalterium><phase_lunaire>42,37</phase_lunaire><age_lunaire>6</age_lunaire><selection>St Jean-Fran&#xE7;ois R&#xE9;gis, pr&#xEA;tre</selection><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_31</psautier>
+		<psalterium>psalterium_31</psalterium>
+		<ferie>perannum_31</ferie>
+		<special/>
+		<propre>Dominica XI per annum</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_31</psautier>
+		<psalterium>psalterium_31</psalterium>
+		<ferie>perannum_31</ferie>
+		<special/>
+		<propre>Dominica XI per annum</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="Dominica XI per annum"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Primo_dierum_omnium</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+<antL1 id="HY_Dies_aetasque_ceteris"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Domine_in_virtute</Vant1>
+<Vps1>ps20</Vps1>
+<Vant2>AN_Ne_discedas_a_me</Vant2>
+<Vps2>ps21</Vps2>
+<Vant3>AN_Dominus_regit_me</Vant3>
+<Vps3>ps22</Vps3>
+<Vant4>AN_Innocens_manibus</Vant4>
+<Vps4>ps23</Vps4>
+<Vant5>AN_Oculi_mei</Vant5>
+<Vps5>ps24</Vps5>
+<Vant6>AN_Misericordia_tua</Vant6>
+<Vps6>ps25</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Dominus_defensor</Vant7>
+<Vps7>ps26</Vps7>
+<Vant8>AN_Factus_est_adiutor</Vant8>
+<Vps8>ps27</Vps8>
+<Vant9>AN_Adorate_Dominum</Vant9>
+<Vps9>ps28</Vps9>
+<Vant10>AN_Exaltabo_te</Vant10>
+<Vps10>ps29</Vps10>
+<Vant11/>
+<Vps11>ps30</Vps11>
+<Vant12/>
+<Vps12>ps31</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Aterne_rerum_conditor</HYMNUS_laudes>
+<ant1>AN_Mirabilis_in_altis</ant1>
+<ps1>ps92</ps1>
+<ant2>AN_Laudabilis_es_Domine</ant2>
+<ps2>AT41</ps2>
+<ant3>AN_Laudate_Dominum_de</ant3>
+<ps3>ps148</ps3>
+<LB_matin>LB_Ez_37,12b-14</LB_matin> 
+<RB_matin>RB_Christe_Fili_Dei_vivi</RB_matin> <benedictus>AN_Remissa_sunt_peccata</benedictus><laudes_preces>perannum_31</laudes_preces><oratio_laudes>COL_Deus_in_te_sperantium_fortitudo_invocationibus</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_De_tribulatione_invocavi</ant4>
+<ps4>ps117I</ps4>
+<ant5>AN_Dextera_Domini_fecit</ant5>
+<ps5>ps117II</ps5>
+<ant6>AN_Deus_Dominus_illuxit</ant6>
+<ps6>ps117III</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>Dominica XI per annum</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la>Ad II Vesperas</la></office_soir>
+<HYMNUS_vepres>hy_Deus_creator_omnium</HYMNUS_vepres>
+<ant7>AN_A_solis_ortu</ant7>
+<ps7>ps114</ps7>
+<ant8>AN_Calicem_salutaris_accipiam</ant8>
+<ps8>ps120</ps8>
+<ant9>AN_Humiliavit_semetipsum_Dominus</ant9>
+<ps9>NT11</ps9>
+<LB_soir>LB_Hebr_13_20-21</LB_soir>
+<RB_soir>RB_Quam_magnificata_sunt</RB_soir>
+<magnificat>AN_Recordare_Domine_misericordiae</magnificat>
+<vepres_preces>perannum_31</vepres_preces>
+<oratio_vepres>COL_Deus_in_te_sperantium_fortitudo_invocationibus</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+<comp_ps1>ps90</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="perannum_11-1">
+<IN>IN_Exaudi_Domine_adiutor</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_in_te_sperantium_fortitudo_invocationibus</COL>
+<LEC1>perannum_11-1_C</LEC1>	
+<PS1>GR_Protector_noster</PS1>
+<LEC2>perannum_11-1_C</LEC2>
+<PS2>AL_Domine_in_virtute_tua</PS2>
+<SEQ/>
+<EV>EV_perannum_11-1_C</EV>
+<OF>OF_Benedicam_Dominum</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Unam_petii</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SMK"><messe>perannum_11-1</messe><priorite>6</priorite><pV>1</pV><couleur>Vert</couleur><reference>Dominica XI per annum</reference><sanctoral><la/><fr/></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XI per annum</la><fr>XI&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>Dominica XI per annum</la><fr>XI&#xE8;me dimanche dans l'ann&#xE9;e</fr></intitule><rang><la/><fr/></rang><hebdomada_psalterium>3</hebdomada_psalterium><phase_lunaire>42,37</phase_lunaire><age_lunaire>6</age_lunaire><selection>St Jean-Fran&#xE7;ois R&#xE9;gis, pr&#xEA;tre</selection><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_31</psautier>
+		<psalterium>psalterium_31</psalterium>
+		<ferie>perannum_31</ferie>
+		<special/>
+		<propre>Dominica XI per annum</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_31</psautier>
+		<psalterium>psalterium_31</psalterium>
+		<ferie>perannum_31</ferie>
+		<special/>
+		<propre>Dominica XI per annum</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="Dominica XI per annum"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Primo_dierum_omnium</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Dies_aetasque_ceteris</HYMNUS_lec_jour>
+<antL1 id="HY_Dies_aetasque_ceteris"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Domine_in_virtute</Vant1>
+<Vps1>ps20</Vps1>
+<Vant2>AN_Ne_discedas_a_me</Vant2>
+<Vps2>ps21</Vps2>
+<Vant3>AN_Dominus_regit_me</Vant3>
+<Vps3>ps22</Vps3>
+<Vant4>AN_Innocens_manibus</Vant4>
+<Vps4>ps23</Vps4>
+<Vant5>AN_Oculi_mei</Vant5>
+<Vps5>ps24</Vps5>
+<Vant6>AN_Misericordia_tua</Vant6>
+<Vps6>ps25</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Dominus_defensor</Vant7>
+<Vps7>ps26</Vps7>
+<Vant8>AN_Factus_est_adiutor</Vant8>
+<Vps8>ps27</Vps8>
+<Vant9>AN_Adorate_Dominum</Vant9>
+<Vps9>ps28</Vps9>
+<Vant10>AN_Exaltabo_te</Vant10>
+<Vps10>ps29</Vps10>
+<Vant11/>
+<Vps11>ps30</Vps11>
+<Vant12/>
+<Vps12>ps31</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Aterne_rerum_conditor</HYMNUS_laudes>
+<ant1>AN_Mirabilis_in_altis</ant1>
+<ps1>ps92</ps1>
+<ant2>AN_Laudabilis_es_Domine</ant2>
+<ps2>AT41</ps2>
+<ant3>AN_Laudate_Dominum_de</ant3>
+<ps3>ps148</ps3>
+<LB_matin>LB_Ez_37,12b-14</LB_matin> 
+<RB_matin>RB_Christe_Fili_Dei_vivi</RB_matin> <benedictus>AN_Remissa_sunt_peccata</benedictus><laudes_preces>perannum_31</laudes_preces><oratio_laudes>COL_Deus_in_te_sperantium_fortitudo_invocationibus</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_De_tribulatione_invocavi</ant4>
+<ps4>ps117I</ps4>
+<ant5>AN_Dextera_Domini_fecit</ant5>
+<ps5>ps117II</ps5>
+<ant6>AN_Deus_Dominus_illuxit</ant6>
+<ps6>ps117III</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>Dominica XI per annum</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la>Ad II Vesperas</la></office_soir>
+<HYMNUS_vepres>hy_Deus_creator_omnium</HYMNUS_vepres>
+<ant7>AN_A_solis_ortu</ant7>
+<ps7>ps114</ps7>
+<ant8>AN_Calicem_salutaris_accipiam</ant8>
+<ps8>ps120</ps8>
+<ant9>AN_Humiliavit_semetipsum_Dominus</ant9>
+<ps9>NT11</ps9>
+<LB_soir>LB_Hebr_13_20-21</LB_soir>
+<RB_soir>RB_Quam_magnificata_sunt</RB_soir>
+<magnificat>AN_Recordare_Domine_misericordiae</magnificat>
+<vepres_preces>perannum_31</vepres_preces>
+<oratio_vepres>COL_Deus_in_te_sperantium_fortitudo_invocationibus</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+<comp_ps1>ps90</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="perannum_11-1">
+<IN>IN_Exaudi_Domine_adiutor</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_in_te_sperantium_fortitudo_invocationibus</COL>
+<LEC1>perannum_11-1_C</LEC1>	
+<PS1>GR_Protector_noster</PS1>
+<LEC2>perannum_11-1_C</LEC2>
+<PS2>AL_Domine_in_virtute_tua</PS2>
+<SEQ/>
+<EV>EV_perannum_11-1_C</EV>
+<OF>OF_Benedicam_Dominum</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Unam_petii</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><viergemarie>
+ <intitule> </intitule></viergemarie><jerusalem/><piete>
+ <intitule/></piete><calendriercivil>
+ <intitule/></calendriercivil><journeesdediees>
+ <intitule/></journeesdediees><biographie>
+ <intitule>St Jean-Fran&#xE7;ois R&#xE9;gis, pr&#xEA;tre</intitule>
+ <biographiecourte>Pr&#xEA;tre j&#xE9;suite, envoy&#xE9; en mission dans  le Velay, mort d'&#xE9;puisement et de froid &#xE0; La Louvesc (&#x2020;1640)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie><martyrologe><para id="0">1. Comm&#xE9;moraison de saint Amos, proph&#xE8;te au VIIIe si&#xE8;cle avant le Christ. Il &#xE9;tait bouvier et cultivait les sycomores, quand le Seigneur l&#x2019;envoya aux fils d&#x2019;Isra&#xEB;l pour revendiquer sa justice et sa saintet&#xE9; en face de leurs pr&#xE9;varications et de leurs injustices sociales. </para><para id="1">2. &#xC0; Dorostore en M&#xE9;sie, vers 300, saint H&#xE9;sychius, soldat qui fut arr&#xEA;t&#xE9; avec saint Jules et re&#xE7;ut apr&#xE8;s lui la couronne du martyre, sous le pr&#xE9;fet Maxime. </para><para id="2">3. En Lucanie, saint Guy, martyr, probablement sous Diocl&#xE9;tien, vers 303.</para><para id="3">4. En Auvergne, vers 480, saint Abraham, moine. N&#xE9; sur les bords de l&#x2019;Euphrate, il se rendit en &#xC9;gypte pour visiter les ermites. Arr&#xEA;t&#xE9; par des pa&#xEF;ens, il fut retenu prisonnier durant cinq ans, puis vint en Auvergne, se retira au monast&#xE8;re de Saint-Cirgues, et mourut tr&#xE8;s &#xE2;g&#xE9;. </para><para id="4">5. &#xC0; Crespin en Hannonie, vers 686, saint Landelin, abb&#xE9;. C&#xE9;l&#xE8;bre brigand converti &#xE0; l&#x2019;exercice des vertus par l&#x2019;&#xE9;v&#xEA;que saint Aubert, il fonda le monast&#xE8;re de Lobbes, puis gagna celui de Crespin, o&#xF9; il mourut. </para><para id="5">6*. &#xC0; S&#xE9;es en Gaule, l&#x2019;an 756, saint Lohier, &#xE9;v&#xEA;que, qui r&#xE9;signa sa charge pour se pr&#xE9;parer &#xE0; la mort dans un ermitage. </para><para id="6">7. &#xC0; Cordoue en Andalousie, l&#x2019;an 853, sainte B&#xE9;nilde, martyre. Cette femme &#xE2;g&#xE9;e fut mise &#xE0; mort le lendemain du martyre des saints Anastase, F&#xE9;lix et Digne. </para><para id="7">8. Au Mont-Joux dans le Valais suisse, en 1081, saint Bernard de Menthon, pr&#xEA;tre. Chanoine et archidiacre d&#x2019;Aoste, il se fixa pendant de nombreuses ann&#xE9;es sur les passages des sommets alpins et &#xE9;tablit un monast&#xE8;re tr&#xE8;s c&#xE9;l&#xE8;bre et des hospices pour les voyageurs sur deux monts qui portent encore son nom. </para><para id="8">9*. &#xC0; Raceburg en Germanie, l&#x2019;an 1204, saint Isfrid, &#xE9;v&#xEA;que. Tout en conservant la mani&#xE8;re de vivre des chanoines pr&#xE9;montr&#xE9;s, il se donna &#xE0; l&#x2019;&#xE9;vang&#xE9;lisation des Vendes. </para><para id="9">10*. &#xC0; Londres, en 1537, le bienheureux Thomas Scryven, martyr. Moine de la Chartreuse de la cit&#xE9;, il resta fid&#xE8;le &#xE0; l&#x2019;&#xC9;glise catholique sous le roi Henri VIII, et mourut de faim en prison. </para><para id="10">11*. &#xC0; York, en 1598, les bienheureux martyrs Pierre Snow, pr&#xEA;tre, et Raoul Grimston. Condamn&#xE9;s &#xE0; mort sous la reine &#xC9;lisabeth I&#xE8;re, le premier parce que pr&#xEA;tre, le second parce qu&#x2019;il avait cherch&#xE9; &#xE0; le soustraire &#xE0; ses poursuivants, ils subirent le supplice de la pendaison.</para><para id="11">12. &#xC0; Pibrac au dioc&#xE8;se de Toulouse, en 1601, sainte Germaine Cousin, vierge. N&#xE9;e de parents inconnus, elle fut, d&#xE8;s son enfance, astreinte &#xE0; une vie de servitude et frapp&#xE9;e de maladies. Elle endura toutes sortes d&#x2019;&#xE9;preuves avec courage et un visage joyeux, et mourut pieusement &#xE0; l&#x2019;&#xE2;ge de vingt-et-un ans. </para><para id="12">13*. &#xC0; Bergame en Lombardie, l&#x2019;an 1886, le bienheureux Louis-Marie Palazzolo, pr&#xEA;tre, fondateur des Congr&#xE9;gations des Fr&#xE8;res de la Sainte-Famille et des S&#x153;urs des &#x201C;Pauvrettes&#x201D;. </para><para id="13">14. &#xC0; Qianshengzhuang, pr&#xE8;s de la ville de Liushuitao dans la province chinoise de Hebei, en 1900, sainte Barbe Cui Lianzhi, martyre. Dans la pers&#xE9;cution de la secte de Yihetuan, apr&#xE8;s le meurtre de son fils, elle chercha &#xE0; fuir de nuit mais, arr&#xEA;t&#xE9;e par les ennemis des chr&#xE9;tiens, elle fut sauvagement frapp&#xE9;e &#xE0; mort.</para></martyrologe></calendarium>

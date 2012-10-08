@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 25 aprilis</la>
+<fr>Le 25 avril</fr>
+</jour>
+<intitule>
+<la>S. MARCI, EVANGELIST&#xC6;</la>
+<fr>S. MARC, EVANGELISTE</fr>
+</intitule>
+<rang>
+<la>Festum</la>
+<fr>F&#xEA;te</fr>
+</rang>
+<ant_invit id="INV_Dominum_in_Evangelio"/>
+<HYMNUS_laudes id="hy_Mentibus_laetis_tua_festa_Marce"/>
+<ant1 id="AN_Sapientiam_antiquorum_exquisierunt"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_In_fide_veritatis"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Collaudabunt_multi_sapientiam"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_1_Cor_15_1-2a._3-4"/>
+<RB_matin id="RB_Narraverunt_laudes_Domini_et_virtutes"/>
+<benedictus id="AN_Iesu_Christi_gratia"/>
+<preces_matin>
+<la>preces_V</la>
+</preces_matin>
+<oratio id="COL_Deus_qui_beatum_Marcum_evangelistam_tuum"/>
+<LB_3 id="LB_2_Cor_5_19_b-20"/>
+<RB_3 id="VERS_In_omnem_terram_exivit_sonus"/>
+<LB_6 id="LB_Act_5_12_a._14"/>
+<RB_6 id="VERS_Custodiebant_testimonia_Dei_alleluia_Et"/>
+<LB_9 id="LB_Act_5_41-42"/>
+<RB_9 id="VERS_Gaudete_et_exsultate_alleluia_Quia"/>
+<HYMNUS_vepres id="hy_Mentibus_laetis_tua_festa_Marce"/>
+<ant7 id="AN_Evangelii_factus_sum"/>
+<ps7 id="ps115"/>
+<ant8 id="AN_Omnia_facio_propter"/>
+<ps8 id="ps125"/>
+<ant9 id="AN_Mihi_data_est"/>
+<ps9 id="NT4"/>
+<LB_soir id="LB_Col_1_3-6"/>
+<RB_soir id="RB_Annuntiate_inter_gentes_gloriam_Domini"/>
+<magnificat id="AN_Verbum_Domini_manet"/>
+<preces_soir>
+<la>preces_VI</la>
+</preces_soir>
+<HYMNUS_lectures id="HY_O_vir_beate_Apostolis"/>
+<HYMNUS_lec_jour id=""/>
+</liturgia>

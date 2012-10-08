@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<liturgia>
+ <osb_vig_ant_attente id="AN_Ego_dormivi" />
+<osb_vig_ps_attente>ps3</osb_vig_ps_attente>
+<osb_vig_ant1 id="AN_Inclina_Domine" />
+<osb_vig_ps1>ps85</osb_vig_ps1>
+<osb_vig_ant2 id="AN_Fundamenta_eius" />
+<osb_vig_ps2>ps86</osb_vig_ps2>
+<osb_vig_ant3 id="AN_Benedictus_in_aeternum" />
+<osb_vig_ps3>ps88I</osb_vig_ps3>
+<osb_vig_ant4 id=""/>
+<osb_vig_ps4>ps88II</osb_vig_ps4>
+<osb_vig_ant5 id="AN_Exaltare"/>
+<osb_vig_ps5>ps92</osb_vig_ps5>
+<osb_vig_ant6 id="AN_Beatus_homo" />
+<osb_vig_ps6>ps93
+</osb_vig_ps6>
+<osb_vig_vers1 id="VERS_Fili_mi"/>
+<osb_vig_ben1>
+<la>A cunctis v&#xED;tiis et pecc&#xE1;tis abs&#xF3;lvat nos virtus Sanctae Trinit&#xE1;tis. R/. Amen.</la>
+<fr>Que le Seigneur tout puissant et mis&#xE9;ricordieux nous d&#xE9;livre des liens de nos p&#xE9;ch&#xE9;s. R/. Amen.</fr>
+</osb_vig_ben1>
+<osb_vig_ant7 id="AN_Alleluia_alleluia"/>
+<osb_vig_ps7>ps95</osb_vig_ps7>
+<osb_vig_ant8 id=""/>
+<osb_vig_ps8>ps96</osb_vig_ps8>
+<osb_vig_ant9 id=""/>
+<osb_vig_ps9>ps97</osb_vig_ps9>
+<osb_vig_ant10 id=""/>
+<osb_vig_ps10>ps98</osb_vig_ps10>
+<osb_vig_ant11 id=""/>
+<osb_vig_ps11>ps99</osb_vig_ps11>
+<osb_vig_ant12 id=""/>
+<osb_vig_ps12>ps100</osb_vig_ps12>
+<osb_vig_LB>LB_2Cor12,9-10</osb_vig_LB>
+<osb_vig_RB>
+V/. Oculi mei defec&#xE9;runt in desid&#xE9;rio salut&#xE1;ris tui. R/. Et el&#xF3;quii iust&#xED;tiae tuae.
+<fr>V/. Mes yeux se sont us&#xE9;s &#xE0; d&#xE9;sirer Ton salut. R/. Et les paroles de Ta justice.</fr>
+</osb_vig_RB>
+</liturgia>

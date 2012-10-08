@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XVI per annum</la>
+<fr>XVI&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Colligite_primum_zizania"/>
+<magnificat1_B id="AN_Convenientes_apostoli_ad"/>
+<magnificat1_C id="AN_Intravit_Iesus_in"/>
+<oratio id="COL_Propitiare_Domine_famulis_tuis_et_clementer"/>
+<benedictus_A id="AN_Simile_est_regnum"/>
+<benedictus_B id="AN_Venite_vos_ipsi"/>
+<benedictus_C id="AN_Maria_sedens_secus"/>
+<magnificat2_A id="AN_In_consummatione_saeculi"/>
+<magnificat2_B id="AN_Vidit_Iesus_multam"/>
+<magnificat2_C id="AN_Optimam_partem_elegit"/>
+</liturgia>

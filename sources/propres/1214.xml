@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 14 decembris </la>
+<fr>Le 14 d&#xE9;cembre</fr>
+</jour>
+<intitule>
+<la>S. IOANNIS A CRUCE, PRESBYTERI ET ECCLESI&#xC6; DOCTORIS </la>
+<fr>S. JEAN JEAN DE LA CROIX, PRETRE ET DOCTEUR DE L'EGLISE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Fontem_sapientiae_Dominum"/>
+<HYMNUS_laudes id="hy_Laude_te_cives_superi_coronant"/>
+<LB_matin id="LB_Sap_7_13-14"/>
+<RB_matin id="RB_Sapientiam_sanctorum_Narrent_populi"/>
+<benedictus id="AN_Qui_docti_fuerint"/>
+<oratio id="COL_Deus_qui_sanctum_Ioannem_presbyterum_perfectae"/>
+<HYMNUS_vepres id="hy_Laude_te_cives_superi_coronant"/>
+<LB_soir id="LB_Iac_3_17-18"/>
+<RB_soir id="RB_In_medio_Ecclesiae_Aperuit"/>
+<magnificat id="AN_O_doctor_optime"/>
+</liturgia>

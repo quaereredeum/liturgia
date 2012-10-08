@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 17 novembris</la>
+<fr>Le 17 novembre</fr>
+</jour>
+<intitule>
+<la>S. ELISABETH HUNGARI&#xC6;</la>
+<fr>S. ELISABETH DE HONGRIE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Mirabilem_Deum_in"/>
+<HYMNUS_laudes id="hy_Nobilem_Christi_famulam_diserta"/>
+<LB_matin id="LB_Rom_12_1-2"/>
+<RB_matin id="RB_Adiuvabit_eam_Deus_vultu"/>
+<benedictus id="AN_In_hoc_cognoscent"/>
+<preces_matin>
+<la>preces_V</la>
+</preces_matin>
+<oratio id="COL_Deus_qui_beatae_Elisabeth_tribuisti_in"/>
+<HYMNUS_vepres id="hy_Fortem_virili_pectore"/>
+<LB_soir id="LB_Rom_8_28-30"/>
+<RB_soir id="RB_Elegit_eam_Deus_Et"/>
+<magnificat id="AN_Amen_dico_vobis"/>
+<preces_soir>
+<la>preces_VI</la>
+</preces_soir>
+</liturgia>

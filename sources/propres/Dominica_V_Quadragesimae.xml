@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica V Quadragesimae</la>
+<fr>V&#xB0; dimanche de Car&#xEA;me</fr>
+</intitule>
+<magnificat1_A id="AN_Lazarus_amicus_noster"/>
+<magnificat1_B id="AN_Nisi_granum_frumenti"/>
+<magnificat1_C id="AN_Iesus_inclinans_se"/>
+<oratio id="COL_Quaesumus_Domine_Deus_noster_ut_in"/>
+<benedictus_A id="AN_Ego_sum_resurrectio"/>
+<benedictus_B id="AN_Si_quis_mihi"/>
+<benedictus_C id="AN_Audientes_unus_post"/>
+<magnificat2_A id="AN_Ego_credidi_quia"/>
+<magnificat2_B id="AN_Ego_si_exaltatus"/>
+<magnificat2_C id="AN_Mulier_ubi_sunt"/>
+</liturgia>

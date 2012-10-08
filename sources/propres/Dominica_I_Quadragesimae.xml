@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica I Quadragesimae</la>
+<fr>Ier dimanche de Car&#xEA;me</fr>
+</intitule>
+<magnificat1_A id="AN_Ductus_est_Iesus"/>
+<magnificat1_B id="AN_Iesus_erat_in"/>
+<magnificat1_C id="AN_Iesus_plenus_Spiritu"/>
+<oratio id="COL_Concede_nobis_omnipotens_Deus_ut_per"/>
+<benedictus_A id="AN_Non_in_solo_pane"/>
+<benedictus_B id="AN_Venit_Iesus_in"/>
+<benedictus_C id="AN_Nihil_manducavit_Iesus"/>
+<magnificat2_A id="AN_Dicit_Iesus_Vade"/>
+<magnificat2_B id="AN_Evigila_super_nos"/>
+<magnificat2_C id="AN_Consummata_omni_tentatione"/>
+</liturgia>

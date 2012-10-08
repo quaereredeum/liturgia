@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<liturgia>
+ <HYMNUS_laudes id="hy_En_acetum_fel_arundo"/>
+<ant1 id="AN_Turba_multa_quae"/>
+<ant2 id="AN_Cum_angelis_et"/>
+<ant3 id="AN_Benedictus_qui_venit"/>
+<LB_matin id="LB_Zac_9_9"/>
+<RB_matin id="RB_Redemisti_nos_Domine_In"/>
+<preces_matin>
+<la>preces_IX</la>
+</preces_matin>
+<oratio_laudes id="COL_Omnipotens_sempiterne_Deus_qui_humano_generi"/>
+<HYMNUS_tertiam id="hy_Celsae_salutis_gaudia"/>
+<HYMNUS_sextam id="hy_Celsae_salutis_gaudia"/>
+<HYMNUS_nonam id="hy_Celsae_salutis_gaudia"/>
+<ant4 id="AN_Ante_diem_festum"/>
+<ant5 id="AN_Sicut_novit_me"/>
+<ant6 id="AN_Mihi_vivere_Christus"/>
+<LB_3 id="LB_Cf._2_Cor_4_10-11"/>
+<RB_3 id="VERS_Oblatus_est_quia_ipse_voluit"/>
+<oratio_3 id="COL_Omnipotens_sempiterne_Deus_qui_humano_generi"/>
+<LB_6 id="LB_1_Petr_4_13-14"/>
+<RB_6 id="VERS_Vere_languores_nostros_ipse_tulit"/>
+<oratio_6 id="COL_Omnipotens_sempiterne_Deus_qui_humano_generi"/>
+<LB_9 id="LB_1_Petr_5_10-11"/>
+<RB_9 id="VERS_Adoremus_crucis_signaculum_Per"/>
+<oratio_9 id="COL_Omnipotens_sempiterne_Deus_qui_humano_generi"/>
+<HYMNUS_vesperas id="hy_Vexilla_regis_prodeunt"/>
+<ant7 id="AN_Percussum_et_humiliatum"/>
+<ant8 id="AN_Sanguis_Christi_emundat"/>
+<ant9 id="AN_Peccata_nostra_ipse"/>
+<ps9 id="Canticum_1_Petr_2_21-24"/>
+<LB_soir id="LB_Act_13_26-30a"/>
+<RB_soir id="RB_Adoramus_te_Christe_Et"/>
+<oratio_vesperas id="COL_Omnipotens_sempiterne_Deus_qui_humano_generi"/>
+<preces_soir>
+<la>preces_X</la>
+</preces_soir>
+</liturgia>

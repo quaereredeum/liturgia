@@ -1,0 +1,632 @@
+<?xml version="1.0"?>
+<mois><ordo id="RE">
+		<jour date="20131101">
+		<intitule>
+		<la>OMNIUM SANCTORUM</la>
+		<fr>TOUS LES SAINTS</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20131102">
+		<intitule>
+		<la>IN COMMEMORATIONE OMNIUM FIDELIUM DEFUNCTORUM</la>
+		<fr>COMMEMORATION DE TOUS LES FIDELES DEFUNTS</fr>
+		</intitule>
+		<couleur>Noir</couleur>
+		</jour>
+		<jour date="20131103">
+		<intitule>
+		<la>Dominica XXXI per annum</la>
+		<fr>XXXI&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131104">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131105">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131106">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131107">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131108">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131109">
+		<intitule>
+		<la>IN DEDICATIONE BASILICAE LATERANENSIS</la>
+		<fr>DEDICACE DE LA BASILIQUE DU LATRAN</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20131110">
+		<intitule>
+		<la>Dominica XXXII per annum</la>
+		<fr>XXXII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131111">
+		<intitule>
+		<la>S. Martini Turonensis, episcopi</la>
+		<fr>St Martin de Tours, &#xE9;v&#xEA;que</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20131112">
+		<intitule>
+		<la>S. Iosaphat, episcopi et martyris</la>
+		<fr>St Josaphat, &#xE9;v&#xEA;que et martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20131113">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131114">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131115">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131116">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131117">
+		<intitule>
+		<la>Dominica XXXIII per annum</la>
+		<fr>XXXIII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131118">
+		<intitule>
+		<la>In Dedicatione basilicarum Ss. Petri et Pauli, apostolorum</la>
+		<fr>D&#xE9;dicace des basiliques de Sts Pierre et Paul, ap&#xF4;tres</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131119">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131120">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131121">
+		<intitule>
+		<la>In Praesentatione B. Mariae Virginis</la>
+		<fr>Pr&#xE9;sentation de la Bienheureuse Vierge Marie</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20131122">
+		<intitule>
+		<la>S. Caeciliae, virginis et martyris</la>
+		<fr>Ste C&#xE9;cile, vierge et martyre</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20131123">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131124">
+		<intitule>
+		<la>D.N. IESU CHRISTI UNIVERSORUM REGIS</la>
+		<fr>N. S. J. C. ROI DE L'UNIVERS</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20131125">
+		<intitule>
+		<la>S. Catharinae Alexandrinae, virginis et martyris</la>
+		<fr>Ste Catherine d'Alexandrie, vierge et martyr</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131126">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131127">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131128">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131129">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131130">
+		<intitule>
+		<la>S. Andreae, apostoli</la>
+		<fr>St Andr&#xE9;, ap&#xF4;tre</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour></ordo><ordo id="SWF">
+		<jour date="20131101">
+		<intitule>
+		<la>OMNIUM SANCTORUM</la>
+		<fr>TOUS LES SAINTS</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20131102">
+		<intitule>
+		<la>IN COMMEMORATIONE OMNIUM FIDELIUM DEFUNCTORUM</la>
+		<fr>COMMEMORATION DE TOUS LES FIDELES DEFUNTS</fr>
+		</intitule>
+		<couleur>Noir</couleur>
+		</jour>
+		<jour date="20131103">
+		<intitule>
+		<la>Dominica XXXI per annum</la>
+		<fr>XXXI&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131104">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131105">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131106">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131107">
+		<intitule>
+		<la>S. Willibrord</la>
+		<fr>S. Willibrord</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131108">
+		<intitule>
+		<la>Omnium Sanctorum Ordinis S.P.N. Benedicti</la>
+		<fr>Omnium Sanctorum Ordinis S.P.N. Benedicti</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20131109">
+		<intitule>
+		<la>IN DEDICATIONE BASILICAE LATERANENSIS</la>
+		<fr>DEDICACE DE LA BASILIQUE DU LATRAN</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20131110">
+		<intitule>
+		<la>Dominica XXXII per annum</la>
+		<fr>XXXII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131111">
+		<intitule>
+		<la>S. Martini Turonensis, espiscopi</la>
+		<fr>St Martin de Tours, &#xE9;v&#xEA;que</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20131112">
+		<intitule>
+		<la>S. Th&#xE9;odore Studite</la>
+		<fr>S. Th&#xE9;odore Studite</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131113">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131114">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131115">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131116">
+		<intitule>
+		<la>S. Gertrudis, virginis, O.N.</la>
+		<fr>Ste Gertrude, vierge, de NO</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20131117">
+		<intitule>
+		<la>Dominica XXXIII per annum</la>
+		<fr>XXXIII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131118">
+		<intitule>
+		<la>In Dedicatione basilicarum Ss. Petri et Pauli, apostolorum</la>
+		<fr>D&#xE9;dicace des basiliques de Sts Pierre et Paul, ap&#xF4;tres</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131119">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131120">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131121">
+		<intitule>
+		<la>In Praesentatione B. Mariae Virginis</la>
+		<fr>Pr&#xE9;sentation de la Bienheureuse Vierge Marie</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20131122">
+		<intitule>
+		<la>S. Caeciliae, virginis et martyris</la>
+		<fr>Ste C&#xE9;cile, vierge et martyre</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20131123">
+		<intitule>
+		<la>S. Clementis I, papae et martyris</la>
+		<fr>St Cl&#xE9;ment Ier, pape et martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20131124">
+		<intitule>
+		<la>D.N. IESU CHRISTI UNIVERSORUM REGIS</la>
+		<fr>N. S. J. C. ROI DE L'UNIVERS</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20131125">
+		<intitule>
+		<la>S. Catharinae Alexandrinae, virginis et martyris</la>
+		<fr>Ste Catherine d'Alexandrie, vierge et martyr</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131126">
+		<intitule>
+		<la>S. Silvestre</la>
+		<fr>S. Silvestre</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20131127">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131128">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131129">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131130">
+		<intitule>
+		<la>S. Andreae, apostoli</la>
+		<fr>St Andr&#xE9;, ap&#xF4;tre</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour></ordo><ordo id="SMK">
+		<jour date="20131101">
+		<intitule>
+		<la>OMNIUM SANCTORUM</la>
+		<fr>TOUS LES SAINTS</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20131102">
+		<intitule>
+		<la>IN COMMEMORATIONE OMNIUM FIDELIUM DEFUNCTORUM</la>
+		<fr>COMMEMORATION DE TOUS LES FIDELES DEFUNTS</fr>
+		</intitule>
+		<couleur>Noir</couleur>
+		</jour>
+		<jour date="20131103">
+		<intitule>
+		<la>Dominica XXXI per annum</la>
+		<fr>XXXI&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131104">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131105">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131106">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131107">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131108">
+		<intitule>
+		<la>Omnium Sanctorum Ordinis S.P.N. Benedicti</la>
+		<fr>Omnium Sanctorum Ordinis S.P.N. Benedicti</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20131109">
+		<intitule>
+		<la>IN DEDICATIONE BASILICAE LATERANENSIS</la>
+		<fr>DEDICACE DE LA BASILIQUE DU LATRAN</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20131110">
+		<intitule>
+		<la>Dominica XXXII per annum</la>
+		<fr>XXXII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131111">
+		<intitule>
+		<la>S. Martini Turonensis, espiscopi</la>
+		<fr>St Martin de Tours, &#xE9;v&#xEA;que</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20131112">
+		<intitule>
+		<la>S. Iosaphat, episcopi et martyris</la>
+		<fr>St Josaphat, &#xE9;v&#xEA;que et martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20131113">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131114">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131115">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131116">
+		<intitule>
+		<la>S. Gertrudis, virginis, O.N.</la>
+		<fr>Ste Gertrude, vierge, de NO</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20131117">
+		<intitule>
+		<la>Dominica XXXIII per annum</la>
+		<fr>XXXIII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131118">
+		<intitule>
+		<la>In Dedicatione basilicarum Ss. Petri et Pauli, apostolorum</la>
+		<fr>D&#xE9;dicace des basiliques de Sts Pierre et Paul, ap&#xF4;tres</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131119">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131120">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131121">
+		<intitule>
+		<la>In Praesentatione B. Mariae Virginis</la>
+		<fr>Pr&#xE9;sentation de la Bienheureuse Vierge Marie</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20131122">
+		<intitule>
+		<la>S. Caeciliae, virginis et martyris</la>
+		<fr>Ste C&#xE9;cile, vierge et martyre</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20131123">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131124">
+		<intitule>
+		<la>D.N. IESU CHRISTI UNIVERSORUM REGIS</la>
+		<fr>N. S. J. C. ROI DE L'UNIVERS</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20131125">
+		<intitule>
+		<la>S. Catharinae Alexandrinae, virginis et martyris</la>
+		<fr>Ste Catherine d'Alexandrie, vierge et martyr</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131126">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131127">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131128">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131129">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20131130">
+		<intitule>
+		<la>S. Andreae, apostoli</la>
+		<fr>St Andr&#xE9;, ap&#xF4;tre</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour></ordo></mois>

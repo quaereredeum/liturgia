@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Prope_est_iam"/>
+<HYMNUS_laudes id="hy_Magnis_prophetae_vocibus"/>
+<LB_matin id="LB_Rom_13_11-12"/>
+<RB_matin id="RB_Super_te_Ierusalem_Orietur"/>
+<benedictus id="AN_Vigilate_animo_in"/>
+<oratio id="COL_Concede_quaesumus_omnipotens_Deus_ut_qui"/>
+<preces_matin>
+<la>preces_II</la>
+</preces_matin>
+<HYMNUS_tertiam id="hy_Nunc_Sancte_nobis_Spiritus"/>
+<HYMNUS_sextam id="hy_Rector_potens_verax_Deus"/>
+<HYMNUS_nonam id="hy_Rerum_Deus_tenax_vigor"/>
+<ant4 id="AN_Prophetae_praedicaverunt_nasci"/>
+<LB_3 id="LB_Rom_13_13-14a"/>
+<RB_3 id="VERS_Timebunt_gentes_nomen_tuum_Domine"/>
+<ant5 id="AN_Gabriel_angelus_locutus"/>
+<LB_6 id="LB_Cf._I_Th_3_12-13"/>
+<RB_6 id="VERS_Memento_nostri_Domine_in_beneplacito"/>
+<ant6 id="AN_Maria_dixit_Qualis"/>
+<LB_9 id="LB_Cf._2_Th_1_6._7._10"/>
+<RB_9 id="VERS_Veni_Domine_et_noli_tardare"/>
+<HYMNUS_vesperas id="hy_Verbum_salutis_omnium"/>
+<LB_soir id="LB_Phil_4_4-5"/>
+<RB_soir id="RB_Ostende_nobis_Domine_Misericordiam"/>
+<magnificat id="AN_O_Adonai_et"/>
+</liturgia>

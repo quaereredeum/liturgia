@@ -1,0 +1,679 @@
+<?xml version="1.0"?>
+<calendarium><ordo id="RE"><messe>02-05</messe><priorite>10</priorite><pV/><couleur>Rouge</couleur><reference>S. Agathae, virginis et martyris</reference><sanctoral><la>S. Agathae, virginis et martyris</la><fr>Ste Agathe, vierge et martyre</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada IV per annum</la><fr>IV&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. Agathae, virginis et martyris</la><fr>Ste Agathe, vierge et martyre</fr></intitule><rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang><hebdomada_psalterium>4</hebdomada_psalterium><phase_lunaire>34,10</phase_lunaire><age_lunaire>23</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_43</psautier>
+		<psalterium>psalterium_43</psalterium>
+		<ferie>perannum_43</ferie>
+		<special/>
+		<propre>0205</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_43</psautier>
+		<psalterium>psalterium_43</psalterium>
+		<ferie>perannum_43</ferie>
+		<special/>
+		<propre>0205</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. AGATH&#xC6;, VIRGINIS ET MARTYRIS"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Nocte_surgentes_vigilemus_omnes</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Ad_preces_nostras_deitatis_aures</HYMNUS_lec_jour>
+<antL1 id="HY_Ad_preces_nostras_deitatis_aures"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Adiutor</Vant1>
+<Vps1>ps45</Vps1>
+<Vant2>AN_Iubilate_in_voce</Vant2>
+<Vps2>ps46</Vps2>
+<Vant3>AN_Magnus_Dominus</Vant3>
+<Vps3>ps47</Vps3>
+<Vant4>AN_Auribus_percipite</Vant4>
+<Vps4>ps48</Vps4>
+<Vant5>AN_Deus_deorum</Vant5>
+<Vps5>ps49</Vps5>
+<Vant6>AN_Confitebor_tibi</Vant6>
+<Vps6>ps51</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia</Vant7>
+<Vps7>ps52</Vps7>
+<Vant8/>
+<Vps8>ps53</Vps8>
+<Vant9/>
+<Vps9>ps54</Vps9>
+<Vant10/>
+<Vps10>ps55</Vps10>
+<Vant11/>
+<Vps11>ps57</Vps11>
+<Vant12/>
+<Vps12>ps58</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_O_castitatis_signifer</HYMNUS_laudes>
+<ant1>AN_Tibi_Domine_psallam</ant1>
+<ps1>ps100</ps1>
+<ant2>AN_Ne_auferas_Domine</ant2>
+<ps2>AT39</ps2>
+<ant3>AN_Deus_canticum_novum</ant3>
+<ps3>ps143</ps3>
+<LB_matin>LB_2_Cor_1_3-5</LB_matin> 
+<RB_matin>RB_Fortitudo_mea_Et_laus</RB_matin> <benedictus>AN_Agatha_laetissime_et</benedictus><laudes_preces>perannum_43</laudes_preces><oratio_laudes>COL_Indulgentiam_nobis_quaesumus_Domine_beata_Agatha</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Si_haec_scitis</ant4>
+<ps4>ps118XVIII</ps4>
+<ant5>AN_Intret_oratio_mea</ant5>
+<ps5>ps87I</ps5>
+<ant6>AN_Ad_te_Domine</ant6>
+<ps6>ps87II</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. AGATH&#xC6;, VIRGINIS ET MARTYRIS</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Sator_princepsque_temporum</HYMNUS_vepres>
+<ant7>AN_Si_oblitus_fuero</ant7>
+<ps7>ps136</ps7>
+<ant8>AN_In_conspectu_angelorum</ant8>
+<ps8>ps137</ps8>
+<ant9>AN_Dignus_est_Agnus</ant9>
+<ps9>NT9</ps9>
+<LB_soir>LB_1_Petr_4_13-14</LB_soir>
+<RB_soir>RB_Probasti_nos_Deus_Et</RB_soir>
+<magnificat>AN_Domine_Iesu_Christe</magnificat>
+<vepres_preces>perannum_43</vepres_preces>
+<oratio_vepres>COL_Indulgentiam_nobis_quaesumus_Domine_beata_Agatha</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+<comp_ps1>ps85</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="02-05">
+<IN>IN_Gaudeamus_Agathae</IN>
+
+<KY/>
+<GLO/><COL>COL_Indulgentiam_nobis_quaesumus_Domine_beata_Agatha</COL>
+<LEC1>02-05</LEC1>	
+<PS1>GR_Adiuvabit_eam</PS1>
+<LEC2/>
+<PS2>AL_Loquebar</PS2>
+<SEQ/>
+<EV>EV_02-05</EV>
+<OF>OF_Afferentur_post_eam</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Feci_iudicium</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SWF"><messe>02-05</messe><priorite>10</priorite><pV/><couleur>Rouge</couleur><reference>S. Agathae, virginis et martyris</reference><sanctoral><la>S. Agathae, virginis et martyris</la><fr>Ste Agathe, vierge et martyre</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada IV per annum</la><fr>IV&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. Agathae, virginis et martyris</la><fr>Ste Agathe, vierge et martyre</fr></intitule><rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang><hebdomada_psalterium>4</hebdomada_psalterium><phase_lunaire>34,10</phase_lunaire><age_lunaire>23</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_43</psautier>
+		<psalterium>psalterium_43</psalterium>
+		<ferie>perannum_43</ferie>
+		<special/>
+		<propre>0205</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_43</psautier>
+		<psalterium>psalterium_43</psalterium>
+		<ferie>perannum_43</ferie>
+		<special/>
+		<propre>0205</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. AGATH&#xC6;, VIRGINIS ET MARTYRIS"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Nocte_surgentes_vigilemus_omnes</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Ad_preces_nostras_deitatis_aures</HYMNUS_lec_jour>
+<antL1 id="HY_Ad_preces_nostras_deitatis_aures"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Adiutor</Vant1>
+<Vps1>ps45</Vps1>
+<Vant2>AN_Iubilate_in_voce</Vant2>
+<Vps2>ps46</Vps2>
+<Vant3>AN_Magnus_Dominus</Vant3>
+<Vps3>ps47</Vps3>
+<Vant4>AN_Auribus_percipite</Vant4>
+<Vps4>ps48</Vps4>
+<Vant5>AN_Deus_deorum</Vant5>
+<Vps5>ps49</Vps5>
+<Vant6>AN_Confitebor_tibi</Vant6>
+<Vps6>ps51</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia</Vant7>
+<Vps7>ps52</Vps7>
+<Vant8/>
+<Vps8>ps53</Vps8>
+<Vant9/>
+<Vps9>ps54</Vps9>
+<Vant10/>
+<Vps10>ps55</Vps10>
+<Vant11/>
+<Vps11>ps57</Vps11>
+<Vant12/>
+<Vps12>ps58</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_O_castitatis_signifer</HYMNUS_laudes>
+<ant1>AN_Tibi_Domine_psallam</ant1>
+<ps1>ps100</ps1>
+<ant2>AN_Ne_auferas_Domine</ant2>
+<ps2>AT39</ps2>
+<ant3>AN_Deus_canticum_novum</ant3>
+<ps3>ps143</ps3>
+<LB_matin>LB_2_Cor_1_3-5</LB_matin> 
+<RB_matin>RB_Fortitudo_mea_Et_laus</RB_matin> <benedictus>AN_Agatha_laetissime_et</benedictus><laudes_preces>perannum_43</laudes_preces><oratio_laudes>COL_Indulgentiam_nobis_quaesumus_Domine_beata_Agatha</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Si_haec_scitis</ant4>
+<ps4>ps118XVIII</ps4>
+<ant5>AN_Intret_oratio_mea</ant5>
+<ps5>ps87I</ps5>
+<ant6>AN_Ad_te_Domine</ant6>
+<ps6>ps87II</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. AGATH&#xC6;, VIRGINIS ET MARTYRIS</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Sator_princepsque_temporum</HYMNUS_vepres>
+<ant7>AN_Si_oblitus_fuero</ant7>
+<ps7>ps136</ps7>
+<ant8>AN_In_conspectu_angelorum</ant8>
+<ps8>ps137</ps8>
+<ant9>AN_Dignus_est_Agnus</ant9>
+<ps9>NT9</ps9>
+<LB_soir>LB_1_Petr_4_13-14</LB_soir>
+<RB_soir>RB_Probasti_nos_Deus_Et</RB_soir>
+<magnificat>AN_Domine_Iesu_Christe</magnificat>
+<vepres_preces>perannum_43</vepres_preces>
+<oratio_vepres>COL_Indulgentiam_nobis_quaesumus_Domine_beata_Agatha</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+<comp_ps1>ps85</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="02-05">
+<IN>IN_Gaudeamus_Agathae</IN>
+
+<KY/>
+<GLO/><COL>COL_Indulgentiam_nobis_quaesumus_Domine_beata_Agatha</COL>
+<LEC1>02-05</LEC1>	
+<PS1>GR_Adiuvabit_eam</PS1>
+<LEC2/>
+<PS2>AL_Loquebar</PS2>
+<SEQ/>
+<EV>EV_02-05</EV>
+<OF>OF_Afferentur_post_eam</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Feci_iudicium</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SMK"><messe>02-05</messe><priorite>10</priorite><pV/><couleur>Rouge</couleur><reference>S. Agathae, virginis et martyris</reference><sanctoral><la>S. Agathae, virginis et martyris</la><fr>Ste Agathe, vierge et martyre</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada IV per annum</la><fr>IV&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. Agathae, virginis et martyris</la><fr>Ste Agathe, vierge et martyre</fr></intitule><rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang><hebdomada_psalterium>4</hebdomada_psalterium><phase_lunaire>34,10</phase_lunaire><age_lunaire>23</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_43</psautier>
+		<psalterium>psalterium_43</psalterium>
+		<ferie>perannum_43</ferie>
+		<special/>
+		<propre>0205</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_43</psautier>
+		<psalterium>psalterium_43</psalterium>
+		<ferie>perannum_43</ferie>
+		<special/>
+		<propre>0205</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. AGATH&#xC6;, VIRGINIS ET MARTYRIS"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Nocte_surgentes_vigilemus_omnes</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Ad_preces_nostras_deitatis_aures</HYMNUS_lec_jour>
+<antL1 id="HY_Ad_preces_nostras_deitatis_aures"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Adiutor</Vant1>
+<Vps1>ps45</Vps1>
+<Vant2>AN_Iubilate_in_voce</Vant2>
+<Vps2>ps46</Vps2>
+<Vant3>AN_Magnus_Dominus</Vant3>
+<Vps3>ps47</Vps3>
+<Vant4>AN_Auribus_percipite</Vant4>
+<Vps4>ps48</Vps4>
+<Vant5>AN_Deus_deorum</Vant5>
+<Vps5>ps49</Vps5>
+<Vant6>AN_Confitebor_tibi</Vant6>
+<Vps6>ps51</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia</Vant7>
+<Vps7>ps52</Vps7>
+<Vant8/>
+<Vps8>ps53</Vps8>
+<Vant9/>
+<Vps9>ps54</Vps9>
+<Vant10/>
+<Vps10>ps55</Vps10>
+<Vant11/>
+<Vps11>ps57</Vps11>
+<Vant12/>
+<Vps12>ps58</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_O_castitatis_signifer</HYMNUS_laudes>
+<ant1>AN_Tibi_Domine_psallam</ant1>
+<ps1>ps100</ps1>
+<ant2>AN_Ne_auferas_Domine</ant2>
+<ps2>AT39</ps2>
+<ant3>AN_Deus_canticum_novum</ant3>
+<ps3>ps143</ps3>
+<LB_matin>LB_2_Cor_1_3-5</LB_matin> 
+<RB_matin>RB_Fortitudo_mea_Et_laus</RB_matin> <benedictus>AN_Agatha_laetissime_et</benedictus><laudes_preces>perannum_43</laudes_preces><oratio_laudes>COL_Indulgentiam_nobis_quaesumus_Domine_beata_Agatha</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Si_haec_scitis</ant4>
+<ps4>ps118XVIII</ps4>
+<ant5>AN_Intret_oratio_mea</ant5>
+<ps5>ps87I</ps5>
+<ant6>AN_Ad_te_Domine</ant6>
+<ps6>ps87II</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. AGATH&#xC6;, VIRGINIS ET MARTYRIS</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Sator_princepsque_temporum</HYMNUS_vepres>
+<ant7>AN_Si_oblitus_fuero</ant7>
+<ps7>ps136</ps7>
+<ant8>AN_In_conspectu_angelorum</ant8>
+<ps8>ps137</ps8>
+<ant9>AN_Dignus_est_Agnus</ant9>
+<ps9>NT9</ps9>
+<LB_soir>LB_1_Petr_4_13-14</LB_soir>
+<RB_soir>RB_Probasti_nos_Deus_Et</RB_soir>
+<magnificat>AN_Domine_Iesu_Christe</magnificat>
+<vepres_preces>perannum_43</vepres_preces>
+<oratio_vepres>COL_Indulgentiam_nobis_quaesumus_Domine_beata_Agatha</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+<comp_ps1>ps85</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="02-05">
+<IN>IN_Gaudeamus_Agathae</IN>
+
+<KY/>
+<GLO/><COL>COL_Indulgentiam_nobis_quaesumus_Domine_beata_Agatha</COL>
+<LEC1>02-05</LEC1>	
+<PS1>GR_Adiuvabit_eam</PS1>
+<LEC2/>
+<PS2>AL_Loquebar</PS2>
+<SEQ/>
+<EV>EV_02-05</EV>
+<OF>OF_Afferentur_post_eam</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Feci_iudicium</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><viergemarie>
+ <intitule> </intitule></viergemarie><jerusalem/><piete>
+ <intitule/></piete><calendriercivil>
+ <intitule/></calendriercivil><journeesdediees>
+ <intitule/></journeesdediees><biographie>
+ <intitule>Ste Agathe, vierge et martyre</intitule>
+ <biographiecourte> Sicile (IIIe si&#xE8;cle)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie><martyrologe><para id="0">1. M&#xE9;moire de sainte Agathe, vierge et martyre. &#xC0; Catane en Sicile, encore jeune fille, quand s&#xE9;vit la pers&#xE9;cution de D&#xE8;ce, vers 250, elle conserva son corps pur et sa foi intacte dans le martyre, offrant au Christ Seigneur le t&#xE9;moignage de sa vie. </para><para id="1">2. Comm&#xE9;moraison d&#x2019;un grand nombre de martyrs dans la province du Pont durant la pers&#xE9;cution de l&#x2019;empereur Maximien, vers 311&#xA0;: les uns furent arros&#xE9;s de plomb fondu, les autres eurent des roseaux aigus enfonc&#xE9;s sous les ongles et furent soumis &#xE0; de nombreux et horribles tourments plusieurs fois r&#xE9;p&#xE9;t&#xE9;s. Tous m&#xE9;rit&#xE8;rent par un glorieux combat de recevoir du Seigneur des palmes et des couronnes. </para><para id="2">3. &#xC0; Vienne dans la r&#xE9;gion lyonnaise, en 525, saint Avit, &#xE9;v&#xEA;que qui succ&#xE9;da &#xE0; son p&#xE8;re saint H&#xE9;sychius. Gr&#xE2;ce &#xE0; sa foi et &#xE0; son z&#xE8;le, au temps du roi Gondebaud, la Gaule fut prot&#xE9;g&#xE9;e des ravages de l&#x2019;h&#xE9;r&#xE9;sie arienne. </para><para id="3">4. &#xC0; Seben en Rh&#xE9;tie, vers 605, saint G&#xE9;nuin, qui fut le premier &#xE9;v&#xEA;que de ce si&#xE8;ge. </para><para id="4">5*. En Lucanie, l&#x2019;an 995, saint Luc, abb&#xE9;, qui mena la vie monastique sous la R&#xE8;gle de saint Basile d&#x2019;abord en Sicile sa patrie, puis en divers endroits &#xE0; cause des incursions des Sarrasins, enfin au monast&#xE8;re de Carbona qu&#x2019;il construisit pr&#xE8;s d&#x2019;Armentum et o&#xF9; il mourut. </para><para id="5">6*. &#xC0; Rome, au monast&#xE8;re de Saint-C&#xE9;saire, en 995, saint Sabas le jeune, moine, qui, avec son fr&#xE8;re saint Macaire, diffusa sans se lasser la vie c&#xE9;nobitique &#xE0; travers la Calabre et la Lucanie, &#xE0; l&#x2019;&#xE9;poque o&#xF9; les Sarrasins d&#xE9;vastaient ces r&#xE9;gions. </para><para id="6">7. &#xC0; Brixen dans le Tyrol, comm&#xE9;moraison de saint Albuin, &#xE9;v&#xEA;que, qui transf&#xE9;ra la chaire &#xE9;piscopale de Seben dans cette ville et mourut en 1005 ou 1006.</para><para id="7">8*. &#xC0; Cologne en Germanie, vers 1025, sainte Ad&#xE9;la&#xEF;de, premi&#xE8;re abbesse du monast&#xE8;re de Villich pr&#xE8;s de Bonn, o&#xF9; elle introduisit la r&#xE8;gle de saint Beno&#xEE;t, puis aussi du monast&#xE8;re de Sainte-Marie de Cologne, o&#xF9; elle mourut. </para><para id="8">9. &#xC0; Nagasaki au Japon, en 1597, la passion de saint Paul Miki et vingt-cinq compagnons, dont la m&#xE9;moire sera c&#xE9;l&#xE9;br&#xE9;e le lendemain. </para><para id="9">10*. &#xC0; Laval, en 1794, la bienheureuse Fran&#xE7;oise M&#xE9;zi&#xE8;re, vierge et martyre. Occup&#xE9;e &#xE0; l&#x2019;&#xE9;ducation des enfants et aux soins des malades, sous la R&#xE9;volution fran&#xE7;aise, elle fut arr&#xEA;t&#xE9;e et guillotin&#xE9;e en haine de la foi. </para><para id="10">11*. &#xC0; Rome, en 1825, la bienheureuse &#xC9;lisabeth Canori Mora, m&#xE8;re de famille, qui supporta avec patience les tromperies et la violence de son mari, les soucis d&#x2019;argent, l&#x2019;animosit&#xE9; cruelle de ses proches. Tertiaire de l&#x2019;Ordre des Trinitaires, elle offrit sa vie au Seigneur pour la conversion de son mari, le salut des p&#xE9;cheurs, la paix et la saintet&#xE9; de l&#x2019;&#xC9;glise. </para><para id="11">12. &#xC0; Valtiervilla au Mexique, en 1928, saint J&#xE9;sus Mendez, pr&#xEA;tre et martyr, qui, dans la pers&#xE9;cution antireligieuse en ce pays, fut fusill&#xE9;, donnant sa vie pour le Christ Roi. </para></martyrologe></calendarium>

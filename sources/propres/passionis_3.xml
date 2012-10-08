@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>HEBDOMADA SANCTA - Feria tertia</la>
+<fr>SEMAINE SAINTE - Le mardi</fr>
+</intitule>
+<ant_invit id="INV_Christum_Dominum_pro"/>
+<HYMNUS_laudes id="hy_En_acetum_fel_arundo"/>
+<ant1 id="AN_Discerne_causam_meam"/>
+<ant2 id="AN_Iudicasti_Domine_causam"/>
+<ant3 id="AN_Iustificabit_iustus_servus"/>
+<LB_matin id="LB_Zac_12_10-11a"/>
+<RB_matin id="RB_Redemisti_nos_Domine_In"/>
+<benedictus id="AN_Clarifica_me_Pater"/>
+<oratio id="COL_Omnipotens_sempiterne_Deus_da_nobis_ita"/>
+<HYMNUS_tertiam id="hy_Dei_fide_qua_vivimus"/>
+<HYMNUS_sextam id="hy_Qua_Christus_hora_sitiit"/>
+<HYMNUS_nonam id="hy_Ternis_ter_horis_numerus"/>
+<ant4 id="AN_Ante_diem_festum"/>
+<ant5 id="AN_Sicut_novit_me"/>
+<ant6 id="AN_Mihi_vivere_Christus"/>
+<LB_3 id="LB_Ez_33_10b._11a"/>
+<RB_3 id="VERS_Oblatus_est_quia_ipse_voluit"/>
+<LB_6 id="LB_Ier_18_20b"/>
+<RB_6 id="VERS_Vere_languores_nostros_ipse_tulit"/>
+<LB_9 id="LB_Ier_31_2._3b._4a"/>
+<RB_9 id="VERS_Adoremus_crucis_signaculum_Per"/>
+<HYMNUS_vesperas id="hy_Vexilla_regis_prodeunt"/>
+<ant7 id="AN_Contumelias_et_terrores"/>
+<ant8 id="AN_Libera_me_Domine"/>
+<ant9 id="AN_Occisus_es_Domine"/>
+<LB_soir id="LB_1_Cor_1_27b-30"/>
+<RB_soir id="RB_Adoramus_te_Christe_Et"/>
+<magnificat id="AN_Potestatem_habeo_ponendi"/>
+</liturgia>

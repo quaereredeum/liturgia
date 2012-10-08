@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Regem_venturum_Dominum"/>
+<HYMNUS_laudes id="hy_Vox_clara_ecce_intonat"/>
+<ant1 id="AN_Ad_te_orabo"/>
+<ant2 id="AN_Laudamus_nomen_tuum"/>
+<ant3 id="AN_Adorate_Dominum_in"/>
+<LB_matin id="LB_Is_2_3"/>
+<RB_matin id="RB_Super_te_Ierusalem_Orietur_Dominus"/>
+<benedictus id="AN_Leva_Ierusalem_oculos"/>
+<oratio id="COL_Fac_nos_quaesumus_Domine_Deus_noster"/>
+<preces_matin>
+<la>preces_II</la>
+</preces_matin>
+<HYMNUS_tertiam id="hy_Nunc_Sancte_nobis_Spiritus"/>
+<HYMNUS_sextam id="hy_Rector_potens_verax_Deus"/>
+<HYMNUS_nonam id="hy_Rerum_Deus_tenax_vigor"/>
+<ant4 id="AN_Prophetae_praedicaverunt_nasci"/>
+<LB_3 id="LB_Cf_Is_10_20-21"/>
+<RB_3 id="VERS_Timebunt_gentes_nomen_tuum_Domine"/>
+<ant5 id="AN_Gabriel_angelus_locutus"/>
+<LB_6 id="LB_Cf._Is_10_24._27"/>
+<RB_6 id="VERS_Memento_nostri_Domine_in_beneplacito"/>
+<ant6 id="AN_Maria_dixit_Qualis"/>
+<LB_9 id="LB_Cf._Is_13_22-14_1"/>
+<RB_9 id="VERS_Veni_Domine_et_noli_tardare"/>
+<HYMNUS_vesperas id="hy_Conditor_alme_siderum"/>
+<ant7 id="AN_Oculi_Domini_in"/>
+<ant8 id="AN_Beati_mundo_corde"/>
+<ant9 id="AN_In_Filio_suo"/>
+<LB_soir id="LB_Phil_3_20b-21"/>
+<RB_soir id="RB_Veni_ad_liberandum_nos_Domine"/>
+<magnificat id="AN_Angelus_Domini_nuntiavit"/>
+<preces_soir>
+<la>preces_III</la>
+</preces_soir>
+<IN>
+<la>IN_Ad te levavi</la>
+</IN>
+<PSAL1>
+<la>GR_Universi</la>
+</PSAL1>
+<PSAL2>
+<la>AL_Ost&#xE9;nde nobis</la>
+</PSAL2>
+<OF>
+<la>OF_Ad te lev&#xE1;vi</la>
+</OF>
+<CO>
+<la>CO_D&#xF3;minus dabit</la>
+</CO>
+<PREF>
+<la>PRAEFATIO_I_DE ADVENTU</la>
+</PREF>
+</liturgia>

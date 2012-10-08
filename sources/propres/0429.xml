@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 29 aprilis</la>
+<fr>Le 29 avril</fr>
+</jour>
+<intitule>
+<la>S. CATHARINA SENENSIS, VIRGINIS ET ECCLESIAE DOCTORIS</la>
+<fr>S. CATHERINE DE SIENNE,  VIERGE ET DOCTEUR DE L'EGLISE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<HYMNUS_laudes id="HY_Te_Catharina"/>
+<LB_matin id="LB_Cant_8_7"/>
+<RB_matin id="RB_Afferentur_Regi_virgines"/>
+<benedictus id="AN_Sancta_virgo_Catharina"/>
+<preces_matin>
+Christo, vírginum sponso et corónæ, lætis vócibus iubilémus et devóte eum exorémus, dicéntes: 
+Iesu, coróna vírginum, audi nos.
+Christe, quem sanctæ vírgines ut únicum sponsum dilexérunt, 
+— concéde ut nihil a tua caritáte nos séparet.
+Qui Maríam, matrem tuam, regínam vírginum coronasti, 
+— da nos, eius intercessióne, cordis puritáte tibi iúgiter famulári.
+Per intercessiónem ancillárum tuárum, quæ íntegro et indivíso corde semper de te sollícitæ fuérunt, ut essent sanctæ córpore et spíritu, 
+— præsta ut figúra huius mundi, quæ præterit, nos a te numquam ábstrahat.
+Dómine Iesu, sponse, quem vírgines sapiéntes adventúrum exspectábant, 
+—concéde nobis, ut in spe vigilántes te præstolémur.
+Per intercessiónem sanctæ N., quæ virgo fuit sápiens et de número prudéntum, 
+— præsta nobis innocéntiam vitæ et sapiéntiam.
+</preces_matin>
+<oratio id="COL_Deus_qui_beatam_Catharinam"/>
+<HYMNUS_vepres id="hy_Te_Catharina"/>
+<LB_soir>LB_1_Cor_7,32b.34a
+</LB_soir>
+<RB_soir>
+Tempore Quadragesimæ:
+R/. Afferéntur Regi vírgines * In exsultatióne. Afferéntur.
+V/. Adducéntur in templum Regis. * In exsultatióne. Glória Patri. Afferéntur.
+Tempore paschali:
+R/. Afferéntur Regi vírgines in exsultatióne, * Allelúia, allelúia. Afferéntur.
+V/. Adducéntur in templum Regis. * Allelúia, allelúia. Glória Patri. Afferéntur.
+</RB_soir>
+<magnificat id="AN_Semper_et_ubique_Catharina"/>
+
+</liturgia>

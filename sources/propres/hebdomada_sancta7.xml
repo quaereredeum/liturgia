@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<liturgia>
+ <HYMNUS_laudes id="hy_Tibi_Redemptor_omnium"/>
+<ant1 id="AN_Plangent_eum_quasi"/>
+<ps1 id="ps63"/>
+<ant2 id="AN_A_porta_inferi"/>
+<ps2 id="Canticum_Is_38_10-14._17-20"/>
+<ant3 id="AN_Ego_fui_mortuus"/>
+<ps3 id="ps150"/>
+<LB_matin id="LB_Os_5_15d_-_6_2"/>
+<RB_matin id="RB_Christus_factus_est_pro_nobis"/>
+<benedictus id="AN_Salvator_mundi_salva"/>
+<preces_matin>
+<la>preces_II</la>
+</preces_matin>
+<oratio_laudes id="COL_Omnipotens_sempiterne_Deus_cuius_Unigenitus_ad"/>
+<HYMNUS_tertiam id="hy_Salva_Redemptor_plasma_tuum_nobile"/>
+<HYMNUS_sextam id="hy_Crux_mundi_benedictio"/>
+<HYMNUS_nonam id="hy_Per_crucem_Christe_quaesumus"/>
+<ant4 id="AN_Credo_videre_bona"/>
+<ant5 id="AN_Domine_abstraxisti_ab"/>
+<ant6 id="AN_In_pace_factus"/>
+<LB_3 id="LB_1_Io_1_8-9"/>
+<RB_3 id="VERS_Non_relinques_animam_meam_in"/>
+<oratio_3 id="COL_Omnipotens_sempiterne_Deus_cuius_Unigenitus_ad"/>
+<LB_6 id="LB_1_Io_2_1b-2"/>
+<RB_6 id="VERS_Le_Seigneur_fait_mourir_et"/>
+<oratio_6 id="COL_Omnipotens_sempiterne_Deus_cuius_Unigenitus_ad"/>
+<LB_9 id="LB_1_Io_2_8b-10"/>
+<RB_9 id="VERS_Sepulto_Domino_signaverunt_monumentum_Ponentes"/>
+<oratio_9 id="COL_Omnipotens_sempiterne_Deus_cuius_Unigenitus_ad"/>
+<HYMNUS_vesperas id="hy_Auctor_salutis_unice"/>
+<ant7 id="AN_O_mors_ero"/>
+<ant8 id="AN_Sicut_fuit_Ionas"/>
+<ant9 id="AN_Solvite_templum_hoc"/>
+<LB_soir id="LB_1_Petr_1_18-21"/>
+<RB_soir id="RB_Christus_factus_est_pro_nobis"/>
+<magnificat id="AN_Nunc_clarificatus_est"/>
+<oratio_vesperas id="COL_Omnipotens_sempiterne_Deus_cuius_Unigenitus_ad"/>
+<preces_soir>
+<la>preces_III</la>
+</preces_soir>
+</liturgia>

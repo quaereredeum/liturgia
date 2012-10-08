@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Regem_cui_omnia"/>
+<jour>
+<la>Die 2 novembris</la>
+<fr>Le 2 Novembre</fr>
+</jour>
+<intitule>
+<la>IN COMMEMORATIONE OMNIUM FIDELIUM DEFUNCTORUM</la>
+<fr>COMMEMORATION DE TOUS LES FIDELES DEFUNTS</fr>
+</intitule>
+<rang>
+</rang>
+<HYMNUS_laudes id="hy_Spes_Christe_nostrae_veniae"/>
+<ant1 id="AN_Exsultabunt_Domino_ossa"/>
+<ps1 id="ps50"/>
+<ant2 id="AN_A_porta_inferi"/>
+<ps2 id="AT23"/>
+<ant3 id="AN_Laudabo_Deum_meum"/>
+<ps3 id="ps145"/>
+<LB_matin id="LB_1_Th_4_14"/>
+<RB_matin id="RB_Exaltabo_te_Domine_Quoniam"/>
+<benedictus id="AN_Ego_sum_resurrectio"/>
+<oratio id="COL_Preces_nostras_quaesumus_Domine_benignus_exaudi"/>
+<ant4 id="AN_Convertere_Domine_et"/>
+<ant5 id="AN_Sana_Domine_animam"/>
+<ant6 id="AN_Deus_in_nomine"/>
+<LB_3 id="LB_Iob_19_25-26"/>
+<RB_3 id="VERS_Quare_tristis_es_anima_mea"/>
+<LB_6 id="LB_Sap_1_13-14_a._15"/>
+<RB_6 id="VERS_In_medio_umbrae_mortis_non"/>
+<LB_9 id="LB_Is_25_8"/>
+<RB_9 id="VERS_Exaudi_Deus_orationem_meam"/>
+<HYMNUS_vepres id="hy_Immensae_rex_potentiae"/>
+<ant7 id="AN_Dominus_custodit_te"/>
+<ps7 id="ps120"/>
+<ant8 id="AN_Si_iniquitates_observaveris"/>
+<ps8 id="ps129"/>
+<ant9 id="AN_Sicut_Pater_suscitat"/>
+<ps9 id="NT5"/>
+<LB_soir id="LB_1_Cor_15_55-57"/>
+<RB_soir id="RB_In_te_Domine_speravi_"/>
+<magnificat id="AN_Omne_quod_dat"/>
+<HYMNUS_lectures id="HY_Qui_vivis_ante_saecula"/>
+<HYMNUS_lec_jour id=""/>
+</liturgia>

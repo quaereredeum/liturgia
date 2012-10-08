@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<liturgia>
+ <die>
+<la>Die 25 decembris</la>
+<fr>Le 25 d&#xE9;cembre</fr>
+</die>
+<intitule>
+<la>IN NATIVITATE DOMINI</la>
+<fr>NATIVITE DU SEIGNEUR</fr>
+</intitule>
+<rang>
+<la>Sollemnitas</la>
+<fr>Solennit&#xE9;</fr>
+</rang>
+<HYMNUS_1V id="hy_Christe_redemptor_omnium"/>
+<ant01 id="AN_Rex_pacificus_magnificatus"/>
+<ps01 id="ps112"/>
+<ant02 id="AN_Emittit_eloquium_suum"/>
+<ps02 id="ps147"/>
+<ant03 id="AN_Verbum_supernum_a"/>
+<ps03 id="NT4"/>
+<LB_1V id="LB_Gal_4_4-5"/>
+<RB_1V id="RB_Hodie_scietis_Quia_veniet"/>
+<magnificat1_A id="AN_Cum_ortus_fuerit"/>
+<magnificat1_B id="AN_Cum_ortus_fuerit"/>
+<magnificat1_C id="AN_Cum_ortus_fuerit"/>
+<oratio_1V id="COL_Deus_qui_nos_redemptionis_nostrae_annua"/>
+<ant_invit id="INV_Christus_natus_est"/>
+<HYMNUS_laudes id="hy_A_solis_ortus_cardine"/>
+<ant1 id="AN_Quem_vidistis_pastores"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Angelus_ad_pastores"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Parvulus_filius_hodie"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Hebr_1_1-2"/>
+<RB_matin id="RB_Notum_fecit_Dominus_Alleluia"/>
+<benedictus_A id="AN_Gloria_in_excelsis"/>
+<benedictus_B id="AN_Gloria_in_excelsis"/>
+<benedictus_C id="AN_Gloria_in_excelsis"/>
+<oratio id="COL_Da_quaesumus_omnipotens_Deus_ut_dum"/>
+<ant4 id="AN_Erant_Ioseph_et"/>
+<LB_3 id="LB_Tit_2_11-12"/>
+<RB_3 id="VERS_Recordatus_est_Dominus_misericordiae_suae"/>
+<oratio_mediahora id="COL_Deus_qui_humanae_substantiae_dignitatem_et"/>
+<ant5 id="AN_Maria_autem_conservabat"/>
+<ps4 id="ps117I"/>
+<ps5 id="ps117II"/>
+<ps6 id="ps117III"/>
+<LB_6 id="LB_1_Io_4_9"/>
+<RB_6 id="VERS_Viderunt_omnes_fines_terrae_alleluia"/>
+<ant6 id="AN_Multiplicabitur_eius_imperium"/>
+<LB_9 id="LB_Act_10_36"/>
+<RB_9 id="VERS_Misericordia_et_veritas_obviaverunt_sibi"/>
+<HYMNUS_vepres id="hy_Christe_redemptor_omnium"/>
+<ant7 id="AN_Tecum_principium_in"/>
+<ps8 id="ps109"/>
+<ant8 id="AN_Apud_Dominum_misericordia"/>
+<ps8 id="ps129"/>
+<ant9 id="AN_In_principio_et"/>
+<ps9 id="NT12"/>
+<LB_soir id="LB_1_Io_1_1-3"/>
+<RB_soir id="RB_Verbum_caro_factum_est_Alleluia"/>
+<magnificat2_A id="AN_Hodie_Christus_natus"/>
+<magnificat2_B id="AN_Hodie_Christus_natus"/>
+<magnificat2_C id="AN_Hodie_Christus_natus"/>
+<oratio_vesperas id="COL_Deus_qui_humanae_substantiae_dignitatem_et"/>
+</liturgia>

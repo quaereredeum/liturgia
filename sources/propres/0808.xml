@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 8 augusti</la>
+<fr>Le 8 ao&#xFB;t</fr>
+</jour>
+<intitule>
+<la>S. DOMINICI, PRESBYTERI</la>
+<fr>S. DOMINIQUE, PRETRE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Mirabilem_Deum_in"/>
+<HYMNUS_laudes id="hy_Novus_athleta_Domini"/>
+<LB_matin id="LB_Rom_12_1-2"/>
+<RB_matin id="RB_Lex_Dei_eius_In"/>
+<benedictus id="AN_Pars_mea_Dominus;"/>
+<oratio id="COL_Adiuvet_Ecclesiam_tuam_Domine_beatus_Dominicus"/>
+<HYMNUS_vepres id="hy_Novus_athleta_Domini"/>
+<LB_soir id="LB_Rom_8_28-30"/>
+<RB_soir id="RB_Iustus_Dominus_Et_iustitiam"/>
+<magnificat id="AN_Vos_qui_reliquistis"/>
+</liturgia>

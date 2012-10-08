@@ -1,0 +1,679 @@
+<?xml version="1.0"?>
+<calendarium><ordo id="RE"><messe>pascha_41</messe><priorite>2</priorite><pV>1</pV><couleur>Blanc</couleur><reference>Dominica IV Paschae</reference><sanctoral><la>S. Anselmi, episcopi et Ecclesiae doctoris</la><fr>St Anselme de Canterbury, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr></sanctoral><tempus><la>Tempus Paschale</la><fr>Temps pascal</fr></tempus><hebdomada><la>Hebdomada IV Paschae</la><fr>IV&#xE8;me semaine de P&#xE2;ques</fr></hebdomada><intitule><la>Dominica IV Paschae</la><fr>IV&#xE8;me dimanche de P&#xE2;ques</fr></intitule><rang><la/><fr/></rang><hebdomada_psalterium>4</hebdomada_psalterium><phase_lunaire>73,98</phase_lunaire><age_lunaire>9</age_lunaire><selection/><matin>
+		<temps>Tempus Paschale</temps>
+		<psautier>psautier_41</psautier>
+		<psalterium>psalterium_41</psalterium>
+		<ferie>pascha_41</ferie>
+		<special/>
+		<propre>Dominica IV Paschae</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus Paschale</temps>
+		<psautier>psautier_41</psautier>
+		<psalterium>psalterium_41</psalterium>
+		<ferie>pascha_41</ferie>
+		<special/>
+		<propre>Dominica IV Paschae</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="Dominica IV Paschae"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Tu_Trinitatis_Unitas</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Adesto_Christe_cordibus</HYMNUS_lec_jour>
+<antL1 id="HY_Adesto_Christe_cordibus"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Domine_in_virtute</Vant1>
+<Vps1>ps20</Vps1>
+<Vant2>AN_Ne_discedas_a_me</Vant2>
+<Vps2>ps21</Vps2>
+<Vant3>AN_Dominus_regit_me</Vant3>
+<Vps3>ps22</Vps3>
+<Vant4>AN_Innocens_manibus</Vant4>
+<Vps4>ps23</Vps4>
+<Vant5>AN_Oculi_mei</Vant5>
+<Vps5>ps24</Vps5>
+<Vant6>AN_Misericordia_tua</Vant6>
+<Vps6>ps25</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Dominus_defensor</Vant7>
+<Vps7>ps26</Vps7>
+<Vant8>AN_Factus_est_adiutor</Vant8>
+<Vps8>ps27</Vps8>
+<Vant9>AN_Adorate_Dominum</Vant9>
+<Vps9>ps28</Vps9>
+<Vant10>AN_Exaltabo_te</Vant10>
+<Vps10>ps29</Vps10>
+<Vant11/>
+<Vps11>ps30</Vps11>
+<Vant12/>
+<Vps12>ps31</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+<ant1>AN_Non_moriar_sed</ant1>
+<ps1>ps117</ps1>
+<ant2>AN_Benedictum_nomen_gloriae</ant2>
+<ps2>AT40</ps2>
+<ant3>AN_Date_magnificentiam_Deo</ant3>
+<ps3>ps150</ps3>
+<LB_matin>LB_ap10.40-43</LB_matin> 
+<RB_matin>RB_Christe_Fili_Dei_vivi</RB_matin> <benedictus>AN_Ego_vitam_aeternam</benedictus><laudes_preces>perannum_41</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_deduc_nos_ad</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>HY_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+<HYMNUS_6>HY_Rector_potens_verax_Deus</HYMNUS_6>
+<HYMNUS_9>HY_Rerum_Deus_tenax_vigor</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Qui_manducat_ex_hoc</ant4>
+<ps4>ps22</ps4>
+<ant5>AN_Veniet_Dominus_glorificari</ant5>
+<ps5>ps75I</ps5>
+<ant6>AN_Vovete_et_munera</ant6>
+<ps6>ps75II</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>Dominica IV Paschae</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la>Ad II Vesperas</la></office_soir>
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+<ant7>AN_Pax_Christi_exsultet</ant7>
+<ps7>ps109</ps7>
+<ant8>AN_Redemisti_nos_Deo</ant8>
+<ps8>ps111</ps8>
+<ant9>AN_Nonne_haec_oportuit</ant9>
+<ps9>NT12</ps9>
+<LB_soir>LB_1_Petr_2_9-10</LB_soir>
+<RB_soir>RB_Gavisi_sunt_discipuli_Alleluia_alleluia</RB_soir>
+<magnificat>AN_Crucifixus_surrexit_a</magnificat>
+<vepres_preces>perannum_41</vepres_preces>
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_deduc_nos_ad</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+<comp_ps1>ps90</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Regina_caeli</comp_AM><messe id="pascha_41">
+<IN>IN_Misericordia_Domini</IN>
+
+<KY/>
+<GLO/><COL>COL_Omnipotens_sempiterne_Deus_deduc_nos_ad</COL>
+<LEC1>pascha_41_C</LEC1>	
+<PS1>AL_Redemptionem</PS1>
+<LEC2>pascha_41_C</LEC2>
+<PS2>AL_Ego_sum_pastor_bonus</PS2>
+<SEQ/>
+<EV>EV_pascha_41_C</EV>
+<OF>OF_Deus_Deus_meus</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Ego_sum_pastor_bonus</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SWF"><messe>pascha_41</messe><priorite>2</priorite><pV>1</pV><couleur>Blanc</couleur><reference>Dominica IV Paschae</reference><sanctoral><la>S. Anselmi, episcopi et Ecclesiae doctoris, O.N.</la><fr>S. Anselmi, episcopi et Ecclesiae doctoris, O.N.</fr></sanctoral><tempus><la>Tempus Paschale</la><fr>Temps pascal</fr></tempus><hebdomada><la>Hebdomada IV Paschae</la><fr>IV&#xE8;me semaine de P&#xE2;ques</fr></hebdomada><intitule><la>Dominica IV Paschae</la><fr>IV&#xE8;me dimanche de P&#xE2;ques</fr></intitule><rang><la/><fr/></rang><hebdomada_psalterium>4</hebdomada_psalterium><phase_lunaire>73,98</phase_lunaire><age_lunaire>9</age_lunaire><selection/><matin>
+		<temps>Tempus Paschale</temps>
+		<psautier>psautier_41</psautier>
+		<psalterium>psalterium_41</psalterium>
+		<ferie>pascha_41</ferie>
+		<special/>
+		<propre>Dominica IV Paschae</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus Paschale</temps>
+		<psautier>psautier_41</psautier>
+		<psalterium>psalterium_41</psalterium>
+		<ferie>pascha_41</ferie>
+		<special/>
+		<propre>Dominica IV Paschae</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="Dominica IV Paschae"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Tu_Trinitatis_Unitas</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Adesto_Christe_cordibus</HYMNUS_lec_jour>
+<antL1 id="HY_Adesto_Christe_cordibus"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Domine_in_virtute</Vant1>
+<Vps1>ps20</Vps1>
+<Vant2>AN_Ne_discedas_a_me</Vant2>
+<Vps2>ps21</Vps2>
+<Vant3>AN_Dominus_regit_me</Vant3>
+<Vps3>ps22</Vps3>
+<Vant4>AN_Innocens_manibus</Vant4>
+<Vps4>ps23</Vps4>
+<Vant5>AN_Oculi_mei</Vant5>
+<Vps5>ps24</Vps5>
+<Vant6>AN_Misericordia_tua</Vant6>
+<Vps6>ps25</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Dominus_defensor</Vant7>
+<Vps7>ps26</Vps7>
+<Vant8>AN_Factus_est_adiutor</Vant8>
+<Vps8>ps27</Vps8>
+<Vant9>AN_Adorate_Dominum</Vant9>
+<Vps9>ps28</Vps9>
+<Vant10>AN_Exaltabo_te</Vant10>
+<Vps10>ps29</Vps10>
+<Vant11/>
+<Vps11>ps30</Vps11>
+<Vant12/>
+<Vps12>ps31</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+<ant1>AN_Non_moriar_sed</ant1>
+<ps1>ps117</ps1>
+<ant2>AN_Benedictum_nomen_gloriae</ant2>
+<ps2>AT40</ps2>
+<ant3>AN_Date_magnificentiam_Deo</ant3>
+<ps3>ps150</ps3>
+<LB_matin>LB_ap10.40-43</LB_matin> 
+<RB_matin>RB_Christe_Fili_Dei_vivi</RB_matin> <benedictus>AN_Ego_vitam_aeternam</benedictus><laudes_preces>perannum_41</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_deduc_nos_ad</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>HY_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+<HYMNUS_6>HY_Rector_potens_verax_Deus</HYMNUS_6>
+<HYMNUS_9>HY_Rerum_Deus_tenax_vigor</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Qui_manducat_ex_hoc</ant4>
+<ps4>ps22</ps4>
+<ant5>AN_Veniet_Dominus_glorificari</ant5>
+<ps5>ps75I</ps5>
+<ant6>AN_Vovete_et_munera</ant6>
+<ps6>ps75II</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>Dominica IV Paschae</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la>Ad II Vesperas</la></office_soir>
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+<ant7>AN_Pax_Christi_exsultet</ant7>
+<ps7>ps109</ps7>
+<ant8>AN_Redemisti_nos_Deo</ant8>
+<ps8>ps111</ps8>
+<ant9>AN_Nonne_haec_oportuit</ant9>
+<ps9>NT12</ps9>
+<LB_soir>LB_1_Petr_2_9-10</LB_soir>
+<RB_soir>RB_Gavisi_sunt_discipuli_Alleluia_alleluia</RB_soir>
+<magnificat>AN_Crucifixus_surrexit_a</magnificat>
+<vepres_preces>perannum_41</vepres_preces>
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_deduc_nos_ad</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+<comp_ps1>ps90</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Regina_caeli</comp_AM><messe id="pascha_41">
+<IN>IN_Misericordia_Domini</IN>
+
+<KY/>
+<GLO/><COL>COL_Omnipotens_sempiterne_Deus_deduc_nos_ad</COL>
+<LEC1>pascha_41_C</LEC1>	
+<PS1>AL_Redemptionem</PS1>
+<LEC2>pascha_41_C</LEC2>
+<PS2>AL_Ego_sum_pastor_bonus</PS2>
+<SEQ/>
+<EV>EV_pascha_41_C</EV>
+<OF>OF_Deus_Deus_meus</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Ego_sum_pastor_bonus</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SMK"><messe>pascha_41</messe><priorite>2</priorite><pV>1</pV><couleur>Blanc</couleur><reference>Dominica IV Paschae</reference><sanctoral><la>S. Anselmi, episcopi et Ecclesiae doctoris, O.N.</la><fr>S. Anselmi, episcopi et Ecclesiae doctoris, O.N.</fr></sanctoral><tempus><la>Tempus Paschale</la><fr>Temps pascal</fr></tempus><hebdomada><la>Hebdomada IV Paschae</la><fr>IV&#xE8;me semaine de P&#xE2;ques</fr></hebdomada><intitule><la>Dominica IV Paschae</la><fr>IV&#xE8;me dimanche de P&#xE2;ques</fr></intitule><rang><la/><fr/></rang><hebdomada_psalterium>4</hebdomada_psalterium><phase_lunaire>73,98</phase_lunaire><age_lunaire>9</age_lunaire><selection/><matin>
+		<temps>Tempus Paschale</temps>
+		<psautier>psautier_41</psautier>
+		<psalterium>psalterium_41</psalterium>
+		<ferie>pascha_41</ferie>
+		<special/>
+		<propre>Dominica IV Paschae</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus Paschale</temps>
+		<psautier>psautier_41</psautier>
+		<psalterium>psalterium_41</psalterium>
+		<ferie>pascha_41</ferie>
+		<special/>
+		<propre>Dominica IV Paschae</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="Dominica IV Paschae"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Tu_Trinitatis_Unitas</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Adesto_Christe_cordibus</HYMNUS_lec_jour>
+<antL1 id="HY_Adesto_Christe_cordibus"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Domine_in_virtute</Vant1>
+<Vps1>ps20</Vps1>
+<Vant2>AN_Ne_discedas_a_me</Vant2>
+<Vps2>ps21</Vps2>
+<Vant3>AN_Dominus_regit_me</Vant3>
+<Vps3>ps22</Vps3>
+<Vant4>AN_Innocens_manibus</Vant4>
+<Vps4>ps23</Vps4>
+<Vant5>AN_Oculi_mei</Vant5>
+<Vps5>ps24</Vps5>
+<Vant6>AN_Misericordia_tua</Vant6>
+<Vps6>ps25</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Dominus_defensor</Vant7>
+<Vps7>ps26</Vps7>
+<Vant8>AN_Factus_est_adiutor</Vant8>
+<Vps8>ps27</Vps8>
+<Vant9>AN_Adorate_Dominum</Vant9>
+<Vps9>ps28</Vps9>
+<Vant10>AN_Exaltabo_te</Vant10>
+<Vps10>ps29</Vps10>
+<Vant11/>
+<Vps11>ps30</Vps11>
+<Vant12/>
+<Vps12>ps31</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Aurora_lucis_rutilat</HYMNUS_laudes>
+<ant1>AN_Non_moriar_sed</ant1>
+<ps1>ps117</ps1>
+<ant2>AN_Benedictum_nomen_gloriae</ant2>
+<ps2>AT40</ps2>
+<ant3>AN_Date_magnificentiam_Deo</ant3>
+<ps3>ps150</ps3>
+<LB_matin>LB_ap10.40-43</LB_matin> 
+<RB_matin>RB_Christe_Fili_Dei_vivi</RB_matin> <benedictus>AN_Ego_vitam_aeternam</benedictus><laudes_preces>perannum_41</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_deduc_nos_ad</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>HY_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+<HYMNUS_6>HY_Rector_potens_verax_Deus</HYMNUS_6>
+<HYMNUS_9>HY_Rerum_Deus_tenax_vigor</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Qui_manducat_ex_hoc</ant4>
+<ps4>ps22</ps4>
+<ant5>AN_Veniet_Dominus_glorificari</ant5>
+<ps5>ps75I</ps5>
+<ant6>AN_Vovete_et_munera</ant6>
+<ps6>ps75II</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>Dominica IV Paschae</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la>Ad II Vesperas</la></office_soir>
+<HYMNUS_vepres>hy_Ad_cenam_Agni_providi</HYMNUS_vepres>
+<ant7>AN_Pax_Christi_exsultet</ant7>
+<ps7>ps109</ps7>
+<ant8>AN_Redemisti_nos_Deo</ant8>
+<ps8>ps111</ps8>
+<ant9>AN_Nonne_haec_oportuit</ant9>
+<ps9>NT12</ps9>
+<LB_soir>LB_1_Petr_2_9-10</LB_soir>
+<RB_soir>RB_Gavisi_sunt_discipuli_Alleluia_alleluia</RB_soir>
+<magnificat>AN_Crucifixus_surrexit_a</magnificat>
+<vepres_preces>perannum_41</vepres_preces>
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_deduc_nos_ad</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+<comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
+<comp_ps1>ps90</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_Ap_22_4-5</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Regina_caeli</comp_AM><messe id="pascha_41">
+<IN>IN_Misericordia_Domini</IN>
+
+<KY/>
+<GLO/><COL>COL_Omnipotens_sempiterne_Deus_deduc_nos_ad</COL>
+<LEC1>pascha_41_C</LEC1>	
+<PS1>AL_Redemptionem</PS1>
+<LEC2>pascha_41_C</LEC2>
+<PS2>AL_Ego_sum_pastor_bonus</PS2>
+<SEQ/>
+<EV>EV_pascha_41_C</EV>
+<OF>OF_Deus_Deus_meus</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Ego_sum_pastor_bonus</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><viergemarie>
+ <intitule> </intitule></viergemarie><jerusalem/><piete>
+ <intitule/></piete><calendriercivil>
+ <intitule/></calendriercivil><journeesdediees>
+ <intitule/></journeesdediees><biographie>
+ <intitule>St Anselme de Canterbury, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</intitule>
+ <biographiecourte>Abb&#xE9; du Bec en Normandie et &#xE9;v&#xEA;que de Canterbury, il fut un grand th&#xE9;ologien (&#x2020;1109)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie><martyrologe><para id="0">1. &#xC0; Rome, vers 166, saint Anicet, pape, dont un h&#xF4;te illustre, saint Polycarpe, &#xE9;prouva la fraternit&#xE9;, quand ils trait&#xE8;rent ensemble de la date &#xE0; retenir pour le jour de P&#xE2;ques. </para><para id="1">2. &#xC0; Rome &#xE9;galement, comm&#xE9;moraison des saints Sulpice et Servitien, martyrs, qui furent d&#xE9;pos&#xE9;s au second milliaire sur la voie Latine. </para><para id="2">3. &#xC0; Cordoue en Espagne B&#xE9;tique, au IVe si&#xE8;cle, saint Secondin, martyr.</para><para id="3">4. &#xC0; Embrun dans les Alpes, vers 374, saint Marcellin, premier &#xE9;v&#xEA;que de cette ville. Venu d&#x2019;Afrique, il convertit &#xE0; la foi du Christ la plus grande partie des Alpes maritimes et fut ordonn&#xE9; pour ce si&#xE8;ge par saint Eus&#xE8;be de Verceil. </para><para id="4">5. &#xC0; Auxerre, vers 488, saint Marcien, moine.</para><para id="5">6. Pr&#xE8;s de Constantinople, au Ve si&#xE8;cle, saint Th&#xE9;odore, surnomm&#xE9; Trichinas &#xE0; cause du rude tissu de poil de ch&#xE8;vres dont il &#xE9;tait v&#xEA;tu, qui mena dans la solitude une vie tr&#xE8;s &#xE2;pre. </para><para id="6">7*. Au pays de Loriano, pr&#xE8;s de Paestum en Campanie, au VIIe si&#xE8;cle, sainte H&#xE9;li&#xE8;ne, vierge, qui v&#xE9;cut retir&#xE9;e dans une sorte de caverne. </para><para id="7">8*. &#xC0; Osnabr&#xFC;ck en Saxe, l&#x2019;an 804, saint Wihon, &#xE9;v&#xEA;que. N&#xE9; en Frise, il fut envoy&#xE9; par Charlemagne, &#xE9;tant abb&#xE9;, &#xE9;vang&#xE9;liser les Saxons, puis mis &#xE0; la t&#xEA;te de l&#x2019;&#xC9;glise d&#x2019;Osnabr&#xFC;ck, o&#xF9; il eut beaucoup &#xE0; souffrir. </para><para id="8">9*. Au monast&#xE8;re de Ch&#xE2;tellerault en Poitou, l&#x2019;an 1120, le bienheureux Giraud de Salles, qui, de chanoine pauvre, se fit ermite beaucoup plus pauvre, partisan de la p&#xE9;nitence la plus grande. Il enflamma beaucoup de gens de l&#x2019;amour de Dieu ou en attira beaucoup au d&#xE9;sert, et fonda enfin un grand nombre de maisons de chanoines r&#xE9;guliers. </para><para id="9">10*. &#xC0; Pise en Toscane, l&#x2019;an 1218, le bienheureux Dominique Vernagalli, pr&#xEA;tre de l&#x2019;Ordre des Camaldules, qui construisit un hospice pour les orphelins. </para><para id="10">11. &#xC0; Montepulciano, &#xE9;galement en Toscane, l&#x2019;an 1317, sainte Agn&#xE8;s, vierge, qui prit &#xE0; neuf ans l&#x2019;habit des vierges consacr&#xE9;es, &#xE0; quinze ans devint, malgr&#xE9; elle, la premi&#xE8;re sup&#xE9;rieure du monast&#xE8;re de Procena, et bient&#xF4;t fonda dans sa patrie un autre monast&#xE8;re, sous le R&#xE8;gle de saint Dominique, o&#xF9; elle donna un admirable exemple de v&#xE9;ritable humilit&#xE9;. </para><para id="11">12*. &#xC0; Bologne en &#xC9;milie, l&#x2019;an 1322, le bienheureux Simon Rinalducci, pr&#xEA;tre de l&#x2019;Ordre des Ermites de Saint-Augustin, qui enseigna les jeunes adonn&#xE9;s aux &#xE9;tudes et le peuple de Dieu par sa science th&#xE9;ologique, sa pr&#xE9;dication et l&#x2019;exemple de sa vie. </para><para id="12">13*. &#xC0; Lancastre en Angleterre, l&#x2019;an 1584, les bienheureux martyrs Jacques Bell et Jean Finch. Le premier, pr&#xEA;tre, passa vingt ans dans la confession anglicane contre sa science et sa conscience, puis, sur l&#x2019;exhortation d&#x2019;une pieuse femme, se r&#xE9;concilia avec l&#x2019;&#xC9;glise catholique&#xA0;; le second, p&#xE8;re de famille, paysan et cat&#xE9;chiste, passa de nombreuses ann&#xE9;es en prison &#xE0; cause de sa foi catholique et supporta la faim et d&#x2019;autres tourments&#xA0;; tous les deux furent condamn&#xE9;s &#xE0; mort, sous le reine &#xC9;lisabeth I&#xE8;re, et men&#xE9;s &#xE0; la potence. </para><para id="13">14*. &#xC0; Londres, la m&#xEA;me ann&#xE9;e, les bienheureux Richard Sargeant et Guillaume Thomson, pr&#xEA;tres et martyrs. Condamn&#xE9;s &#xE0; mort parce que, pr&#xEA;tres, ils &#xE9;taient entr&#xE9;s en Angleterre et y &#xE9;taient demeur&#xE9;s, ils furent conduits au m&#xEA;me supplice de la pendaison &#xE0; Tyburn. </para><para id="14">15*. &#xC0; Cloyne en Irlande, l&#x2019;an 1585, le bienheureux Maurice Makenraghty, pr&#xEA;tre et martyr. Apr&#xE8;s deux ans pass&#xE9;s en prison, comme il refusait de reconna&#xEE;tre le pouvoir de la reine &#xC9;lisabeth I&#xE8;re dans le domaine spirituel, il fut livr&#xE9; aux supplices de la potence. </para><para id="15">16*. &#xC0; York en Angleterre, l&#x2019;an 1593, le bienheureux Antoine Page, pr&#xEA;tre et martyr. Homme doux et droit, il fut condamn&#xE9; aux supplices du gibet, &#xE0; cause de son sacerdoce. </para><para id="16">17*. &#xC0; Londres, en 1602, les bienheureux pr&#xEA;tres et martyrs Fran&#xE7;ois Page, de la Compagnie de J&#xE9;sus, et Robert Watkinson, qui furent ensemble condamn&#xE9;s &#xE0; mort, sous la reine &#xC9;lisabeth I&#xE8;re, &#xE0; cause de leur sacerdoce, que le second avait re&#xE7;u un mois seulement auparavant, et tous deux durent monter sur l&#x2019;&#xE9;chafaud &#xE0; Tyburn. </para><para id="17">18*. &#xC0; Pianello, dans le pays de C&#xF4;me en Lombardie, l&#x2019;an 1887, la bienheureuse Claire Bosatta, vierge, qui, avec l&#x2019;aide du bienheureux Louis Guanella, fonda la Petite Maison de la divine Providence. </para><para id="18">19*. Pr&#xE8;s de Linz en Autriche, l&#x2019;an 1942, le bienheureux Anastase Pankiewicz, pr&#xEA;tre franciscain. Quand la Pologne fut soumise au r&#xE9;gime nazi, il poursuivit son minist&#xE8;re, ce qui lui valut d&#x2019;&#xEA;tre arr&#xEA;t&#xE9; par des soldats et d&#xE9;port&#xE9; au camp de concentration de Dachau. Lorsqu&#x2019;on le mena &#xE0; la chambre &#xE0; gaz, il succomba en cours de route. </para></martyrologe></calendarium>

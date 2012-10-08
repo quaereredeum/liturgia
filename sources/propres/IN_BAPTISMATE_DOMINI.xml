@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+</jour>
+<intitule>
+<la>IN BAPTISMATE DOMINI</la>
+<fr>BAPTEME DU SEIGNEUR</fr>
+</intitule>
+<rang>
+<la>Festum</la>
+<fr>F&#xEA;te</fr>
+</rang>
+<HYMNUS_1V id="hy_A_Patre_Unigenite"/>
+<ant01 id="AN_Fuit_Ioannes_in"/>
+<ps01 id="ps134I"/>
+<ant02 id="AN_Ego_quidem_aqua"/>
+<ps02 id="ps134II"/>
+<ant03 id="AN_Baptizatus_Iesus_confestim"/>
+<ps03 id="NT7"/>
+<LB_1V id="LB_Act_10_37-38"/>
+<RB_1V id="RB_Domine_Deus_Audi_clamorem"/>
+<magnificat1_A id="AN_Veterem_hominem_renovans"/>
+<magnificat1_B id="AN_Veterem_hominem_renovans"/>
+<magnificat1_C id="AN_Veterem_hominem_renovans"/>
+<oratio id="COL_Omnipotens_sempiterne_Deus_qui_Christum_in"/>
+<ant_invit id="INV_Christum_Filium_dilectum"/>
+<HYMNUS_laudes id="hy_Iesus_refulsit_omnium"/>
+<ant1 id="AN_Baptizat_miles_Regem"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Fontes_aquarum_sanctificati"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Te_qui_in"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Is_61_1-2a"/>
+<RB_matin id="RB_Christe_Fili_Dei_vivi_"/>
+<benedictus_A id="AN_Baptizatur_Christus_et"/>
+<benedictus_B id="AN_Baptizatur_Christus_et"/>
+<benedictus_C id="AN_Baptizatur_Christus_et"/>
+<HYMNUS_tertiam id="hy_Nunc_Sancte_nobis_Spiritus"/>
+<ant4 id="AN_Ioannes_prohibebat_Iesum"/>
+<LB_3 id="LB_Is_11_1-3a"/>
+<RB_3 id="VERS_Illum_oportet_crescere_Me_autem"/>
+<HYMNUS_sextam id="hy_Rector_potens_verax_Deus"/>
+<ant5 id="AN_Respondens_autem_Iesus"/>
+<LB_6 id="LB_Is_42_1"/>
+<RB_6 id="VERS_Ecce_servus_meus_suscipiam_eum"/>
+<HYMNUS_nonam id="hy_Rerum_Deus_tenax_vigor"/>
+<ant6 id="AN_Testimonium_perhibuit_Ioannes"/>
+<LB_9 id="LB_Is_49_6"/>
+<RB_9 id="VERS_Ponam_spiritum_meum_super_eum"/>
+<HYMNUS_vepres id="hy_Implente_munus_debitum"/>
+<ant7 id="AN_Vox_de_caelis"/>
+<ps7 id="ps109"/>
+<ant8 id="AN_Caput_draconis_Salvator"/>
+<ps8 id="ps111"/>
+<ant9 id="AN_Magnum_mysterium_declaratur"/>
+<ps9 id="NT11"/>
+<LB_soir id="LB_Act_10_37-38"/>
+<RB_soir id="RB_Hic_est_qui_venit_"/>
+<magnificat2_A id="AN_Christus_Iesus_dilexit"/>
+<magnificat2_B id="AN_Christus_Iesus_dilexit"/>
+<magnificat2_C id="AN_Christus_Iesus_dilexit"/>
+<oratio_vesperas id="COL_Omnipotens_sempiterne_Deus_qui_Christum_in"/>
+</liturgia>

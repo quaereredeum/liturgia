@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>DIE 9 IANUARII</la>
+<fr>LE 9 JANVIER</fr>
+</jour>
+<ant_invit id="INV_Christus_apparuit_nobis"/>
+<HYMNUS_laudes id="hy_Quicumque_Christum_quaeritis"/>
+<LB_matin id="LB_Is_49_8b-9a"/>
+<RB_matin id="RB_Adorabunt_eum_Omnes_reges"/>
+<benedictus id="AN_Vidimus_stellam_eius"/>
+<oratio id="COL_Deus_illuminator_omnium_gentium_da_populis"/>
+<HYMNUS_tertiam id="hy_Certum_tenentes_ordinem"/>
+<ant4 id="AN_Mysterium_quod_absconditum"/>
+<LB_3 id="LB_1_Tim_1_15"/>
+<RB_3 id="VERS_In_terris_visus_est_Et"/>
+<HYMNUS_sextam id="hy_Dicamus_laudes_Domino"/>
+<ant5 id="AN_Veniens_Christus_evangelizavit"/>
+<LB_6 id="LB_Ap_21_23-24"/>
+<RB_6 id="VERS_Videbunt_gentes_iustum_tuum_Et"/>
+<HYMNUS_nonam id="hy_Ternis_horarum_terminis"/>
+<ant6 id="AN_Ecce_dedi_te"/>
+<HYMNUS_vepres id="hy_Hostis_Herodes_impie"/>
+<LB_soir id="LB_Col_1_13-15"/>
+<RB_soir id="RB_Benedicentur_in_ipso_Omnes"/>
+<magnificat id="AN_Interrogabat_magos_Herodes"/>
+</liturgia>

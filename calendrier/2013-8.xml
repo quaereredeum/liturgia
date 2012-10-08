@@ -1,0 +1,653 @@
+<?xml version="1.0"?>
+<mois><ordo id="RE">
+		<jour date="20130801">
+		<intitule>
+		<la>S. Alfonsi Mariae de Liguori, episcopi et Ecclesiae doctoris</la>
+		<fr>St Alphonse-Marie de Liguori, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130802">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130803">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130804">
+		<intitule>
+		<la>Dominica XVIII per annum</la>
+		<fr>XVIII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130805">
+		<intitule>
+		<la>In Dedicatione basilicae S. Mariae</la>
+		<fr>D&#xE9;dicace de la Basilique Ste Marie.</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130806">
+		<intitule>
+		<la>IN TRANSFIGURATIONE DOMINI</la>
+		<fr>TRANSFIGURATION DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130807">
+		<intitule>
+		<la>S. Caietani, presbyteri</la>
+		<fr>St Ga&#xE9;tan, pr&#xEA;tre</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130808">
+		<intitule>
+		<la>S. Dominici, presbyteri</la>
+		<fr>St Dominique, pr&#xEA;tre</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130809">
+		<intitule>
+		<la>SteTh&#xE9;r&#xE8;se-Benedicte de la Croix, vierge et martyre.</la>
+		<fr>SteTh&#xE9;r&#xE8;se-Benedicte de la Croix, vierge et martyre.</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130810">
+		<intitule>
+		<la>S. Laurentii, diaconi et martyris</la>
+		<fr>St Laurent, diacre et martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130811">
+		<intitule>
+		<la>Dominica XIX per annum</la>
+		<fr>XIX&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130812">
+		<intitule>
+		<la>S. Ioannae Franciscae de Chantal, religiosae</la>
+		<fr>Ste Jeanne-Fran&#xE7;oise de Chantal, religieuse</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130813">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130814">
+		<intitule>
+		<la>S. Maximiliani Mariae Kolbe, presbyteri et martyris</la>
+		<fr>St Maximilien-Marie Kolbe, pr&#xEA;tre et martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130815">
+		<intitule>
+		<la>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</la>
+		<fr>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130816">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130817">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130818">
+		<intitule>
+		<la>Dominica XX per annum</la>
+		<fr>XX&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130819">
+		<intitule>
+		<la>S. Ioannis Eudes, presbyteri</la>
+		<fr>St Jean Eudes, pr&#xEA;tre</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130820">
+		<intitule>
+		<la>S. Bernardi, abbatis et Ecclesiae doctoris</la>
+		<fr>St Bernard, abb&#xE9; et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130821">
+		<intitule>
+		<la>S. Pii X, papae</la>
+		<fr>St Pie X, pape</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130822">
+		<intitule>
+		<la>B. Mariae Virginis Reginae</la>
+		<fr>Bienheureuse Vierge Marie, reine.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130823">
+		<intitule>
+		<la>S. Rosae de Lima, virginis</la>
+		<fr>Ste Rose de Lima</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130824">
+		<intitule>
+		<la>S. Bartholomaei, apostoli</la>
+		<fr>St Barth&#xE9;lemy, ap&#xF4;tre</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130825">
+		<intitule>
+		<la>Dominica XXI per annum</la>
+		<fr>XXI&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130826">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130827">
+		<intitule>
+		<la>S. Monicae</la>
+		<fr>Ste Monique</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130828">
+		<intitule>
+		<la>S. Augustini, episcopi et Ecclesiae doctoris</la>
+		<fr>St Augustin, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130829">
+		<intitule>
+		<la>In Passione S. Ioannis Baptistae, martyris</la>
+		<fr>Passion de St Jean-Baptiste, martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130830">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130831">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour></ordo><ordo id="SWF">
+		<jour date="20130801">
+		<intitule>
+		<la>S. Alfonsi Mariae de Liguori, episcopi et Ecclesiae doctoris</la>
+		<fr>St Alphonse-Marie de Liguori, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130802">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130803">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130804">
+		<intitule>
+		<la>Dominica XVIII per annum</la>
+		<fr>XVIII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130805">
+		<intitule>
+		<la>In Dedicatione basilicae S. Mariae</la>
+		<fr>D&#xE9;dicace de la Basilique Ste Marie.</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130806">
+		<intitule>
+		<la>IN TRANSFIGURATIONE DOMINI</la>
+		<fr>TRANSFIGURATION DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130807">
+		<intitule>
+		<la>S. Sixte II</la>
+		<fr>S. Sixte II</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130808">
+		<intitule>
+		<la>S. Dominici, presbyteri</la>
+		<fr>St Dominique, pr&#xEA;tre</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130809">
+		<intitule>
+		<la>SteTh&#xE9;r&#xE8;se-Benedicte de la Croix, vierge et martyre.</la>
+		<fr>SteTh&#xE9;r&#xE8;se-Benedicte de la Croix, vierge et martyre.</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130810">
+		<intitule>
+		<la>S. Laurentii, diaconi et martyris</la>
+		<fr>St Laurent, diacre et martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130811">
+		<intitule>
+		<la>Dominica XIX per annum</la>
+		<fr>XIX&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130812">
+		<intitule>
+		<la>S. Ioannae Franciscae de Chantal, religiosae</la>
+		<fr>Ste Jeanne-Fran&#xE7;oise de Chantal, religieuse</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130813">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130814">
+		<intitule>
+		<la>S. Maximiliani Mariae Kolbe, presbyteri et martyris</la>
+		<fr>St Maximilien-Marie Kolbe, pr&#xEA;tre et martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130815">
+		<intitule>
+		<la>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</la>
+		<fr>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130816">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130817">
+		<intitule>
+		<la>S. Louis-Fran&#xE7;ois Lebrun et ses compagnons</la>
+		<fr>S. Louis-Fran&#xE7;ois Lebrun et ses compagnons</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130818">
+		<intitule>
+		<la>Dominica XX per annum</la>
+		<fr>XX&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130819">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130820">
+		<intitule>
+		<la>S. Bernardi, abbatis et Ecclesiae doctoris</la>
+		<fr>St Bernard, abb&#xE9; et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130821">
+		<intitule>
+		<la>S. Pii X, papae</la>
+		<fr>St Pie X, pape</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130822">
+		<intitule>
+		<la>B. Mariae Virginis Reginae</la>
+		<fr>Bienheureuse Vierge Marie, reine.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130823">
+		<intitule>
+		<la>S. Bartholomaei, apostoli</la>
+		<fr>St Barth&#xE9;lemy, ap&#xF4;tre</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130824">
+		<intitule>
+		<la>S. Ludovici</la>
+		<fr>St Louis</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130825">
+		<intitule>
+		<la>Dominica XXI per annum</la>
+		<fr>XXI&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130826">
+		<intitule>
+		<la>S. Monicae</la>
+		<fr>Ste Monique</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130827">
+		<intitule>
+		<la>S. Augustini, episcopi et Ecclesiae doctoris</la>
+		<fr>St Augustin, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130828">
+		<intitule>
+		<la>In Passione S. Ioannis Baptistae, martyris</la>
+		<fr>Passion de St Jean-Baptiste, martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130829">
+		<intitule>
+		<la>In Passione S. Ioannis Baptistae, martyris</la>
+		<fr>Passion de St Jean-Baptiste, martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130830">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130831">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour></ordo><ordo id="SMK">
+		<jour date="20130801">
+		<intitule>
+		<la>S. Alfonsi Mariae de Liguori, episcopi et Ecclesiae doctoris</la>
+		<fr>St Alphonse-Marie de Liguori, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130802">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130803">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130804">
+		<intitule>
+		<la>Dominica XVIII per annum</la>
+		<fr>XVIII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130805">
+		<intitule>
+		<la>In Dedicatione basilicae S. Mariae</la>
+		<fr>D&#xE9;dicace de la Basilique Ste Marie.</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130806">
+		<intitule>
+		<la>IN TRANSFIGURATIONE DOMINI</la>
+		<fr>TRANSFIGURATION DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130807">
+		<intitule>
+		<la>S. Caietani, presbyteri</la>
+		<fr>St Ga&#xE9;tan, pr&#xEA;tre</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130808">
+		<intitule>
+		<la>S. Dominici, presbyteri</la>
+		<fr>St Dominique, pr&#xEA;tre</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130809">
+		<intitule>
+		<la>SteTh&#xE9;r&#xE8;se-Benedicte de la Croix, vierge et martyre.</la>
+		<fr>SteTh&#xE9;r&#xE8;se-Benedicte de la Croix, vierge et martyre.</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130810">
+		<intitule>
+		<la>S. Laurentii, diaconi et martyris</la>
+		<fr>St Laurent, diacre et martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130811">
+		<intitule>
+		<la>Dominica XIX per annum</la>
+		<fr>XIX&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130812">
+		<intitule>
+		<la>S. Ioannae Franciscae de Chantal, religiosae</la>
+		<fr>Ste Jeanne-Fran&#xE7;oise de Chantal, religieuse</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130813">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130814">
+		<intitule>
+		<la>S. Maximiliani Mariae Kolbe, presbyteri et martyris</la>
+		<fr>St Maximilien-Marie Kolbe, pr&#xEA;tre et martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130815">
+		<intitule>
+		<la>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</la>
+		<fr>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130816">
+		<intitule>
+		<la>S. Armagili, eremitae</la>
+		<fr>S. Armagili, eremitae</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130817">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130818">
+		<intitule>
+		<la>Dominica XX per annum</la>
+		<fr>XX&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130819">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130820">
+		<intitule>
+		<la>S. Bernardi, abbatis et Ecclesiae doctoris</la>
+		<fr>St Bernard, abb&#xE9; et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130821">
+		<intitule>
+		<la>S. Pii X, papae</la>
+		<fr>St Pie X, pape</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130822">
+		<intitule>
+		<la>B. Mariae Virginis Reginae</la>
+		<fr>Bienheureuse Vierge Marie, reine.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130823">
+		<intitule>
+		<la>S. Rosae de Lima, virginis</la>
+		<fr>Ste Rose de Lima</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130824">
+		<intitule>
+		<la>S. Bartholomaei, apostoli</la>
+		<fr>St Barth&#xE9;lemy, ap&#xF4;tre</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130825">
+		<intitule>
+		<la>Dominica XXI per annum</la>
+		<fr>XXI&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130826">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130827">
+		<intitule>
+		<la>S. Monicae</la>
+		<fr>Ste Monique</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130828">
+		<intitule>
+		<la>S. Augustini, episcopi et Ecclesiae doctoris</la>
+		<fr>St Augustin, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130829">
+		<intitule>
+		<la>In Passione S. Ioannis Baptistae, martyris</la>
+		<fr>Passion de St Jean-Baptiste, martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130830">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20130831">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour></ordo></mois>

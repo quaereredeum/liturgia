@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 20 augusti</la>
+<fr>Le 20 ao&#xFB;t</fr>
+</jour>
+<intitule>
+<la>S. BERNARDI, ABBATIS ET ECCLESI&#xC6; DOCTORIS</la>
+<fr>S. BERNARD, ABBE ET DOCTEUR DE L'EGLISE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<preces id="sanctorum_virorum"/>
+<ant_invit id="INV_Mirabilem_Deum_in"/>
+<HYMNUS_laudes id="hy_Bernarde_gemma_caelitum"/>
+<LB_matin id="LB_Rom_12_1-2"/>
+<RB_matin id="RB_Lex_Dei_eius_In"/>
+<benedictus id="AN_Beatus_Bernardus_cuius"/>
+<oratio id="COL_Deus_qui_beatum_Bernardum_abbatem_zelo"/>
+<HYMNUS_vesperas id="hy_Iesu_redemptor_omnium"/>
+<LB_soir id="LB_Rom_8_28-30"/>
+<RB_soir id="RB_Iustus_Dominus_Et_iustitiam"/>
+<magnificat id="AN_Bernardus_doctor_mellifluus"/>
+</liturgia>

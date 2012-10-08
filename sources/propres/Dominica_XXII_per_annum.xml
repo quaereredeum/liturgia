@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XXII per annum</la>
+<fr>XXII&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Coepit_Iesus_ostendere"/>
+<magnificat1_B id="AN_Custodite_mandata_Domini"/>
+<magnificat1_C id="AN_Cum_vocatus_fueris"/>
+<oratio id="COL_Deus_virtutum_cuius_est_totum_quod"/>
+<benedictus_A id="AN_Quid_prodest_homini"/>
+<benedictus_B id="AN_In_mansuetudine_suscipite"/>
+<benedictus_C id="AN_Omnis_qui_se"/>
+<magnificat2_A id="AN_Quodcumque_ligaveris_super"/>
+<magnificat2_B id="AN_Domine_ad_quem"/>
+<magnificat2_C id="AN_Ecce_sunt_novissimi"/>
+</liturgia>

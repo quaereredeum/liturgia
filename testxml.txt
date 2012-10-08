@@ -1,0 +1,318 @@
+
+<sanctoral_messe><celebration id='01-02'><IN_>IN_Sapientiam_sanctorum</IN_><PS1>GR_Sacerdotes_eius</PS1><PS2>AL_Disposui_testamentum</PS2><OF>OF_Mirabilis_Deus</OF><CO>CO_Quod_dico_vobis</CO></celebration>
+<celebration id='01-07'><IN_>IN_Os_iusti</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Beatus_vir_qui_suffert</PS2><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+<celebration id='01-13'><IN_>IN_Meditatio_cordis_mei</IN_><PS1>GR_Inveni_David</PS1><PS2>AL_Tu_es_sacerdos</PS2><OF>OF_Benedictus_es_in_labiis_meis</OF><CO>CO_Semel_iuravi</CO></celebration>
+
+<celebration id='01-17'><IN_>IN_Iustus_ut_palma</IN_><PS1>GR_Domine_praevenisti_eum</PS1><PS2>AL_Iustus_ut_palma</PS2><OF>OF_Desiderium_animae_eius</OF><CO>CO_Fidelis_servus</CO></celebration>
+<celebration id='01-20'><sanctus id='S. FABIANI' /><IN_>IN_Sacerdotes_Dei</IN_><PS1>GR_Iuravit_Dominus</PS1><PS2>AL_Inveni_David</PS2><OF>OF_Veritas_mea</OF><CO>CO_Semel_iuravi</CO></celebration>
+<celebration id='01-20'><sanctus id='S. SEBASTIANI' /><IN_>IN_Salus_autem</IN_><PS1>GR_Iustus_cum_ceciderit</PS1><PS2>AL_Gaudete_iusti</PS2><OF>OF_Laetamini</OF><CO>CO_Multitudo_languentium</CO></celebration>
+
+<celebration id='01-21'><IN_>IN_Me_exspectaverunt</IN_><PS1>GR_Diffusa_est_gratia</PS1><PS2>AL_Quinque_prudentes_virgines</PS2><OF>OF_Afferentur_proximae</OF><CO>CO_Quinque_prudentes_virgines</CO></celebration>
+<celebration id='01-22'><IN_>IN_Laetabitur_iustus</IN_><PS1>GR_Posuisti_Domine </PS1><PS2>AL_Laetabitur_iustus</PS2><OF>OF_Gloria_et_honore</OF><CO>CO_Qui_vult_venire</CO></celebration>
+<celebration id='01-24'><IN_>IN_Sacerdotes_tui</IN_><PS1>GR_Os_iusti</PS1><PS2>AL_Memento_Domine_David</PS2><OF>OF_Iustus_ut_palma</OF><CO>CO_Fidelis_servus</CO></celebration>
+
+<celebration id='01-25'><IN_>IN_Scio_cui_credidi</IN_><PS1>GR_Qui_operatus_est</PS1><PS2>AL_Magnus_sanctus_Paulus</PS2><OF>OF_Mihi_autem_nimis</OF><CO>CO_Signa</CO></celebration>
+<celebration id='01-26'><IN_>IN_Sacerdotes_eius</IN_><PS1>GR_Beata_gens</PS1><PS2>AL_Ego_vos_elegi</PS2><OF>OF_Gloriabuntur</OF><CO>CO_Amen_dico_vobis_quod_vos</CO></celebration>
+<celebration id='01-27'><IN_>IN_Dilexisti</IN_><PS1>GR_Specie_tua</PS1><PS2>AL_Adducentur</PS2><OF>OF_Filiae_regum</OF><CO>CO_Quinque_prudentes_virgines</CO></celebration>
+
+<celebration id='01-28'><IN_>IN_Sapientiam_sanctorum</IN_><PS1>GR_Os_iusti</PS1><PS2>AL_Spiritus_Sanctus_docebit</PS2><OF>OF_Meditabor</OF><CO>CO_Notas_mihi_fecisti</CO></celebration>
+<celebration id='01-31'><IN_>IN_Dispersit_dedit_pauperibus</IN_><PS1>GR_Venite_filii</PS1><PS2>AL_Iustus_germinabit</PS2><OF>OF_Factus_est_Dominus</OF><CO>CO_Amen_dico_vobis_quod_uni</CO></celebration>
+<celebration id='02-02'><IN_>IN_Ecce_advenit</IN_><PS1>GR_Suscepimus</PS1><PS2>AL_Senex_puerum_portabat</PS2><OF>OF_Diffusa_est_gratia</OF><CO>CO_Responsum</CO><autre1>AN_Ecce_Dominus_noster</autre1><autre2>AN_Lumen_ad_revelationem_gentium</autre2><autre3>AN_Adorna</autre3><autre4>AN_Responsum_accepit</autre4><autre5>RESP_Obtulerunt</autre5></celebration>
+
+<celebration id='02-02'><IN_>IN_Suscepimus</IN_><PS1>GR_Suscepimus</PS1><PS2>AL_Senex_puerum_portabat</PS2><OF>OF_Diffusa_est_gratia</OF><CO>CO_Responsum</CO><autre1>AN_Ecce_Dominus_noster</autre1><autre2>AN_Lumen_ad_revelationem_gentium</autre2><autre3>AN_Adorna</autre3><autre4>AN_Responsum_accepit</autre4><autre5>RESP_Obtulerunt</autre5></celebration>
+<celebration id='02-03'><sanctus id='S.BLASII' /><IN_>IN_Sacerdotes_Dei</IN_><PS1>GR_Gloria_et_honore</PS1><PS2>AL_Hic_est_sacerdos</PS2><OF>OF_Inveni_David</OF><CO>CO_Posuisti</CO></celebration>
+
+<celebration id='02-03'><sanctus id='S.ANSGARII' /><IN_>IN_Sacerdotes_tui</IN_><PS1>GR_Sacerdotes_eius</PS1><PS2>AL_Iuravit_Dominus</PS2><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+<celebration id='02-05'><IN_>IN_Gaudeamus_Agathae</IN_><PS1>GR_Adiuvabit_eam</PS1><PS2>AL_Loquebar</PS2><OF>OF_Afferentur_post_eam</OF><CO>CO_Feci_iudicium</CO></celebration>
+<celebration id='02-06'><IN_>IN_Iusti_epulentur</IN_><PS1>GR_Gloriosus_Deus</PS1><PS2>AL_Iustorum_animae</PS2><OF>OF_Anima_nostra</OF><CO>CO_Dico_autem_vobis</CO></celebration>
+
+<celebration id='02-08'><IN_>IN_Dispersit_dedit_pauperibus</IN_><PS1>GR_Ego_dixi_Domine</PS1><PS2>AL_Dispersit</PS2><OF>OF_In_virtute_tua</OF><CO>CO_Amen_dico_vobis_quod_uni</CO></celebration>
+<celebration id='02-10'><IN_>IN_Dilexisti</IN_><PS1>GR_Specie_tua</PS1><PS2>AL_Adducentur</PS2><OF>OF_Filiae_regum</OF><CO>CO_Quinque_prudentes_virgines</CO></celebration>
+<celebration id='02-11'><tempus id='Careme' /><IN_>IN_Vultum_tuum</IN_><PS1>GR_Benedicta_es_tu</PS1><PS2>AL_Tota_pulchra_es</PS2><OF>OF_Ave_Maria</OF><CO>CO_Gloriosa</CO></celebration>
+
+<celebration id='02-11'><IN_>IN_Gaudens_gaudebo</IN_><PS1>GR_Benedicta_es_tu</PS1><PS2>AL_Tota_pulchra_es</PS2><OF>OF_Ave_Maria</OF><CO>CO_Gloriosa</CO></celebration>
+<celebration id='02-14'><IN_>IN_Sacerdotes_tui</IN_><PS1>GR_Sacerdotes_eius</PS1><PS2>AL_Laudate_Dominum</PS2><OF>OF_Populum_humilem</OF><CO>CO_Quod_dico_vobis</CO></celebration>
+<celebration id='02-17'><IN_>IN_Sapientiam_sanctorum</IN_><PS1>GR_Ecce_quam_bonum</PS1><PS2>AL_Corpora_sanctorum</PS2><OF>OF_Recordare_Virgo_Mater</OF><CO>CO_Ego_vos_elegi</CO></celebration>
+
+<celebration id='02-21'><IN_>IN_Lex_Domini</IN_><PS1>GR_Beatus_vir_qui_timet</PS1><PS2>AL_Qui_sequitur_me</PS2><OF>OF_Inveni_David</OF><CO>CO_Qui_vult_venire</CO></celebration>
+<celebration id='02-22'><IN_>IN_Statuit_ei_Dominus</IN_><PS1>GR_Exaltent_eum</PS1><PS2>AL_Rogavi_pro_te_Petre</PS2><OF>OF_In_omnem_terram</OF><CO>CO_Tu_es_Petrus</CO></celebration>
+<celebration id='02-23'><IN_>IN_Sacerdotes_Dei</IN_><PS1>GR_Gloria_et_honore</PS1><PS2>AL_Hic_est_sacerdos</PS2><OF>OF_Inveni_David</OF><CO>CO_Posuisti</CO></celebration>
+
+<celebration id='03-04'><IN_>IN_Os_iusti</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Beatus_vir_qui_suffert</PS2><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+<celebration id='03-07'><IN_>IN_Iusti_epulentur</IN_><PS1>GR_Anima_nostra</PS1><PS2>AL_Te_martyrum</PS2><OF>OF_Afferentur_proximae</OF><CO>CO_Dico_autem_vobis</CO></celebration>
+<celebration id='03-08'><IN_>IN_Os_iusti</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Beatus_vir_qui_suffert</PS2><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+
+<celebration id='03-09'><IN_>IN_Cognovi_Domine</IN_><PS1>GR_Diffusa_est_gratia</PS1><PS2>AL_Specie_tua</PS2><OF>OF_Diffusa_est_gratia</OF><CO>CO_Dilexisti_iustitiam</CO></celebration>
+<celebration id='03-17'><IN_>IN_Statuit_ei_Dominus</IN_><PS1>GR_Ecce_sacerdos</PS1><OF>OF_Inveni_David</OF><CO>CO_Fidelis_servus</CO></celebration>
+<celebration id='03-18'><IN_>IN_Sitientes</IN_><PS1>GR_Sacerdotes_eius</PS1><OF>OF_Iustus_ut_palma</OF><CO>CO_Beatus_servus</CO></celebration>
+<celebration id='03-19'><IN_>IN_Iustus_ut_palma</IN_><PS1>GR_Domine_praevenisti_eum</PS1><PS2>TR_Beatus_vir</PS2><OF>OF_Veritas_mea</OF><CO>CO_Ioseph_fili_David</CO></celebration>
+
+<celebration id='03-19'><IN_>IN_Iustus_ut_palma</IN_><PS1>GR_Domine_praevenisti_eum</PS1><PS2>TR_Beatus_vir</PS2><OF>OF_Veritas_mea</OF><CO>CO_Fili_quid_fecisti</CO></celebration>
+<celebration id='03-23'><IN_>IN_Dispersit_dedit_pauperibus</IN_><PS1>GR_Laetatus_sum</PS1><OF>OF_In_te_speravi</OF><CO>CO_Qui_mihi_ministrat</CO></celebration>
+<celebration id='03-25'><IN_>IN_Rorate_caeli</IN_><PS1>GR_Tollite_portas</PS1><PS2>TR_Audi_filia</PS2><OF>OF_Ave_Maria</OF><CO>CO_Ecce_virgo</CO></celebration>
+
+<celebration id='03-25'><tempus id='Temps Pascal' /><IN_>IN_Rorate_caeli</IN_><PS1>AL_Ave_Maria</PS1><PS2>AL_Virga_Iesse</PS2><OF>OF_Ave_Maria</OF><CO>CO_Ecce_virgo</CO></celebration>
+<celebration id='04-02'><IN_>IN_Iustus_ut_palma</IN_><PS1>GR_Os_iusti</PS1><OF>OF_Desiderium_animae_eius</OF><CO>CO_Amen_dico_vobis_quod_vos</CO></celebration>
+<celebration id='04-02'><tempus id='Temps Pascal' /><IN_>IN_Iustus_ut_palma</IN_><PS1>GR_Os_iusti</PS1><PS2>AL_Beatus_vir_qui_timet</PS2><OF>OF_Desiderium_animae_eius</OF><CO>CO_Amen_dico_vobis_quod_vos</CO></celebration>
+
+<celebration id='04-02'><tempus id='Temps Pascal' /><IN_>IN_Iustus_ut_palma</IN_><PS1>GR_Os_iusti</PS1><PS2>AL_Iustus_germinabit</PS2><OF>OF_Desiderium_animae_eius</OF><CO>CO_Amen_dico_vobis_quod_vos</CO></celebration>
+<celebration id='04-04'><IN_>IN_Meditatio_cordis_mei</IN_><PS1>GR_Sacerdotes_eius</PS1><OF>OF_Iustus_ut_palma</OF><CO>CO_Fidelis_servus</CO></celebration>
+<celebration id='04-04'><tempus id='Temps Pascal' /><IN_>IN_Meditatio_cordis_mei</IN_><PS1>GR_Sacerdotes_eius</PS1><PS2>AL_Iuravit_Dominus</PS2><OF>OF_Iustus_ut_palma</OF><CO>CO_Fidelis_servus</CO></celebration>
+
+<celebration id='04-04'><tempus id='Temps Pascal' /><IN_>IN_Meditatio_cordis_mei</IN_><PS1>GR_Sacerdotes_eius</PS1><PS2>AL_Amavit_eum</PS2><OF>OF_Iustus_ut_palma</OF><CO>CO_Fidelis_servus</CO></celebration>
+<celebration id='04-05'><IN_>IN_Os_iusti</IN_><PS1>GR_Iustus_ut_palma</PS1><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+<celebration id='04-05'><tempus id='Temps Pascal' /><IN_>IN_Os_iusti</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Beatus_vir_qui_suffert</PS2><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+
+<celebration id='04-05'><tempus id='Temps Pascal' /><IN_>IN_Os_iusti</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Amavit_eum</PS2><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+<celebration id='04-07'><IN_>IN_Os_iusti</IN_><PS1>GR_Iustus_ut_palma</PS1><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+<celebration id='04-07'><tempus id='Temps Pascal' /><IN_>IN_Os_iusti</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Beatus_vir_qui_suffert</PS2><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+
+<celebration id='04-07'><tempus id='Temps Pascal' /><IN_>IN_Os_iusti</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Amavit_eum</PS2><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+<celebration id='04-11'><tempus id='Extra T.Pascal' /><IN_>IN_Sacerdotes_Dei</IN_><PS1>GR_Gloria_et_honore</PS1><PS2>AL_Hic_est_sacerdos</PS2><OF>OF_Inveni_David</OF><CO>CO_Posuisti</CO></celebration>
+<celebration id='04-11'><tempus id='Temps Pascal' /><IN_>IN_Protexisti_me</IN_><PS2>AL_Confitebuntur_caeli</PS2><OF>OF_Confitebuntur_caeli</OF><CO>CO_Laetabitur_iustus</CO></celebration>
+
+<celebration id='04-11'><tempus id='Temps Pascal' /><IN_>IN_Protexisti_me</IN_><PS2>AL_Posuisti_Domine</PS2><OF>OF_Confitebuntur_caeli</OF><CO>CO_Laetabitur_iustus</CO></celebration>
+<celebration id='04-13'><tempus id='Extra T.Pascal' /><IN_>IN_Sacerdotes_Dei</IN_><PS1>GR_Gloria_et_honore</PS1><PS2>AL_Hic_est_sacerdos</PS2><OF>OF_Inveni_David</OF><CO>CO_Posuisti</CO></celebration>
+<celebration id='04-13'><tempus id='Temps Pascal' /><IN_>IN_Protexisti_me</IN_><PS2>AL_Confitebuntur_caeli</PS2><OF>OF_Confitebuntur_caeli</OF><CO>CO_Laetabitur_iustus</CO></celebration>
+<celebration id='04-13'><tempus id='Temps Pascal' /><IN_>IN_Protexisti_me</IN_><PS2>AL_Posuisti_Domine</PS2><OF>OF_Confitebuntur_caeli</OF><CO>CO_Laetabitur_iustus</CO></celebration>
+
+<celebration id='04-21'><IN_>IN_Lex_Domini</IN_><PS2>AL_Amavit_eum</PS2><OF>OF_Iustus_ut_palma</OF><CO>CO_Qui_meditabitur</CO></celebration>
+<celebration id='04-21'><IN_>IN_Lex_Domini</IN_><PS2>AL_Iustus_germinabit</PS2><OF>OF_Iustus_ut_palma</OF><CO>CO_Qui_meditabitur</CO></celebration>
+<celebration id='04-23'><IN_>IN_Protexisti_me</IN_><PS2>AL_Confitebuntur_caeli</PS2><OF>OF_Confitebuntur_caeli</OF><CO>CO_Laetabitur_iustus</CO></celebration>
+<celebration id='04-23'><IN_>IN_Protexisti_me</IN_><PS2>AL_Posuisti_Domine</PS2><OF>OF_Confitebuntur_caeli</OF><CO>CO_Laetabitur_iustus</CO></celebration>
+
+<celebration id='04-24'><IN_>IN_Protexisti_me</IN_><PS2>AL_Confitebuntur_caeli</PS2><OF>OF_Confitebuntur_caeli</OF><CO>CO_Laetabitur_iustus</CO></celebration>
+<celebration id='04-24'><IN_>IN_Protexisti_me</IN_><PS2>AL_Posuisti_Domine</PS2><OF>OF_Confitebuntur_caeli</OF><CO>CO_Laetabitur_iustus</CO></celebration>
+<celebration id='04-25'><IN_>IN_Accipite_iucunditatem</IN_><PS2>AL_Loquebantur</PS2><OF>OF_Confitebuntur_caeli</OF><CO>CO_Signa</CO></celebration>
+<celebration id='04-25'><IN_>IN_Accipite_iucunditatem</IN_><PS2>AL_Loquebantur</PS2><OF>OF_In_omnem_terram</OF><CO>CO_Data_est_mihi</CO></celebration>
+
+<celebration id='04-28'><IN_>IN_Venite_benedicti</IN_><PS2>AL_Iustus_non_conturbabitur</PS2><OF>OF_Repleti_sumus</OF><CO>CO_Data_est_mihi</CO></celebration>
+<celebration id='04-29'><IN_>IN_Dilexisti</IN_><PS2>AL_Adducentur</PS2><OF>OF_Filiae_regum</OF><CO>CO_Quinque_prudentes_virgines</CO></celebration>
+<celebration id='04-29'><IN_>IN_Caritas_Dei</IN_><PS2>AL_Domine_Deus_salutis_meae</PS2><OF>OF_Deus_Deus_meus</OF><CO>CO_Notas_mihi_fecisti</CO></celebration>
+<celebration id='04-30'><IN_>IN_Statuit_ei_Dominus</IN_><PS2>AL_Tu_es_sacerdos</PS2><OF>OF_Inveni_David</OF><CO>CO_Fidelis_servus</CO></celebration>
+
+<celebration id='05-01'><IN_>IN_Ecce_oculi_Domini</IN_><PS2>AL_De_quacumque_tribulatione</PS2><OF>OF_In_te_speravi</OF><CO>CO_Dominus_firmamentum_meum</CO></celebration>
+<celebration id='05-01'><IN_>IN_Ecce_oculi_Domini</IN_><PS2>AL_Fac_nos_innocuam</PS2><OF>OF_In_te_speravi</OF><CO>CO_Dominus_firmamentum_meum</CO></celebration>
+<celebration id='05-02'><IN_>IN_In_medio_Ecclesiae</IN_><PS2>AL_Beatus_vir_qui_suffert</PS2><OF>OF_Inveni_David</OF><CO>CO_Quod_dico_vobis</CO></celebration>
+<celebration id='05-03'><IN_>IN_Exclamaverunt</IN_><PS2>AL_Tanto_tempore</PS2><OF>OF_Confitebuntur_caeli</OF><CO>CO_Tanto_tempore</CO></celebration>
+
+<celebration id='05-12'><sanctus id='SS.NEREI ET ACHILLEI' /><IN_>IN_Ecce_oculi_Domini</IN_><PS2>AL_Haec_est_vera_fraternitas</PS2><OF>OF_Confitebuntur_caeli</OF><CO>CO_Gaudete_iusti</CO></celebration>
+<celebration id='05-12'><sanctus id='SS.NEREI ET ACHILLEI' /><tempus id='Extra T.Pascal' /><IN_>IN_Salus_autem</IN_><PS1>GR_Gloriosus_Deus</PS1><PS2>AL_Haec_est_vera_fraternitas</PS2><OF>OF_Anima_nostra</OF><CO>CO_Amen_dico_vobis_quod_uni</CO></celebration>
+<celebration id='05-12'><sanctus id='S.PANCRATII' /><IN_>IN_Ecce_oculi_Domini</IN_><PS2>AL_Laudate_pueri</PS2><OF>OF_Confitebuntur_caeli</OF><CO>CO_Ego_sum_vitis_vera</CO></celebration>
+<celebration id='05-12'><sanctus id='S.PANCRATII' /><tempus id='Extra T.Pascal' /><IN_>IN_Laetabitur_iustus</IN_><PS1>GR_Iustus_cum_ceciderit</PS1><PS2>AL_Qui_sequitur_me</PS2><OF>OF_Posuisti</OF><CO>CO_Qui_mihi_ministrat</CO></celebration>
+
+<celebration id='05-14'><IN_>IN_Vocem_iucunditatis</IN_><PS2>AL_Ego_vos_elegi</PS2><OF>OF_Repleti_sumus</OF><CO>CO_Ego_vos_elegi</CO></celebration>
+<celebration id='05-14'><tempus id='Extra T.Pascal' /><IN_>IN_Mihi_autem_nimis</IN_><PS1>GR_Nimis_honorati_sunt</PS1><PS2>AL_Ego_vos_elegi</PS2><OF>OF_Constitues_eos</OF><CO>CO_Vos_qui_secuti_estis_me</CO></celebration>
+<celebration id='05-18'><IN_>IN_Protexisti_me</IN_><PS2>AL_Confitebuntur_caeli</PS2><OF>OF_Confitebuntur_caeli</OF><CO>CO_Laetabitur_iustus</CO></celebration>
+<celebration id='05-18'><IN_>IN_Protexisti_me</IN_><PS2>AL_Posuisti_Domine</PS2><OF>OF_Confitebuntur_caeli</OF><CO>CO_Laetabitur_iustus</CO></celebration>
+
+<celebration id='05-18'><tempus id='Extra T.Pascal' /><IN_>IN_Sacerdotes_Dei</IN_><PS1>GR_Gloria_et_honore</PS1><PS2>AL_Hic_est_sacerdos</PS2><OF>OF_Inveni_David</OF><CO>CO_Posuisti</CO></celebration>
+<celebration id='05-20'><IN_>IN_Os_iusti</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Beatus_vir_qui_suffert</PS2><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+<celebration id='05-25'><sanctus id='S.BEDAE VENERABILIS' /><IN_>IN_Meditatio_cordis_mei</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Amavit_eum</PS2><OF>OF_Benedicam_Dominum</OF><CO>CO_Qui_meditabitur</CO></celebration>
+
+<celebration id='05-25'><sanctus id='S. GREGORII VII' /><IN_>IN_Statuit_ei_Dominus</IN_><PS1>GR_Ecce_sacerdos</PS1><PS2>AL_Tu_es_sacerdos</PS2><OF>OF_Inveni_David</OF><CO>CO_Fidelis_servus</CO></celebration>
+<celebration id='05-25'><sanctus id='S. MARIAE MAGDALENAE DE PAZZI' /><IN_>IN_Dilexisti</IN_><PS1>GR_Specie_tua</PS1><PS2>AL_Adducentur</PS2><OF>OF_Filiae_regum</OF><CO>CO_Quinque_prudentes_virgines</CO></celebration>
+<celebration id='05-26'><IN_>IN_Caritas_Dei</IN_><PS2>AL_O_quam_bonus</PS2><OF>OF_Benedic_anima_mea</OF><CO>CO_Magna_est_gloria_eius</CO></celebration>
+
+<celebration id='05-26'><tempus id='Extra T.Pascal' /><IN_>IN_Os_iusti</IN_><PS1>GR_Venite_filii</PS1><PS2>AL_O_quam_bonus</PS2><OF>OF_Benedic_anima_mea</OF><CO>CO_Magna_est_gloria_eius</CO></celebration>
+<celebration id='05-27'><IN_>IN_Sacerdotes_tui</IN_><PS1>GR_Sacerdotes_eius</PS1><PS2>AL_Iuravit_Dominus</PS2><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+<celebration id='05-31'><IN_>IN_Gaudeamus_Mariae</IN_><PS1>GR_Benedicta_et_venerabilis</PS1><PS2>AL_Felix_es_sacra_Virgo</PS2><OF>OF_Beata_es_Virgo_Maria</OF><CO>CO_Beatam_me_dicent</CO></celebration>
+
+<celebration id='06-01'><IN_>IN_Loquebar</IN_><PS1>GR_Os_iusti</PS1><PS2>AL_Qui_sequitur_me</PS2><OF>OF_Levabo_oculos_meos</OF><CO>CO_Quod_dico_vobis</CO></celebration>
+<celebration id='06-01'><tempus id='Temps Pascal' /><IN_>IN_Loquebar</IN_><PS1>GR_Os_iusti</PS1><PS2>AL_Qui_sequitur_me</PS2><OF>OF_Confitebuntur_caeli</OF><CO>CO_Laetabitur_iustus</CO></celebration>
+<celebration id='06-02'><IN_>IN_Clamaverunt_iusti</IN_><PS1>GR_Clamaverunt_iusti</PS1><PS2>AL_Ego_vos_elegi</PS2><OF>OF_Laetamini</OF><CO>CO_Iustorum_animae</CO></celebration>
+
+<celebration id='06-02'><tempus id='Temps Pascal' /><IN_>IN_Sancti_tui</IN_><PS2>AL_Ego_vos_elegi</PS2><OF>OF_Laetamini</OF><CO>CO_Gaudete_iusti</CO></celebration>
+<celebration id='06-03'><IN_>IN_Probasti_Domine</IN_><PS1>GR_Iustorum_animae</PS1><PS2>AL_Sancti_tui_florebunt</PS2><OF>OF_Iustorum_animae</OF><CO>CO_Et_si_coram_hominibus</CO></celebration>
+<celebration id='06-03'><tempus id='Temps Pascal' /><IN_>IN_Sancti_tui</IN_><PS2>AL_Ego_vos_elegi</PS2><OF>OF_Laetamini</OF><CO>CO_Gaudete_iusti</CO></celebration>
+<celebration id='06-05'><IN_>IN_Loquebar</IN_><PS1>GR_Venite_filii</PS1><PS2>AL_Inveni_David</PS2><OF>OF_Benedicam_Dominum</OF><CO>CO_Signa</CO></celebration>
+
+<celebration id='06-05'><tempus id='Temps Pascal' /><IN_>IN_Loquebar</IN_><PS1>GR_Venite_filii</PS1><PS2>AL_Inveni_David</PS2><OF>OF_Benedicam_Dominum</OF><CO>CO_Laetabitur_iustus</CO></celebration>
+<celebration id='06-06'><IN_>IN_Statuit_ei_Dominus</IN_><PS1>GR_Ecce_sacerdos</PS1><PS2>AL_Tu_es_sacerdos</PS2><OF>OF_Inveni_David</OF><CO>CO_Fidelis_servus</CO></celebration>
+<celebration id='06-09'><IN_>IN_Iustus_ut_palma</IN_><PS1>GR_Os_iusti</PS1><PS2>AL_Cantate_Domino</PS2><OF>OF_Bonum_est_confiteri</OF><CO>CO_Narrabo</CO></celebration>
+
+<celebration id='06-11'><IN_>IN_Mihi_autem_nimis</IN_><PS1>GR_In_omnem_terram</PS1><PS2>AL_Ego_vos_elegi</PS2><OF>OF_Constitues_eos</OF><CO>CO_Vos_qui_secuti_estis_me</CO></celebration>
+<celebration id='06-11'><tempus id='Temps Pascal' /><IN_>IN_Vocem_iucunditatis</IN_><PS2>AL_Ego_vos_elegi</PS2><OF>OF_Repleti_sumus</OF><CO>CO_Ego_vos_elegi</CO></celebration>
+<celebration id='06-13'><IN_>IN_Os_iusti</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Amavit_eum</PS2><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+
+<celebration id='06-19'><IN_>IN_Os_iusti</IN_><PS1>GR_Domine_praevenisti_eum</PS1><PS2>AL_Iustus_ut_palma</PS2><OF>OF_Desiderium_animae_eius</OF><CO>CO_Fidelis_servus</CO></celebration>
+<celebration id='06-21'><IN_>IN_Meditatio_cordis_mei</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Amavit_eum</PS2><OF>OF_Iustitiae_Domini</OF><CO>CO_Domine_quis_habitabit</CO></celebration>
+<celebration id='06-21'><IN_>IN_Meditatio_cordis_mei</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Amavit_eum</PS2><OF>OF_Iustitiae_Domini</OF><CO>CO_Panem_de_caelo</CO></celebration>
+
+<celebration id='06-22'><sanctus id='S. PAULINI NOLANI' /><IN_>IN_Sacerdotes_tui</IN_><PS1>GR_Ecce_sacerdos</PS1><PS2>AL_Tu_es_sacerdos</PS2><OF>OF_Inveni_David</OF><CO>CO_Fidelis_servus</CO></celebration>
+<celebration id='06-22'><sanctus id='SS. IOANNIS FISHER' /><IN_>IN_Multae_tribulationes</IN_><PS1>GR_Venite_filii</PS1><PS2>AL_Sancti_tui_benedicent</PS2><OF>OF_Mirabilis_Deus</OF><CO>CO_Iustorum_animae</CO></celebration>
+<celebration id='06-24-in-vigilia'><tempus id='Ad Missam in Vigilia' /><IN_>IN_Ne_timeas</IN_><PS1>GR_Fuit_homo</PS1><PS2>AL_Beatus_vir_qui_timet</PS2><OF>OF_Gloria_et_honore</OF><CO>CO_Magna_est_gloria_eius</CO></celebration>
+
+<celebration id='06-24-in-die'><tempus id='Ad Missam in Die' /><IN_>IN_De_ventre_matris_meae</IN_><PS1>GR_Priusquam_te_formarem</PS1><PS2>AL_Tu_puer</PS2><OF>OF_Iustus_ut_palma</OF><CO>CO_Tu_puer</CO></celebration>
+<celebration id='06-27'><IN_>IN_In_medio_Ecclesiae</IN_><PS1>GR_Os_iusti</PS1><PS2>AL_Iustus_germinabit</PS2><OF>OF_Iustus_ut_palma</OF><CO>CO_Qui_meditabitur</CO></celebration>
+<celebration id='06-28'><IN_>IN_Loquetur_Dominus_pacem</IN_><PS1>GR_Inveni_David</PS1><PS2>AL_Spiritus_Sanctus_docebit</PS2><OF>OF_Benedicam_Dominum</OF><CO>CO_Quod_dico_vobis</CO></celebration>
+
+<celebration id='06-29-in-vigilia'><tempus id='Ad Missam in Vigilia' /><IN_>IN_Dicit_Dominus_Petro</IN_><PS1>GR_In_omnem_terram</PS1><PS2>AL_Constitues_eos</PS2><OF>OF_Mihi_autem_nimis</OF><CO>CO_Simon_Ioannis</CO></celebration>
+<celebration id='06-29-in-die'><tempus id='Ad Missam in Die' /><IN_>IN_Nunc_scio_vere</IN_><PS1>GR_Constitues_eos</PS1><PS2>AL_Tu_es_Petrus</PS2><OF>OF_Constitues_eos</OF><CO>CO_Tu_es_Petrus</CO></celebration>
+<celebration id='06-30'><IN_>IN_Probasti_Domine</IN_><PS1>GR_Iustorum_animae</PS1><PS2>AL_Fulgebunt_iusti</PS2><OF>OF_Gloriabuntur</OF><CO>CO_Posuerunt</CO></celebration>
+
+<celebration id='06-30'><IN_>IN_Timete_Dominum</IN_><PS1>GR_Iustorum_animae</PS1><PS2>AL_Fulgebunt_iusti</PS2><OF>OF_Gloriabuntur</OF><CO>CO_Posuerunt</CO></celebration>
+<celebration id='07-03'><IN_>IN_Mihi_autem_nimis</IN_><PS1>GR_Nimis_honorati_sunt</PS1><PS2>AL_Gaudete_iusti</PS2><OF>OF_In_omnem_terram</OF><CO>CO_Mitte_manum_tuam_et_cognosce</CO></celebration>
+<celebration id='07-04'><IN_>IN_Cognovi_Domine</IN_><PS1>GR_Diffusa_est_gratia</PS1><PS2>AL_Specie_tua</PS2><OF>OF_Diffusa_est_gratia</OF><CO>CO_Dilexisti_iustitiam</CO></celebration>
+
+<celebration id='07-04'><IN_>IN_Dispersit_dedit_pauperibus</IN_><PS1>GR_Diffusa_est_gratia</PS1><PS2>AL_Specie_tua</PS2><OF>OF_Diffusa_est_gratia</OF><CO>CO_Dilexisti_iustitiam</CO></celebration>
+<celebration id='07-05'><IN_>IN_Os_iusti</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Beatus_vir_qui_timet</PS2><OF>OF_Mirabilis_Deus</OF><CO>CO_Domine_quis_habitabit</CO></celebration>
+<celebration id='07-06'><IN_>IN_Me_exspectaverunt</IN_><PS1>GR_Si_ambulem</PS1><PS2>AL_Laudate_pueri</PS2><OF>OF_In_te_speravi</OF><CO>CO_Domine_quis_habitabit</CO></celebration>
+
+<celebration id='07-11'><IN_>IN_Os_iusti</IN_><PS1>GR_Domine_praevenisti_eum</PS1><PS2>AL_Iustus_ut_palma</PS2><OF>OF_Desiderium_animae_eius</OF><CO>CO_Fidelis_servus</CO></celebration>
+<celebration id='07-13'><IN_>IN_In_virtute_tua_rex</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Beatus_vir_qui_suffert</PS2><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+<celebration id='07-14'><IN_>IN_Dispersit_dedit_pauperibus</IN_><PS1>GR_Os_iusti</PS1><PS2>AL_Beatus_vir_qui_timet</PS2><OF>OF_In_virtute_tua</OF><CO>CO_Amen_dico_vobis_quod_uni</CO></celebration>
+
+<celebration id='07-15'><IN_>IN_Meditatio_cordis_mei</IN_><PS1>GR_Sacerdotes_eius</PS1><PS2>AL_Iuravit_Dominus</PS2><OF>OF_Benedictus_es_in_labiis_meis</OF><CO>CO_Qui_meditabitur</CO></celebration>
+<celebration id='07-16'><IN_>IN_Vultum_tuum</IN_><PS1>GR_Benedicta_et_venerabilis</PS1><PS2>AL_Virga_Iesse</PS2><OF>OF_Recordare_Virgo_Mater</OF><CO>CO_Diffusa_est_gratia</CO></celebration>
+<celebration id='07-21'><IN_>IN_Lex_Domini</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Beatus_vir_qui_timet</PS2><OF>OF_Levabo_oculos_meos</OF><CO>CO_Qui_mihi_ministrat</CO></celebration>
+
+<celebration id='07-22'><IN_>IN_Tibi_dixit_cor_meum</IN_><PS1>GR_Audi_filia</PS1><PS2>AL_Surrexit_Dominus_de_sepulcro</PS2><OF>OF_Deus_Deus_meus</OF><CO>CO_Notas_mihi_fecisti</CO></celebration>
+<celebration id='07-23'><IN_>IN_Cognovi_Domine</IN_><PS1>GR_Diffusa_est_gratia</PS1><PS2>AL_Specie_tua</PS2><OF>OF_Diffusa_est_gratia</OF><CO>CO_Dilexisti_iustitiam</CO></celebration>
+<celebration id='07-25'><IN_>IN_Mihi_autem_nimis</IN_><PS1>GR_Constitues_eos</PS1><PS2>AL_Ego_vos_elegi</PS2><OF>OF_In_omnem_terram</OF><CO>CO_Ego_vos_elegi</CO></celebration>
+
+<celebration id='07-26'><IN_>IN_Sapientiam_sanctorum</IN_><PS1>GR_Exsultabunt_sancti</PS1><PS2>AL_O_Ioachim_sancte</PS2><OF>OF_Laetamini</OF><CO>CO_Ierusalem_surge</CO></celebration>
+<celebration id='07-29'><IN_>IN_Dilexisti</IN_><PS1>GR_Specie_tua</PS1><PS2>AL_Adducentur</PS2><OF>OF_Filiae_regum</OF><CO>CO_Quinque_prudentes_virgines</CO></celebration>
+<celebration id='07-30'><IN_>IN_Sacerdotes_eius</IN_><PS1>GR_Ecce_sacerdos</PS1><PS2>AL_Tu_es_sacerdos</PS2><OF>OF_Iustus_ut_palma</OF><CO>CO_Domine_quinque_talenta</CO></celebration>
+
+<celebration id='07-31'><IN_>IN_In_nomine_Iesu</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Beatus_vir_qui_suffert</PS2><OF>OF_Veritas_mea</OF><CO>CO_Qui_meditabitur</CO></celebration>
+<celebration id='08-01'><IN_>IN_Lex_Domini</IN_><PS1>GR_Beatus_vir_qui_timet</PS1><PS2>AL_Iuravit_Dominus</PS2><OF>OF_Inveni_David</OF><CO>CO_Iustus_Dominus</CO></celebration>
+<celebration id='08-02'><IN_>IN_Sacerdotes_Dei</IN_><PS1>GR_Ecce_sacerdos</PS1><PS2>AL_Tu_es_sacerdos</PS2><OF>OF_Inveni_David</OF><CO>CO_Fidelis_servus</CO></celebration>
+
+<celebration id='08-04'><IN_>IN_Os_iusti</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Beatus_vir_qui_suffert</PS2><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+<celebration id='08-04'><IN_>IN_Os_iusti</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Beatus_vir_qui_suffert</PS2><OF>OF_Veritas_mea</OF><CO>CO_Multitudo_languentium</CO></celebration>
+<celebration id='08-05'><tempus id='Annee A' /><IN_>IN_Salve_sancta_parens</IN_><PS1>GR_Diffusa_est_gratia</PS1><PS2>AL_Virga_Iesse</PS2><OF>OF_Ave_Maria</OF><CO>CO_Beata_viscera</CO></celebration>
+
+<celebration id='08-05'><tempus id='Annee B' /><IN_>IN_Vultum_tuum</IN_><PS1>GR_Audi_filia</PS1><PS2>AL_Specie_tua</PS2><OF>OF_Ave_Maria</OF><CO>CO_Diffusa_est_gratia</CO></celebration>
+<celebration id='08-05'><tempus id='Annee B' /><IN_>IN_Vultum_tuum</IN_><PS1>GR_Propter_veritatem</PS1><PS2>AL_Specie_tua</PS2><OF>OF_Beata_es_Virgo_Maria</OF><CO>CO_Diffusa_est_gratia</CO></celebration>
+<celebration id='08-05'><tempus id='Annee C' /><IN_>IN_Salve_sancta_parens</IN_><PS1>GR_Concupivit_rex</PS1><PS2>AL_Diffusa_est_gratia</PS2><OF>OF_Felix_namque_es</OF><CO>CO_Gloriosa</CO></celebration>
+
+<celebration id='08-06'><IN_>IN_Tibi_dixit_cor_meum</IN_><PS1>GR_Speciosus</PS1><PS2>AL_Candor_est_lucis_aeternae</PS2><OF>OF_Gloria_et_honore</OF><CO>CO_Visionem</CO></celebration>
+<celebration id='08-07'><sanctus id='S. CAIETANI' /><IN_>IN_Os_iusti</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Beatus_vir_qui_suffert</PS2><OF>OF_Veritas_mea</OF><CO>CO_Multitudo_languentium</CO></celebration>
+<celebration id='08-07'><sanctus id='SS. XYSTI II' /><IN_>IN_Sapientiam_sanctorum</IN_><PS1>GR_Anima_nostra</PS1><PS2>AL_Iusti_epulentur</PS2><OF>OF_Exsultabunt_sancti</OF><CO>CO_Dico_autem_vobis</CO></celebration>
+
+<celebration id='08-08'><IN_>IN_Os_iusti</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Iustus_germinabit</PS2><OF>OF_Veritas_mea</OF><CO>CO_Fidelis_servus</CO></celebration>
+<celebration id='08-10'><IN_>IN_Confessio</IN_><PS1>GR_Probasti_Domine</PS1><PS2>AL_Levita_Laurentius</PS2><OF>OF_Confessio</OF><CO>CO_Qui_mihi_ministrat</CO></celebration>
+<celebration id='08-10'><IN_>IN_Dispersit_dedit_pauperibus</IN_><PS1>GR_Probasti_Domine</PS1><PS2>AL_Levita_Laurentius</PS2><OF>OF_Oratio_mea</OF><CO>CO_Qui_mihi_ministrat</CO></celebration>
+
+<celebration id='08-11'><IN_>IN_Dilexisti</IN_><PS1>GR_Specie_tua</PS1><PS2>AL_Adducentur</PS2><OF>OF_Filiae_regum</OF><CO>CO_Quinque_prudentes_virgines</CO></celebration>
+<celebration id='08-13'><IN_>IN_Salus_autem</IN_><PS1>GR_Clamaverunt_iusti</PS1><PS2>AL_Te_martyrum</PS2><OF>OF_Iustorum_animae</OF><CO>CO_Quod_dico_vobis</CO></celebration>
+<celebration id='08-14'><IN_>IN_Sacerdotes_Dei</IN_><PS1>GR_Si_ambulem</PS1><PS2>AL_Beatus_vir_qui_suffert</PS2><OF>OF_Deus_Deus_meus</OF><CO>CO_Et_si_coram_hominibus</CO></celebration>
+
+<celebration id='08-15'><tempus id='Ad Missam in Vigilia' /><IN_>IN_Vultum_tuum</IN_><PS1>GR_Benedicta_et_venerabilis</PS1><PS2>AL_Felix_es_sacra_Virgo</PS2><OF>OF_Beata_es_Virgo_Maria</OF><CO>CO_Beata_viscera</CO></celebration>
+<celebration id='08-15'><tempus id='Ad Missam in Die' /><IN_>IN_Signum_magnum</IN_><PS1>GR_Audi_filia</PS1><PS2>AL_Assumpta_est_Maria</PS2><OF>OF_Assumpta_est_Maria</OF><CO>CO_Beatam_me_dicent</CO></celebration>
+<celebration id='08-15'><IN_>IN_Gaudeamus_Mariae</IN_><PS1>GR_Audi_filia</PS1><PS2>AL_Assumpta_est_Maria</PS2><OF>OF_Assumpta_est_Maria</OF><CO>CO_Beatam_me_dicent</CO></celebration>
+
+<celebration id='08-16'><IN_>IN_In_virtute_tua_rex</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Beatus_vir_qui_suffert</PS2><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+<celebration id='08-19'><IN_>IN_Os_iusti</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Beatus_vir_qui_suffert</PS2><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+<celebration id='08-20'><IN_>IN_Meditatio_cordis_mei</IN_><PS1>GR_Domine_praevenisti_eum</PS1><PS2>AL_Iustus_ut_palma</PS2><OF>OF_Iustitiae_Domini</OF><CO>CO_Gustate_et_videte</CO></celebration>
+
+<celebration id='08-21'><IN_>IN_Statuit_ei_Dominus</IN_><PS1>GR_Venite_filii</PS1><PS2>AL_Domine_dilexi</PS2><OF>OF_Benedicam_Dominum</OF><CO>CO_Manducaverunt</CO></celebration>
+<celebration id='08-21'><IN_>IN_Statuit_ei_Dominus</IN_><PS1>GR_Venite_filii</PS1><PS2>AL_Domine_dilexi</PS2><OF>OF_Benedicam_Dominum</OF><CO>CO_Qui_manducat</CO></celebration>
+<celebration id='08-22'><IN_>IN_Salve_sancta_parens</IN_><PS1>GR_Posuisti_Domine</PS1><PS2>AL_Posuisti_Domine</PS2><OF>OF_Afferentur_post_eam</OF><CO>CO_Diffusa_est_gratia</CO></celebration>
+
+<celebration id='08-22'><IN_>IN_Vultum_tuum</IN_><PS1>GR_Posuisti_Domine </PS1><PS2>AL_Posuisti_Domine</PS2><OF>OF_Afferentur_post_eam</OF><CO>CO_Diffusa_est_gratia</CO></celebration>
+<celebration id='08-23'><IN_>IN_Dilexisti</IN_><PS1>GR_Specie_tua</PS1><PS2>AL_Adducentur</PS2><OF>OF_Filiae_regum</OF><CO>CO_Quinque_prudentes_virgines</CO></celebration>
+<celebration id='08-24'><IN_>IN_Mihi_autem_nimis</IN_><PS1>GR_Constitues_eos</PS1><PS2>AL_Te_gloriosus</PS2><OF>OF_Mihi_autem_nimis</OF><CO>CO_Vos_qui_secuti_estis_me</CO></celebration>
+
+<celebration id='08-25'><sanctus id='S. LUDOVICI' /><IN_>IN_In_virtute_tua_rex</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Beatus_vir_qui_suffert</PS2><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+<celebration id='08-25'><sanctus id='S. IOSEPH DE CALASANZ' /><IN_>IN_Dispersit_dedit_pauperibus</IN_><PS1>GR_Os_iusti</PS1><PS2>AL_Beatus_vir_qui_suffert</PS2><OF>OF_In_virtute_tua</OF><CO>CO_Amen_dico_vobis_quod_uni</CO></celebration>
+<celebration id='08-27'><IN_>IN_Cognovi_Domine</IN_><PS1>GR_Diffusa_est_gratia</PS1><PS2>AL_Specie_tua</PS2><OF>OF_Diffusa_est_gratia</OF><CO>CO_Dilexisti_iustitiam</CO></celebration>
+
+<celebration id='08-28'><IN_>IN_In_medio_Ecclesiae</IN_><PS1>GR_Os_iusti</PS1><PS2>AL_Inveni_David</PS2><OF>OF_Iustus_ut_palma</OF><CO>CO_Fidelis_servus</CO></celebration>
+<celebration id='08-29'><IN_>IN_Loquebar</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Iustus_germinabit</PS2><OF>OF_In_virtute_tua</OF><CO>CO_Posuisti</CO></celebration>
+<celebration id='09-03'><IN_>IN_Sacerdotes_Dei</IN_><PS1>GR_Iuravit_Dominus</PS1><PS2>AL_Spiritus_Sanctus_docebit</PS2><OF>OF_Veritas_mea</OF><CO>CO_Fidelis_servus</CO></celebration>
+
+<celebration id='09-08'><IN_>IN_Gaudeamus_Mariae</IN_><PS1>GR_Benedicta_et_venerabilis</PS1><PS2>AL_Sollemnitas</PS2><OF>OF_Beata_es_Virgo_Maria</OF><CO>CO_Beatam_me_dicent</CO></celebration>
+<celebration id='09-13'><IN_>IN_In_medio_Ecclesiae</IN_><PS1>GR_Ecce_sacerdos</PS1><PS2>AL_Beatus_vir_qui_suffert</PS2><OF>OF_Iustus_ut_palma</OF><CO>CO_Fidelis_servus</CO></celebration>
+<celebration id='09-14'><IN_>IN_Nos_autem_gloriari</IN_><PS1>GR_Christus_factus_est</PS1><PS2>AL_Dulce_lignum</PS2><OF>OF_Protege_Domine</OF><CO>CO_Per_signum_crucis</CO></celebration>
+
+<celebration id='09-15'><IN_>IN_Stabant_iuxta_crucem</IN_><PS1>GR_Deus_vitam_meam</PS1><PS2>AL_Stabat_sancta_Maria</PS2><SEQ>SEQ_Stabat_Mater</SEQ><OF>OF_Recordare_Virgo_Mater</OF><CO>CO_Redime_me_Deus</CO></celebration>
+<celebration id='09-16'><IN_>IN_Clamaverunt_iusti</IN_><PS1>GR_Gloriosus_Deus</PS1><PS2>AL_Corpora_sanctorum</PS2><OF>OF_Mirabilis_Deus</OF><CO>CO_Et_si_coram_hominibus</CO></celebration>
+<celebration id='09-17'><IN_>IN_Lex_Domini</IN_><PS1>GR_Ecce_sacerdos</PS1><PS2>AL_Tu_es_sacerdos</PS2><OF>OF_Inveni_David</OF><CO>CO_Qui_meditabitur</CO></celebration>
+
+<celebration id='09-19'><IN_>IN_Statuit_ei_Dominus</IN_><PS1>GR_Inveni_David</PS1><PS2>AL_Tu_es_sacerdos</PS2><OF>OF_Exaltabo_te</OF><CO>CO_Semel_iuravi</CO></celebration>
+<celebration id='09-21'><IN_>IN_Os_iusti</IN_><PS1>GR_Beatus_vir_qui_timet</PS1><PS2>AL_Te_gloriosus</PS2><OF>OF_Posuisti</OF><CO>CO_Magna_est_gloria_eius</CO></celebration>
+<celebration id='09-26'><IN_>IN_Sapientiam_sanctorum</IN_><PS1>GR_Clamaverunt_iusti</PS1><PS2>AL_Haec_est_vera_fraternitas</PS2><OF>OF_Gloriabuntur</OF><CO>CO_Posuerunt</CO></celebration>
+
+<celebration id='09-27'><IN_>IN_Iustus_ut_palma</IN_><PS1>GR_Os_iusti</PS1><PS2>AL_Beatus_vir_qui_timet</PS2><OF>OF_In_virtute_tua</OF><CO>CO_Amen_dico_vobis_quod_vos</CO></celebration>
+<celebration id='09-28'><IN_>IN_In_virtute_tua_rex</IN_><PS1>GR_Beatus_vir_qui_timet</PS1><PS2>AL_Posuisti_Domine</PS2><OF>OF_Gloria_et_honore</OF><CO>CO_Qui_vult_venire</CO></celebration>
+<celebration id='09-29'><IN_>IN_Benedicite_Dominum</IN_><PS1>GR_Benedicite_Dominum</PS1><PS2>AL_Sancte_Michael</PS2><OF>OF_Stetit_angelus</OF><CO>CO_Benedicite_omnes_angeli</CO></celebration>
+
+<celebration id='08-29'><IN_>IN_Benedicite_Dominum</IN_><PS1>GR_Benedicite_Dominum</PS1><PS2>AL_Laudate_Deum</PS2><OF>OF_Stetit_angelus</OF><CO>CO_Benedicite_omnes_angeli</CO></celebration>
+<celebration id='09-30'><IN_>IN_In_medio_Ecclesiae</IN_><PS1>GR_Os_iusti</PS1><PS2>AL_Amavit_eum</PS2><OF>OF_Iustus_ut_palma</OF><CO>CO_Fidelis_servus</CO></celebration>
+<celebration id='10-01'><IN_>IN_Ego_autem_in_Domino_speravi</IN_><PS1>GR_Unam_petii</PS1><PS2>AL_Laudate_Dominum</PS2><OF>OF_Benedic_anima_mea</OF><CO>CO_Narrabo</CO></celebration>
+
+<celebration id='10-02'><IN_>IN_Benedicite_Dominum</IN_><PS1>GR_Angelis_suis</PS1><PS2>AL_Benedicite_Domino</PS2><OF>OF_Immittet_angelus</OF><CO>CO_Benedicite_omnes_angeli</CO></celebration>
+<celebration id='10-04'><IN_>IN_Nos_autem_gloriari</IN_><PS1>GR_Os_iusti</PS1><PS2>AL_Franciscus_pauper</PS2><OF>OF_Veritas_mea</OF><CO>CO_Fidelis_servus</CO></celebration>
+<celebration id='10-06'><IN_>IN_Os_iusti</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Beatus_vir_qui_suffert</PS2><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+
+<celebration id='10-07'><IN_>IN_Vultum_tuum</IN_><PS1>GR_Propter_veritatem</PS1><PS2>AL_Felix_es_sacra_Virgo</PS2><OF>OF_Ave_Maria</OF><CO>CO_Florete_flores</CO></celebration>
+<celebration id='10-07'><IN_>IN_Vultum_tuum</IN_><PS1>GR_Propter_veritatem</PS1><PS2>AL_Felix_es_sacra_Virgo</PS2><OF>OF_Ave_Maria</OF><CO>CO_Ecce_virgo</CO></celebration>
+<celebration id='10-09'><sanctus id='SS. DIONYSII' /><IN_>IN_Sapientiam_sanctorum</IN_><PS1>GR_Anima_nostra</PS1><PS2>AL_Iusti_epulentur</PS2><OF>OF_Exsultabunt_sancti</OF><CO>CO_Dico_autem_vobis</CO></celebration>
+
+<celebration id='10-09'><sanctus id='S. IOANNIS LEONARDI' /><IN_>IN_Ego_autem_sicut_oliva</IN_><PS1>GR_Ego_dixi_Domine</PS1><PS2>AL_Beatus_vir_qui_timet</PS2><OF>OF_In_virtute_tua</OF><CO>CO_Fidelis_servus</CO></celebration>
+<celebration id='10-14'><IN_>IN_Sacerdotes_Dei</IN_><PS1>GR_Inveni_David</PS1><PS2>AL_Amavit_eum</PS2><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+<celebration id='10-15'><IN_>IN_Dilexisti</IN_><PS1>GR_Specie_tua</PS1><PS2>AL_Adducentur</PS2><OF>OF_Filiae_regum</OF><CO>CO_Quinque_prudentes_virgines</CO></celebration>
+
+<celebration id='10-15'><IN_>IN_Sapientiam_sanctorum</IN_><PS1>GR_Venite_filii</PS1><PS2>AL_Paratum_cor_meum</PS2><OF>OF_Benedicam_Dominum</OF><CO>CO_Narrabo</CO></celebration>
+<celebration id='10-16'><sanctus id='S. HEDVIGIS' /><IN_>IN_Cognovi_Domine</IN_><PS1>GR_Diffusa_est_gratia</PS1><PS2>AL_Specie_tua</PS2><OF>OF_Diffusa_est_gratia</OF><CO>CO_Dilexisti_iustitiam</CO></celebration>
+<celebration id='10-16'><sanctus id='S. MARGARITAE MARIAE ALACOQUE' /><IN_>IN_Tibi_dixit_cor_meum</IN_><PS1>GR_Concupivit_rex</PS1><PS2>AL_Quinque_prudentes_virgines</PS2><OF>OF_Afferentur_proximae</OF><CO>CO_Simile_est_regnum_caelorum</CO></celebration>
+
+<celebration id='10-17'><IN_>IN_Nos_autem_gloriari</IN_><PS1>GR_Ecce_sacerdos</PS1><PS2>AL_Qui_sequitur_me</PS2><OF>OF_Gloria_et_honore</OF><CO>CO_Frumentum_Christi_sum</CO></celebration>
+<celebration id='10-18'><IN_>IN_Mihi_autem_nimis</IN_><PS1>GR_In_omnem_terram</PS1><PS2>AL_Ego_vos_elegi</PS2><OF>OF_Mihi_autem_nimis</OF><CO>CO_Vos_qui_secuti_estis_me</CO></celebration>
+<celebration id='10-19'><sanctus id='SS. IOANNIS DE BREBEUF ET ISAAC JOGUES ' /><IN_>IN_Clamaverunt_iusti</IN_><PS1>GR_Anima_nostra</PS1><PS2>AL_Confitemini_et_invocate</PS2><OF>OF_Laetamini</OF><CO>CO_Iustorum_animae</CO></celebration>
+
+<celebration id='10-19'><sanctus id='S. PAULI A CRUCE' /><IN_>IN_Ego_autem_cum_iustitia</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Beatus_vir_qui_suffert</PS2><OF>OF_In_te_speravi</OF><CO>CO_Qui_vult_venire</CO></celebration>
+<celebration id='10-23'><IN_>IN_Ego_autem_in_Domino_speravi</IN_><PS1>GR_Tu_es_Deus</PS1><PS2>AL_Qui_timent_Dominum</PS2><OF>OF_Factus_est_Dominus</OF><CO>CO_Dominus_firmamentum_meum</CO></celebration>
+<celebration id='10-24'><IN_>IN_Sacerdotes_tui</IN_><PS1>GR_Sacerdotes_eius</PS1><PS2>AL_Iuravit_Dominus</PS2><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+
+<celebration id='10-28'><IN_>IN_Iudicant_sancti</IN_><PS1>GR_Constitues_eos</PS1><PS2>AL_Nimis_honorati_sunt</PS2><OF>OF_In_omnem_terram</OF><CO>CO_Ego_vos_elegi</CO></celebration>
+<celebration id='11-01'><IN_>IN_Gaudeamus_Sanctorum_omnium</IN_><PS1>GR_Timete_Dominum</PS1><PS2>AL_Venite_ad_me</PS2><OF>OF_Iustorum_animae</OF><CO>CO_Beati_mundo_corde</CO></celebration>
+<celebration id='11-02'><IN_>IN_Requiem_aeternam</IN_><PS1>GR_Requiem_aeternam</PS1><PS2>TR_Absolve</PS2><SEQ>SEQ_Dies_irae</SEQ><OF>OF_Domine_Iesu_Christe</OF><CO>CO_Lux_aeterna</CO><autre1>AN_In_paradisum</autre1><autre2>AN_Chorus_angelorum</autre2><autre4>RESP_Subvenite_sanci_Dei</autre4><autre5>RESP_Libera_me_Domine</autre5></celebration>
+
+<celebration id='11-03'><IN_>IN_Dispersit_dedit_pauperibus</IN_><PS1>GR_Dispersit</PS1><PS2>AL_Mirabilis_Dominus</PS2><OF>OF_In_virtute_tua</OF><CO>CO_Amen_dico_vobis_quod_uni</CO></celebration>
+<celebration id='11-04'><IN_>IN_Statuit_ei_Dominus</IN_><PS1>GR_Ecce_sacerdos</PS1><PS2>AL_Tu_es_sacerdos</PS2><OF>OF_Inveni_David</OF><CO>CO_Fidelis_servus</CO></celebration>
+<celebration id='11-09'><IN_>IN_Deus_in_loco_sancto_suo</IN_><PS1>GR_Laetatus_sum</PS1><PS2>AL_Bene_fundata_est</PS2><OF>OF_Domine_Deus_in_simplicitate</OF><CO>CO_Ierusalem_quae_aedificatur</CO></celebration>
+
+<celebration id='11-10'><IN_>IN_In_medio_Ecclesiae</IN_><PS1>GR_Os_iusti</PS1><PS2>AL_Iustus_germinabit</PS2><OF>OF_Inveni_David</OF><CO>CO_Beatus_servus</CO></celebration>
+<celebration id='11-11'><IN_>IN_Statuit_ei_Dominus</IN_><PS1>GR_Ecce_sacerdos</PS1><PS2>AL_Beatus_vir_sanctus_Martinus</PS2><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+<celebration id='11-12'><IN_>IN_Sacerdotes_eius</IN_><PS1>GR_Inveni_David</PS1><PS2>AL_Hic_est_sacerdos</PS2><OF>OF_Gloria_et_honore</OF><CO>CO_Ego_sum_pastor_bonus</CO></celebration>
+
+<celebration id='11-15'><IN_>IN_Meditatio_cordis_mei</IN_><PS1>GR_Sacerdotes_eius</PS1><PS2>AL_Iuravit_Dominus</PS2><OF>OF_Levabo_oculos_meos</OF><CO>CO_Qui_meditabitur</CO></celebration>
+<celebration id='11-16'><sanctus id='S. MARGARITAE SCOTIAE' /><IN_>IN_Cognovi_Domine</IN_><PS1>GR_Diffusa_est_gratia</PS1><PS2>AL_Specie_tua</PS2><OF>OF_Diffusa_est_gratia</OF><CO>CO_Dilexisti_iustitiam</CO></celebration>
+<celebration id='11-16'><sanctus id='S. GERTRUDIS ' /><IN_>IN_Dilexisti</IN_><PS1>GR_Specie_tua</PS1><PS2>AL_Adducentur</PS2><OF>OF_Filiae_regum</OF><CO>CO_Quinque_prudentes_virgines</CO></celebration>
+
+<celebration id='11-17'><IN_>IN_Cognovi_Domine</IN_><PS1>GR_Specie_tua</PS1><PS2>AL_Adducentur</PS2><OF>OF_Filiae_regum</OF><CO>CO_Quinque_prudentes_virgines</CO></celebration>
+<celebration id='11-18'><IN_>IN_Sapientiam_sanctorum</IN_><PS1>GR_Iustorum_animae</PS1><PS2>AL_Constitues_eos</PS2><OF>OF_Exsultabunt_sancti</OF><CO>CO_Iustorum_animae</CO></celebration>
+<celebration id='11-21'><IN_>IN_Vultum_tuum</IN_><PS1>GR_Concupivit_rex</PS1><PS2>AL_Adorabo</PS2><OF>OF_Afferentur_post_eam</OF><CO>CO_Diffusa_est_gratia</CO></celebration>
+
+<celebration id='11-22'><IN_>IN_Loquebar</IN_><PS1>GR_Audi_filia</PS1><PS2>AL_Quinque_prudentes_virgines</PS2><OF>OF_Afferentur_proximae</OF><CO>CO_Confundantur_superbi</CO></celebration>
+<celebration id='11-23'><sanctus id='S. CLEMENTIS I' /><IN_>IN_Dicit_Dominus_Sermones_mei</IN_><PS1>GR_Iuravit_Dominus</PS1><PS2>AL_Hic_est_sacerdos</PS2><OF>OF_Veritas_mea</OF><CO>CO_Beatus_servus</CO></celebration>
+<celebration id='11-23'><sanctus id='S. COLUMBANI' /><IN_>IN_Loquebar</IN_><PS1>GR_Domine_praevenisti_eum</PS1><PS2>AL_Confitemini_et_invocate</PS2><OF>OF_Desiderium_animae_eius</OF><CO>CO_Fidelis_servus</CO></celebration>
+
+<celebration id='11-30'><IN_>IN_Dominus_secus_mare</IN_><PS1>GR_In_omnem_terram</PS1><PS2>AL_Dilexit_Andream</PS2><OF>OF_Mihi_autem_nimis</OF><CO>CO_Venite_post_me</CO></celebration>
+<celebration id='11-30'><IN_>IN_Dominus_secus_mare</IN_><PS1>GR_In_omnem_terram</PS1><PS2>AL_Dilexit_Andream</PS2><OF>OF_Mihi_autem_nimis</OF><CO>CO_Dicit_Andreas</CO></celebration>
+<celebration id='12-03'><IN_>IN_Loquebar</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Laudate_Dominum</PS2><OF>OF_Veritas_mea</OF><CO>CO_Signa</CO></celebration>
+
+<celebration id='12-04'><IN_>IN_Meditatio_cordis_mei</IN_><PS1>GR_Os_iusti</PS1><PS2>AL_Iustus_non_conturbabitur</PS2><OF>OF_Bonum_est_confiteri</OF><CO>CO_Narrabo</CO></celebration>
+<celebration id='12-06'><IN_>IN_Statuit_ei_Dominus</IN_><PS1>GR_Inveni_David</PS1><PS2>AL_Iustus_ut_palma</PS2><OF>OF_Veritas_mea</OF><CO>CO_Semel_iuravi</CO></celebration>
+<celebration id='12-07'><IN_>IN_In_medio_Ecclesiae</IN_><PS1>GR_Ecce_sacerdos</PS1><PS2>AL_Iuravit_Dominus</PS2><OF>OF_Veritas_mea</OF><CO>CO_Semel_iuravi</CO></celebration>
+
+<celebration id='12-08'><IN_>IN_Gaudens_gaudebo</IN_><PS1>GR_Benedicta_es_tu</PS1><PS2>AL_Tota_pulchra_es</PS2><OF>OF_Ave_Maria</OF><CO>CO_Gloriosa</CO></celebration>
+<celebration id='12-11'><IN_>IN_Sacerdotes_tui</IN_><PS1>GR_Ecce_sacerdos</PS1><PS2>AL_Tu_es_sacerdos</PS2><OF>OF_Inveni_David</OF><CO>CO_Domine_quinque_talenta</CO></celebration>
+<celebration id='12-12'><IN_>IN_Cognovi_Domine</IN_><PS1>GR_Diffusa_est_gratia</PS1><PS2>AL_Specie_tua</PS2><OF>OF_Diffusa_est_gratia</OF><CO>CO_Dilexisti_iustitiam</CO></celebration>
+
+<celebration id='12-13'><IN_>IN_Dilexisti</IN_><PS1>GR_Dilexisti</PS1><PS2>AL_Diffusa_est_gratia</PS2><OF>OF_Afferentur_proximae</OF><CO>CO_Principes</CO></celebration>
+<celebration id='12-14'><IN_>IN_Os_iusti</IN_><PS1>GR_Iustus_ut_palma</PS1><PS2>AL_Beatus_vir_qui_suffert</PS2><OF>OF_Veritas_mea</OF><CO>CO_Qui_vult_venire</CO></celebration>
+<celebration id='12-21'><IN_>IN_Lex_Domini</IN_><PS1>GR_Os_iusti</PS1><PS2>AL_Beatus_vir_qui_timet</PS2><OF>OF_Meditabor</OF><CO>CO_Quod_dico_vobis</CO></celebration>
+
+<celebration id='12-23'><IN_>IN_Dispersit_dedit_pauperibus</IN_><PS1>GR_Ego_dixi_Domine</PS1><PS2>AL_Beatus_vir_qui_timet</PS2><OF>OF_Veritas_mea</OF><CO>CO_Amen_dico_vobis_quod_uni</CO></celebration>
+<celebration id='12-26'><IN_>IN_Etenim_sederunt_principes</IN_><PS1>GR_Sederunt_principes</PS1><PS2>AL_Video_caelos_apertos</PS2><OF>OF_Elegerunt_Apostoli</OF><CO>CO_Video_caelos_apertos</CO></celebration>
+<celebration id='12-26'><IN_>IN_Etenim_sederunt_principes</IN_><PS1>GR_Sederunt_principes</PS1><PS2>AL_Video_caelos_apertos</PS2><OF>OF_In_virtute_tua</OF><CO>CO_Video_caelos_apertos</CO></celebration>
+
+<celebration id='12-28'><IN_>IN_Ex_ore_infantium</IN_><PS1>GR_Anima_nostra</PS1><PS2>AL_Laudate_pueri</PS2><OF>OF_Anima_nostra</OF><CO>CO_Vox_in_Rama</CO></celebration>
+<celebration id='12-29'><IN_>IN_Loquebar</IN_><PS1>GR_Ecce_sacerdos</PS1><PS2>AL_Ego_sum_pastor_bonus</PS2><OF>OF_Posuisti</OF><CO>CO_Servite_Domino</CO></celebration>
+<celebration id='12-31'><IN_>IN_Sacerdotes_tui</IN_><PS1>GR_Ecce_sacerdos</PS1><PS2>AL_Inveni_David</PS2><OF>OF_Inveni_David</OF><CO>CO_Beatus_servus</CO></celebration>
+
+</sanctoral_messe>

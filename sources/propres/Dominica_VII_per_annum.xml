@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica VII per annum</la>
+<fr>VII&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Diligite_inimicos_vestros"/>
+<magnificat1_B id="AN_Veniunt_ferentes_ad"/>
+<magnificat1_C id="AN_Prout_vultis_ut"/>
+<oratio id="COL_Praesta_quaesumus_omnipotens_Deus_ut_semper"/>
+<benedictus_A id="AN_Pater_vester_solem"/>
+<benedictus_B id="AN_Dixit_Iesus_Ut"/>
+<benedictus_C id="AN_Nolite_iudicare_ut"/>
+<magnificat2_A id="AN_Estote_vos_perfecti"/>
+<magnificat2_B id="AN_Tulit_paralyticus_lectum"/>
+<magnificat2_C id="AN_Dimittite_et_dimittemini;"/>
+</liturgia>

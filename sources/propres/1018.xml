@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 18 octobris</la>
+<fr>Le 18 octobre</fr>
+</jour>
+<intitule>
+<la>S. LUC&#xC6;, EVANGELIST&#xC6;</la>
+<fr>S. LUC, EVANGELISTE</fr>
+</intitule>
+<rang>
+<la>Festum</la>
+<fr>F&#xEA;te</fr>
+</rang>
+<ant_invit id="INV_Dominum_in_Evangelio"/>
+<HYMNUS_laudes id="hy_Plausibus_Luca_canimus_triumphum"/>
+<ant1 id="AN_Sapientiam_antiquorum_exquisierunt"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_In_fide_veritatis"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Collaudabunt_multi_sapientiam"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_1_Cor_15_1-2a._3-4"/>
+<RB_matin id="RB_Narraverunt_laudes_Domini_et_virtutes"/>
+<benedictus id="AN_Evangelium_Christi_tradens"/>
+<oratio id="COL_Domine_Deus_qui_beatum_Lucam_elegisti"/>
+<LB_3 id="LB_Rom_1_16-17"/>
+<RB_3 id="VERS_In_omnem_terram_exivit_sonus"/>
+<LB_6 id="LB_1_Th_2_2b-4a"/>
+<RB_6 id="VERS_Custodiebant_testimonia_Dei_alleluia_Et"/>
+<LB_9 id="LB_2_Tim_1_8b-9"/>
+<RB_9 id="VERS_Gaudete_et_exsultate_alleluia_Quia"/>
+<HYMNUS_vepres id="hy_Plausibus_Luca_canimus_triumphum"/>
+<ant7 id="AN_Evangelii_factus_sum"/>
+<ps7 id="ps115"/>
+<ant8 id="AN_Omnia_facio_propter"/>
+<ps8 id="ps125"/>
+<ant9 id="AN_Mihi_data_est"/>
+<ps9 id="NT4"/>
+<LB_soir id="LB_Col_1_3-6"/>
+<RB_soir id="RB_Annuntiate_inter_gentes_gloriam_Domini"/>
+<magnificat id="AN_Beatus_Evangelista_Lucas"/>
+<HYMNUS_lectures id="HY_O_vir_beate_Apostolis"/>
+<HYMNUS_lec_jour id=""/>
+</liturgia>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 27 septembris</la>
+<fr>Le 27 septembre</fr>
+</jour>
+<intitule>
+<la>S. VINCENTII DE PAUL, PRESBYTERI</la>
+<fr>S. VINCENT DE PAUL, PRETRE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Mirabilem_Deum_in"/>
+<HYMNUS_laudes id="hy_Iesu_corona_celsior"/>
+<LB_matin id="LB_Rom_12_1-2"/>
+<RB_matin id="RB_Lex_Dei_eius_In"/>
+<benedictus id="AN_Erat_Vincentius_consolator"/>
+<oratio id="COL_Deus_qui_ad_salutem_pauperum_et"/>
+<HYMNUS_vepres id="hy_Iesu_redemptor_omnium"/>
+<LB_soir id="LB_Rom_8_28-30"/>
+<RB_soir id="RB_Iustus_Dominus_Et_iustitiam"/>
+<magnificat id="AN_Quod_uni_ex"/>
+</liturgia>

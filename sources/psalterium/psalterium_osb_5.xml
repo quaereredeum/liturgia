@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<liturgia>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente>ps3</osb_vig_ps_attente>
+<osb_vig_ant1 id="AN_Liberasti_virgam"/>
+<osb_vig_ps1>ps73</osb_vig_ps1>
+<osb_vig_ant2 id="AN_Et_invocabimus"/>
+<osb_vig_ps2>ps74</osb_vig_ps2>
+<osb_vig_ant3 id="AN_Tu_es_Deus_qui_factis"/>
+<osb_vig_ps3>ps76</osb_vig_ps3>
+<osb_vig_ant4 id="AN_Inclinate_aurem"/>
+<osb_vig_ps4>ps77I</osb_vig_ps4>
+<osb_vig_ant5 id=""/>
+<osb_vig_ps5>ps77II</osb_vig_ps5>
+<osb_vig_ant6 id="AN_Propitius_esto"/>
+<osb_vig_ps6>ps78</osb_vig_ps6>
+<osb_vig_vers1 id="VERS_Fecit_mihi"/>
+<osb_vig_ben1>
+<la>In unit&#xE1;te Sancti Sp&#xED;ritus benedicat nos Pater et F&#xED;lius. R/. Amen.</la>
+<fr>Que le Seigneur tout puissant et mis&#xE9;ricordieux nous d&#xE9;livre des liens de nos p&#xE9;ch&#xE9;s. R/. Amen.</fr>
+</osb_vig_ben1>
+<osb_vig_ant7 id="AN_Alleluia_alleluia"/>
+<osb_vig_ps7>ps79</osb_vig_ps7>
+<osb_vig_ant8 id=""/>
+<osb_vig_ps8>ps80</osb_vig_ps8>
+<osb_vig_ant9 id=""/>
+<osb_vig_ps9>ps81</osb_vig_ps9>
+<osb_vig_ant10 id=""/>
+<osb_vig_ps10>ps82</osb_vig_ps10>
+<osb_vig_ant11 id=""/>
+<osb_vig_ps11>ps83</osb_vig_ps11>
+<osb_vig_ant12 id=""/>
+<osb_vig_ps12>ps84</osb_vig_ps12>
+<osb_vig_LB>LB_Rom8,18-21</osb_vig_LB>
+<osb_vig_RB>
+<la>V/. D&#xF3;mine ad quem &#xED;bimus. R/. Verba vitae aet&#xE9;rnae habes.</la>
+<fr>V/.Seigneur, &#xE0; qui irions-nous ?. R/. Tu as les paroles de la vie &#xE9;ternelle.</fr>
+</osb_vig_RB>
+</liturgia>

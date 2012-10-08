@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 22 augusti</la>
+<fr>Le 22 ao&#xFB;t</fr>
+</jour>
+<intitule>
+<la>BEAT&#xC6; MARI&#xC6; VIRGINIS REGIN&#xC6;</la>
+<fr>LA BIENHEUREUSE VIERGE MARIE, REINE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<preces id="BMV1"/>
+<ant_invit id="INV_Christum_regem_qui"/>
+<HYMNUS_laudes id="hy_O_quam_glorifica_luce_coruscas"/>
+<LB_matin id="LB_Cf._Is_61_10"/>
+<RB_matin id="RB_Elegit_eam_Dominus_Et"/>
+<benedictus id="AN_Regina_mundi_dignissima"/>
+<oratio id="COL_Deus_qui_Filii_tui_Genetricem_nostram"/>
+<HYMNUS_vesperas id="hy_Mole_gravati_criminum"/>
+<LB_soir id="LB_Gal_4_4-5"/>
+<RB_soir id="RB_Ave_Maria_gratia_plena;_"/>
+<magnificat id="AN_Beata_es_Maria"/>
+</liturgia>

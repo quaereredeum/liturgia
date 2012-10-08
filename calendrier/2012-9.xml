@@ -1,0 +1,632 @@
+<?xml version="1.0"?>
+<mois><ordo id="RE">
+		<jour date="20120901">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120902">
+		<intitule>
+		<la>Dominica XXII per annum</la>
+		<fr>XXII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120903">
+		<intitule>
+		<la>S. Gregorii Magni, papae et Ecclesiae doctoris</la>
+		<fr>St Gr&#xE9;goire le Grand, pape et docteur de l'Eglise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120904">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120905">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120906">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120907">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120908">
+		<intitule>
+		<la>In Nativitate B. Mariae Virginis</la>
+		<fr>Nativit&#xE9; de la bienheureuse Vierge Marie</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120909">
+		<intitule>
+		<la>Dominica XXIII per annum</la>
+		<fr>XXIII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120910">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120911">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120912">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120913">
+		<intitule>
+		<la>S. Ioannis Chrysostomi, episcopi et Ecclesiae doctoris</la>
+		<fr>St Jean Chrysostome, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120914">
+		<intitule>
+		<la>IN EXALTATIONE SANCTAE CRUCIS</la>
+		<fr>EXALTATION DE LA SAINTE CROIX</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120915">
+		<intitule>
+		<la>B. Mariae Virginis Perdolentis</la>
+		<fr>Bienheureuse Marie Vierge des Douleurs</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120916">
+		<intitule>
+		<la>Dominica XXIV per annum</la>
+		<fr>XXIV&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120917">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120918">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120919">
+		<intitule>
+		<la>S. Ianuarii, episcopi et martyris</la>
+		<fr>St Janvier, &#xE9;v&#xEA;que et martyr</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120920">
+		<intitule>
+		<la>Ss. Andreae Kim Tae-gon et Pauli Chong Ha-sang et sociorum, martyrum</la>
+		<fr>Sts Andr&#xE9; Kim Taegon, pr&#xEA;tre, Pauli Chong Ha-sang et leurs compagnons martyrs</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120921">
+		<intitule>
+		<la>S. Matthaei, apostoli et evangelistae</la>
+		<fr>St Matthieu, ap&#xF4;tre et &#xE9;vang&#xE9;liste</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120922">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120923">
+		<intitule>
+		<la>Dominica XXV per annum</la>
+		<fr>XXV&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120924">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120925">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120926">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120927">
+		<intitule>
+		<la>S. Vincentii de Paul, presbyteri</la>
+		<fr>St Vincent de Paul, pr&#xEA;tre</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120928">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120929">
+		<intitule>
+		<la>Ss. Michaelis, Gabrielis et Raphaelis, archangelorum</la>
+		<fr>St Michel, St Gabriel et St Rapha&#xEB;l, archanges</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120930">
+		<intitule>
+		<la>Dominica XXVI per annum</la>
+		<fr>XXVI&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour></ordo><ordo id="SWF">
+		<jour date="20120901">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120902">
+		<intitule>
+		<la>Dominica XXII per annum</la>
+		<fr>XXII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120903">
+		<intitule>
+		<la>S. Gregorii Magni, pape et Ecclesiae doctoris, O.N.</la>
+		<fr>St Gr&#xE9;goire le Grand, pape et docteur de l'Eglise, de N.O.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120904">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120905">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120906">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120907">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120908">
+		<intitule>
+		<la>In Nativitate B. Mariae Virginis</la>
+		<fr>Nativit&#xE9; de la bienheureuse Vierge Marie</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120909">
+		<intitule>
+		<la>Dominica XXIII per annum</la>
+		<fr>XXIII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120910">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120911">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120912">
+		<intitule>
+		<la>D&#xE9;dicace de l'&#xE9;glise abbatiale</la>
+		<fr>D&#xE9;dicace de l'&#xE9;glise abbatiale</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120913">
+		<intitule>
+		<la>S. Ioannis Chrysostomi, episcopi et Ecclesiae doctoris</la>
+		<fr>St Jean Chrysostome, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120914">
+		<intitule>
+		<la>IN EXALTATIONE SANCTAE CRUCIS</la>
+		<fr>EXALTATION DE LA SAINTE CROIX</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120915">
+		<intitule>
+		<la>B. Mariae Virginis Perdolentis</la>
+		<fr>Bienheureuse Marie Vierge des Douleurs</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120916">
+		<intitule>
+		<la>Dominica XXIV per annum</la>
+		<fr>XXIV&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120917">
+		<intitule>
+		<la>Hildegarde</la>
+		<fr>Hildegarde</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120918">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120919">
+		<intitule>
+		<la>S. Ianuarii, episcopi et martyris</la>
+		<fr>St Janvier, &#xE9;v&#xEA;que et martyr</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120920">
+		<intitule>
+		<la>Ss. Andreae Kim Tae-gon et Pauli Chong Ha-sang et sociorum, martyrum</la>
+		<fr>Sts Andr&#xE9; Kim Taegon, pr&#xEA;tre, Pauli Chong Ha-sang et leurs compagnons martyrs</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120921">
+		<intitule>
+		<la>S. Matthaei, apostoli et evangelistae</la>
+		<fr>St Matthieu, ap&#xF4;tre et &#xE9;vang&#xE9;liste</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120922">
+		<intitule>
+		<la>Maurice et compagnons</la>
+		<fr>Maurice et compagnons</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120923">
+		<intitule>
+		<la>Dominica XXV per annum</la>
+		<fr>XXV&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120924">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120925">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120926">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120927">
+		<intitule>
+		<la>S. Vincentii de Paul, presbyteri</la>
+		<fr>St Vincent de Paul, pr&#xEA;tre</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120928">
+		<intitule>
+		<la>S. Laurentii Ruiz et sociorum, martyrum</la>
+		<fr>St Laurent Ruiz et ses compagnons martyrs</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120929">
+		<intitule>
+		<la>Ss. Michaelis et omnium angelorum</la>
+		<fr>St Michel et tous les anges</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120930">
+		<intitule>
+		<la>Dominica XXVI per annum</la>
+		<fr>XXVI&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour></ordo><ordo id="SMK">
+		<jour date="20120901">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120902">
+		<intitule>
+		<la>Dominica XXII per annum</la>
+		<fr>XXII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120903">
+		<intitule>
+		<la>S. Gregorii Magni, pape et Ecclesiae doctoris, O.N.</la>
+		<fr>St Gr&#xE9;goire le Grand, pape et docteur de l'Eglise, de N.O.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120904">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120905">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120906">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120907">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120908">
+		<intitule>
+		<la>In Nativitate B. Mariae Virginis</la>
+		<fr>Nativit&#xE9; de la bienheureuse Vierge Marie</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120909">
+		<intitule>
+		<la>Dominica XXIII per annum</la>
+		<fr>XXIII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120910">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120911">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120912">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120913">
+		<intitule>
+		<la>S. Ioannis Chrysostomi, episcopi et Ecclesiae doctoris</la>
+		<fr>St Jean Chrysostome, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120914">
+		<intitule>
+		<la>IN EXALTATIONE SANCTAE CRUCIS</la>
+		<fr>EXALTATION DE LA SAINTE CROIX</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120915">
+		<intitule>
+		<la>B. Mariae Virginis Perdolentis</la>
+		<fr>Bienheureuse Marie Vierge des Douleurs</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120916">
+		<intitule>
+		<la>Dominica XXIV per annum</la>
+		<fr>XXIV&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120917">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120918">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120919">
+		<intitule>
+		<la>S. Ianuarii, episcopi et martyris</la>
+		<fr>St Janvier, &#xE9;v&#xEA;que et martyr</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120920">
+		<intitule>
+		<la>Ss. Andreae Kim Tae-gon et Pauli Chong Ha-sang et sociorum, martyrum</la>
+		<fr>Sts Andr&#xE9; Kim Taegon, pr&#xEA;tre, Pauli Chong Ha-sang et leurs compagnons martyrs</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120921">
+		<intitule>
+		<la>S. Matthaei, apostoli et evangelistae</la>
+		<fr>St Matthieu, ap&#xF4;tre et &#xE9;vang&#xE9;liste</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120922">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120923">
+		<intitule>
+		<la>Dominica XXV per annum</la>
+		<fr>XXV&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120924">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120925">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120926">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120927">
+		<intitule>
+		<la>S. Vincentii de Paul, presbyteri</la>
+		<fr>St Vincent de Paul, pr&#xEA;tre</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120928">
+		<intitule>
+		<la>S. Laurentii Ruiz et sociorum, martyrum</la>
+		<fr>St Laurent Ruiz et ses compagnons martyrs</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120929">
+		<intitule>
+		<la>Ss. Michaelis et omnium angelorum</la>
+		<fr>St Michel et tous les anges</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120930">
+		<intitule>
+		<la>Dominica XXVI per annum</la>
+		<fr>XXVI&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour></ordo></mois>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Dominum_cui_ministrant"/>
+<jour>
+<la>Die 2 octobris.</la>
+<fr>Le 2 octobre</fr>
+</jour>
+<intitule>
+<la>SS. ANGELORUM CUSTODUM. </la>
+<fr>Sts ANGES GARDIENS.</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<HYMNUS_laudes id="hy_Orbis_patrator_optime"/>
+<ant1 id="AN_Dominus_mittet_angelum"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Benedictus_Deus_qui"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Angeli_et_omnes"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Ex_23_20-21a"/>
+<RB_matin id="RB_In_conspectu_angelorum_Psallam"/>
+<benedictus id="AN_Omnes_sunt_administratorii"/>
+<oratio id="COL_Deus_qui_ineffabili_providentia_sanctos_angelos"/>
+<LB_3 id="LB_Act_5_17-20"/>
+<RB_3 id="VERS_In_conspectu_angelorum_psallam_tibi"/>
+<LB_6 id="LB_Act_12_7"/>
+<RB_6 id="VERS_Misit_Dominus_angelum_suum"/>
+<LB_9 id="LB_Act_10_3-5"/>
+<RB_9 id="VERS_Ascendit_fumus_incensorum_de_orationibus"/>
+<HYMNUS_vepres id="hy_Custodes_hominum_psallimus_angelos"/>
+<ant7 id="AN_Vallabit_angelus_Domini"/>
+<ps7 id="ps33I"/>
+<ant8 id="AN_Vivit_Dominus_quoniam"/>
+<ps8 id="ps33II"/>
+<ant9 id="AN_Benedicite_Deum_caeli"/>
+<ps9 id="NT10"/>
+<LB_soir id="LB_Ap_8_3-4"/>
+<RB_soir id="RB_Angelis_suis_Deus_mandavit"/>
+<magnificat id="AN_Angeli_eorum_semper"/>
+</liturgia>

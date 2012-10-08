@@ -1,0 +1,679 @@
+<?xml version="1.0"?>
+<calendarium><ordo id="RE"><messe>07-22</messe><priorite>10</priorite><pV/><couleur>Blanc</couleur><reference>S. Mariae Magdalenae</reference><sanctoral><la>S. Mariae Magdalenae</la><fr>Ste Marie-Madeleine</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XVI per annum</la><fr>XVI&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. Mariae Magdalenae</la><fr>Ste Marie-Madeleine</fr></intitule><rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang><hebdomada_psalterium>4</hebdomada_psalterium><phase_lunaire>98,97</phase_lunaire><age_lunaire>13</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_42</psautier>
+		<psalterium>psalterium_42</psalterium>
+		<ferie>perannum_42</ferie>
+		<special/>
+		<propre>0722</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_42</psautier>
+		<psalterium>psalterium_42</psalterium>
+		<ferie>perannum_42</ferie>
+		<special/>
+		<propre>0722</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. MARI&#xC6; MAGDALEN&#xC6;"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Ipsum_nunc_nobis_tempus_est</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Vita_sanctorum_via_spes_salusque</HYMNUS_lec_jour>
+<antL1 id="HY_Vita_sanctorum_via_spes_salusque"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Rectos_decet</Vant1>
+<Vps1>ps32</Vps1>
+<Vant2>AN_Immitet_angelus</Vant2>
+<Vps2>ps33</Vps2>
+<Vant3>AN_Expugna_impugnantes</Vant3>
+<Vps3>ps34</Vps3>
+<Vant4>AN_Revela_Domino</Vant4>
+<Vps4>ps36I</Vps4>
+<Vant5>AN_Custodi_innocentiam</Vant5>
+<Vps5>ps36II</Vps5>
+<Vant6>AN_Ne_in_ira</Vant6>
+<Vps6>ps37</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia_alleluia</Vant7>
+<Vps7>ps38</Vps7>
+<Vant8/>
+<Vps8>ps39</Vps8>
+<Vant9/>
+<Vps9>ps40</Vps9>
+<Vant10/>
+<Vps10>ps41</Vps10>
+<Vant11/>
+<Vps11>ps43</Vps11>
+<Vant12/>
+<Vps12>ps44</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Aurora_surgit_lucida</HYMNUS_laudes>
+<ant1>AN_Una_sabbati_Maria</ant1>
+<ps1>ps62</ps1>
+<ant2>AN_Ardens_est_cor</ant2>
+<ps2>AT41</ps2>
+<ant3>AN_Dum_fleret_Maria</ant3>
+<ps3>ps149</ps3>
+<LB_matin>LB_Rom_12_1-2</LB_matin> 
+<RB_matin>RB_Maria_noli_iam_flere_</RB_matin> <benedictus>AN_Surgens_Iesus</benedictus><laudes_preces>perannum_42</laudes_preces><oratio_laudes>COL_Deus_cuius_Unigenitus_Mariae_Magdalenae_ante</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Gressus_meos_dirige</ant4>
+<ps4>ps118XVII</ps4>
+<ant5>AN_Unus_est_legislator</ant5>
+<ps5>ps81</ps5>
+<ant6>AN_Clamavi_et_Dominus</ant6>
+<ps6>ps119</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. MARI&#xC6; MAGDALEN&#xC6;</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Luminis_fons_lux_et_origo_lucis</HYMNUS_vepres>
+<ant7>AN_Dicit_Iesus_Mariae</ant7>
+<ps7>ps121</ps7>
+<ant8>AN_Tulerunt_Dominum_meum</ant8>
+<ps8>ps126</ps8>
+<ant9>AN_Dicit_Iesus_Maria.</ant9>
+<ps9>NT4</ps9>
+<LB_soir>LB_Rom_8_28-30</LB_soir>
+<RB_soir>RB_Maria_noli_iam_flere_</RB_soir>
+<magnificat>AN_Venit_Maria_nuntians</magnificat>
+<vepres_preces>perannum_42</vepres_preces>
+<oratio_vepres>COL_Deus_cuius_Unigenitus_Mariae_Magdalenae_ante</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+<comp_ps1>ps85</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="07-22">
+<IN>IN_Tibi_dixit_cor_meum</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_cuius_Unigenitus_Mariae_Magdalenae_ante</COL>
+<LEC1>07-22</LEC1>	
+<PS1>GR_Audi_filia</PS1>
+<LEC2/>
+<PS2>AL_Surrexit_Dominus_de_sepulcro</PS2>
+<SEQ/>
+<EV>EV_07-22</EV>
+<OF>OF_Deus_Deus_meus</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Notas_mihi_fecisti</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SWF"><messe>07-22</messe><priorite>1</priorite><pV>1</pV><couleur>Blanc</couleur><reference>S. Wandrille</reference><sanctoral><la>S. Wandrille</la><fr>S. Wandrille</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XVI per annum</la><fr>XVI&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. Wandrille</la><fr>S. Wandrille</fr></intitule><rang><la>Sollemnitas</la><fr>Solennit&#xE9;</fr></rang><hebdomada_psalterium>4</hebdomada_psalterium><phase_lunaire>98,97</phase_lunaire><age_lunaire>13</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_42</psautier>
+		<psalterium>psalterium_42</psalterium>
+		<ferie>perannum_42</ferie>
+		<special/>
+		<propre>0722</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_42</psautier>
+		<psalterium>psalterium_42</psalterium>
+		<ferie>perannum_42</ferie>
+		<special/>
+		<propre>0722</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. MARI&#xC6; MAGDALEN&#xC6;"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Ipsum_nunc_nobis_tempus_est</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Vita_sanctorum_via_spes_salusque</HYMNUS_lec_jour>
+<antL1 id="HY_Vita_sanctorum_via_spes_salusque"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Rectos_decet</Vant1>
+<Vps1>ps32</Vps1>
+<Vant2>AN_Immitet_angelus</Vant2>
+<Vps2>ps33</Vps2>
+<Vant3>AN_Expugna_impugnantes</Vant3>
+<Vps3>ps34</Vps3>
+<Vant4>AN_Revela_Domino</Vant4>
+<Vps4>ps36I</Vps4>
+<Vant5>AN_Custodi_innocentiam</Vant5>
+<Vps5>ps36II</Vps5>
+<Vant6>AN_Ne_in_ira</Vant6>
+<Vps6>ps37</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia_alleluia</Vant7>
+<Vps7>ps38</Vps7>
+<Vant8/>
+<Vps8>ps39</Vps8>
+<Vant9/>
+<Vps9>ps40</Vps9>
+<Vant10/>
+<Vps10>ps41</Vps10>
+<Vant11/>
+<Vps11>ps43</Vps11>
+<Vant12/>
+<Vps12>ps44</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Aurora_surgit_lucida</HYMNUS_laudes>
+<ant1>AN_Una_sabbati_Maria</ant1>
+<ps1>ps62</ps1>
+<ant2>AN_Ardens_est_cor</ant2>
+<ps2>AT41</ps2>
+<ant3>AN_Dum_fleret_Maria</ant3>
+<ps3>ps149</ps3>
+<LB_matin>LB_Rom_12_1-2</LB_matin> 
+<RB_matin>RB_Maria_noli_iam_flere_</RB_matin> <benedictus>AN_Surgens_Iesus</benedictus><laudes_preces>perannum_42</laudes_preces><oratio_laudes>COL_Deus_cuius_Unigenitus_Mariae_Magdalenae_ante</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Gressus_meos_dirige</ant4>
+<ps4>ps118XVII</ps4>
+<ant5>AN_Unus_est_legislator</ant5>
+<ps5>ps81</ps5>
+<ant6>AN_Clamavi_et_Dominus</ant6>
+<ps6>ps119</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. Wandrille</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la>Ad II Vesperas</la></office_soir>
+<HYMNUS_vepres>hy_Luminis_fons_lux_et_origo_lucis</HYMNUS_vepres>
+<ant7>AN_Dicit_Iesus_Mariae</ant7>
+<ps7>ps121</ps7>
+<ant8>AN_Tulerunt_Dominum_meum</ant8>
+<ps8>ps126</ps8>
+<ant9>AN_Dicit_Iesus_Maria.</ant9>
+<ps9>NT4</ps9>
+<LB_soir>LB_Rom_8_28-30</LB_soir>
+<RB_soir>RB_Maria_noli_iam_flere_</RB_soir>
+<magnificat>AN_Venit_Maria_nuntians</magnificat>
+<vepres_preces>perannum_42</vepres_preces>
+<oratio_vepres>COL_Deus_cuius_Unigenitus_Mariae_Magdalenae_ante</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+<comp_ps1>ps85</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="07-22">
+<IN>IN_Tibi_dixit_cor_meum</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_cuius_Unigenitus_Mariae_Magdalenae_ante</COL>
+<LEC1>07-22</LEC1>	
+<PS1>GR_Audi_filia</PS1>
+<LEC2>07-22</LEC2>
+<PS2>AL_Surrexit_Dominus_de_sepulcro</PS2>
+<SEQ/>
+<EV>EV_07-22</EV>
+<OF>OF_Deus_Deus_meus</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Notas_mihi_fecisti</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SMK"><messe>07-22</messe><priorite>10</priorite><pV/><couleur>Blanc</couleur><reference>S. Mariae Magdalenae</reference><sanctoral><la>S. Mariae Magdalenae</la><fr>Ste Marie-Madeleine</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XVI per annum</la><fr>XVI&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. Mariae Magdalenae</la><fr>Ste Marie-Madeleine</fr></intitule><rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang><hebdomada_psalterium>4</hebdomada_psalterium><phase_lunaire>98,97</phase_lunaire><age_lunaire>13</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_42</psautier>
+		<psalterium>psalterium_42</psalterium>
+		<ferie>perannum_42</ferie>
+		<special/>
+		<propre>0722</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_42</psautier>
+		<psalterium>psalterium_42</psalterium>
+		<ferie>perannum_42</ferie>
+		<special/>
+		<propre>0722</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. MARI&#xC6; MAGDALEN&#xC6;"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Ipsum_nunc_nobis_tempus_est</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Vita_sanctorum_via_spes_salusque</HYMNUS_lec_jour>
+<antL1 id="HY_Vita_sanctorum_via_spes_salusque"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Rectos_decet</Vant1>
+<Vps1>ps32</Vps1>
+<Vant2>AN_Immitet_angelus</Vant2>
+<Vps2>ps33</Vps2>
+<Vant3>AN_Expugna_impugnantes</Vant3>
+<Vps3>ps34</Vps3>
+<Vant4>AN_Revela_Domino</Vant4>
+<Vps4>ps36I</Vps4>
+<Vant5>AN_Custodi_innocentiam</Vant5>
+<Vps5>ps36II</Vps5>
+<Vant6>AN_Ne_in_ira</Vant6>
+<Vps6>ps37</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia_alleluia</Vant7>
+<Vps7>ps38</Vps7>
+<Vant8/>
+<Vps8>ps39</Vps8>
+<Vant9/>
+<Vps9>ps40</Vps9>
+<Vant10/>
+<Vps10>ps41</Vps10>
+<Vant11/>
+<Vps11>ps43</Vps11>
+<Vant12/>
+<Vps12>ps44</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Aurora_surgit_lucida</HYMNUS_laudes>
+<ant1>AN_Una_sabbati_Maria</ant1>
+<ps1>ps62</ps1>
+<ant2>AN_Ardens_est_cor</ant2>
+<ps2>AT41</ps2>
+<ant3>AN_Dum_fleret_Maria</ant3>
+<ps3>ps149</ps3>
+<LB_matin>LB_Rom_12_1-2</LB_matin> 
+<RB_matin>RB_Maria_noli_iam_flere_</RB_matin> <benedictus>AN_Surgens_Iesus</benedictus><laudes_preces>perannum_42</laudes_preces><oratio_laudes>COL_Deus_cuius_Unigenitus_Mariae_Magdalenae_ante</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Gressus_meos_dirige</ant4>
+<ps4>ps118XVII</ps4>
+<ant5>AN_Unus_est_legislator</ant5>
+<ps5>ps81</ps5>
+<ant6>AN_Clamavi_et_Dominus</ant6>
+<ps6>ps119</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. MARI&#xC6; MAGDALEN&#xC6;</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la>Ad II Vesperas</la></office_soir>
+<HYMNUS_vepres>hy_Luminis_fons_lux_et_origo_lucis</HYMNUS_vepres>
+<ant7>AN_Dicit_Iesus_Mariae</ant7>
+<ps7>ps121</ps7>
+<ant8>AN_Tulerunt_Dominum_meum</ant8>
+<ps8>ps126</ps8>
+<ant9>AN_Dicit_Iesus_Maria.</ant9>
+<ps9>NT4</ps9>
+<LB_soir>LB_Rom_8_28-30</LB_soir>
+<RB_soir>RB_Maria_noli_iam_flere_</RB_soir>
+<magnificat>AN_Venit_Maria_nuntians</magnificat>
+<vepres_preces>perannum_42</vepres_preces>
+<oratio_vepres>COL_Deus_cuius_Unigenitus_Mariae_Magdalenae_ante</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+<comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
+<comp_ps1>ps85</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Th_5_9-10</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="07-22">
+<IN>IN_Tibi_dixit_cor_meum</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_cuius_Unigenitus_Mariae_Magdalenae_ante</COL>
+<LEC1>07-22</LEC1>	
+<PS1>GR_Audi_filia</PS1>
+<LEC2/>
+<PS2>AL_Surrexit_Dominus_de_sepulcro</PS2>
+<SEQ/>
+<EV>EV_07-22</EV>
+<OF>OF_Deus_Deus_meus</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Notas_mihi_fecisti</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><viergemarie>
+ <intitule> </intitule></viergemarie><jerusalem/><piete>
+ <intitule/></piete><calendriercivil>
+ <intitule/></calendriercivil><journeesdediees>
+ <intitule/></journeesdediees><biographie>
+ <intitule>Ste Marie-Madeleine</intitule>
+ <biographiecourte>Disciple du Seigneur, elle fut la premi&#xE8;re &#xE0; annoncer sa R&#xE9;surrection </biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie><martyrologe><para id="0">A Lisbonne au Portugal, en 1619, saint Laurent de Brindisi. Ministre g&#xE9;n&#xE9;ral des Fr&#xE8;res Mineurs Capucins, il pr&#xEA;cha de nombreuses missions dans toute l'Europe, face au juda&#xEF;sme et &#xE0; l'Islam. </para><para id="1">M&#xE9;moire du proph&#xE8;te Daniel. Il s'effor&#xE7;a de rendre l'espoir aux d&#xE9;port&#xE9;s, rappelant que tous les &#xE9;v&#xE9;nements sont dans la main du Seigneur et que le monde va vers la r&#xE9;alisation du Royaume de Dieu.</para><para id="2">Au iiie si&#xE8;cle, &#xE0; Marseille, saint Victor, martyr. Officier militaire, apr&#xE8;s divers tourments, il p&#xE9;rit &#xE9;cras&#xE9; sous une meule de moulin. Au si&#xE8;cle suivant, un monast&#xE8;re fut b&#xE2;ti sur sa tombe. Saint Victor est patron de la ville de Marseille.</para><para id="3">Au ive si&#xE8;cle, saint Jean, moine, qui v&#xE9;cut dans la pri&#xE8;re et la p&#xE9;nitence, au d&#xE9;sert de Syrie.</para><para id="4">Au vie si&#xE8;cle, saint Arbogast, ermite originaire de l'Aquitaine qui, devenu &#xE9;v&#xEA;que de Strasbourg, construisit la cath&#xE9;drale Notre-Dame, puis un monast&#xE8;re d&#xE9;di&#xE9; &#xE0; saint Martin.</para><para id="5">A la m&#xEA;me &#xE9;poque, saint Rorice, &#xE9;v&#xEA;que de Limoges. Il voyageait peu, mais travaillait beaucoup. Il est estim&#xE9; pour sa science des P&#xE8;res de l'&#xC9;glise.</para><para id="6">A &#xC9;vreux, au viie si&#xE8;cle, l'&#xE9;v&#xEA;que saint &#xC9;terne.</para></martyrologe></calendarium>

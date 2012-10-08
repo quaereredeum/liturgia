@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 21 augusti</la>
+<fr>Le 21 ao&#xFB;t</fr>
+</jour>
+<intitule>
+<la>S. PII X, PAP&#xC6;</la>
+<fr>S. PIE X, PAPE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<preces id="pastorum"/>
+<ant_invit id="INV_Christum_pastorum_principem"/>
+<HYMNUS_laudes id="hy_Inclitus_rector_pater_atque_prudens"/>
+<LB_matin id="LB_Hebr_13_7-9a"/>
+<RB_matin id="RB_Super_te_Ierusalem_Constitui"/>
+<benedictus id="AN_Non_vos_estis"/>
+<oratio id="COL_Deus_qui_ad_tuendam_catholicam_fidem"/>
+<HYMNUS_vesperas id="hy_Vir_celse_forma_fulgida"/>
+<LB_soir id="LB_1_Petr_5_1-4"/>
+<RB_soir id="RB_Hic_est_fratrum_amator_"/>
+<magnificat id="AN_Gratias_tibi_ago"/>
+</liturgia>

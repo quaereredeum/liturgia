@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>HEBDOMADA SANCTA - Feria quinta</la>
+<fr>SEMAINE SAINTE - Le jeudi</fr>
+</intitule>
+<ant_invit id="INV_Christum_Dominum_pro"/>
+<HYMNUS_laudes id="hy_En_acetum_fel_arundo"/>
+<ant1 id="AN_Vide_Domine_et"/>
+<ant2 id="AN_Ecce_Deus_salvator"/>
+<ant3 id="AN_Cibavit_nos_Dominus"/>
+<LB_matin id="LB_Hebr_2_9b-10"/>
+<RB_matin id="RB_Redemisti_nos_Domine_In"/>
+<benedictus id="AN_Desiderio_desideravi_hoc"/>
+<oratio id="COL_Deus_quem_diligere_et_amare_iustitia"/>
+<HYMNUS_tertiam id="hy_Dei_fide_qua_vivimus"/>
+<HYMNUS_sextam id="hy_Qua_Christus_hora_sitiit"/>
+<HYMNUS_nonam id="hy_Ternis_ter_horis_numerus"/>
+<ant4 id="AN_Ante_diem_festum"/>
+<ant5 id="AN_Sicut_novit_me"/>
+<ant6 id="AN_Mihi_vivere_Christus"/>
+<LB_3 id="LB_Hebr_4_14-15"/>
+<RB_3 id="VERS_Oblatus_est_quia_ipse_voluit"/>
+<LB_6 id="LB_Hebr_7_26-27"/>
+<RB_6 id="VERS_Vere_languores_nostros_ipse_tulit"/>
+<LB_9 id="LB_Hebr_9_11-12"/>
+<RB_9 id="VERS_Adoremus_crucis_signaculum_Per"/>
+<HYMNUS_vesperas id="hy_O_memoriale_mortis_Domini"/>
+<ant7 id="AN_Fecit_nos_Deo"/>
+<ant8 id="AN_Liberabit_Dominus_pauperem"/>
+<ant9 id="AN_Sancti_vicerunt_propter"/>
+<LB_soir id="LB_Hebr_13_12-15"/>
+<RB_soir id="RB_Christus_factus_est_pro_nobis_oboediens"/>
+<magnificat id="AN_Cenantibus_illis_accepit"/>
+<oratio_vesperas id="COL_Deus_qui_ad_gloriam_tuam_et"/>
+</liturgia>

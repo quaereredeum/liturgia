@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<liturgia>
+ <osb_vig_ant1 id="AN_Novit_Dominus_"/>
+<osb_vig_ps1>
+<la>ps1</la>
+</osb_vig_ps1>
+<osb_vig_ant2 id="AN_Mirificavit_Dominus_"/>
+<osb_vig_ps2>
+<la>ps4</la>
+</osb_vig_ps2>
+<osb_vig_ant3 id="AN_Laetentur_omnes_"/>
+<osb_vig_ps3>
+<la>ps5</la>
+</osb_vig_ps3>
+<osb_vig_ant4 id="AN_Admirabile_est_"/>
+<osb_vig_ps4>
+<la>ps8</la>
+</osb_vig_ps4>
+<osb_vig_ant5 id="AN_Domine_qui"/>
+<osb_vig_ps5>
+<la>ps14</la>
+</osb_vig_ps5>
+<osb_vig_ant6 id="AN_Haec_est_"/>
+<osb_vig_ps6>
+<la>ps23</la>
+</osb_vig_ps6>
+<osb_vig_vers1 id="VERS_Laetamini_in_Domino_et_exsultate"/>
+<osb_vig_ant7 id="AN_Diligite_Dominum_"/>
+<osb_vig_ps7>
+<la>ps30</la>
+</osb_vig_ps7>
+<osb_vig_ant8 id="AN_Laetamini_in_Dominum"/>
+<osb_vig_ps8>
+<la>ps31</la>
+</osb_vig_ps8>
+<osb_vig_ant9 id="AN_Timete_Dominum_"/>
+<osb_vig_ps9>
+<la>ps33</la>
+</osb_vig_ps9>
+<osb_vig_ant10 id="AN_Domine_spes"/>
+<osb_vig_ps10>
+<la>ps60</la>
+</osb_vig_ps10>
+<osb_vig_ant11 id="AN_Domine_Deus"/>
+<osb_vig_ps11>
+<la>ps83</la>
+</osb_vig_ps11>
+<osb_vig_ant12 id="AN_Qui_diligitis_Dominum"/>
+<osb_vig_ps12>
+<la>ps96</la>
+</osb_vig_ps12>
+<osb_vig_vers2 id="VERS_Exsultent_iusti_in_conspectu_Dei"/>
+<osb_vig_ben2>
+</osb_vig_ben2>
+<osb_vig_ant13 id="AN_Benedicite_Dominum_"/>
+<osb_vig_ps13>
+<la>AT5</la>
+</osb_vig_ps13>
+<osb_vig_ps14>
+<la>AT6a</la>
+</osb_vig_ps14>
+<osb_vig_ps15>
+<la>AT6b</la>
+</osb_vig_ps15>
+<osb_vig_vers3 id="VERS_Respicite_ad_Dominum_et_illuminamini"/>
+</liturgia>

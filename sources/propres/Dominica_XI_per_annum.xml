@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XI per annum</la>
+<fr>XI&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Videns_Iesus_turbas"/>
+<magnificat1_B id="AN_Sic_est_regnum"/>
+<magnificat1_C id="AN_Mulier_quae_erat"/>
+<oratio id="COL_Deus_in_te_sperantium_fortitudo_invocationibus"/>
+<benedictus_A id="AN_Duodecim_apostolos_misit"/>
+<benedictus_B id="AN_Simile_est_regnum"/>
+<benedictus_C id="AN_Remissa_sunt_peccata"/>
+<magnificat2_A id="AN_Euntes_praedicate_Evangelium"/>
+<magnificat2_B id="AN_Multis_parabolis_loquebatur"/>
+<magnificat2_C id="AN_Dixit_Iesus_ad"/>
+</liturgia>

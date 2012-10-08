@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<liturgia>
+  <preces id="perannum_21"/>
+ <ant_invit id="INV_Populus_Domini_et"/>
+<HYMNUS_lectures id="hy_Mediae_noctis_tempus_est"/>
+<HYMNUS_lec_jour id="HY_Salve_dies_dierum_gloria"/>
+<ant001 id="AN_Domine_Deus_meus"/>
+<ant002 id="AN_Eduxit_Dominus_panem"/>
+<ant003 id="AN_Vidit_Deus_cuncta"/>
+<vers>
+<la>V/. Vestri be&#xE1;ti &#xF3;culi quia vident. 
+R/. Et aures vestr&#xE6; quia &#xE1;udiunt.</la>
+</vers>
+<HYMNUS_laudes id="hy_Ecce_iam_noctis_tenuatur_umbra"/>
+<ant1 id="AN_Benedictus_qui_venit"/>
+<ant2 id="AN_Hymnum_dicamus_Domino"/>
+<ant3 id="AN_Laudate_Dominum"/>
+<LB_matin id="LB_Ez_36_25-27"/>
+<RB_matin id="RB_Confitebimur_tibi_Deus_Et"/>
+<ps01 id="ps103I"/>
+<ps02 id="ps103II"/>
+<ps03 id="ps103III"/>
+<ps1 id="ps117"/>
+<ps2 id="AT40"/>
+<ps3 id="ps150"/>
+<ps4 id="ps22"/>
+<ps5 id="ps75I"/>
+<ps6 id="ps75II"/>
+<ps7 id="ps109"/>
+<ps8 id="ps113B"/>
+<ps9 id="NT12"/>
+<ant4 id="AN_In_pascuis_virentibus_Dominus"/>
+<ant5 id="AN_In_Israel_magnum"/>
+<ant6 id="AN_Terra_tremuit"/>
+<HYMNUS_tertiam id="HY_Nunc_Sancte_nobis_Spiritus"/>
+<HYMNUS_sextam id="HY_Rector_potens_verax_Deus"/>
+<HYMNUS_nonam id="HY_Rerum_Deus_tenax_vigor"/>
+<LB_3 id="LB_Rom_5_1-2._5"/>
+<RB_3 id="VERS_Misericordias_Domini"/>
+<LB_6 id="LB_Rom_8_26"/>
+<RB_6 id="VERS_Appropinquet_deprecatio_mea"/>
+<LB_9 id="LB_2_Cor_1_21-22"/>
+<RB_9 id="VERS_Dominus_illuminatio_mea"/>
+<HYMNUS_completorium id="HY_Christe_qui_splendor"/>
+<ant10 id="AN_Alis_suis_obumbrabit"/>
+<ps10 id="ps90"/>
+<LB_completorium id="LB_Ap_22_4-5"/>
+<RB_completorium id="RB_In_manus_tuas"/>
+<AM id="AM_Salve_regina"/>
+<oratio_completorium id="COL_Quietem_Domine_corporibus_nostris_tribue_salutarem"/>
+</liturgia>
+
+
+
+
+
+
+
+

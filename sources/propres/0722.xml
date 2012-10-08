@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 22 iulii</la>
+<fr>Le 22 juillet</fr>
+</jour>
+<intitule>
+<la>S. MARI&#xC6; MAGDALEN&#xC6;</la>
+<fr>Ste MARIE MADELEINE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Mirabilem_Deum_in"/>
+<HYMNUS_laudes id="hy_Aurora_surgit_lucida"/>
+<ant1 id="AN_Una_sabbati_Maria"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Ardens_est_cor"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Dum_fleret_Maria"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Rom_12_1-2"/>
+<RB_matin id="RB_Maria_noli_iam_flere_"/>
+<benedictus id="AN_Surgens_Iesus"/>
+<oratio id="COL_Deus_cuius_Unigenitus_Mariae_Magdalenae_ante"/>
+<HYMNUS_vepres id="hy_Magdalae_sidus_mulier_beata"/>
+<ant7 id="AN_Dicit_Iesus_Mariae"/>
+<ps7 id="ps121"/>
+<ant8 id="AN_Tulerunt_Dominum_meum"/>
+<ps8 id="ps126"/>
+<ant9 id="AN_Dicit_Iesus_Maria."/>
+<ps9 id="NT4"/>
+<LB_soir id="LB_Rom_8_28-30"/>
+<RB_soir id="RB_Maria_noli_iam_flere_"/>
+<magnificat id="AN_Venit_Maria_nuntians"/>
+</liturgia>

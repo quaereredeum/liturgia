@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<liturgia>
+ <commun>
+<la>martyr</la>
+</commun>
+<osb_vig_ant1 id="AN_Priusquam_te_formarem"/>
+<osb_vig_ant2 id="AN_Ad_omnia_quae"/>
+<osb_vig_ant3 id="AN_Ne_timeas_"/>
+<osb_vig_ant4 id="AN_Misit_Dominus"/>
+<osb_vig_ant5 id="AN_Ecce_dedi"/>
+<osb_vig_ant6 id="AN_Dominus_ab_utero"/>
+<osb_vig_vers1 id="VERS_Fuit_homo_missus_a_Deo"/>
+<osb_vig_ant7 id="AN_Posuit_os_meum"/>
+<osb_vig_ant8 id="AN_Formans_me_ex"/>
+<osb_vig_ant9 id="AN_Reges_videbunt_"/>
+<osb_vig_ant10 id="AN_Nazaraeus_vocabitur"/>
+<osb_vig_ant11 id="AN_Erit_enim_"/>
+<osb_vig_ant12 id="AN_Ipse_praeibit_"/>
+<osb_vig_vers2 id="VERS_Inter_natos_mulierum_non_surrexit"/>
+<osb_vig_ben2>
+</osb_vig_ben2>
+<osb_vig_ant13 id="AN_Descendit_angelus"/>
+<osb_vig_vers3 id="VERS_Hic_venit_ut_testimonium_perhiberet"/>
+<osb_vig_ant10 id="AN_Laetamini_omnes"/>
+<osb_vig_ps10>
+<la>ps63</la>
+</osb_vig_ps10>
+<osb_vig_ant11 id="AN_Notum_fecit_Dominus"/>
+<osb_vig_ps11>
+<la>ps64</la>
+</osb_vig_ps11>
+<osb_vig_ant12 id="AN_Exaltate_Dominum"/>
+<osb_vig_ps12>
+<la>ps91</la>
+</osb_vig_ps12>
+<osb_vig_vers2 id="VERS_Inter_natos_mulierum_non_surrexit"/>
+<osb_vig_ben2>
+</osb_vig_ben2>
+<osb_vig_ant13 id="AN_Descendit_angelus"/>
+<osb_vig_vers3 id="VERS_Hic_venit_ut_testimonium_perhiberet"/>
+</liturgia>

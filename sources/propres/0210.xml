@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 10 februarii</la>
+<fr>Le 10 f&#xE9;vrier</fr>
+</jour>
+<intitule>
+<la>S. SCHOLASTIC&#xC6;, VIRGINIS</la>
+<fr>S. SCHOLASTIQUE, VIERGE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Regem_virginum_Dominum"/>
+<HYMNUS_laudes id="hy_Aptata_virgo_lampade"/>
+<LB_matin id="LB_Cant_8_7"/>
+<RB_matin id="RB_Tibi_dixit_cor_meum_"/>
+<benedictus id="AN_Ecce_prudens_virgo"/>
+<preces_matin>
+<la>preces_XI</la>
+</preces_matin>
+<oratio id="COL_Beatae_Scholasticae_virginis_memoriam_recolentes_quaesumus"/>
+<HYMNUS_vepres id="hy_Iesu_corona_virginum"/>
+<LB_soir id="LB_1_Cor_7_32_b._34_a"/>
+<RB_soir id="RB_Afferentur_Regi_virgines_In"/>
+<magnificat id="AN_Veni_sponsa_Christi"/>
+<preces_soir>
+<la>preces_XII</la>
+</preces_soir>
+</liturgia>

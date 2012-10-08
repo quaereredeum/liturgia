@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 13 septembris</la>
+<fr>Le 13 septembre</fr>
+</jour>
+<intitule>
+<la>S. IOANNIS CHRYSOSTOMI, EPISCOPI ET ECCLESI&#xC6; DOCTORIS</la>
+<fr>S. JEAN DE LA CROIX, EVEQUE ET DOCTEUR DE L'EGLISE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Fontem_sapientiae_Dominum"/>
+<HYMNUS_laudes id="hy_Doctor_aeternus_coleris_piusque"/>
+<LB_matin id="LB_Sap_7_13-14"/>
+<RB_matin id="RB_Sapientiam_sanctorum_Narrent_populi"/>
+<benedictus id="AN_Qui_docti_fuerint"/>
+<oratio id="COL_Deus_in_te_sperantium_fortitudo_qui"/>
+<HYMNUS_vepres id="hy_Aterne_sol_qui_lumine"/>
+<LB_soir id="LB_Iac_3_17-18"/>
+<RB_soir id="RB_In_medio_Ecclesiae_Aperuit"/>
+<magnificat id="AN_O_doctor_optime"/>
+</liturgia>

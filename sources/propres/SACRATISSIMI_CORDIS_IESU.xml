@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Cor_Iesu_amore"/>
+<intitule>
+<la>SACRATISSIMI CORDIS IESU</la>
+<fr>C&#x8C;UR SACRE DE JESUS</fr>
+</intitule>
+<rang>
+<la>Sollemnitas</la>
+<fr>Solennit&#xE9;</fr>
+</rang>
+<HYMNUS_1V id="hy_Auctor_beate_saeculi"/>
+<ant01 id="AN_In_caritate_perpetua"/>
+<ps01 id="ps112"/>
+<ant02 id="AN_Discite_a_me"/>
+<ps02 id="ps145"/>
+<ant03 id="AN_Ego_sum_pastor"/>
+<ps03 id="NT4"/>
+<LB_1V id="LB_Eph_5_25b-27"/>
+<RB_1V id="RB_Christus_dilexit_nos_et_lavit"/>
+<magnificat1_A id="AN_Ignem_veni_mittere"/>
+<magnificat1_B id="AN_Ignem_veni_mittere"/>
+<magnificat1_C id="AN_Ignem_veni_mittere"/>
+<HYMNUS_laudes id="hy_Iesu_auctor_clementiae"/>
+<ant1 id="AN_Stans_Iesus_clamabat"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Venite_ad_me"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Fili_praebe_mihi"/>
+<ps3 id="ps149"/>
+<ant4 id="AN_Popule_meus_quid"/>
+<ps4 id="ps122"/>
+<ant5 id="AN_Contritum_est"/>
+<ps5 id="ps123"/>
+<ant6 id="AN_Unus_militum_lancea"/>
+<LB_3 id="LB_Ier_31_2-4"/>
+<RB_3 id="VERS_Haurietis_aquas_in_gaudio"/>
+<LB_6 id="LB_Ier_32_40"/>
+<RB_6 id="VERS_Sustinui_quid_simul_contristaretur_et"/>
+<LB_9 id="LB_Rom_5_8-9"/>
+<RB_9 id="VERS_Vulneratus_est_propter_iniquitates_nostras"/>
+<oratio id="COL_Concede_quaesumus_omnipotens_Deus_ut_qui"/>
+<benedictus_A id="AN_Per_viscera_misericordiae"/>
+<benedictus_B id="AN_Per_viscera_misericordiae"/>
+<benedictus_C id="AN_Per_viscera_misericordiae"/>
+<magnificat2_A id="AN_Suscepit_nos_Dominus"/>
+<magnificat2_B id="AN_Suscepit_nos_Dominus"/>
+<magnificat2_C id="AN_Suscepit_nos_Dominus"/>
+<ant7 id="AN_Suavi_iugo_tuo"/>
+<ps7 id="ps109"/>
+<ant8 id="AN_Misericors_et_miserator"/>
+<ps8 id="ps110"/>
+<ant9 id="AN_Ecce_Agnus_Dei"/>
+<ps9 id="NT5"/>
+<LB_matin id="LB_Ier_31_33"/>
+<RB_matin id="RB_Tollite_iugum_meum_super_vos&#xA0;"/>
+<LB_soir id="LB_Eph_2_4-7"/>
+<RB_soir id="RB_Christus_dilexit_nos_et_lavit"/>
+<HYMNUS_vepres id="hy_Auctor_beate_saeculi"/>
+</liturgia>

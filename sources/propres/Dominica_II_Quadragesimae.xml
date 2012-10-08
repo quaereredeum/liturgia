@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica II Quadragesimae</la>
+<fr>II&#xB0; dimanche de Car&#xEA;me</fr>
+</intitule>
+<magnificat1_A id="AN_Dixit_Petrus_ad"/>
+<magnificat1_B id="AN_Transfiguratus_est_Iesus"/>
+<magnificat1_C id="AN_Facta_est_dum"/>
+<oratio id="COL_Deus_qui_nobis_dilectum_Filium_tuum"/>
+<benedictus_A id="AN_Ecce_vox_de"/>
+<benedictus_B id="AN_Petrus_dixit_Iesu"/>
+<benedictus_C id="AN_Dominus_noster_Iesus"/>
+<magnificat2_A id="AN_Visionem_quam_vidistis"/>
+<magnificat2_B id="AN_Facta_est_nubes"/>
+<magnificat2_C id="AN_Vox_facta_est"/>
+</liturgia>

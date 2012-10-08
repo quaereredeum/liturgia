@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Christum_Dominum_pro"/>
+<HYMNUS_laudes id="hy_En_acetum_fel_arundo"/>
+<ant1 id="AN_Innocens_manibus_et"/>
+<ant2 id="AN_Exaltate_Regem_saeculorum"/>
+<ant3 id="AN_Rectos_decet_collaudatio."/>
+<LB_matin id="LB_Zac_12_10-11a"/>
+<RB_matin id="RB_Ipse_liberabit_me_De"/>
+<benedictus id="AN_Cum_exaltaveritis_Filium"/>
+<oratio id="COL_Da_nobis_quaesumus_Domine_perseverantem_in"/>
+<HYMNUS_tertiam id="hy_Dei_fide_qua_vivimus"/>
+<HYMNUS_sextam id="hy_Qua_Christus_hora_sitiit"/>
+<HYMNUS_nonam id="hy_Ternis_ter_horis_numerus"/>
+<ant4 id="AN_Advenerunt_nobis_dies"/>
+<ant5 id="AN_Vivo_ego_dicit"/>
+<ant6 id="AN_Per_arma_iustitiae"/>
+<LB_3 id="LB_Ioel_2_17"/>
+<RB_3 id="VERS_Cor_mundum_crea_in_me"/>
+<LB_6 id="LB_Ier_3_25b"/>
+<RB_6 id="VERS_Averte_faciem_tuam_a_peccatis"/>
+<LB_9 id="LB_Is_58_1-2a"/>
+<RB_9 id="VERS_Sacrificium_Deo_spiritus_contribulatus"/>
+<HYMNUS_vesperas id="hy_Vexilla_regis_prodeunt"/>
+<ant7 id="AN_Tribuit_Dominus_victoriam"/>
+<ant8 id="AN_Cantabimus_et_psallemus"/>
+<ant9 id="AN_Fecisti_nos_Domine"/>
+<LB_soir id="LB_1_Cor_1_27b-30"/>
+<RB_soir id="RB_Ego_dixi_Domine_Miserere"/>
+<magnificat id="AN_Qui_me_misit"/>
+</liturgia>

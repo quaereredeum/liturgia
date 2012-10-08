@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 3 septembris</la>
+<fr>Le 3 septembre</fr>
+</jour>
+<intitule>
+<la>S. GREGORII MAGNI, PAP&#xC6; ET ECCLESI&#xC6; DOCTORIS</la>
+<fr>S. GREGOIRE LE GRAND, PAPE ET DOCTEUR DE L'EGLISE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Fontem_sapientiae_Dominum"/>
+<HYMNUS_laudes id="hy_Anglorum_iam_apostolus"/>
+<LB_matin id="LB_Sap_7_13-14"/>
+<RB_matin id="RB_Sapientiam_sanctorum_Narrent_populi"/>
+<benedictus id="AN_Pastor_eximius_Gregorius"/>
+<oratio id="COL_Deus_qui_populis_tuis_indulgentia_consulis"/>
+<HYMNUS_vepres id="hy_Anglorum_iam_apostolus"/>
+<LB_soir id="LB_Rom_8_28-30"/>
+<RB_soir id="RB_In_medio_Ecclesiae_Aperuit"/>
+<magnificat id="AN_Gregorius_praesul_implebat"/>
+<commun>
+<la>pasteur</la>
+</commun>
+</liturgia>

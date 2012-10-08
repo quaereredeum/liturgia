@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica III Quadragesimae</la>
+<fr>III&#xB0; dimanche de Car&#xEA;me</fr>
+</intitule>
+<magnificat1_A id="AN_Dicit_Dominus_Si"/>
+<magnificat1_B id="AN_Dixit_Iesus_Auferte"/>
+<magnificat1_C id="AN_Dico_vobis_Nisi"/>
+<oratio id="COL_Deus_omnium_misericordiarum_et_totius_bonitatis"/>
+<benedictus_A id="AN_Venit_hora_et"/>
+<benedictus_B id="AN_Solvite_templum_hoc"/>
+<benedictus_C id="AN_Iustificati_ex_fide"/>
+<magnificat2_A id="AN_Multo_plures_crediderunt"/>
+<magnificat2_B id="AN_Cum_esset_Iesus"/>
+<magnificat2_C id="AN_Domine_dimitte_illam"/>
+</liturgia>

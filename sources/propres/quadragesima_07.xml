@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Christum_Dominum_pro"/>
+<HYMNUS_laudes id="hy_Iam_Christe_sol_iustitiae"/>
+<ant1 id="AN_Bonum_et_psallere"/>
+<ant2 id="AN_Dabo_vobis_cor"/>
+<ant3 id="AN_Ex_ore_infantium"/>
+<LB_matin id="LB_Is_1_16-18"/>
+<RB_matin id="RB_Ipse_liberabit_me_De"/>
+<benedictus id="AN_Thesaurizate_vobis_thesauros"/>
+<preces_matin>
+<la>preces_XIII</la>
+</preces_matin>
+<oratio id="COL_Omnipotens_sempiterne_Deus_infirmitatem_nostram_propitius"/>
+<HYMNUS_tertiam id="hy_Dei_fide_qua_vivimus"/>
+<HYMNUS_sextam id="hy_Qua_Christus_hora_sitiit"/>
+<HYMNUS_nonam id="hy_Ternis_ter_horis_numerus"/>
+<ant4 id="AN_Advenerunt_nobis_dies"/>
+<ant5 id="AN_Vivo_ego_dicit"/>
+<ant6 id="AN_Per_arma_iustitiae"/>
+<LB_3 id="LB_Ap_3_19-20"/>
+<RB_3 id="VERS_Cor_mundum_crea_in_me"/>
+<LB_6 id="LB_Is_44_21-22"/>
+<RB_6 id="VERS_Averte_faciem_tuam_a_peccatis"/>
+<LB_9 id="LB_Gal_6_7b-8"/>
+<RB_9 id="VERS_Sacrificium_Deo_spiritus_contribulatus"/>
+</liturgia>

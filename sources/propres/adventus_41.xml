@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Regem_venturum_Dominum"/>
+<HYMNUS_laudes id="hy_Vox_clara_ecce_intonat"/>
+<ant1 id="AN_Canite_tuba_in"/>
+<ant2 id="AN_Dominus_veniet_occurrite"/>
+<ant3 id="AN_Omnipotens_Sermo_tuus"/>
+<LB_matin id="LB_Rom_13_11-12"/>
+<RB_matin id="RB_Christe_Fili_Dei_vivi_"/>
+</liturgia>

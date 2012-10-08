@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<liturgia>
+ <HYMNUS_laudes id="hy_En_acetum_fel_arundo"/>
+<ant1 id="AN_Discerne_causam_meam"/>
+<ant2 id="AN_Iudicasti_Domine_causam"/>
+<ant3 id="AN_Iustificabit_iustus_servus"/>
+<LB_matin id="LB_Zac_12_10-11a"/>
+<RB_matin id="RB_Redemisti_nos_Domine_In"/>
+<benedictus id="AN_Clarifica_me_Pater"/>
+<preces_matin>
+<la>preces_XI</la>
+</preces_matin>
+<oratio_laudes id="COL_Omnipotens_sempiterne_Deus_da_nobis_ita"/>
+<HYMNUS_tertiam id="hy_Celsae_salutis_gaudia"/>
+<HYMNUS_sextam id="hy_Celsae_salutis_gaudia"/>
+<HYMNUS_nonam id="hy_Celsae_salutis_gaudia"/>
+<ant4 id="AN_Ante_diem_festum"/>
+<ant5 id="AN_Sicut_novit_me"/>
+<ant6 id="AN_Mihi_vivere_Christus"/>
+<LB_3 id="LB_1_Cor_1_18-19"/>
+<RB_3 id="VERS_Oblatus_est_quia_ipse_voluit"/>
+<oratio_3 id="COL_Omnipotens_sempiterne_Deus_da_nobis_ita"/>
+<LB_6 id="LB_1_Cor_1_22-24"/>
+<RB_6 id="VERS_Vere_languores_nostros_ipse_tulit"/>
+<oratio_6 id="COL_Omnipotens_sempiterne_Deus_da_nobis_ita"/>
+<LB_9 id="LB_1_Cor_1_25._27a"/>
+<RB_9 id="VERS_Adoremus_crucis_signaculum_Per"/>
+<oratio_9 id="COL_Omnipotens_sempiterne_Deus_da_nobis_ita"/>
+<HYMNUS_vesperas id="hy_Vexilla_regis_prodeunt"/>
+<ant7 id="AN_Contumelias_et_terrores"/>
+<ant8 id="AN_Libera_me_Domine"/>
+<ant9 id="AN_Occisus_es_Domine"/>
+<LB_soir id="LB_1_Cor_1_27b-30"/>
+<RB_soir id="RB_Adoramus_te_Christe_Et"/>
+<magnificat id="AN_Potestatem_habeo_ponendi"/>
+<oratio_vesperas id="COL_Omnipotens_sempiterne_Deus_da_nobis_ita"/>
+<preces_soir>
+<la>preces_XII</la>
+</preces_soir>
+</liturgia>

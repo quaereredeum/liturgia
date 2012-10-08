@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+</jour>
+<intitule>
+<la>SANCT&#xC6; FAMILI&#xC6; IESU, MARI&#xC6; ET IOSEPH</la>
+<fr>SAINTE FAMILLE DE JESUS, MARIE ET JOSEPH</fr>
+</intitule>
+<rang>
+<la>Festum</la>
+<fr>F&#xEA;te</fr>
+</rang>
+<HYMNUS_1V id="hy_O_lux_beata_caelitum"/>
+<ant01 id="AN_Iacob_autem_genuit"/>
+<ps01 id="ps112"/>
+<ant02 id="AN_Ioseph_fili_David"/>
+<ps02 id="ps147"/>
+<ant03 id="AN_Pastores_venerunt_festinantes"/>
+<ps03 id="NT5"/>
+<LB_1V id="LB_2_Cor_8_9"/>
+<RB_1V id="RB_Verbum_caro_factum_est_"/>
+<magnificat1_A id="AN_Ecce_angelus_Domini"/>
+<magnificat1_B id="AN_Postquam_impleti_sunt"/>
+<magnificat1_C id="AN_Remansit_puer_Iesus"/>
+<oratio id="COL_Deus_qui_praeclara_nobis_sanctae_Familiae"/>
+<ant_invit id="INV_Christum_Dei_Filium"/>
+<HYMNUS_laudes id="hy_Christe_splendor_Patris"/>
+<ant1 id="AN_Ibant_parentes_Iesu"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Puer_autem_crescebat"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Erant_pater_eius"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Deut_5_16"/>
+<RB_matin id="RB_Christe_Fili_Dei_vivi_"/>
+<benedictus_A id="AN_Ecce_apparet_angelus"/>
+<benedictus_B id="AN_Erant_pater_et"/>
+<benedictus_C id="AN_Fili_quid_fecisti"/>
+<HYMNUS_tertiam id="hy_Nunc_Sancte_nobis_Spiritus"/>
+<ant4 id="AN_Erant_Ioseph_et"/>
+<LB_3 id="LB_Col_3_12-13"/>
+<RB_3 id="VERS_Dominus_vias_suas_docebit_nos"/>
+<HYMNUS_sextam id="hy_Rector_potens_verax_Deus"/>
+<ant5 id="AN_Maria_autem_conservabat"/>
+<ps4 id="ps122"/>
+<ps5 id="ps123"/>
+<ps6 id="ps124"/>
+<LB_6 id="LB_Col_3_14-15"/>
+<RB_6 id="VERS_Pauper_sum_ego_et_in"/>
+<HYMNUS_nonam id="hy_Rerum_Deus_tenax_vigor"/>
+<ant6 id="AN_Multiplicabitur_eius_imperium"/>
+<LB_9 id="LB_Col_3_17"/>
+<RB_9 id="VERS_Ponam_universos_filios_tuos_doctos"/>
+<HYMNUS_vepres id="hy_O_lux_beata_caelitum"/>
+<ant7 id="AN_Post_triduum_invenerunt"/>
+<ps7 id="ps121"/>
+<ant8 id="AN_Descendit_Iesus_cum"/>
+<ps8 id="ps126"/>
+<ant9 id="AN_Et_Iesus_proficiebat"/>
+<ps9 id="NT4"/>
+<LB_soir id="LB_Phil_2_6-7"/>
+<RB_soir id="RB_Debuit_per_omnia_fratribus_similari"/>
+<magnificat2_A id="AN_Veniens_Ioseph_habitavit"/>
+<magnificat2_B id="AN_Puer_Iesus_crescebat"/>
+<magnificat2_C id="AN_Descendit_Iesus_cum"/>
+</liturgia>

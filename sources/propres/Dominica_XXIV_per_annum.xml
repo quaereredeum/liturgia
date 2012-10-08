@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XXIV per annum</la>
+<fr>XXIV&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Dixit_Iesus_Petro"/>
+<magnificat1_B id="AN_Vos_quem_me"/>
+<magnificat1_C id="AN_Quis_ex_vobis"/>
+<oratio id="COL_Respice_nos_rerum_omnium_Deus_creator"/>
+<benedictus_A id="AN_Misertus_dominus_servi"/>
+<benedictus_B id="AN_Oportet_Filium_hominis"/>
+<benedictus_C id="AN_Dico_vobis_Gaudium"/>
+<magnificat2_A id="AN_Serve_nequam_omne"/>
+<magnificat2_B id="AN_Qui_perdiderit_animam"/>
+<magnificat2_C id="AN_Quae_mulier_habens"/>
+</liturgia>

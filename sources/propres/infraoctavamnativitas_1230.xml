@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 30 decembris</la>
+<fr>Le 30 d&#xE9;cembre</fr>
+</jour>
+<intitule>
+<la>DE DIE VI INFRA OCTAVAM NATIVITATIS</la>
+<fr>VI&#xB0; JOUR DANS L'OCTAVE DE LA NATIVITE.</fr>
+</intitule>
+<ant_invit id="INV_Christus_natus_est"/>
+<HYMNUS_laudes id="hy_A_solis_ortus_cardine"/>
+<ant1 id="AN_Quem_vidistis"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Angelus_ad_pastores"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Parvulus_filius"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Is_9_5"/>
+<RB_matin id="RB_Notum_fecit_Dominus_Alleluia"/>
+<benedictus id="AN_Nato_Domino_angelorum"/>
+<oratio id="COL_Concede_quaesumus_omnipotens_Deus_ut_nos"/>
+<HYMNUS_tertiam id="hy_Nunc_Sancte_nobis_Spiritus"/>
+<ant4 id="AN_Erant_Ioseph_et"/>
+<LB_3 id="LB_Deut_4_7"/>
+<RB_3 id="VERS_Recordatus_est_Dominus_misericordiae_suae"/>
+<HYMNUS_sextam id="hy_Rector_potens_verax_Deus"/>
+<ant5 id="AN_Maria_autem_conservabat"/>
+<LB_6 id="LB_Is_12_5-6"/>
+<RB_6 id="VERS_Viderunt_omnes_fines_terrae_alleluia"/>
+<HYMNUS_nonam id="hy_Rerum_Deus_tenax_vigor"/>
+<ant6 id="AN_Viderunt_oculi_mei"/>
+<LB_9 id="LB_Cf._Tob_14_6-7"/>
+<RB_9 id="VERS_Misericordia_et_veritas_obviaverunt_sibi"/>
+<HYMNUS_vepres id="hy_Christe_redemptor_omnium2"/>
+<ant7 id="AN_Tecum_principium_in"/>
+<ps7 id="ps109"/>
+<ant8 id="AN_Apud_Dominum_misericordia"/>
+<ps8 id="ps129"/>
+<ant9 id="AN_In_principio_et"/>
+<ps9 id="NT6"/>
+<LB_soir id="LB_Cf._2_Petr_1_3-4"/>
+<RB_soir id="RB_Verbum_caro_factum_est_"/>
+<magnificat id="AN_Glorificamus_te_Dei"/>
+</liturgia>

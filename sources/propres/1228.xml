@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 28 decembris </la>
+<fr>Le 28 d&#xE9;cembre</fr>
+</jour>
+<intitule>
+<la>SS. INNOCENTIUM, MARTYRUM </la>
+<fr>SS. INNOCENTS, MARTYRS</fr>
+</intitule>
+<rang>
+<la>Festum</la>
+<fr>F&#xEA;te</fr>
+</rang>
+<ant_invit id="INV_Christum_natum_qui"/>
+<HYMNUS_laudes id="hy_Audit_tyrannus_anxius"/>
+<ant1 id="AN_Ambulabunt_mecum_in"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Dicunt_infantes_Domino"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Ex_ore_infantium"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Ier_31_15"/>
+<RB_matin id="RB_Sancti_et_iusti_In"/>
+<benedictus id="AN_Innocentes_pro_Christo"/>
+<oratio id="COL_Deus_cuius_hodierna_die_praeconium_Innocentes"/>
+<HYMNUS_tertiam id="hy_Nunc_Sancte_nobis_Spiritus"/>
+<ant4 id="AN_Erant_Ioseph_et"/>
+<LB_3 id="LB_Cf._Lam_1_16"/>
+<RB_3 id="VERS_Stola_iucunditatis_induit_eos_Dominus"/>
+<HYMNUS_sextam id="hy_Rector_potens_verax_Deus"/>
+<ant5 id="AN_Maria_autem_conservabat"/>
+<LB_6 id="LB_Cf._Lam_2_11"/>
+<RB_6 id="VERS_Iusti_autem_in_perpetuum_vivent"/>
+<HYMNUS_nonam id="hy_Rerum_Deus_tenax_vigor"/>
+<ant6 id="AN_Multiplicabitur_eius_imperium"/>
+<LB_9 id="LB_Ier_31_16_a._17_a"/>
+<RB_9 id="VERS_Exsultabunt_sancti_in_gloria"/>
+<HYMNUS_vepres id="hy_Christe_redemptor_omnium2"/>
+<ant7 id="AN_Tecum_principium_in"/>
+<ps7 id="ps109"/>
+<ant8 id="AN_Apud_Dominum_misericordia"/>
+<ps8 id="ps129"/>
+<ant9 id="AN_In_principio_et"/>
+<ps9 id="NT6"/>
+<LB_soir id="LB_Eph_2_3b-5"/>
+<RB_soir id="RB_Verbum_caro_factum_est_"/>
+<magnificat id="AN_Sancta_et_intacta"/>
+<oratio_vesperas id="COL_Deus_qui_humanae_substantiae_dignitatem_et"/>
+</liturgia>

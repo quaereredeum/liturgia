@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Deum_verum_unum"/>
+<intitule>
+<la>SANCTISSIM&#xC6; TRINITATIS</la>
+<fr>SAINTE TRINITE</fr>
+</intitule>
+<rang>
+<la>Sollemnitas</la>
+<fr>Solennit&#xE9;</fr>
+</rang>
+<HYMNUS_1V id="hy_Immensa_et_una_Trinitas"/>
+<ant01 id="AN_Gloria_tibi_Trinitas"/>
+<ps01 id="ps112"/>
+<ant02 id="AN_Benedicta_sit_sancta"/>
+<ps02 id="ps147"/>
+<ant03 id="AN_Gloria_et_honor"/>
+<ps03 id="NT4"/>
+<LB_1V id="LB_Rom_11_33-36"/>
+<RB_1V id="RB_Benedicamus_Patrem_et_Filium_cum"/>
+<pmagnificat>
+<la>Gr&#xE1;tias tibi, Deus; gr&#xE1;tias tibi, vera et una Tr&#xED;nitas, una et summa D&#xE9;itas, sancta et una Unitas.</la>
+<fr>Nous te rendons gr&#xE2;ces, &#xF4; Dieu; nous te rendons gr&#xE2;ces, vraie et unique Trinit&#xE9;, unique et hauteDivinit&#xE9;, sainte et unique Unit&#xE9;.</fr>
+</pmagnificat>
+<HYMNUS_laudes id="hy_Trinitas_summo_solio_coruscans"/>
+<ant1 id="AN_Tibi_decus_et"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Te_iure_laudant"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Ex_quo_omnia"/>
+<ps3 id="ps149"/>
+<ant4 id="AN_Te_invocamus_te"/>
+<ps4 id="ps117I"/>
+<ant5 id="AN_Spes_nostra_salus"/>
+<ps5 id="ps117II"/>
+<ant6 id="AN_Te_semper_idem"/>
+<ps6 id="ps117III"/>
+<ps8 id="ps113A"/>
+<LB_3 id="LB_2_Cor_1_21-22"/>
+<RB_3 id="VERS_Intrate_portas_eius_in_confessione"/>
+<LB_6 id="LB_Cf._Gal_4_4._5-6"/>
+<RB_6 id="VERS_O_beata_et_benedicta_et"/>
+<LB_9 id="LB_Ap_7_12"/>
+<RB_9 id="VERS_Benedictus_es_Domine_in_firmamento"/>
+<oratio id="COL_Deus_Pater_qui_Verbum_veritatis_et"/>
+<benedictus id="AN_Benedicta_sit_creatrix"/>
+<magnificat id="AN_Te_Deum_Patrem"/>
+<ant7 id="AN_O_vera_summa"/>
+<ant8 id="AN_Libera_nos_salva"/>
+<ant9 id="AN_Sanctus_sanctus_sanctus"/>
+<LB_matin id="LB_1_Cor_12_4-6"/>
+<RB_matin id="RB_Tibi_laus_tibi_gloria&#xA0;_O"/>
+<LB_soir id="LB_Eph_4_3-6"/>
+<RB_soir id="RB_Benedicamus_Patrem_et_Filium_cum"/>
+<HYMNUS_vepres id="hy_Immensa_et_una_Trinitas"/>
+</liturgia>

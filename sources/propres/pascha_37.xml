@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Surrexit_Dominus_vere"/>
+<HYMNUS_laudes id="hy_Aurora_lucis_rutilat"/>
+<ant1 id="AN_Verba_quae_ego"/>
+<ant2 id="AN_Adificasti_templum_et"/>
+<ant3 id="AN_Ego_sum_via"/>
+<LB_matin id="LB_Rom_14_7-9"/>
+<RB_matin id="RB_Surrexit_Dominus_de_sepulcro_Alleluia"/>
+<benedictus id="AN_Dixit_Simon_Petrus"/>
+<preces_matin>
+<la>preces_XIII</la>
+</preces_matin>
+<oratio_laudes id="COL_Deus_qui_credentes_in_te_fonte"/>
+<HYMNUS_tertiam id="hy_Iam_surgit_hora_tertia"/>
+<HYMNUS_sextam id="hy_Venite_servi_supplices"/>
+<HYMNUS_nonam id="hy_Haec_hora_quae_resplenduit"/>
+<ant4 id="AN_Alleluia_alleluia_alleluia."/>
+<ant5 id="AN_Alleluia_alleluia_alleluia."/>
+<ant6 id="AN_Alleluia_alleluia_alleluia."/>
+<LB_3 id="LB_Rom_5_10-11"/>
+<RB_3 id="VERS_Surrexit_Dominus_vere_alleluia"/>
+<oratio_3 id="COL_Deus_qui_credentes_in_te_fonte"/>
+<LB_6 id="LB_1_Cor_15_20-22"/>
+<RB_6 id="VERS_Gavisi_sunt_discipuli_alleluia"/>
+<oratio_6 id="COL_Deus_qui_credentes_in_te_fonte"/>
+<LB_9 id="LB_2_Cor_5_14-15"/>
+<RB_9 id="VERS_Mane_nobiscum_Domine_alleluia"/>
+<oratio_9 id="COL_Deus_qui_credentes_in_te_fonte"/>
+<HYMNUS_vesperas id="hy_Ad_cenam_Agni_providi"/>
+<ant7 id="AN_Pax_Christi_exsultet"/>
+<ant8 id="AN_Redemisti_nos_Deo"/>
+<ant9 id="AN_Nonne_haec_oportuit"/>
+<LB_soir id="LB_1_Petr_2_9-10"/>
+<RB_soir id="RB_Gavisi_sunt_discipuli_Alleluia_alleluia"/>
+</liturgia>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<liturgia>
+ <osb_vig_ant_attente id="AN_Ego_dormivi" />
+<osb_vig_ps_attente>ps3</osb_vig_ps_attente>
+<osb_vig_ant1 id="AN_Da_nobis_Domine" />
+<osb_vig_ps1>ps59</osb_vig_ps1>
+<osb_vig_ant2 id="AN_Dum_anxiaretur" />
+<osb_vig_ps2>ps60</osb_vig_ps2>
+<osb_vig_ant3 id="AN_Benedicite_gentes" />
+<osb_vig_ps3>ps61</osb_vig_ps3>
+<osb_vig_ant4 id="AN_Audite_omnes" />
+<osb_vig_ps4>ps65</osb_vig_ps4>
+<osb_vig_ant5 id="AN_In_ecclesiis" />
+<osb_vig_ps5>ps67I</osb_vig_ps5>
+<osb_vig_ant6 />
+<osb_vig_ps6>ps67II</osb_vig_ps6>
+<osb_vig_vers1 id="VERS_Omnes_mirabantur"/>
+<osb_vig_ben1><la>A v&#xED;nculis peccat&#xF3;rum nostr&#xF3;rum abs&#xF3;lvat nos om&#xED;potens et mis&#xE9;ricors D&#xF3;minus. R/. Amen.</la>
+<fr>Que le Seigneur tout puissant et mis&#xE9;ricordieux nous d&#xE9;livre des liens de nos p&#xE9;ch&#xE9;s. R/. Amen.</fr>
+</osb_vig_ben1>
+<osb_vig_ant7 id="AN_Alleluia_alleluia"/>
+<osb_vig_ps7>ps68I</osb_vig_ps7>
+<osb_vig_ant8 id=""/>
+<osb_vig_ps8>ps68II</osb_vig_ps8>
+<osb_vig_ant9 id=""/>
+<osb_vig_ps9>ps69</osb_vig_ps9>
+<osb_vig_ant10 id=""/>
+<osb_vig_ps10>ps70</osb_vig_ps10>
+<osb_vig_ant11 id=""/>
+<osb_vig_ps11>ps71</osb_vig_ps11>
+<osb_vig_ant12 id=""/>
+<osb_vig_ps12>ps72</osb_vig_ps12>
+<osb_vig_LB>LB_1Pe4,10-11</osb_vig_LB>
+<osb_vig_RB>
+<la>V/. Sust&#xED;nuit &#xE1;nima mea in verbo eius. R/.Sper&#xE1;vit &#xE1;nima mea in D&#xF3;mino.</la>
+<fr>V/.Mon &#xE2;me attend Sa parole.. R/. Mon &#xE2;me esp&#xE8;re dans le Seigneur.</fr>
+</osb_vig_RB>
+</liturgia>

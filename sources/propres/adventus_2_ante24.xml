@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant1 id="AN_Ecce_veniet_Dominus"/>
+<ant2 id="AN_Cantate_Domino_canticum"/>
+<ant3 id="AN_Cum_venerit_Filius"/>
+<ant7 id="AN_Ecce_veniet_Dominus"/>
+<ant8 id="AN_Cantate_Domino_canticum"/>
+<ant9 id="AN_Cum_venerit_Filius"/>
+<HYMNUS_tertiam id="hy_Certum_tenentes_ordinem"/>
+<HYMNUS_sextam id="hy_Dicamus_laudes_Domino"/>
+<HYMNUS_nonam id="hy_Ternis_horarum_terminis"/>
+</liturgia>

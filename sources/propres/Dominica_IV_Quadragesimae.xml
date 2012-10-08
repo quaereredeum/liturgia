@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica IV Quadragesimae</la>
+<fr>IV&#xB0; dimanche de Car&#xEA;me</fr>
+</intitule>
+<magnificat1_A id="AN_Rabbi_quis_peccavit"/>
+<magnificat1_B id="AN_Sicut_Moyses_exaltavit"/>
+<magnificat1_C id="AN_Surgam_et_ibo"/>
+<oratio id="COL_Deus_qui_per_Verbum_tuum_humani"/>
+<benedictus_A id="AN_Homo_qui_dicitur"/>
+<benedictus_B id="AN_Sic_Deus_dilexit"/>
+<benedictus_C id="AN_Cito_proferte_stolam"/>
+<magnificat2_A id="AN_A_saeculo_non"/>
+<magnificat2_B id="AN_Qui_facit_veritatem"/>
+<magnificat2_C id="AN_Fili_tu_semper"/>
+</liturgia>

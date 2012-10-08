@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XIII per annum</la>
+<fr>XIII&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Qui_non_accipit"/>
+<magnificat1_B id="AN_Dicebat_mulier_intra"/>
+<magnificat1_C id="AN_Vulpes_foveas_habent"/>
+<oratio id="COL_Deus_qui_per_adoptionem_gratiae_lucis"/>
+<benedictus_A id="AN_Qui_recipit_vos"/>
+<benedictus_B id="AN_Iesus_conversus_et"/>
+<benedictus_C id="AN_Sine_ut_mortui"/>
+<magnificat2_A id="AN_Quicumque_potum_dederit"/>
+<magnificat2_B id="AN_Puella_non_est"/>
+<magnificat2_C id="AN_Nemo_mittens_manum"/>
+</liturgia>

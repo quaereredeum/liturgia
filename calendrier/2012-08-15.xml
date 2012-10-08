@@ -1,0 +1,679 @@
+<?xml version="1.0"?>
+<calendarium><ordo id="RE"><messe>08-15</messe><priorite>3</priorite><pV>1</pV><couleur>Blanc</couleur><reference>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</reference><sanctoral><la>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</la><fr>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XIX per annum</la><fr>XIX&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</la><fr>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</fr></intitule><rang><la>Sollemnitas</la><fr>Solennit&#xE9;</fr></rang><hebdomada_psalterium>3</hebdomada_psalterium><phase_lunaire>8,21</phase_lunaire><age_lunaire>26</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_34</psautier>
+		<psalterium>psalterium_34</psalterium>
+		<ferie>perannum_34</ferie>
+		<special/>
+		<propre>0815</propre>
+		<lettre_annee>B</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_34</psautier>
+		<psalterium>psalterium_34</psalterium>
+		<ferie>perannum_34</ferie>
+		<special/>
+		<propre>0815</propre>
+		<lettre_annee>B</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="IN ASSUMPTIONE BEAT&#xC6; MARI&#xC6; VIRGINIS"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Aurora_velut_fulgida</HYMNUS_lectures>
+<HYMNUS_lec_jour/>
+<antL1 id=""/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Da_nobis_Domine</Vant1>
+<Vps1>ps59</Vps1>
+<Vant2>AN_Dum_anxiaretur</Vant2>
+<Vps2>ps60</Vps2>
+<Vant3>AN_Benedicite_gentes</Vant3>
+<Vps3>ps61</Vps3>
+<Vant4>AN_Audite_omnes</Vant4>
+<Vps4>ps65</Vps4>
+<Vant5>AN_In_ecclesiis</Vant5>
+<Vps5>ps67I</Vps5>
+<Vant6>AN_Confitebor_tibi</Vant6>
+<Vps6>ps67II</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia</Vant7>
+<Vps7>ps68I</Vps7>
+<Vant8/>
+<Vps8>ps68II</Vps8>
+<Vant9/>
+<Vps9>ps69</Vps9>
+<Vant10/>
+<Vps10>ps70</Vps10>
+<Vant11/>
+<Vps11>ps71</Vps11>
+<Vant12/>
+<Vps12>ps72</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Solis_o_Virgo_radiis_amicta</HYMNUS_laudes>
+<ant1>AN_Beata_es_Maria</ant1>
+<ps1>ps62</ps1>
+<ant2>AN_Exaltata_est_Virgo</ant2>
+<ps2>AT41</ps2>
+<ant3>AN_Nomen_tuum_ita</ant3>
+<ps3>ps149</ps3>
+<LB_matin>LB_Cf._Is_61_10</LB_matin> 
+<RB_matin>RB_Hodie_Maria_Virgo_Ad_caelos</RB_matin> <benedictus>AN_Pulchra_es</benedictus><laudes_preces>ASSUMPTIONE</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_qui_immaculatam_Virginem</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Quasi_cedrus_exaltata</ant4>
+<ps4>ps122</ps4>
+<ant5>AN_Caeli_reginam_Maria</ant5>
+<ps5>ps123</ps5>
+<ant6>AN_Exaltata_est_sancta</ant6>
+<ps6>ps124</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la>Ad II Vesperas</la></office_soir>
+<HYMNUS_vepres>hy_Gaudium_mundi_nova_stella_caeli</HYMNUS_vepres>
+<ant7>AN_Assumpta_est_Maria</ant7>
+<ps7>ps121</ps7>
+<ant8>AN_Maria_Virgo_assumpta</ant8>
+<ps8>ps126</ps8>
+<ant9>AN_Benedicta_filia_tu</ant9>
+<ps9>NT4</ps9>
+<LB_soir>LB_1_Cor_15_22-23</LB_soir>
+<RB_soir>RB_Maria_Virgo_exaltata_est_Super</RB_soir>
+<magnificat>AN_Hodie_Maria_Virgo</magnificat>
+<vepres_preces>ASSUMPTIONE</vepres_preces>
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_qui_immaculatam_Virginem</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
+<comp_ant1>AN_Esto_mihi_in_Deum</comp_ant1>
+<comp_ps1>ps30</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_Eph_4_26-27</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Domine_Iesu_Christe_qui_iugum_suave</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="08-15">
+<IN>IN_Vultum_tuum</IN><IN>IN_Signum_magnum</IN><IN>IN_Gaudeamus_Mariae</IN>
+
+<KY/>
+<GLO/><COL>COL_Omnipotens_sempiterne_Deus_qui_immaculatam_Virginem</COL>
+<LEC1>08-15</LEC1>	
+<PS1>GR_Benedicta_et_venerabilis</PS1>
+<LEC2>08-15</LEC2>
+<PS2>AL_Felix_es_sacra_Virgo</PS2>
+<SEQ/>
+<EV>EV_08-15</EV>
+<OF>OF_Beata_es_Virgo_Maria</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Beata_viscera</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SWF"><messe>08-15</messe><priorite>3</priorite><pV>1</pV><couleur>Blanc</couleur><reference>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</reference><sanctoral><la>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</la><fr>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XIX per annum</la><fr>XIX&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</la><fr>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</fr></intitule><rang><la>Sollemnitas</la><fr>Solennit&#xE9;</fr></rang><hebdomada_psalterium>3</hebdomada_psalterium><phase_lunaire>8,21</phase_lunaire><age_lunaire>26</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_34</psautier>
+		<psalterium>psalterium_34</psalterium>
+		<ferie>perannum_34</ferie>
+		<special/>
+		<propre>0815</propre>
+		<lettre_annee>B</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_34</psautier>
+		<psalterium>psalterium_34</psalterium>
+		<ferie>perannum_34</ferie>
+		<special/>
+		<propre>0815</propre>
+		<lettre_annee>B</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="IN ASSUMPTIONE BEAT&#xC6; MARI&#xC6; VIRGINIS"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Aurora_velut_fulgida</HYMNUS_lectures>
+<HYMNUS_lec_jour/>
+<antL1 id=""/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Da_nobis_Domine</Vant1>
+<Vps1>ps59</Vps1>
+<Vant2>AN_Dum_anxiaretur</Vant2>
+<Vps2>ps60</Vps2>
+<Vant3>AN_Benedicite_gentes</Vant3>
+<Vps3>ps61</Vps3>
+<Vant4>AN_Audite_omnes</Vant4>
+<Vps4>ps65</Vps4>
+<Vant5>AN_In_ecclesiis</Vant5>
+<Vps5>ps67I</Vps5>
+<Vant6>AN_Confitebor_tibi</Vant6>
+<Vps6>ps67II</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia</Vant7>
+<Vps7>ps68I</Vps7>
+<Vant8/>
+<Vps8>ps68II</Vps8>
+<Vant9/>
+<Vps9>ps69</Vps9>
+<Vant10/>
+<Vps10>ps70</Vps10>
+<Vant11/>
+<Vps11>ps71</Vps11>
+<Vant12/>
+<Vps12>ps72</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Solis_o_Virgo_radiis_amicta</HYMNUS_laudes>
+<ant1>AN_Beata_es_Maria</ant1>
+<ps1>ps62</ps1>
+<ant2>AN_Exaltata_est_Virgo</ant2>
+<ps2>AT41</ps2>
+<ant3>AN_Nomen_tuum_ita</ant3>
+<ps3>ps149</ps3>
+<LB_matin>LB_Cf._Is_61_10</LB_matin> 
+<RB_matin>RB_Hodie_Maria_Virgo_Ad_caelos</RB_matin> <benedictus>AN_Pulchra_es</benedictus><laudes_preces>ASSUMPTIONE</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_qui_immaculatam_Virginem</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Quasi_cedrus_exaltata</ant4>
+<ps4>ps122</ps4>
+<ant5>AN_Caeli_reginam_Maria</ant5>
+<ps5>ps123</ps5>
+<ant6>AN_Exaltata_est_sancta</ant6>
+<ps6>ps124</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la>Ad II Vesperas</la></office_soir>
+<HYMNUS_vepres>hy_Gaudium_mundi_nova_stella_caeli</HYMNUS_vepres>
+<ant7>AN_Assumpta_est_Maria</ant7>
+<ps7>ps121</ps7>
+<ant8>AN_Maria_Virgo_assumpta</ant8>
+<ps8>ps126</ps8>
+<ant9>AN_Benedicta_filia_tu</ant9>
+<ps9>NT4</ps9>
+<LB_soir>LB_1_Cor_15_22-23</LB_soir>
+<RB_soir>RB_Maria_Virgo_exaltata_est_Super</RB_soir>
+<magnificat>AN_Hodie_Maria_Virgo</magnificat>
+<vepres_preces>ASSUMPTIONE</vepres_preces>
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_qui_immaculatam_Virginem</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
+<comp_ant1>AN_Esto_mihi_in_Deum</comp_ant1>
+<comp_ps1>ps30</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_Eph_4_26-27</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Domine_Iesu_Christe_qui_iugum_suave</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="08-15">
+<IN>IN_Vultum_tuum</IN><IN>IN_Signum_magnum</IN><IN>IN_Gaudeamus_Mariae</IN>
+
+<KY/>
+<GLO/><COL>COL_Omnipotens_sempiterne_Deus_qui_immaculatam_Virginem</COL>
+<LEC1>08-15</LEC1>	
+<PS1>GR_Benedicta_et_venerabilis</PS1>
+<LEC2>08-15</LEC2>
+<PS2>AL_Felix_es_sacra_Virgo</PS2>
+<SEQ/>
+<EV>EV_08-15</EV>
+<OF>OF_Beata_es_Virgo_Maria</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Beata_viscera</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SMK"><messe>08-15</messe><priorite>3</priorite><pV>1</pV><couleur>Blanc</couleur><reference>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</reference><sanctoral><la>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</la><fr>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XIX per annum</la><fr>XIX&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</la><fr>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</fr></intitule><rang><la>Sollemnitas</la><fr>Solennit&#xE9;</fr></rang><hebdomada_psalterium>3</hebdomada_psalterium><phase_lunaire>8,21</phase_lunaire><age_lunaire>26</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_34</psautier>
+		<psalterium>psalterium_34</psalterium>
+		<ferie>perannum_34</ferie>
+		<special/>
+		<propre>0815</propre>
+		<lettre_annee>B</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_34</psautier>
+		<psalterium>psalterium_34</psalterium>
+		<ferie>perannum_34</ferie>
+		<special/>
+		<propre>0815</propre>
+		<lettre_annee>B</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="IN ASSUMPTIONE BEAT&#xC6; MARI&#xC6; VIRGINIS"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Aurora_velut_fulgida</HYMNUS_lectures>
+<HYMNUS_lec_jour/>
+<antL1 id=""/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Da_nobis_Domine</Vant1>
+<Vps1>ps59</Vps1>
+<Vant2>AN_Dum_anxiaretur</Vant2>
+<Vps2>ps60</Vps2>
+<Vant3>AN_Benedicite_gentes</Vant3>
+<Vps3>ps61</Vps3>
+<Vant4>AN_Audite_omnes</Vant4>
+<Vps4>ps65</Vps4>
+<Vant5>AN_In_ecclesiis</Vant5>
+<Vps5>ps67I</Vps5>
+<Vant6>AN_Confitebor_tibi</Vant6>
+<Vps6>ps67II</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia</Vant7>
+<Vps7>ps68I</Vps7>
+<Vant8/>
+<Vps8>ps68II</Vps8>
+<Vant9/>
+<Vps9>ps69</Vps9>
+<Vant10/>
+<Vps10>ps70</Vps10>
+<Vant11/>
+<Vps11>ps71</Vps11>
+<Vant12/>
+<Vps12>ps72</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Solis_o_Virgo_radiis_amicta</HYMNUS_laudes>
+<ant1>AN_Beata_es_Maria</ant1>
+<ps1>ps62</ps1>
+<ant2>AN_Exaltata_est_Virgo</ant2>
+<ps2>AT41</ps2>
+<ant3>AN_Nomen_tuum_ita</ant3>
+<ps3>ps149</ps3>
+<LB_matin>LB_Cf._Is_61_10</LB_matin> 
+<RB_matin>RB_Hodie_Maria_Virgo_Ad_caelos</RB_matin> <benedictus>AN_Pulchra_es</benedictus><laudes_preces>ASSUMPTIONE</laudes_preces><oratio_laudes>COL_Omnipotens_sempiterne_Deus_qui_immaculatam_Virginem</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Nunc_Sancte_nobis_Spiritus</HYMNUS_3>
+<HYMNUS_6>hy_Rector_potens_verax_Deus</HYMNUS_6>
+<HYMNUS_9>hy_Rerum_Deus_tenax_vigor</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Quasi_cedrus_exaltata</ant4>
+<ps4>ps122</ps4>
+<ant5>AN_Caeli_reginam_Maria</ant5>
+<ps5>ps123</ps5>
+<ant6>AN_Exaltata_est_sancta</ant6>
+<ps6>ps124</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la>Ad II Vesperas</la></office_soir>
+<HYMNUS_vepres>hy_Gaudium_mundi_nova_stella_caeli</HYMNUS_vepres>
+<ant7>AN_Assumpta_est_Maria</ant7>
+<ps7>ps121</ps7>
+<ant8>AN_Maria_Virgo_assumpta</ant8>
+<ps8>ps126</ps8>
+<ant9>AN_Benedicta_filia_tu</ant9>
+<ps9>NT4</ps9>
+<LB_soir>LB_1_Cor_15_22-23</LB_soir>
+<RB_soir>RB_Maria_Virgo_exaltata_est_Super</RB_soir>
+<magnificat>AN_Hodie_Maria_Virgo</magnificat>
+<vepres_preces>ASSUMPTIONE</vepres_preces>
+<oratio_vepres>COL_Omnipotens_sempiterne_Deus_qui_immaculatam_Virginem</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
+<comp_ant1>AN_Esto_mihi_in_Deum</comp_ant1>
+<comp_ps1>ps30</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_Eph_4_26-27</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Domine_Iesu_Christe_qui_iugum_suave</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="08-15">
+<IN>IN_Vultum_tuum</IN><IN>IN_Signum_magnum</IN><IN>IN_Gaudeamus_Mariae</IN>
+
+<KY/>
+<GLO/><COL>COL_Omnipotens_sempiterne_Deus_qui_immaculatam_Virginem</COL>
+<LEC1>08-15</LEC1>	
+<PS1>GR_Benedicta_et_venerabilis</PS1>
+<LEC2>08-15</LEC2>
+<PS2>AL_Felix_es_sacra_Virgo</PS2>
+<SEQ/>
+<EV>EV_08-15</EV>
+<OF>OF_Beata_es_Virgo_Maria</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Beata_viscera</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><viergemarie>
+ <intitule> </intitule></viergemarie><jerusalem/><piete>
+ <intitule>Procession en l'honneur de la Vierge Marie, suite au v&#x153;u de Louis XIII</intitule></piete><calendriercivil>
+ <intitule>F&#xE9;ri&#xE9;</intitule></calendriercivil><journeesdediees>
+ <intitule/></journeesdediees><biographie>
+ <intitule>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</intitule>
+ <biographiecourte>Marie entra corps et &#xE2;me dans le paradis</biographiecourte>
+ <canonisebeatifie/>
+ <patronage>Patronne principale de la France </patronage></biographie><martyrologe/><compendium/></calendarium>

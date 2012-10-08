@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 15 augusti</la>
+<fr>Le 15 ao&#xFB;t</fr>
+</jour>
+<intitule>
+<la>IN ASSUMPTIONE BEAT&#xC6; MARI&#xC6; VIRGINIS</la>
+<fr>ASSOMPTION DE LA BIENHEUREUSE VIERGE MARIE</fr>
+</intitule>
+<rang>
+<la>Sollemnitas</la>
+<fr>Solennit&#xE9;</fr>
+</rang>
+<preces id="ASSUMPTIONE"/>
+<HYMNUS_1V id="hy_Gaudium_mundi_nova_stella_caeli"/>
+<ant01 id="AN_Ascendit_Christus_super"/>
+<ps01 id="ps112"/>
+<ant02 id="AN_Paradisi_porta_per"/>
+<ps02 id="ps147"/>
+<ant03 id="AN_Exaltata_est_Virgo"/>
+<ps03 id="NT4"/>
+<LB_1V id="LB_Rom_8_30"/>
+<RB_1V id="RB_Assumpta_est_Maria_in_caelum"/>
+<pmagnificat>
+<la>Be&#xE1;tam me dicent omnes generati&#xF3;nes, quia fecit mihi magna qui potens est, allel&#xFA;ia.</la>
+<fr>Toutes les g&#xE9;n&#xE9;rations me diront bienheureuse, car il a fait pour moi de grandes choses, celui qui est puissant, all&#xE9;luia.</fr>
+</pmagnificat>
+<oratio_1V id="COL_Deus_qui_beatam_Virginem_Mariam_eius"/>
+<ant_invit id="INV_Venite_adoremus_Regem"/>
+<HYMNUS_laudes id="hy_Solis_o_Virgo_radiis_amicta"/>
+<ant1 id="AN_Beata_es_Maria"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Exaltata_est_Virgo"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Nomen_tuum_ita"/>
+<ps3 id="ps149"/>
+<ant4 id="AN_Quasi_cedrus_exaltata"/>
+<ps4 id="ps122"/>
+<ant5 id="AN_Caeli_reginam_Maria"/>
+<ps5 id="ps123"/>
+<ant6 id="AN_Exaltata_est_sancta"/>
+<ps6 id="ps124"/>
+<LB_3 id="LB_Iudt_13_17-18"/>
+<RB_3 id="VERS_Assumpta_est_Maria_in_caelum"/>
+<LB_6 id="LB_Ap_12_1"/>
+<RB_6 id="VERS_Exaltata_est_sancta_Dei_Genetrix"/>
+<LB_9 id="LB_2_Cor_5_1"/>
+<RB_9 id="VERS_Maria_Virgo_assumpta_est_ad"/>
+<oratio id="COL_Omnipotens_sempiterne_Deus_qui_immaculatam_Virginem"/>
+<benedictus_A id="AN_Pulchra_es"/>
+<benedictus_B id="AN_Pulchra_es"/>
+<benedictus_C id="AN_Pulchra_es"/>
+<magnificat id="AN_Hodie_Maria_Virgo"/>
+<ant7 id="AN_Assumpta_est_Maria"/>
+<ps7 id="ps121"/>
+<ant8 id="AN_Maria_Virgo_assumpta"/>
+<ps8 id="ps126"/>
+<ant9 id="AN_Benedicta_filia_tu"/>
+<ps9 id="NT4"/>
+<LB_matin id="LB_Cf._Is_61_10"/>
+<RB_matin id="RB_Hodie_Maria_Virgo_Ad_caelos"/>
+<LB_soir id="LB_1_Cor_15_22-23"/>
+<RB_soir id="RB_Maria_Virgo_exaltata_est_Super"/>
+<HYMNUS_vesperas id="hy_Gaudium_mundi_nova_stella_caeli"/>
+<HYMNUS_lectures id="HY_Aurora_velut_fulgida"/>
+<HYMNUS_lec_jour id=""/>
+</liturgia>

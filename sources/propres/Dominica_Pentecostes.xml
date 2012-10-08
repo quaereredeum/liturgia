@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ps02 id="ps146"/>
+<ps03 id="NT4"/>
+<ant_invit id="INV_Alleluia_Spiritus_Domini"/>
+<intitule>
+<la>Dominica Pentecostes</la>
+<fr>Dimanche de la Pentec&#xF4;te</fr>
+</intitule>
+<rang>
+<la>Sollemnitas</la>
+<fr>Solennit&#xE9;</fr>
+</rang>
+<HYMNUS_laudes id="hy_Beata_nobis_gaudia"/>
+<ps1 id="ps62"/>
+<ps2 id="AT41"/>
+<ps3 id="ps149"/>
+<ant4 id="AN_Spiritus_Sanctus_procedens"/>
+<ps4 id="ps117I"/>
+<ant5 id="AN_Auge_in_nobis"/>
+<ps5 id="ps117II"/>
+<ant6 id="AN_Non_enim_vos"/>
+<ps6 id="ps117III"/>
+<ps8 id="ps113A"/>
+<HYMNUS_tertiam id="hy_Iam_Christus_astra_ascenderat"/>
+<LB_3 id="LB_1_Cor_12_13"/>
+<RB_3 id="VERS_Spiritus_Paraclitus_alleluia_Docebit"/>
+<HYMNUS_sextam id="hy_Venite_servi_supplices"/>
+<LB_6 id="LB_Tit_3_5b-7"/>
+<RB_6 id="VERS_Spiritus_Sanctus_docebit_vos_alleluia"/>
+<HYMNUS_nonam id="hy_Haec_hora_quae_resplenduit"/>
+<LB_9 id="LB_2_Cor_1_21-22"/>
+<RB_9 id="VERS_Loquebantur_variis_linguis_Apostoli_alleluia"/>
+<magnificat1_A id="AN_Veni_Sancte_Spiritus"/>
+<magnificat1_B id="AN_Veni_Sancte_Spiritus"/>
+<magnificat1_C id="AN_Veni_Sancte_Spiritus"/>
+<oratio_1V id="COL_Omnipotens_sempiterne_Deus_qui_paschale_sacramentum"/>
+<oratio3 id="COL_Praesta_quaesumus_omnipotens_Deus_ut_claritatis"/>
+<oratio6 id="COL_Praesta_quaesumus_omnipotens_Deus_ut_claritatis"/>
+<oratio9 id="COL_Praesta_quaesumus_omnipotens_Deus_ut_claritatis"/>
+<oratio id="COL_Deus_qui_sacramento_festivitatis_hodiernae_universam"/>
+<benedictus_A id="AN_Accipite_Spiritum_Sanctum"/>
+<benedictus_B id="AN_Accipite_Spiritum_Sanctum"/>
+<benedictus_C id="AN_Accipite_Spiritum_Sanctum"/>
+<magnificat2_A id="AN_Hodie_completi_sunt"/>
+<magnificat2_B id="AN_Hodie_completi_sunt"/>
+<magnificat2_C id="AN_Hodie_completi_sunt"/>
+<ant7 id="AN_Spiritus_Domini_replevit"/>
+<ant8 id="AN_Confirma_hoc_Deus"/>
+<ant9 id="AN_Repleti_sunt_omnes"/>
+<LB_matin id="LB_Act_5_30-32"/>
+<RB_matin id="RB_Repleti_sunt_omnes_Spiritu_Sancto"/>
+<LB_soir id="LB_Eph_4_3-6"/>
+<RB_soir id="RB_Spiritus_Domini_replevit_orbem_terrarum"/>
+</liturgia>

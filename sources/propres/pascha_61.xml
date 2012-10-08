@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Surrexit_Dominus_vere"/>
+<HYMNUS_laudes id="hy_Aurora_lucis_rutilat"/>
+<ant1 id="AN_Haec_dies_quam"/>
+<ant2 id="AN_Benedictus_es_in"/>
+<ant3 id="AN_Adorate_Deum_sedentem"/>
+<LB_matin id="LB_ap10.40-43"/>
+<RB_matin id="RB_Christe_Fili_Dei_vivi"/>
+<benedictus id="AN"/>
+<oratio_laudes id="COL"/>
+<preces_matin>
+<la>preces_II</la>
+</preces_matin>
+<HYMNUS_tertiam id="hy_Iam_surgit_hora_tertia"/>
+<HYMNUS_sextam id="hy_Venite_servi_supplices"/>
+<HYMNUS_nonam id="hy_Haec_hora_quae_resplenduit"/>
+<ant4 id="AN_Alleluia_alleluia_alleluia."/>
+<ant5 id="AN_Alleluia_alleluia_alleluia."/>
+<ant6 id="AN_Alleluia_alleluia_alleluia."/>
+<LB_3 id="LB_1_Cor_15_3b-5"/>
+<RB_3 id="VERS_Surrexit_Dominus_vere_alleluia"/>
+<oratio_3 id="COL"/>
+<LB_6 id="LB_Eph_2_4-6"/>
+<RB_6 id="VERS_Gavisi_sunt_discipuli_alleluia"/>
+<oratio_6 id="COL"/>
+<LB_9 id="LB_Rom_6_4"/>
+<RB_9 id="VERS_Mane_nobiscum_Domine_alleluia"/>
+<oratio_9 id="COL"/>
+<HYMNUS_vesperas id="hy_Ad_cenam_Agni_providi"/>
+<ant7 id="AN_Suscitavit_Christum_a"/>
+<ant8 id="AN_A_simulacris_conversi"/>
+<ant9 id="AN_Alleluia_salus_et"/>
+<LB_soir id="LB_Hebr_10_12-14"/>
+<RB_soir id="RB_Surrexit_Dominus_vere_Alleluia_alleluia"/>
+<magnificat id="AN"/>
+<oratio_vesperas id="COL"/>
+<preces_soir>
+<la>preces_III</la>
+</preces_soir>
+</liturgia>

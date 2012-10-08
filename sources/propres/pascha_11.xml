@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Surrexit_Dominus_vere"/>
+<HYMNUS_laudes id="hy_Aurora_lucis_rutilat"/>
+<ant1 id="AN_Surrexit_Christus_et"/>
+<ant2 id="AN_Redemptor_noster_surrexit"/>
+<ant3 id="AN_Alleluia_resurrexit_Dominus"/>
+<LB_matin id="LB_ap10.40-43"/>
+<RB_matin id="RB_Haec_dies_quam_fecit_Dominus"/>
+</liturgia>

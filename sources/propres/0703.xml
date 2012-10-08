@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 3 iulii</la>
+<fr>Le 3 juillet</fr>
+</jour>
+<intitule>
+<la>S. THOM&#xC6;, APOSTOLI</la>
+<fr>S. THOMAS, APOTRE</fr>
+</intitule>
+<rang>
+<la>Festum</la>
+<fr>F&#xEA;te</fr>
+</rang>
+<ant_invit id="INV_Regem_Apostolorum_Dominum"/>
+<HYMNUS_laudes id="hy_Qui_luce_splendes_ordinis"/>
+<ant1 id="AN_Dicit_Thomas_Domine"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Thomas_qui_dicitur"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Mitte_manum"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Eph_2_19-22"/>
+<RB_matin id="RB_Constitues_eos_principes_super_omnem"/>
+<benedictus id="AN_Quia_vidisti_me"/>
+<preces_matin>
+<la>preces_V</la>
+</preces_matin>
+<oratio id="COL_Da_nobis_omnipotens_Deus_beati_Thomae"/>
+<LB_3 id="LB_2_Cor_5_19_b-20"/>
+<RB_3 id="VERS_In_omnem_terram_exivit_sonus"/>
+<LB_6 id="LB_Act_5_12_a._14"/>
+<RB_6 id="VERS_Custodiebant_testimonia_Dei_Et_praecepta"/>
+<LB_9 id="LB_Act_5_41-42"/>
+<RB_9 id="VERS_Gaudete_et_exsultate_dicit_Dominus"/>
+<HYMNUS_vepres id="hy_Exsultet_caelum_laudibus"/>
+<ant7 id="AN_Dicit_Thomas_Domine"/>
+<ps7 id="ps115"/>
+<ant8 id="AN_Thomas_qui_dicitur"/>
+<ps8 id="ps125"/>
+<ant9 id="AN_Mitte_manum_tuam"/>
+<ps9 id="NT4"/>
+<LB_soir id="LB_Eph_4_11-13"/>
+<RB_soir id="RB_Annuntiate_inter_gentes_gloriam_Domini"/>
+<magnificat id="AN_Misi_digitos_meos"/>
+<preces_soir>
+<la>preces_VI</la>
+</preces_soir>
+</liturgia>

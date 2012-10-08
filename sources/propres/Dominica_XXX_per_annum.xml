@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XXX per annum</la>
+<fr>XXX&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Magister_quod_est"/>
+<magnificat1_B id="AN_Iter_faciente_Iesu"/>
+<magnificat1_C id="AN_Stans_a_longe"/>
+<oratio id="COL_Omnipotens_sempiterne_Deus_da_nobis_fidei"/>
+<benedictus_A id="AN_Diliges_proximum_tuum"/>
+<benedictus_B id="AN_Iesu_Fili_David"/>
+<benedictus_C id="AN_Descendit_publicanus_iustificatus"/>
+<magnificat2_A id="AN_Diliges_Dominum_Deum"/>
+<magnificat2_B id="AN_Ait_Iesus_caeco"/>
+<magnificat2_C id="AN_Omnis_qui_se"/>
+</liturgia>

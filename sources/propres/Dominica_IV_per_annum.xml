@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica IV per annum</la>
+<fr>IV&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Cum_vidisset_Iesus"/>
+<magnificat1_B id="AN_Stupebant_omnes_super"/>
+<magnificat1_C id="AN_Mirabantur_omnes_in"/>
+<oratio id="COL_Concede_nobis_Domine_Deus_noster_ut"/>
+<benedictus_A id="AN_Beati_mundo_corde"/>
+<benedictus_B id="AN_Conquirebant_inter_se"/>
+<benedictus_C id="AN_Amen_dico_vobis"/>
+<magnificat2_A id="AN_Beati_pacifici_quoniam"/>
+<magnificat2_B id="AN_Mirati_sunt_omnes"/>
+<magnificat2_C id="AN_Eiecerunt_Iesum_extra"/>
+</liturgia>

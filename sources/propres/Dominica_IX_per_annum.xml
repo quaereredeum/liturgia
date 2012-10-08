@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica IX per annum</la>
+<fr>IX&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Non_omnis_qui"/>
+<magnificat1_B id="AN_Sabbatum_propter_hominem"/>
+<magnificat1_C id="AN_Cum_audisset_centurio"/>
+<oratio id="COL_Deus_cuius_providentia_in_sui_dispositione"/>
+<benedictus_A id="AN_Omnis_qui_audit"/>
+<benedictus_B id="AN_Respondit_Iesus_pharisaeis"/>
+<benedictus_C id="AN_Domine_non_sum"/>
+<magnificat2_A id="AN_Flumina_et_venti"/>
+<magnificat2_B id="AN_Dicit_Iesus_homini"/>
+<magnificat2_C id="AN_Iesus_miratus_est"/>
+</liturgia>

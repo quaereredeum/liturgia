@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 3 maii</la>
+<fr>Le 3 mai</fr>
+</jour>
+<intitule>
+<la>SS. PHILIPPI ET IACOBI, APOSTOLORUM</la>
+<fr>SS. PHILIPPE ET JACQUES, APOTRES</fr>
+</intitule>
+<rang>
+<la>Festum</la>
+<fr>F&#xEA;te</fr>
+</rang>
+<ant_invit id="INV_Regem_Apostolorum_Dominum"/>
+<HYMNUS_laudes id="hy_Claro_paschali_gaudio"/>
+<ant1 id="AN_Domine_ostende_nobis"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Tanto_tempore_vobiscum"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Non_turbetur_cor"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Eph_2_19-22"/>
+<RB_matin id="RB_Constitues_eos_principes_super_omnem"/>
+<benedictus id="AN_Invenit_Philippus_Nathanael"/>
+<preces_matin>
+<la>preces_V</la>
+</preces_matin>
+<oratio id="COL_Deus_qui_nos_annua_apostolorum_Philippi"/>
+<LB_3 id="LB_2_Cor_5_19_b-20"/>
+<RB_3 id="VERS_In_omnem_terram_exivit_sonus"/>
+<LB_6 id="LB_Act_5_12_a._14"/>
+<RB_6 id="VERS_Custodiebant_testimonia_Dei_alleluia_Et"/>
+<LB_9 id="LB_Act_5_41-42"/>
+<RB_9 id="VERS_Gaudete_et_exsultate_alleluia_Quia"/>
+<HYMNUS_vepres id="hy_Tristes_erant_Apostoli"/>
+<ant7 id="AN_Philippe_qui_videt"/>
+<ps7 id="ps115"/>
+<ant8 id="AN_Si_cognovissetis_me"/>
+<ps8 id="ps125"/>
+<ant9 id="AN_Si_diligitis_me"/>
+<ps9 id="NT4"/>
+<LB_soir id="LB_Eph_4_11-13"/>
+<RB_soir id="RB_Annuntiate_inter_gentes_gloriam_Domini"/>
+<magnificat id="AN_Si_manseritis_in"/>
+<preces_soir>
+<la>preces_VI</la>
+</preces_soir>
+<HYMNUS_lectures id="HY_Philippe_summae_honoribus"/>
+<HYMNUS_lec_jour id=""/>
+</liturgia>

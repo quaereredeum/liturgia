@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>DOMINICA RESURRECTIONIS</la>
+<fr>DIMANCHE DE LA RESURECTION</fr>
+</intitule>
+<magnificat1_A id="AN_Et_valde_mane"/>
+<magnificat1_B id="AN_Et_valde_mane"/>
+<magnificat1_C id="AN_Et_valde_mane"/>
+<oratio id="COL_Deus_qui_hodierna_die_per_Unigenitum"/>
+<benedictus_A id="AN_Et_valde_mane"/>
+<benedictus_B id="AN_Et_valde_mane"/>
+<benedictus_C id="AN_Et_valde_mane"/>
+<magnificat2_A id="AN_Cum_esset_sero"/>
+<magnificat2_B id="AN_Cum_esset_sero"/>
+<magnificat2_C id="AN_Cum_esset_sero"/>
+</liturgia>

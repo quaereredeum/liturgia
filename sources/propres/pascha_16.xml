@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Surrexit_Dominus_vere"/>
+<HYMNUS_laudes id="hy_Aurora_lucis_rutilat"/>
+<ant1 id="AN_Surrexit_Christus_et"/>
+<ant2 id="AN_Redemptor_noster_surrexit"/>
+<ant3 id="AN_Alleluia_resurrexit_Dominus"/>
+<LB_matin id="LB_Act_5_30-32"/>
+<RB_matin id="RB_Haec_dies_quam_fecit_Dominus_exsultemus"/>
+<benedictus id="AN_Hoc_iam_tertio"/>
+<preces_matin>
+<la>preces_XVII</la>
+</preces_matin>
+<oratio id="COL_Omnipotens_sempiterne_Deus_qui_paschale_sacramentum"/>
+<HYMNUS_tertiam id="hy_Iam_surgit_hora_tertia"/>
+<HYMNUS_sextam id="hy_Venite_servi_supplices"/>
+<HYMNUS_nonam id="hy_Haec_hora_quae_resplenduit"/>
+<ant4 id="AN_Christus_surrexit_a"/>
+<ant5 id="AN_Traditus_est_propter"/>
+<ant6 id="AN_Si_consurrexistis_cum"/>
+<LB_3 id="LB_Act_2_32._36"/>
+<RB_3 id="VERS_Haec_dies_quam_fecit_Dominus"/>
+<LB_6 id="LB_Gal_3_27-28"/>
+<RB_6 id="VERS_Haec_dies_quam_fecit_Dominus"/>
+<LB_9 id="LB_1_Cor_5_7-8"/>
+<RB_9 id="VERS_Haec_dies_quam_fecit_Dominus"/>
+<HYMNUS_vesperas id="hy_Ad_cenam_Agni_providi"/>
+<ant7 id="AN_Venerunt_ad_monumentum"/>
+<ant8 id="AN_Venite_et_videte"/>
+<ant9 id="AN_Ait_Iesus_Nolite"/>
+<LB_soir id="LB_Hebr_5_8-10"/>
+<RB_soir id="RB_Haec_dies_quam_fecit_Dominus_exsultemus"/>
+<magnificat id="AN_Dixit_discipulus_ille"/>
+<preces_soir>
+<la>preces_XVIII</la>
+</preces_soir>
+</liturgia>

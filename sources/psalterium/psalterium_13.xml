@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Regem_magnum_Dominum"/>
+<HYMNUS_lectures id="HY_Consors_paterni_luminis"/>
+<HYMNUS_lec_jour id="HY_O_sacrosancta_Trinitas"/>
+<ant01 id="AN_Iudicabit_Dominus_in"/>
+<ps01 id="ps9BI"/>
+<ant02 id="AN_Tu_Domine_laborem"/>
+<ps02 id="ps9BII"/>
+<ant03 id="AN_Eloquia_Domini_eloquia"/>
+<ps03 id="ps11"/>
+<VERS id="VERS_Diriget_Dominus"/>
+<HYMNUS_laudes id="hy_Pergrata_mundo_nuntiat"/>
+<ant1 id="AN_Innocens_manibus_et"/>
+<ps1 id="ps23"/>
+<ant2 id="AN_Exaltate_Regem_saeculorum"/>
+<ant3 id="AN_Rectos_decet_collaudatio."/>
+<LB_matin id="LB_Rom_13_11b._12-13a"/>
+<RB_matin id="RB_Deus_meus_adiutor_meus"/>
+<benedictus id="AN_Erexit_nobis_Dominus"/>
+  <preces id="perannum_13"/>
+<oratio_laudes id="COL_Matutina_supplicum_vota_Domine_propitius_intuere"/>
+<HYMNUS_tertiam id="hy_Nunc_Sancte_nobis_Spiritus"/>
+<HYMNUS_sextam id="hy_Rector_potens_verax_Deus"/>
+<HYMNUS_nonam id="hy_Rerum_Deus_tenax_vigor"/>
+<ant4 id="AN_Beati_qui_ambulant"/>
+<ant5 id="AN_Exsultabit_cor_meum"/>
+<ant6 id="AN_Conclusit_Deus_omnia"/>
+<LB_3 id="LB_Ier_17_7-8"/>
+<RB_3 id="VERS_Dominus_non"/>
+<oratio_3 id="COL_Omnipotens_sempiterne_Deus_qui_Paraclitum_Sanctum"/>
+<LB_6 id="LB_Prov_3_13-15"/>
+<RB_6 id="VERS_Domine_veritatem"/>
+<oratio_6 id="COL_Deus_qui_Petro_salvificum_tuum_super"/>
+<LB_9 id="LB_Iob_5_17-18"/>
+<RB_9 id="VERS_Fac_cum"/>
+<oratio_9 id="COL_Deus_qui_Cornelio_centurioni_angelum_tuum"/>
+<HYMNUS_vesperas id="hy_Telluris_ingens_conditor"/>
+<ant7 id="AN_Tribuit_Dominus_victoriam"/>
+<ant8 id="AN_Cantabimus_et_psallemus"/>
+<ant9 id="AN_Fecisti_nos_Domine"/>
+<LB_soir id="LB_Col_1_9b-11"/>
+<RB_soir id="RB_In_aeternum_Domine"/>
+<magnificat id="AN_Exsultet_spiritus_meus"/>
+<oratio_vesperas id="COL_Gratias_tibi_agimus_Domine_Deus_omnipotens"/>
+<preces_soir>
+<la>Christo D&#xF3;mino, in m&#xE9;dio nostri viv&#xE9;nti, nos, p&#xF3;pulus eius acquisiti&#xF3;nis, laudes persolv&#xE1;mus et supplic&#xE9;mus dic&#xE9;ntes: 
+R/. Ad laudem tuam ex&#xE1;udi nos, D&#xF3;mine.
+D&#xF3;mine, rex et domin&#xE1;tor g&#xE9;ntium, ad&#xE9;sto p&#xF3;pulis et &#xF3;mnibus potest&#xE1;tem hab&#xE9;ntibus,
+&#x2014; ut comm&#xFA;ne bonum iuxta legem tuam conc&#xF3;rditer persequ&#xE1;ntur.
+Tu, qui capt&#xED;vam dux&#xED;sti nostram captivit&#xE1;tem, 
+&#x2014; rest&#xED;tue ad fili&#xF3;rum libert&#xE1;tem fratres, qui c&#xF3;rpore vel sp&#xED;ritu captivit&#xE1;tem pati&#xFA;ntur.
+Semper irreprehens&#xED;biles i&#xFA;venes nostri tibi s&#xE1;tagant inven&#xED;ri, 
+&#x2014; et tibi voc&#xE1;nti magnan&#xED;miter obsec&#xFA;ndent.
+Fac ut ex&#xE9;mplum tuum p&#xFA;eri imit&#xE9;ntur, 
+&#x2014; atque sapi&#xE9;ntia et gr&#xE1;tia semper prof&#xED;ciant.
+Def&#xFA;ncti in regnum suscipi&#xE1;ntur &#xE6;t&#xE9;rnum, 
+&#x2014; ubi nos tecum conregnat&#xFA;ros sper&#xE1;mus.</la>
+</preces_soir>
+<HYMNUS_completorium id="HY_Te_lucis"/>
+<ant10 id="AN_Non_abscondas_faciem"/>
+<ps10 id="ps142"/>
+<LB_complies id="LB_1_Petr_5_8-9_a"/>
+<ps1 id="ps23"/>
+<ps2 id="AT5"/>
+<ps3 id="ps32"/>
+<ps4 id="ps118I"/>
+<ps5 id="ps12"/>
+<ps6 id="ps13"/>
+<ps7 id="ps19"/>
+<ps8 id="ps20"/>
+<ps9 id="NT9"/>
+<ant10 id="AN_Esto_mihi_in"/>
+<ps10 id="ps20"/>
+<ant11 id="AN_De_profundis"/>
+<ps11 id="ps129"/>
+<HYMNUS_completorium id="HY_Te_lucis_ante_terminum"/>
+<ant10 id="AN_Non_abscondas_faciem"/>
+<ps10 id="ps142"/>
+<LB_completorium id="LB_1_Petr_5_8-9_a"/>
+<RB_completorium id="RB_In_manus_tuas"/>
+<AM id="AM_Salve_regina"/>
+<ant11 id="AN_Salva_nos_Domine"/>
+<oratio_compeltorium id="COL_Noctem_istam_quaesumus_Domine"/>
+<LB_osb_vigiles id="LB_Iac_5_8_10-11a"/>
+<RB_osb_vigiles id="RB_Bonitatem_et_prudentiam"/>
+</liturgia>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 10 novembris</la>
+<fr>Le 10 novembre</fr>
+</jour>
+<intitule>
+<la>S. LEONIS MAGNI, PAP&#xC6; ET ECCLESI&#xC6; DOCTORIS</la>
+<fr>S. LEON LE GRAND, PAPE ET DOCTEUR DE L'EGLISE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Fontem_sapientiae_Dominum"/>
+<HYMNUS_laudes id="hy_Doctor_aeternus_coleris_piusque"/>
+<LB_matin id="LB_Sap_7_13-14"/>
+<RB_matin id="RB_Sapientiam_sanctorum_Narrent_populi"/>
+<benedictus id="AN_Beatus_Petrus_in"/>
+<oratio id="COL_Deus_qui_adversus_Ecclesiam_tuam_in"/>
+<HYMNUS_vesperas id="hy_Aterne_sol_qui_lumine"/>
+<LB_soir id="LB_Iac_3_17-18"/>
+<RB_soir id="RB_In_medio_Ecclesiae_Aperuit"/>
+<magnificat id="AN_Cotidie_Petrus_dicit"/>
+</liturgia>

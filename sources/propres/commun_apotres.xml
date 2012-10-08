@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Regem_Apostolorum_Dominum"/>
+<ant1 id="AN_Hoc_est_praeceptum"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Maiorem_caritatem_nemo"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Vos_amici_mei"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Eph_2_19-22"/>
+<RB_matin id="RB_Constitues_eos_principes_Super"/>
+<benedictus id="AN_In_fundamentis_civitatis"/>
+<preces_matin>commune_apostolorum</preces_matin>
+<LB_3 id="LB_2_Cor_5_19_b-20"/>
+<RB_3 id="VERS_In_omnem_terram_exivit_sonus"/>
+<LB_6 id="LB_Act_5_12_a._14"/>
+<RB_6 id="VERS_Custodiebant_testimonia_Dei_Et_praecepta"/>
+<LB_9 id="LB_Act_5_41-42"/>
+<RB_9 id="VERS_Gaudete_et_exsultate_dicit_Dominus"/>
+<HYMNUS_vesperas id="hy_Exsultet_caelum_laudibus"/>
+<ant4 id="AN_Euntes_praedicate_Evangelium"/>
+<ant5 id="AN_Ecce_ego_vobiscum"/>
+<ant6 id="AN_In_patientia_vestra"/>
+<ant7 id="AN_Vos_estis_qui"/>
+<ps7 id="ps115"/>
+<ant8 id="AN_Ego_in_medio"/>
+<ps8 id="ps125"/>
+<ant9 id="AN_Iam_non_dicam"/>
+<ps9 id="NT4"/>
+<LB_soir id="LB_Eph_4_11-13"/>
+<RB_soir_TP id="RB_Annuntiate_inter_gentes_gloriam_Domini"/>
+<RB_soir id="RB_Annuntiate_inter_gentes_gloriam"/>
+<magnificat id="AN_In_regeneratione_cum"/>
+<preces_soir>commune_apostolorum</preces_soir>
+<HYMNUS_lectures id="HY_O_sempiternae_curiae"/>
+<HYMNUS_lec_jour id=""/>
+<ant01 id="AN_In_omnem_terram"/>
+<ps01 id="ps18A"/>
+<ant02 id="AN_Annuntiaverunt_opera_Dei"/>
+<ps02 id="ps63"/>
+<ant03 id="AN_Annuntiaverunt_iustitiam_eius"/>
+<ps03 id="ps96"/>
+<vers>
+<la>V/. Narrav&#xE9;runt laudes D&#xF3;mini et virt&#xFA;tes eius. 
+R/. Et mirab&#xED;lia eius qu&#xE6; fecit.</la>
+</vers>
+<lec1>
+<la>De Ep&#xED;stola prima be&#xE1;ti Pauli ap&#xF3;stoli ad Cor&#xED;nthios 4, 1-16
+Imitatores simus Apostoli, sicut Apostolus imitator est Christi
+Fratres: Sic nos ex&#xED;stimet homo ut min&#xED;stros Christi et dispensat&#xF3;res mysteri&#xF3;rum Dei. Hic iam qu&#xE6;ritur inter dispensat&#xF3;res, ut fid&#xE9;lis quis inveni&#xE1;tur. Mihi autem pro m&#xED;nimo est, ut a vobis i&#xFA;dicer aut ab hum&#xE1;no die. Sed neque me&#xED;psum i&#xFA;dico; nihil enim mihi c&#xF3;nscius sum, sed non in hoc iustific&#xE1;tus sum. Qui autem i&#xFA;dicat me, D&#xF3;minus est! Itaque nol&#xED;te ante tempus quidquam iudic&#xE1;re, quoad&#xFA;sque v&#xE9;niat D&#xF3;minus, qui et illumin&#xE1;bit absc&#xF3;ndita tenebr&#xE1;rum et manifest&#xE1;bit cons&#xED;lia c&#xF3;rdium; et tunc laus erit unicu&#xED;que a Deo.
+H&#xE6;c autem, fratres, transfigur&#xE1;vi in me et Ap&#xF3;llo propter vos, ut in nobis disc&#xE1;tis illud: &#xAB;Ne supra qu&#xE6; scripta sunt&#xBB;, ne unus pro &#xE1;lio infl&#xE9;mini adv&#xE9;rsus &#xE1;lterum. Quis enim te disc&#xE9;rnit? Quid autem habes, quod non accep&#xED;sti? Si autem accep&#xED;sti, quid glori&#xE1;ris, quasi non acc&#xE9;peris?
+Iam satur&#xE1;ti estis, iam d&#xED;vites facti estis. Sine nobis regn&#xE1;stis; et &#xFA;tinam regnar&#xE9;tis, ut et nos vob&#xED;scum regnar&#xE9;mus. Puto enim, Deus nos ap&#xF3;stolos nov&#xED;ssimos ost&#xE9;ndit tamquam morti destin&#xE1;tos, quia spect&#xE1;culum facti sumus mundo et &#xE1;ngelis et hom&#xED;nibus. Nos stulti propter Christum, vos autem prud&#xE9;ntes in Christo; nos inf&#xED;rmi, vos autem fortes; vos glori&#xF3;si, nos autem ign&#xF3;biles. Usque in hanc horam et esur&#xED;mus et sit&#xED;mus et nudi sumus et c&#xF3;laphis c&#xE6;dimur et inst&#xE1;biles sumus et labor&#xE1;mus oper&#xE1;ntes m&#xE1;nibus nostris; maled&#xED;cti bened&#xED;cimus, persecuti&#xF3;nem passi sustin&#xE9;mus, blasphem&#xE1;ti obsecr&#xE1;mus; tamquam purgam&#xE9;nta mundi facti sumus, &#xF3;mnium perips&#xE9;ma, usque adhuc.
+Non ut conf&#xFA;ndam vos, h&#xE6;c scribo, sed ut quasi f&#xED;lios meos car&#xED;ssimos m&#xF3;neam; nam si decem m&#xED;lia p&#xE6;dagog&#xF3;rum habe&#xE1;tis in Christo, sed non multos patres, nam in Christo Iesu per evang&#xE9;lium ego vos g&#xE9;nui. Rogo ergo vos: imitat&#xF3;res mei est&#xF3;te!
+</la>
+</lec1>
+<resp1>
+<la>R/. Iam non dicam vos servos, vos autem dixi am&#xED;cos, * Quia &#xF3;mnia qu&#xE6; aud&#xED;vi a Patre meo, nota feci vobis.
+V/. Vobis datum est nosse myst&#xE9;ria regni c&#xE6;l&#xF3;rum; vestri be&#xE1;ti &#xF3;culi quia vident, et aures quia &#xE1;udiunt. * Quia.</la>
+</resp1>
+</liturgia>

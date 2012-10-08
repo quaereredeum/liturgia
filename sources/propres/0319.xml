@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Laudemus_Christum_Dominum"/>
+<jour>
+<la>Die 19 martii</la>
+<fr>Le 19 mars (ou une date report&#xE9;e)</fr>
+</jour>
+<intitule>
+<la>S. IOSEPH, SPONSI BEAT&#xC6; MARI&#xC6; VIRGINIS</la>
+<fr>S. JOSEPH, EPOUX DE LA BIENHEUREUSE VIERGE MARIE</fr>
+</intitule>
+<rang>
+<la>Sollemnitas</la>
+<fr>Solennit&#xE9;</fr>
+</rang>
+<HYMNUS_1V id="hy_Te_Ioseph_celebrent_agmina_caelitum"/>
+<ant01 id="AN_Iacob_genuit_Ioseph"/>
+<ps01 id="ps112"/>
+<ant02 id="AN_Missus_est_angelus"/>
+<ps02 id="ps145"/>
+<ant03 id="AN_Cum_esset_desponsata"/>
+<ps03 id="NT4"/>
+<LB_1V id="LB_Col_3_23-24"/>
+<RB_1V id="RB_Iustus_germinabit_Sicut_lilium"/>
+<magnificat_1V id="AN_Ecce_fidelis_servus"/>
+<HYMNUS_laudes id="hy_Caelitum_Ioseph_decus_atque_nostrae"/>
+<ant1 id="AN_Venerunt_pastores_festinantes"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Erant_Ioseph_et"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Consurgens_Ioseph_accepit"/>
+<ps3 id="ps149"/>
+<ant4 id="AN_Ibant_parentes_Iesu"/>
+<ps4 id="ps122"/>
+<ant5 id="AN_Cum_redirent_remansit"/>
+<ps5 id="ps123"/>
+<ant6 id="AN_Non_invenientes_Iesum"/>
+<ps6 id="ps124"/>
+<LB_3 id="LB_Prov_2_7-8"/>
+<RB_3 id="VERS_Constituit_eum_dominum_domus_suae"/>
+<LB_6 id="LB_Cf_Sap_10-10"/>
+<RB_6 id="VERS_Gloria_et_divitiae_in_domo"/>
+<LB_9 id="LB_Sir_2_18-19"/>
+<RB_9 id="VERS_Magna_est_gloria_eius_in"/>
+<oratio id="COL_Praesta_quaesumus_omnipotens_Deus_ut_humanae"/>
+<benedictus id="AN_Ioseph_habitavit_in"/>
+<magnificat id="AN_Ipse_Iesus_erat"/>
+<ant7 id="AN_Invenerunt_Iesum_parentes"/>
+<ps7 id="ps14"/>
+<ant8 id="AN_Libenter_gloriabor_in"/>
+<ps8 id="ps111"/>
+<ant9 id="AN_Tu_es_pastor"/>
+<ps9 id="NT11"/>
+<LB_matin id="LB_2_Sam_7_28-29"/>
+<RB_matin id="RB_Constituit_eum_Dominum_domus"/>
+<LB_soir id="LB_Col_3_23-24"/>
+<RB_soir id="RB_Iustus_germinabit_Sicut_lilium"/>
+<HYMNUS_vepres id="hy_Te_Ioseph_celebrent_agmina_caelitum"/>
+</liturgia>

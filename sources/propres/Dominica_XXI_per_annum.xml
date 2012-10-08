@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XXI per annum</la>
+<fr>XXI&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Tu_es_Christus"/>
+<magnificat1_B id="AN_Spiritus_est_qui"/>
+<magnificat1_C id="AN_Contendite_intrare_per"/>
+<oratio id="COL_Deus_qui_fidelium_mentes_unius_efficis"/>
+<benedictus_A id="AN_Tu_es_Petrus"/>
+<benedictus_B id="AN_Nemo_potest_venire"/>
+<benedictus_C id="AN_Multi_ab_oriente"/>
+<magnificat2_A id="AN_Quodcumque_ligaveris_super"/>
+<magnificat2_B id="AN_Domine_ad_quem"/>
+<magnificat2_C id="AN_Ecce_sunt_novissimi"/>
+</liturgia>

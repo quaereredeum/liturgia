@@ -1,0 +1,653 @@
+<?xml version="1.0"?>
+<mois><ordo id="RE">
+		<jour date="20130301">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130302">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130303">
+		<intitule>
+		<la>Dominica III Quadragesimae</la>
+		<fr>III&#xE8;me dimanche de Car&#xEA;me</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130304">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130305">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130306">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130307">
+		<intitule>
+		<la>Ss. Perpetuae et Felicitatis, martyrum</la>
+		<fr>Ste Perp&#xE9;tue et Ste F&#xE9;licit&#xE9;, martyres</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130308">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130309">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130310">
+		<intitule>
+		<la>Dominica IV Quadragesimae</la>
+		<fr>IV&#xE8;me dimanche de Car&#xEA;me</fr>
+		</intitule>
+		<couleur>Rose</couleur>
+		</jour>
+		<jour date="20130311">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130312">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130313">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130314">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130315">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130316">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130317">
+		<intitule>
+		<la>Dominica V Quadragesimae</la>
+		<fr>V&#xE8;me dimanche de Car&#xEA;me</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130318">
+		<intitule>
+		<la>S. Cyrilli Hierosolymitani, episcopi et Ecclesiae doctoris</la>
+		<fr>St Cyrille de J&#xE9;rusalem, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130319">
+		<intitule>
+		<la>S. IOSEPH, SPONSI B. M. V.</la>
+		<fr>ST JOSEPH, EPOUX DE LA BIENHEUREUSE VIERGE MARIE</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130320">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130321">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130322">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130323">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130324">
+		<intitule>
+		<la>DOMINICA IN PALMIS DE PASSIONE DOMINI</la>
+		<fr>DIMANCHE DES RAMEAUX ET DE LA PASSION DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130325">
+		<intitule>
+		<la>Feria II hebdomadae sanctae</la>
+		<fr>Lundi de la semaine sainte</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130326">
+		<intitule>
+		<la>Feria III hebdomadae sanctae</la>
+		<fr>Mardi de la semaine sainte</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130327">
+		<intitule>
+		<la>Feria IV hebdomadae sanctae</la>
+		<fr>Mercredi de la semaine sainte</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130328">
+		<intitule>
+		<la>IN CENA DOMINI</la>
+		<fr>CENE DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130329">
+		<intitule>
+		<la>IN PASSIONE DOMINI</la>
+		<fr>PASSION DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130330">
+		<intitule>
+		<la>Sabbato Sancto</la>
+		<fr>Samedi Saint</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130331">
+		<intitule>
+		<la>DOMINICA RESURRECTIONIS</la>
+		<fr>DIMANCHE DE LA RESURRECTION</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour></ordo><ordo id="SWF">
+		<jour date="20130301">
+		<intitule>
+		<la>Sts moines de Fontenelle</la>
+		<fr>Sts moines de Fontenelle</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130302">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130303">
+		<intitule>
+		<la>Dominica III Quadragesimae</la>
+		<fr>III&#xE8;me dimanche de Car&#xEA;me</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130304">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130305">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130306">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130307">
+		<intitule>
+		<la>Ss. Perpetuae et Felicitatis, martyrum</la>
+		<fr>Ste Perp&#xE9;tue et Ste F&#xE9;licit&#xE9;, martyres</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130308">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130309">
+		<intitule>
+		<la>S. Franciscae Romanae, religiosae O.N.</la>
+		<fr>S. Franciscae Romanae, religiosae O.N.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130310">
+		<intitule>
+		<la>Dominica IV Quadragesimae</la>
+		<fr>IV&#xE8;me dimanche de Car&#xEA;me</fr>
+		</intitule>
+		<couleur>Rose</couleur>
+		</jour>
+		<jour date="20130311">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130312">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130313">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130314">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130315">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130316">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130317">
+		<intitule>
+		<la>Dominica V Quadragesimae</la>
+		<fr>V&#xE8;me dimanche de Car&#xEA;me</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130318">
+		<intitule>
+		<la>S. Cyrilli Hierosolymitani, episcopi et Ecclesiae doctoris</la>
+		<fr>St Cyrille de J&#xE9;rusalem, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130319">
+		<intitule>
+		<la>S. IOSEPH, SPONSI B. M. V.</la>
+		<fr>ST JOSEPH, EPOUX DE LA BIENHEUREUSE VIERGE MARIE</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130320">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130321">
+		<intitule>
+		<la>TRANSITUS S. PATRIS NOSTRI P. BENEDICTI</la>
+		<fr>TRANSITUS S. PATRIS NOSTRI P. BENEDICTI</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130322">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130323">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130324">
+		<intitule>
+		<la>DOMINICA IN PALMIS DE PASSIONE DOMINI</la>
+		<fr>DIMANCHE DES RAMEAUX ET DE LA PASSION DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130325">
+		<intitule>
+		<la>Feria II hebdomadae sanctae</la>
+		<fr>Lundi de la semaine sainte</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130326">
+		<intitule>
+		<la>Feria III hebdomadae sanctae</la>
+		<fr>Mardi de la semaine sainte</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130327">
+		<intitule>
+		<la>Feria IV hebdomadae sanctae</la>
+		<fr>Mercredi de la semaine sainte</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130328">
+		<intitule>
+		<la>IN CENA DOMINI</la>
+		<fr>CENE DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130329">
+		<intitule>
+		<la>IN PASSIONE DOMINI</la>
+		<fr>PASSION DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130330">
+		<intitule>
+		<la>Sabbato Sancto</la>
+		<fr>Samedi Saint</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130331">
+		<intitule>
+		<la>DOMINICA RESURRECTIONIS</la>
+		<fr>DIMANCHE DE LA RESURRECTION</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour></ordo><ordo id="SMK">
+		<jour date="20130301">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130302">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130303">
+		<intitule>
+		<la>Dominica III Quadragesimae</la>
+		<fr>III&#xE8;me dimanche de Car&#xEA;me</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130304">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130305">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130306">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130307">
+		<intitule>
+		<la>Ss. Perpetuae et Felicitatis, martyrum</la>
+		<fr>Ste Perp&#xE9;tue et Ste F&#xE9;licit&#xE9;, martyres</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130308">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130309">
+		<intitule>
+		<la>S. Franciscae Romanae, religiosae O.N.</la>
+		<fr>S. Franciscae Romanae, religiosae O.N.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130310">
+		<intitule>
+		<la>Dominica IV Quadragesimae</la>
+		<fr>IV&#xE8;me dimanche de Car&#xEA;me</fr>
+		</intitule>
+		<couleur>Rose</couleur>
+		</jour>
+		<jour date="20130311">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130312">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130313">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130314">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130315">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130316">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130317">
+		<intitule>
+		<la>Dominica V Quadragesimae</la>
+		<fr>V&#xE8;me dimanche de Car&#xEA;me</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130318">
+		<intitule>
+		<la>S. Cyrilli Hierosolymitani, episcopi et Ecclesiae doctoris</la>
+		<fr>St Cyrille de J&#xE9;rusalem, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130319">
+		<intitule>
+		<la>S. IOSEPH, SPONSI B. M. V.</la>
+		<fr>ST JOSEPH, EPOUX DE LA BIENHEUREUSE VIERGE MARIE</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130320">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130321">
+		<intitule>
+		<la>TRANSITUS S. PATRIS NOSTRI P. BENEDICTI</la>
+		<fr>TRANSITUS S. PATRIS NOSTRI P. BENEDICTI</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130322">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130323">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130324">
+		<intitule>
+		<la>DOMINICA IN PALMIS DE PASSIONE DOMINI</la>
+		<fr>DIMANCHE DES RAMEAUX ET DE LA PASSION DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130325">
+		<intitule>
+		<la>Feria II hebdomadae sanctae</la>
+		<fr>Lundi de la semaine sainte</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130326">
+		<intitule>
+		<la>Feria III hebdomadae sanctae</la>
+		<fr>Mardi de la semaine sainte</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130327">
+		<intitule>
+		<la>Feria IV hebdomadae sanctae</la>
+		<fr>Mercredi de la semaine sainte</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130328">
+		<intitule>
+		<la>IN CENA DOMINI</la>
+		<fr>CENE DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20130329">
+		<intitule>
+		<la>IN PASSIONE DOMINI</la>
+		<fr>PASSION DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20130330">
+		<intitule>
+		<la>Sabbato Sancto</la>
+		<fr>Samedi Saint</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20130331">
+		<intitule>
+		<la>DOMINICA RESURRECTIONIS</la>
+		<fr>DIMANCHE DE LA RESURRECTION</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour></ordo></mois>

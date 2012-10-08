@@ -1,0 +1,679 @@
+<?xml version="1.0"?>
+<calendarium><ordo id="RE"><messe>06-29-in-die</messe><priorite>4</priorite><pV>1</pV><couleur>Rouge</couleur><reference>Ss. PETRI ET PAULI, APOSTOLORUM</reference><sanctoral><la>Ss. PETRI ET PAULI, APOSTOLORUM</la><fr>STS PIERRE ET PAUL, APOTRES</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XII per annum</la><fr>XII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>Ss. PETRI ET PAULI, APOSTOLORUM</la><fr>STS PIERRE ET PAUL, APOTRES</fr></intitule><rang><la>Sollemnitas</la><fr>Solennit&#xE9;</fr></rang><hebdomada_psalterium>4</hebdomada_psalterium><phase_lunaire>63,14</phase_lunaire><age_lunaire>20</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_47</psautier>
+		<psalterium>psalterium_47</psalterium>
+		<ferie>perannum_47</ferie>
+		<special/>
+		<propre>0629</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_47</psautier>
+		<psalterium>psalterium_47</psalterium>
+		<ferie>perannum_47</ferie>
+		<special/>
+		<propre>0629</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres>0</premieresvepres>
+		<cel/>	
+	</soir>	
+<intitule_matin id="SS. PETRI ET PAULI, APOSTOLORUM"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Felix_per_omnes_festum_mundi_cardines</HYMNUS_lectures>
+<HYMNUS_lec_jour/>
+<antL1 id=""/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Clamor_meus</Vant1>
+<Vps1>ps101</Vps1>
+<Vant2>AN_Benedic_anima_mea</Vant2>
+<Vps2>ps102</Vps2>
+<Vant3>AN_Domine_Deus_meus</Vant3>
+<Vps3>ps103I</Vps3>
+<Vant4>AN_Quam_magnificata_sunt</Vant4>
+<Vps4>ps103II</Vps4>
+<Vant5>AN_Laetetur_cor</Vant5>
+<Vps5>ps104I</Vps5>
+<Vant6>AN_Eduxit_Deus</Vant6>
+<Vps6>ps104II</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia</Vant7>
+<Vps7>ps105I</Vps7>
+<Vant8/>
+<Vps8>ps105II</Vps8>
+<Vant9/>
+<Vps9>ps106I</Vps9>
+<Vant10/>
+<Vps10>ps106II</Vps10>
+<Vant11/>
+<Vps11>ps107</Vps11>
+<Vant12/>
+<Vps12>ps108</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Apostolorum_passio</HYMNUS_laudes>
+<ant1>AN_Scio_cui_credidi</ant1>
+<ps1>ps62</ps1>
+<ant2>AN_Gratia_Dei_in</ant2>
+<ps2>AT41</ps2>
+<ant3>AN_Bonum_certamen_certavi</ant3>
+<ps3>ps149</ps3>
+<LB_matin>LB_1_Petr_4_13-14</LB_matin> 
+<RB_matin>RB_Tradiderunt_animas_suas_Pro</RB_matin> <benedictus>AN_Dixit_Simon_Petrus</benedictus><laudes_preces>perannum_47</laudes_preces><oratio_laudes>COL_Deus_qui_huius_diei_venerandam_sanctamque</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Adhuc_loquente_Petro</ant4>
+<ps4>ps122</ps4>
+<ant5>AN_Ascendit_Petrus_in</ant5>
+<ps5>ps123</ps5>
+<ant6>AN_Petrus_et_Ioannes</ant6>
+<ps6>ps124</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>Ss. PETRI ET PAULI, APOSTOLORUM</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la>Ad II Vesperas</la></office_soir>
+<HYMNUS_vepres>hy_Deus_creator_omnium</HYMNUS_vepres>
+<ant7>AN_Ego_pro_te</ant7>
+<ps7>ps115</ps7>
+<ant8>AN_Libenter_gloriabor_in</ant8>
+<ps8>ps125</ps8>
+<ant9>AN_Tu_es_pastor</ant9>
+<ps9>NT4</ps9>
+<LB_soir>LB_1_Cor_15_3-5._8</LB_soir>
+<RB_soir>RB_Loquebantur_Apostoli_verbum_Dei_</RB_soir>
+<magnificat>AN_Petrus_apostolus_et</magnificat>
+<vepres_preces>perannum_47</vepres_preces>
+<oratio_vepres>COL_Deus_qui_huius_diei_venerandam_sanctamque</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+<comp_ps1>ps4</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Visita_nos_quaesumus_Domine_hac_nocte</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="06-29-in-die">
+<IN>IN_Nunc_scio_vere</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_qui_huius_diei_venerandam_sanctamque</COL>
+<LEC1>06-29-in-die</LEC1>	
+<PS1>GR_Constitues_eos</PS1>
+<LEC2>06-29-in-die</LEC2>
+<PS2>AL_Tu_es_Petrus</PS2>
+<SEQ/>
+<EV>EV_06-29-in-die</EV>
+<OF>OF_Constitues_eos</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Tu_es_Petrus</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SWF"><messe>06-29-in-die</messe><priorite>4</priorite><pV>1</pV><couleur>Rouge</couleur><reference>Ss. PETRI ET PAULI, APOSTOLORUM</reference><sanctoral><la>Ss. PETRI ET PAULI, APOSTOLORUM</la><fr>STS PIERRE ET PAUL, APOTRES</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XII per annum</la><fr>XII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>Ss. PETRI ET PAULI, APOSTOLORUM</la><fr>STS PIERRE ET PAUL, APOTRES</fr></intitule><rang><la>Sollemnitas</la><fr>Solennit&#xE9;</fr></rang><hebdomada_psalterium>4</hebdomada_psalterium><phase_lunaire>63,14</phase_lunaire><age_lunaire>20</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_47</psautier>
+		<psalterium>psalterium_47</psalterium>
+		<ferie>perannum_47</ferie>
+		<special/>
+		<propre>0629</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_47</psautier>
+		<psalterium>psalterium_47</psalterium>
+		<ferie>perannum_47</ferie>
+		<special/>
+		<propre>0629</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres>0</premieresvepres>
+		<cel/>	
+	</soir>	
+<intitule_matin id="SS. PETRI ET PAULI, APOSTOLORUM"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Felix_per_omnes_festum_mundi_cardines</HYMNUS_lectures>
+<HYMNUS_lec_jour/>
+<antL1 id=""/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Clamor_meus</Vant1>
+<Vps1>ps101</Vps1>
+<Vant2>AN_Benedic_anima_mea</Vant2>
+<Vps2>ps102</Vps2>
+<Vant3>AN_Domine_Deus_meus</Vant3>
+<Vps3>ps103I</Vps3>
+<Vant4>AN_Quam_magnificata_sunt</Vant4>
+<Vps4>ps103II</Vps4>
+<Vant5>AN_Laetetur_cor</Vant5>
+<Vps5>ps104I</Vps5>
+<Vant6>AN_Eduxit_Deus</Vant6>
+<Vps6>ps104II</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia</Vant7>
+<Vps7>ps105I</Vps7>
+<Vant8/>
+<Vps8>ps105II</Vps8>
+<Vant9/>
+<Vps9>ps106I</Vps9>
+<Vant10/>
+<Vps10>ps106II</Vps10>
+<Vant11/>
+<Vps11>ps107</Vps11>
+<Vant12/>
+<Vps12>ps108</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Apostolorum_passio</HYMNUS_laudes>
+<ant1>AN_Scio_cui_credidi</ant1>
+<ps1>ps62</ps1>
+<ant2>AN_Gratia_Dei_in</ant2>
+<ps2>AT41</ps2>
+<ant3>AN_Bonum_certamen_certavi</ant3>
+<ps3>ps149</ps3>
+<LB_matin>LB_1_Petr_4_13-14</LB_matin> 
+<RB_matin>RB_Tradiderunt_animas_suas_Pro</RB_matin> <benedictus>AN_Dixit_Simon_Petrus</benedictus><laudes_preces>perannum_47</laudes_preces><oratio_laudes>COL_Deus_qui_huius_diei_venerandam_sanctamque</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Adhuc_loquente_Petro</ant4>
+<ps4>ps122</ps4>
+<ant5>AN_Ascendit_Petrus_in</ant5>
+<ps5>ps123</ps5>
+<ant6>AN_Petrus_et_Ioannes</ant6>
+<ps6>ps124</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>Ss. PETRI ET PAULI, APOSTOLORUM</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la>Ad II Vesperas</la></office_soir>
+<HYMNUS_vepres>hy_Deus_creator_omnium</HYMNUS_vepres>
+<ant7>AN_Ego_pro_te</ant7>
+<ps7>ps115</ps7>
+<ant8>AN_Libenter_gloriabor_in</ant8>
+<ps8>ps125</ps8>
+<ant9>AN_Tu_es_pastor</ant9>
+<ps9>NT4</ps9>
+<LB_soir>LB_1_Cor_15_3-5._8</LB_soir>
+<RB_soir>RB_Loquebantur_Apostoli_verbum_Dei_</RB_soir>
+<magnificat>AN_Petrus_apostolus_et</magnificat>
+<vepres_preces>perannum_47</vepres_preces>
+<oratio_vepres>COL_Deus_qui_huius_diei_venerandam_sanctamque</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+<comp_ps1>ps4</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Visita_nos_quaesumus_Domine_hac_nocte</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="06-29-in-die">
+<IN>IN_Nunc_scio_vere</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_qui_huius_diei_venerandam_sanctamque</COL>
+<LEC1>06-29-in-die</LEC1>	
+<PS1>GR_Constitues_eos</PS1>
+<LEC2>06-29-in-die</LEC2>
+<PS2>AL_Tu_es_Petrus</PS2>
+<SEQ/>
+<EV>EV_06-29-in-die</EV>
+<OF>OF_Constitues_eos</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Tu_es_Petrus</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SMK"><messe>06-29-in-die</messe><priorite>4</priorite><pV>1</pV><couleur>Rouge</couleur><reference>Ss. PETRI ET PAULI, APOSTOLORUM</reference><sanctoral><la>Ss. PETRI ET PAULI, APOSTOLORUM</la><fr>STS PIERRE ET PAUL, APOTRES</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XII per annum</la><fr>XII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>Ss. PETRI ET PAULI, APOSTOLORUM</la><fr>STS PIERRE ET PAUL, APOTRES</fr></intitule><rang><la>Sollemnitas</la><fr>Solennit&#xE9;</fr></rang><hebdomada_psalterium>4</hebdomada_psalterium><phase_lunaire>63,14</phase_lunaire><age_lunaire>20</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_47</psautier>
+		<psalterium>psalterium_47</psalterium>
+		<ferie>perannum_47</ferie>
+		<special/>
+		<propre>0629</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_47</psautier>
+		<psalterium>psalterium_47</psalterium>
+		<ferie>perannum_47</ferie>
+		<special/>
+		<propre>0629</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres>0</premieresvepres>
+		<cel/>	
+	</soir>	
+<intitule_matin id="SS. PETRI ET PAULI, APOSTOLORUM"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Felix_per_omnes_festum_mundi_cardines</HYMNUS_lectures>
+<HYMNUS_lec_jour/>
+<antL1 id=""/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Clamor_meus</Vant1>
+<Vps1>ps101</Vps1>
+<Vant2>AN_Benedic_anima_mea</Vant2>
+<Vps2>ps102</Vps2>
+<Vant3>AN_Domine_Deus_meus</Vant3>
+<Vps3>ps103I</Vps3>
+<Vant4>AN_Quam_magnificata_sunt</Vant4>
+<Vps4>ps103II</Vps4>
+<Vant5>AN_Laetetur_cor</Vant5>
+<Vps5>ps104I</Vps5>
+<Vant6>AN_Eduxit_Deus</Vant6>
+<Vps6>ps104II</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia</Vant7>
+<Vps7>ps105I</Vps7>
+<Vant8/>
+<Vps8>ps105II</Vps8>
+<Vant9/>
+<Vps9>ps106I</Vps9>
+<Vant10/>
+<Vps10>ps106II</Vps10>
+<Vant11/>
+<Vps11>ps107</Vps11>
+<Vant12/>
+<Vps12>ps108</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Apostolorum_passio</HYMNUS_laudes>
+<ant1>AN_Scio_cui_credidi</ant1>
+<ps1>ps62</ps1>
+<ant2>AN_Gratia_Dei_in</ant2>
+<ps2>AT41</ps2>
+<ant3>AN_Bonum_certamen_certavi</ant3>
+<ps3>ps149</ps3>
+<LB_matin>LB_1_Petr_4_13-14</LB_matin> 
+<RB_matin>RB_Tradiderunt_animas_suas_Pro</RB_matin> <benedictus>AN_Dixit_Simon_Petrus</benedictus><laudes_preces>perannum_47</laudes_preces><oratio_laudes>COL_Deus_qui_huius_diei_venerandam_sanctamque</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_Adhuc_loquente_Petro</ant4>
+<ps4>ps122</ps4>
+<ant5>AN_Ascendit_Petrus_in</ant5>
+<ps5>ps123</ps5>
+<ant6>AN_Petrus_et_Ioannes</ant6>
+<ps6>ps124</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>Ss. PETRI ET PAULI, APOSTOLORUM</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la>Ad II Vesperas</la></office_soir>
+<HYMNUS_vepres>hy_Deus_creator_omnium</HYMNUS_vepres>
+<ant7>AN_Ego_pro_te</ant7>
+<ps7>ps115</ps7>
+<ant8>AN_Libenter_gloriabor_in</ant8>
+<ps8>ps125</ps8>
+<ant9>AN_Tu_es_pastor</ant9>
+<ps9>NT4</ps9>
+<LB_soir>LB_1_Cor_15_3-5._8</LB_soir>
+<RB_soir>RB_Loquebantur_Apostoli_verbum_Dei_</RB_soir>
+<magnificat>AN_Petrus_apostolus_et</magnificat>
+<vepres_preces>perannum_47</vepres_preces>
+<oratio_vepres>COL_Deus_qui_huius_diei_venerandam_sanctamque</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+<comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
+<comp_ps1>ps4</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_Deut_6_4-7</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Visita_nos_quaesumus_Domine_hac_nocte</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="06-29-in-die">
+<IN>IN_Nunc_scio_vere</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_qui_huius_diei_venerandam_sanctamque</COL>
+<LEC1>06-29-in-die</LEC1>	
+<PS1>GR_Constitues_eos</PS1>
+<LEC2>06-29-in-die</LEC2>
+<PS2>AL_Tu_es_Petrus</PS2>
+<SEQ/>
+<EV>EV_06-29-in-die</EV>
+<OF>OF_Constitues_eos</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Tu_es_Petrus</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><viergemarie>
+ <intitule> </intitule></viergemarie><jerusalem/><piete>
+ <intitule/></piete><calendriercivil>
+ <intitule/></calendriercivil><journeesdediees>
+ <intitule/></journeesdediees><biographie>
+ <intitule>STS PIERRE ET PAUL, APOTRES</intitule>
+ <biographiecourte>Les deux colonnes de l'&#xC9;glise, martyrs sous l'empereur N&#xE9;ron</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie><martyrologe><para id="0">1. M&#xE9;moire de saint Ir&#xE9;n&#xE9;e, &#xE9;v&#xEA;que et martyr, vers l&#x2019;an 200. Comme l&#x2019;&#xE9;crit saint J&#xE9;r&#xF4;me, il fut, dans sa jeunesse, disciple de saint Polycarpe de Smyrne et conserva fid&#xE8;lement la m&#xE9;moire du temps des ap&#xF4;tres. Il &#xE9;tait pr&#xEA;tre de Lyon quand il succ&#xE9;da &#xE0; l&#x2019;&#xE9;v&#xEA;que saint Pothin et on pense qu&#x2019;il a &#xE9;t&#xE9; aussi couronn&#xE9; de la gloire du martyre. Il a expos&#xE9; sans rel&#xE2;che la Tradition apostolique et publi&#xE9; un ouvrage c&#xE9;l&#xE8;bre en cinq livres contre les h&#xE9;r&#xE9;sies pour d&#xE9;fendre la foi catholique. </para><para id="1">2. &#xC0; Alexandrie, vers 202, sous l&#x2019;empereur Septime S&#xE9;v&#xE8;re, les saints martyrs Plutarque, S&#xE9;r&#xE9;nus, H&#xE9;raclide, cat&#xE9;chum&#xE8;nes, H&#xE9;ron, n&#xE9;ophyte, un autre S&#xE9;r&#xE9;nus, H&#xE9;ra&#xEF;s, cat&#xE9;chum&#xE8;ne, Potami&#xE8;ne et Marcelle, sa m&#xE8;re. Tous disciples de l&#x2019;illustre Orig&#xE8;ne, ils confess&#xE8;rent le Christ, les uns par l&#x2019;&#xE9;p&#xE9;e, les autres par le feu. Parmi eux brilla principalement la vierge Potami&#xE8;ne, qui eut d&#x2019;abord &#xE0; soutenir de nombreux combats pour sa virginit&#xE9;, puis endura des tourments inou&#xEF;s pour la foi, et fut enfin br&#xFB;l&#xE9;e en m&#xEA;me temps que sa m&#xE8;re. </para><para id="2">3. &#xC0; Rome, en 767, saint Paul Ier, pape. Doux et plein de bont&#xE9;, il parcourait en silence la nuit les cellules o&#xF9; gisaient les malades indigents et leur servait de la nourriture. D&#xE9;fenseur de la foi orthodoxe, il &#xE9;crivit aux empereurs Constantin Copronyme et L&#xE9;on de r&#xE9;tablir le statut antique de v&#xE9;n&#xE9;ration pour les saintes images. Promoteur attentif du culte des saints, il d&#xE9;cida de retirer des cimeti&#xE8;res en ruines les corps des martyrs et de les transf&#xE9;rer &#xE0; l&#x2019;int&#xE9;rieur de la ville, au milieu des hymnes et des cantiques, dans les titres et les monast&#xE8;res, et il s&#x2019;employa &#xE0; les honorer. </para><para id="3">4. &#xC0; Cordoue en Andalousie, l&#x2019;an 856, saint Argimir, moine et martyr. Dans la pers&#xE9;cution des Maures, sous le r&#xE8;gne de Mohammed II, le juge le somma de renier le Christ. Lui, qui &#xE9;tait avanc&#xE9; en &#xE2;ge, demeura pers&#xE9;v&#xE9;rant dans la confession de la foi. On l&#x2019;&#xE9;tendit vivant sur le chevalet et on l&#x2019;acheva d&#x2019;un coup d&#x2019;&#xE9;p&#xE9;e. </para><para id="4">5*. &#xC0; Hasunger en Hesse, l&#x2019;an 1019, saint Heimrad, pr&#xEA;tre et ermite. Cong&#xE9;di&#xE9; du clo&#xEE;tre et en butte au m&#xE9;pris et aux quolibets de beaucoup, il se fit vagabond pour le Christ. </para><para id="5">6. &#xC0; Londres, en 1654, saint Jean Southworth, pr&#xEA;tre et martyr. Arr&#xEA;t&#xE9; pour exercice des fonctions sacerdotales sur le sol britannique, il subit plusieurs fois la prison et l&#x2019;exil. Enfin condamn&#xE9; &#xE0; mort sous le protectorat d&#x2019;Olivier Cromwell, en voyant, &#xE0; Tyburn, le gibet avec la corde, il s&#x2019;&#xE9;cria qu&#x2019;il tenait la potence pour la croix du Christ. </para><para id="6">7. &#xC0; Lovere en Lombardie, l&#x2019;an 1847, sainte Vincente Gerosa, vierge, fondatrice, avec sainte Bartholom&#xE9;e Capitanio, de l&#x2019;Institut des S&#x153;urs de la Charit&#xE9;. </para><para id="7">8. &#xC0; Wanglajia, dans la province chinoise de Hebei, en 1900, les saintes martyres Lucie Wang Cheng, Marie Fan Kun, Marie Qi Yu et Marie Zheng Xu, jeunes filles &#xE9;lev&#xE9;es dans un orphelinat, qui durant la pers&#xE9;cution de la secte de Yihetuan, se tenant unies par la main comme si elles allaient &#xE0; la noce, p&#xE9;rirent &#xE0; coups d&#x2019;&#xE9;p&#xE9;e. </para><para id="8">9. Dans la m&#xEA;me province, &#xE0; Jieshuiwang pr&#xE8;s de Shenxian, la m&#xEA;me ann&#xE9;e, sainte Marie Du Zhaozhi, martyre. M&#xE8;re d&#x2019;un pr&#xEA;tre, elle avait commenc&#xE9; &#xE0; fuir, mais revenue sur ses pas et ne voulant pas renier la foi du Christ, elle offrit la nuque, d&#x2019;une &#xE2;me &#xE9;gale, au sabre des ennemis. </para><para id="9">10*. Dans la ville de Drohobych en Ukraine, l&#x2019;an 1941, les bienheureux S&#xE9;v&#xE9;rien Baranyk et Joachim Senkivskyj, pr&#xEA;tres de l&#x2019;Ordre de Saint Josaphat et martyrs. Sous le r&#xE9;gime sovi&#xE9;tique, ils furent d&#xE9;tenus en prison pour leur fid&#xE9;lit&#xE9; &#xE0; l&#x2019;&#xC9;glise romaine et y moururent. </para></martyrologe></calendarium>

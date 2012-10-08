@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>SABBATO SANCTO</la>
+<fr>SAMEDI SAINT</fr>
+</intitule>
+<ant_invit id="INV_Christum_Dominum_pro"/>
+<HYMNUS_laudes id="hy_Tibi_Redemptor_omnium"/>
+<ant1 id="AN_Plangent_eum_quasi"/>
+<ps1 id="ps63"/>
+<ant2 id="AN_A_porta_inferi"/>
+<ps2 id="AT23"/>
+<ant3 id="AN_Ego_fui_mortuus"/>
+<ps3 id="ps150"/>
+<LB_matin id="LB_Os_5_15d_-_6_2"/>
+<RB_matin id="RB_Christus_factus_est_pro_nobis"/>
+<benedictus id="AN_Salvator_mundi_salva"/>
+<oratio id="COL_Omnipotens_sempiterne_Deus_cuius_Unigenitus_ad"/>
+<HYMNUS_tertiam id="hy_Salva_Redemptor_plasma_tuum_nobile"/>
+<HYMNUS_sextam id="hy_Crux_mundi_benedictio"/>
+<HYMNUS_nonam id="hy_Per_crucem_Christe_quaesumus"/>
+<ant4 id="AN_Credo_videre_bona"/>
+<ant5 id="AN_Domine_abstraxisti_ab"/>
+<ant6 id="AN_In_pace_factus"/>
+<ps4 id="ps26"/>
+<ps5 id="ps29"/>
+<ps6 id="ps75"/>
+<LB_3 id="LB_1_Io_1_8-9"/>
+<RB_3 id="VERS_Non_relinques_animam_meam_in"/>
+<LB_6 id="LB_1_Io_2_1b-2"/>
+<RB_6 id="VERS_Le_Seigneur_ch&#xE2;tie_et_sauve"/>
+<LB_9 id="LB_1_Io_2_8b-10"/>
+<RB_9 id="VERS_Sepulto_Domino_signaverunt_monumentum_Ponentes"/>
+<HYMNUS_vesperas id="hy_Auctor_salutis_unice"/>
+<ant7 id="AN_O_mors_ero"/>
+<ps7 id="ps115"/>
+<ant8 id="AN_Sicut_fuit_Ionas"/>
+<ps8 id="ps142"/>
+<ant9 id="AN_Solvite_templum_hoc"/>
+<ps9 id="NT5"/>
+<LB_soir id="LB_1_Petr_1_18-21"/>
+<RB_soir id="RB_Christus_factus_est_pro_nobis"/>
+<magnificat id="AN_Nunc_clarificatus_est"/>
+</liturgia>

@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<liturgia>
+ <osb_vig_ant1 id="AN_Nobile_lignum_"/>
+<osb_vig_ps1>
+<la>ps1</la>
+</osb_vig_ps1>
+<osb_vig_ant2 id="AN_Sancta_crux_"/>
+<osb_vig_ps2>
+<la>ps2</la>
+</osb_vig_ps2>
+<osb_vig_ant3 id="AN_O_crux_venerabilis"/>
+<osb_vig_ps3>
+<la>ps4</la>
+</osb_vig_ps3>
+<osb_vig_ant4 id="AN_O_crucis_victoria"/>
+<osb_vig_ps4>
+<la>ps5</la>
+</osb_vig_ps4>
+<osb_vig_ant5 id="AN_Dulce_lignum_"/>
+<osb_vig_ps5>
+<la>ps8</la>
+</osb_vig_ps5>
+<osb_vig_ant6 id="AN_Funestae_mortis_"/>
+<osb_vig_ps6>
+<la>ps10</la>
+</osb_vig_ps6>
+<osb_vig_vers1 id="VERS_Hoc_signum_crucis_erit_in"/>
+<osb_vig_ant7 id="AN_Rex_exaltatur_"/>
+<osb_vig_ps7>
+<la>ps20</la>
+</osb_vig_ps7>
+<osb_vig_ant8 id="AN_Virga_tua_"/>
+<osb_vig_ps8>
+<la>ps22</la>
+</osb_vig_ps8>
+<osb_vig_ant9 id="AN_Adoramus_te_"/>
+<osb_vig_ps9>
+<la>ps95</la>
+</osb_vig_ps9>
+<osb_vig_ant10 id="AN_Per_lignum_"/>
+<osb_vig_ps10>
+<la>ps96</la>
+</osb_vig_ps10>
+<osb_vig_ant11 id="AN_Salvator_mundi_"/>
+<osb_vig_ps11>
+<la>ps97</la>
+</osb_vig_ps11>
+<osb_vig_ant12 id="AN_Adoramus_crucis"/>
+<osb_vig_ps12>
+<la>ps98</la>
+</osb_vig_ps12>
+<osb_vig_vers2 id="VERS_Si_exaltatus_fuero_a_terra"/>
+<osb_vig_ben2>
+</osb_vig_ben2>
+<osb_vig_ant13 id="AN_O_crux_gloriosa"/>
+<osb_vig_ps13>
+<la>AT4</la>
+</osb_vig_ps13>
+<osb_vig_ps14>
+<la>AT19</la>
+</osb_vig_ps14>
+<osb_vig_ps15>
+<la>AT30a</la>
+</osb_vig_ps15>
+<osb_vig_vers3 id="VERS_Sicut_Moyses_exaltavit_serpentem_in"/>
+</liturgia>

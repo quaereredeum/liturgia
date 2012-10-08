@@ -1,0 +1,611 @@
+<?xml version="1.0"?>
+<mois><ordo id="RE">
+		<jour date="20120201">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120202">
+		<intitule>
+		<la>IN PRAESENTATIONE DOMINI</la>
+		<fr>PRESENTATION DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120203">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120204">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120205">
+		<intitule>
+		<la>Dominica V per annum</la>
+		<fr>V&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120206">
+		<intitule>
+		<la>Ss. Pauli Miki et sociorum, martyrum</la>
+		<fr>St Paul Miki, pr&#xEA;tre, et ses compagnons, martyrs</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120207">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120208">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120209">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120210">
+		<intitule>
+		<la>S. Scholasticae, virginis</la>
+		<fr>Ste Scholastique, vierge</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120211">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120212">
+		<intitule>
+		<la>Dominica VI per annum</la>
+		<fr>VI&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120213">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120214">
+		<intitule>
+		<la>Sts Cyrille, moine et M&#xE9;thode, &#xE9;v&#xEA;que</la>
+		<fr>Sts Cyrille, moine et M&#xE9;thode, &#xE9;v&#xEA;que</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120215">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120216">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120217">
+		<intitule>
+		<la>Ss. septem Fundatorum Ordinis Servorum B. M. V.</la>
+		<fr>Les Sept Saints Fondateurs de l'ordre des Servites de la Bienheureuse Vierge Marie.</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120218">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120219">
+		<intitule>
+		<la>Dominica VII per annum</la>
+		<fr>VII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120220">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120221">
+		<intitule>
+		<la>S. Petri Damiani, episcopi et Ecclesiae doctoris</la>
+		<fr>St Pierre Damien, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120222">
+		<intitule>
+		<la>Feria IV Cinerum</la>
+		<fr>Mercredi des Cendres</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120223">
+		<intitule>
+		<la>S. Polycarpi, episcopi et martyris</la>
+		<fr>St Polycarpe, &#xE9;v&#xEA;que et martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120224">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120225">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120226">
+		<intitule>
+		<la>Dominica I Quadragesimae</la>
+		<fr>I er dimanche de Car&#xEA;me</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120227">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120228">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120229">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour></ordo><ordo id="SWF">
+		<jour date="20120201">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120202">
+		<intitule>
+		<la>IN PRAESENTATIONE DOMINI</la>
+		<fr>PRESENTATION DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120203">
+		<intitule>
+		<la>S. Anschaire</la>
+		<fr>S. Anschaire</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120204">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120205">
+		<intitule>
+		<la>Dominica V per annum</la>
+		<fr>V&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120206">
+		<intitule>
+		<la>Ss. Pauli Miki et sociorum, martyrum</la>
+		<fr>St Paul Miki, pr&#xEA;tre, et ses compagnons, martyrs</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120207">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120208">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120209">
+		<intitule>
+		<la>S. Ansbert</la>
+		<fr>S. Ansbert</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120210">
+		<intitule>
+		<la>S. Scholasticae, virginis, sororis S.P.N. Benedicti</la>
+		<fr>S. Scholasticae, virginis, sororis S.P.N. Benedicti</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120211">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120212">
+		<intitule>
+		<la>Dominica VI per annum</la>
+		<fr>VI&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120213">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120214">
+		<intitule>
+		<la>Sts Cyrille, moine et M&#xE9;thode, &#xE9;v&#xEA;que</la>
+		<fr>Sts Cyrille, moine et M&#xE9;thode, &#xE9;v&#xEA;que</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120215">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120216">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120217">
+		<intitule>
+		<la>Ss. septem Fundatorum Ordinis Servorum B. M. V.</la>
+		<fr>Les Sept Saints Fondateurs de l'ordre des Servites de la Bienheureuse Vierge Marie.</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120218">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120219">
+		<intitule>
+		<la>Dominica VII per annum</la>
+		<fr>VII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120220">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120221">
+		<intitule>
+		<la>S. Petri Damiani, episcopi et Ecclesiae doctoris</la>
+		<fr>St Pierre Damien, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120222">
+		<intitule>
+		<la>Feria IV Cinerum</la>
+		<fr>Mercredi des Cendres</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120223">
+		<intitule>
+		<la>S. Polycarpi, episcopi et martyris</la>
+		<fr>St Polycarpe, &#xE9;v&#xEA;que et martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120224">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120225">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120226">
+		<intitule>
+		<la>Dominica I Quadragesimae</la>
+		<fr>I er dimanche de Car&#xEA;me</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120227">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120228">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120229">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour></ordo><ordo id="SMK">
+		<jour date="20120201">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120202">
+		<intitule>
+		<la>IN PRAESENTATIONE DOMINI</la>
+		<fr>PRESENTATION DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120203">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120204">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120205">
+		<intitule>
+		<la>Dominica V per annum</la>
+		<fr>V&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120206">
+		<intitule>
+		<la>Ss. Pauli Miki et sociorum, martyrum</la>
+		<fr>St Paul Miki, pr&#xEA;tre, et ses compagnons, martyrs</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120207">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120208">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120209">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120210">
+		<intitule>
+		<la>S. Scholasticae, virginis, sororis S.P.N. Benedicti</la>
+		<fr>S. Scholasticae, virginis, sororis S.P.N. Benedicti</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120211">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120212">
+		<intitule>
+		<la>Dominica VI per annum</la>
+		<fr>VI&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120213">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120214">
+		<intitule>
+		<la>Sts Cyrille, moine et M&#xE9;thode, &#xE9;v&#xEA;que</la>
+		<fr>Sts Cyrille, moine et M&#xE9;thode, &#xE9;v&#xEA;que</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120215">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120216">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120217">
+		<intitule>
+		<la>Ss. septem Fundatorum Ordinis Servorum B. M. V.</la>
+		<fr>Les Sept Saints Fondateurs de l'ordre des Servites de la Bienheureuse Vierge Marie.</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120218">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120219">
+		<intitule>
+		<la>Dominica VII per annum</la>
+		<fr>VII&#xE8;me dimanche dans l'ann&#xE9;e</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120220">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120221">
+		<intitule>
+		<la>S. Petri Damiani, episcopi et Ecclesiae doctoris</la>
+		<fr>St Pierre Damien, &#xE9;v&#xEA;que et docteur de l'&#xC9;glise</fr>
+		</intitule>
+		<couleur>Vert</couleur>
+		</jour>
+		<jour date="20120222">
+		<intitule>
+		<la>Feria IV Cinerum</la>
+		<fr>Mercredi des Cendres</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120223">
+		<intitule>
+		<la>S. Polycarpi, episcopi et martyris</la>
+		<fr>St Polycarpe, &#xE9;v&#xEA;que et martyr</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120224">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120225">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120226">
+		<intitule>
+		<la>Dominica I Quadragesimae</la>
+		<fr>I er dimanche de Car&#xEA;me</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120227">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120228">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120229">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour></ordo></mois>

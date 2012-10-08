@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>IN ANNUNTIATIONE DOMINI</la>
+<fr>ANNONCIATION DU SEIGNEUR</fr>
+</intitule>
+<rang>
+<la>Sollemnitas</la>
+<fr>Sollennit&#xE9;</fr>
+</rang>
+<HYMNUS_1V id="hy_Agnoscat_omne_saeculum"/>
+<ant01 id="AN_Egredietur_virga_de"/>
+<ps01 id="ps112"/>
+<ant02 id="AN_Dabit_ei_Dominus"/>
+<ps02 id="ps147"/>
+<ant03 id="AN_Verbum_supernum_a"/>
+<ps03 id="NT7"/>
+<LB_1V id="LB_1_Io_1_1-2"/>
+<RB_1V id="RB_Germinavit_radix_Iesse_Orta"/>
+<magnificat1_A id="AN_Spiritus_Sanctus_in"/>
+<magnificat1_B id="AN_Spiritus_Sanctus_in"/>
+<magnificat1_C id="AN_Spiritus_Sanctus_in"/>
+<oratio id="COL_Deus_qui_Verbum_tuum_in_utero"/>
+<ant_invit id="INV_Verbum_caro_factum"/>
+<HYMNUS_laudes id="hy_O_lux_salutis_nuntia"/>
+<ant1 id="AN_Missus_est_Gabriel"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Benedicta_tu_in"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Virgo_verbo_concepit"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Phil_2_6-7"/>
+<RB_matin id="RB_Ave_Maria_gratia_plena;_"/>
+<benedictus_A id="AN_Propter_nimiam_caritatem"/>
+<benedictus_B id="AN_Propter_nimiam_caritatem"/>
+<benedictus_C id="AN_Propter_nimiam_caritatem"/>
+<HYMNUS_tertiam id="hy_Nunc_Sancte_nobis_Spiritus"/>
+<ant4 id="AN_De_Iesse_progenie"/>
+<LB_3 id="LB_Eph_1_9b-10"/>
+<RB_3 id="VERS_Angelus_Domini_nuntiavit_Mariae_(T"/>
+<ant5 id="AN_Ecce_virgo_concipiet"/>
+<LB_6 id="LB_Is_42_1"/>
+<RB_6 id="VERS_Ecce_ancilla_Domini_(T_P"/>
+<ant6 id="AN_Magnificabitur_usque_ad"/>
+<LB_9 id="LB_1_Tim_2_5-6a"/>
+<RB_9 id="VERS_Verbum_caro_factum_est_(T"/>
+<HYMNUS_vepres id="hy_Ave_maris_stella"/>
+<ant7 id="AN_Angelus_Domini_nuntiavit"/>
+<ps7 id="ps109"/>
+<ant8 id="AN_Ne_timeas_Maria;"/>
+<ps8 id="ps129"/>
+<ant9 id="AN_Ecce_ancilla_Domini"/>
+<ps9 id="NT11"/>
+<LB_soir id="LB_1_Io_1_1-2"/>
+<RB_soir id="RB_Verbum_caro_factum_est_"/>
+<magnificat2_A id="AN_Gabriel_angelus_locutus"/>
+<magnificat2_B id="AN_Gabriel_angelus_locutus"/>
+<magnificat2_C id="AN_Gabriel_angelus_locutus"/>
+</liturgia>

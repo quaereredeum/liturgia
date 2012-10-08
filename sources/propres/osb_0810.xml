@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<liturgia>
+ <commun>
+<la>martyr</la>
+</commun>
+<osb_vig_vers1 id="VERS_Gaudeo_plane_Quia_hostia_Christi"/>
+<osb_vig_vers2 id="VERS_Tamquam_aurum_in_fornace_Probavit"/>
+<osb_vig_ben2>
+</osb_vig_ben2>
+<osb_vig_ant13 id="AN_Qui_vult_venire"/>
+<osb_vig_vers3 id="VERS_Tribulatio_et_angustia_invenerunt_me"/>
+<osb_vig_ant4 id="AN_Scuto_bonae"/>
+<osb_vig_ps4>
+<la>ps5</la>
+</osb_vig_ps4>
+<osb_vig_ant5 id="AN_In_universa_terra"/>
+<osb_vig_ps5>
+<la>ps8</la>
+</osb_vig_ps5>
+<osb_vig_ant6 id="AN_Oculi_Domini_"/>
+<osb_vig_ps6>
+<la>ps10</la>
+</osb_vig_ps6>
+<osb_vig_vers1 id="VERS_Gaudeo_plane_Quia_hostia_Christi"/>
+<osb_vig_ant7 id="AN_Habitabit_in"/>
+<osb_vig_ps7>
+<la>ps14</la>
+</osb_vig_ps7>
+<osb_vig_ant8 id="AN_Posuisti_Domine_"/>
+<osb_vig_ps8>
+<la>ps20</la>
+</osb_vig_ps8>
+<osb_vig_ant9 id="AN_Hic_accipiet_"/>
+<osb_vig_ps9>
+<la>ps23</la>
+</osb_vig_ps9>
+<osb_vig_ant10 id="AN_Laetabitur_iustus_"/>
+<osb_vig_ps10>
+<la>ps63</la>
+</osb_vig_ps10>
+<osb_vig_ant11 id="AN_Beatus_quem"/>
+<osb_vig_ps11>
+<la>ps64</la>
+</osb_vig_ps11>
+<osb_vig_ant12 id="AN_Iustus_ut_palma"/>
+<osb_vig_ps12>
+<la>ps91</la>
+</osb_vig_ps12>
+<osb_vig_vers2 id="VERS_Tamquam_aurum_in_fornace_Probavit"/>
+<osb_vig_ant13 id="AN"/>
+<osb_vig_ps13>
+<la>AT35</la>
+</osb_vig_ps13>
+<osb_vig_ps14>
+<la>AT13</la>
+</osb_vig_ps14>
+<osb_vig_ps15>
+<la>AT14</la>
+</osb_vig_ps15>
+<osb_vig_vers3 id="VERS_Tribulatio_et_angustia_invenerunt_me"/>
+<osb_vig_ps15>
+<la>AT14</la>
+</osb_vig_ps15>
+<rang>
+<la>Festum</la>
+<fr>F&#xEA;te</fr>
+</rang>
+<priorite>
+<la>8</la>
+</priorite>
+<ant_invit id="INV_Laudemus_Deum_nostrum"/>
+<HYMNUS_lectures id="HY_osb_0321"/>
+<HYMNUS_lec_jour id=""/>
+</liturgia>

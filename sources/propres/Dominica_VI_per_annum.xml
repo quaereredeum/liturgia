@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica VI per annum</la>
+<fr>VI&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Qui_fecerit_et"/>
+<magnificat1_B id="AN_Domine_si_vis"/>
+<magnificat1_C id="AN_Beati_pauperes_quia"/>
+<oratio id="COL_Deus_qui_te_in_rectis_et"/>
+<benedictus_A id="AN_Nisi_abundaverit_iustitia"/>
+<benedictus_B id="AN_Iesus_misertus_extendens"/>
+<benedictus_C id="AN_Beati_qui_nunc"/>
+<magnificat2_A id="AN_Si_offers_munus"/>
+<magnificat2_B id="AN_Vide_nemini_quidquam"/>
+<magnificat2_C id="AN_Beati_eritis_cum"/>
+</liturgia>

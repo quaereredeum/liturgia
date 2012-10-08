@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 28 augusti</la>
+<fr>Le 28 ao&#xFB;t</fr>
+</jour>
+<intitule>
+<la>S. AUGUSTINI, EPISCOPI ET ECCLESI&#xC6; DOCTORIS</la>
+<fr>S. AUGUSTIN, EVEQUE ET DOCTEUR DE L'EGLISE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<preces id="pastorum"/>
+<ant_invit id="INV_Fontem_sapientiae_Dominum"/>
+<HYMNUS_laudes id="hy_Fulget_in_caelis_celebris_sacerdos"/>
+<LB_matin id="LB_Sap_7_13-14"/>
+<RB_matin id="RB_Sapientiam_sanctorum_Narrent_populi"/>
+<benedictus id="AN_Tu_excitas_Domine"/>
+<oratio id="COL_Innova_quaesumus_Domine_in_Ecclesia_tua"/>
+<HYMNUS_vesperas id="hy_Fulget_in_caelis_celebris_sacerdos"/>
+<LB_soir id="LB_Rom_8_28-30"/>
+<RB_soir id="RB_In_medio_Ecclesiae_Aperuit"/>
+<magnificat id="AN_Sero_te_amavi"/>
+</liturgia>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica VII Paschae</la>
+<fr>VII&#xB0; dimanche de P&#xE2;ques</fr>
+</intitule>
+<magnificat1_A id="AN_Haec_est_vita"/>
+<magnificat1_B id="AN_Pater_sancte_serva"/>
+<magnificat1_C id="AN_Non_pro_his"/>
+<oratio id="COL_Supplicationibus_nostris_Domine_adesto_propitius_ut"/>
+<benedictus_A id="AN_Pater_ego_te"/>
+<benedictus_B id="AN_Nunc_ad_te"/>
+<benedictus_C id="AN_Ego_claritatem_quam"/>
+<magnificat2_A id="AN_Cum_venerit_Paraclitus"/>
+<magnificat2_B id="AN_Sicut_me_misisti"/>
+<magnificat2_C id="AN_Pater_quos_dedisti"/>
+</liturgia>

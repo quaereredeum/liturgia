@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica VI Paschae</la>
+<fr>VI&#xB0; dimanche de P&#xE2;ques</fr>
+</intitule>
+<magnificat1_A id="AN_Ego_rogabo_Patrem"/>
+<magnificat1_B id="AN_Sicut_dilexit_me"/>
+<magnificat1_C id="AN_Si_quis_diligit"/>
+<oratio id="COL_Fac_nos_omnipotens_Deus_hos_laetitiae"/>
+<benedictus_A id="AN_Non_vos_relinquam"/>
+<benedictus_B id="AN_Haec_locutus_sum"/>
+<benedictus_C id="AN_Spiritus_Sanctus_quem"/>
+<magnificat2_A id="AN_Qui_diligit_me"/>
+<magnificat2_B id="AN_Hoc_est_praeceptum"/>
+<magnificat2_C id="AN_Pacem_relinquo_vobis"/>
+</liturgia>

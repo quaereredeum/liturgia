@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 1 Ianuarii in octava Nativitatis Domini</la>
+<fr>Le 1er janvier, octave de la Nativit&#xE9; du Seigneur</fr>
+</jour>
+<intitule>
+<la>SOLLEMNITAS SANCT&#xC6; DEI GENETRICIS MARI&#xC6;</la>
+<fr>SOLENNITE DE SAINTE MARIE, MERE DE DIEU</fr>
+</intitule>
+<rang>
+<la>Sollemnitas</la>
+<fr>Solennit&#xE9;</fr>
+</rang>
+<HYMNUS_1V id="hy_Corde_natus_ex_Parentis"/>
+<ant01 id="AN_O_admirabile_commercium!"/>
+<ps01 id="ps112"/>
+<ant02 id="AN_Quando_natus_es"/>
+<ps02 id="ps147"/>
+<ant03 id="AN_Rubum_quem_viderat"/>
+<ps03 id="NT5"/>
+<LB_1V id="LB_Gal_4_4-5"/>
+<RB_1V id="RB_Verbum_caro_factum_est_"/>
+<magnificat_1V id="AN_Propter_nimiam_caritatem"/>
+<oratio id="COL_Deus_qui_salutis_aeternae_beatae_Mariae"/>
+<ant_invit id="INV_Maternitatem_Virginis_Mariae"/>
+<HYMNUS_laudes id="hy_Fit_porta_Christi_pervia"/>
+<ant1 id="AN_Germinavit_radix_Iesse"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Ecce_Maria"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Genuit_puerpera_Regem"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Mic_5_2-3a._4a"/>
+<RB_matin id="RB_Notum_fecit_Dominus_Alleluia"/>
+<benedictus id="AN_Mirabile_mysterium"/>
+<ant4 id="AN_Erant_Ioseph_et"/>
+<LB_3 id="LB_Soph_3_14._15b"/>
+<RB_3 id="VERS_Recordatus_est_Dominus_misericordiae_suae"/>
+<ant5 id="AN_Maria_autem_conservabat"/>
+<ps4 id="ps122"/>
+<ps5 id="ps123"/>
+<ps6 id="ps124"/>
+<LB_6 id="LB_Zac_9_9"/>
+<RB_6 id="VERS_Viderunt_omnes_fines_terrae_alleluia"/>
+<ant6 id="AN_Viderunt_oculi_mei"/>
+<LB_9 id="LB_Bar_5_3-4"/>
+<RB_9 id="VERS_Misericordia_et_veritas_obviaverunt_sibi"/>
+<HYMNUS_vepres id="hy_Corde_natus_ex_Parentis"/>
+<ant7 id="AN_O_admirabile_commercium!"/>
+<ps7 id="ps121"/>
+<ant8 id="AN_Quando_natus_es"/>
+<ps8 id="ps126"/>
+<ant9 id="AN_Rubum_quem_viderat"/>
+<ps9 id="NT4"/>
+<LB_soir id="LB_Gal_4_4-5"/>
+<RB_soir id="RB_Verbum_caro_factum_est_"/>
+<magnificat id="AN_Beatus_venter_qui"/>
+</liturgia>

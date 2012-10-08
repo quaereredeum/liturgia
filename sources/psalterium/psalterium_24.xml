@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Iubilate_Deo_omnis"/>
+<initium>
+</initium>
+<HYMNUS_laudes id="hy_Fulgentis_auctor_aetheris"/>
+<ant1 id="AN_Deus_in_sancto"/>
+<ant2 id="AN_Exsultavit_cor_meum"/>
+<ant3 id="AN_Dominus_regnavit_exsultet"/>
+<LB_matin id="LB_Rom_8_35._37"/>
+<RB_matin id="RB_Benedicam_Dominum_In_omni"/>
+<benedictus id="AN_Liberati__serviamus"/>
+  <preces id="perannum_24"/>
+<oratio_laudes id="COL_Emitte_quaesumus_Domine_in_corda_nostra"/>
+<renvoi_laudes>
+</renvoi_laudes>
+<HYMNUS_tertiam id="hy_Certum_tenentes_ordinem"/>
+<HYMNUS_sextam id="hy_Dicamus_laudes_Domino"/>
+<HYMNUS_nonam id="hy_Ternis_horarum_terminis"/>
+<ant4 id="AN_Cogitavi_vias_meas"/>
+<ant5 id="AN_Timor_et_tremor"/>
+<ant6 id="AN_Ad_Deum_clamabo"/>
+<LB_3 id="LB_Deut_1_16-17a"/>
+<RB_3 id="VERS_Iustus_Dominus"/>
+<oratio_3 id="COL_Domine_Pater_sancte_Deus_fidelis_qui"/>
+<LB_6 id="LB_Is_55_8-9"/>
+<RB_6 id="VERS_Domine_Deus"/>
+<oratio_6 id="COL_Omnipotens_et_misericors_Deus_qui_nos"/>
+<LB_9 id="LB_I_Sam_16_7b"/>
+<RB_9 id="VERS_Proba_me"/>
+<oratio_9 id="COL_Domine_Iesu_Christe_qui_manus_tuas"/>
+<HYMNUS_vesperas id="hy_Sol_ecce_lentus_occidens"/>
+<ant7 id="AN_Exspectemus_beatam_spem"/>
+<ant8 id="AN_Illuminet_vultum_suum"/>
+<ant9 id="AN_In_ipso_condita"/>
+<LB_soir id="LB_1_Petr_5_5b-7"/>
+<RB_soir id="RB_Custodi_nos_Domine"/>
+<magnificat id="AN_Fac_Deus_potentiam"/>
+<oratio_vesperas id="COL_Deus_cuius_sanctumest_nomen_et"/>
+<preces_soir>
+<la>Iubil&#xE9;mus Deo nostro, fratres car&#xED;ssimi, qui m&#xE1;xime in benef&#xED;ciis p&#xF3;pulo suo elargi&#xE9;ndis cong&#xE1;udet, et cum &#xE1;nimi ferv&#xF3;re prec&#xE9;mur: Gr&#xE1;tiam et pacem mult&#xED;plica, D&#xF3;mine.
+&#xC6;t&#xE9;rne Deus, cui mille anni sunt tamquam dies hest&#xE9;rna, qu&#xE6; pr&#xE6;t&#xE9;riit,
+&#x2014; esse vitam quasi florem mane germin&#xE1;ntem, v&#xE9;spere autem aresc&#xE9;ntem nos memor&#xE1;re conc&#xE9;de.
+Manna tuum p&#xF3;pulo larg&#xED;re, ne es&#xFA;riat,
+&#x2014; et aquam vivam, ne s&#xED;tiat in &#xE6;t&#xE9;rnum.
+Fac ut fid&#xE9;les tui qu&#xE6; sursum sunt qu&#xE6;rant et s&#xE1;piant,
+&#x2014; &#xE9;tiam t&#xE9;mpora &#xF3;peris et &#xF3;tii in tuam gl&#xF3;riam vertant.
+Aerem nobis, D&#xF3;mine, larg&#xED;re prop&#xED;tium,
+&#x2014; quo uberi&#xF3;res percipi&#xE1;mus fructus terr&#xE6;.
+(vel: Ab &#xF3;mnibus noxis l&#xED;bera nos, D&#xF3;mine,
+&#x2014; et copi&#xF3;sam benedicti&#xF3;nem super domus nostras eff&#xFA;nde).
+Visi&#xF3;nem vultus tui larg&#xED;re def&#xFA;nctis,
+&#x2014; et eius contemplati&#xF3;ne nos redde be&#xE1;tos.</la>
+</preces_soir>
+<ps01 id="ps38I"/>
+<ps02 id="ps38II"/>
+<ps03 id="ps51"/>
+<ps1 id="ps76"/>
+<ps2 id="AT3"/>
+<ps3 id="ps96"/>
+<ps4 id="ps118VIII"/>
+<ps5 id="ps54I"/>
+<ps6 id="ps54II"/>
+<ps7 id="ps61"/>
+<ps8 id="ps66"/>
+<ps9 id="NT6"/>
+<HYMNUS_lectures id="HY_O_sator_rerum_reparator_aevi"/>
+<HYMNUS_lec_jour id="HY_Christ_lux_vera_bonitas_et_vita"/>
+<ant01 id="AN_Ipsi_intra_nos"/>
+<ant02 id="AN_Exaudi_orationem_meam"/>
+<ant03 id="AN_Ego_autem_speravi"/>
+<VERS id="VERS_Sustinuit_anima"/>
+<HYMNUS_completorium id="HY_Christe_qui_splendor"/>
+<ant10 id="AN_Esto_mihi_in_Deum"/>
+<ps10 id="ps30"/>
+<ant11 id="AN_De_profundis"/>
+<ps11 id="ps129"/>
+<LB_completorium id="LB_Eph_4_26-27"/>
+<RB_completorium id="RB_In_manus_tuas"/>
+<AM id="AM_Salve_regina"/>
+<oratio_completorium id="COL_Domine_Iesu_Christe_qui_iugum_suave"/>
+<LB_osb_vigiles id="LB_Eph_4_1a_b-6"/>
+<RB_osb_vigiles id="RB_Viam_mandatorum_tuorum"/>
+</liturgia>

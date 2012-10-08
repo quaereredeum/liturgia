@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 29 iulii.</la>
+<fr>Le 29 juillet</fr>
+</jour>
+<intitule>
+<la>S. MARTH&#xC6;. </la>
+<fr>Ste MARTHE</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<ant_invit id="INV_Mirabilem_Deum_in"/>
+<HYMNUS_laudes id="hy_Quas_tibi_laudes_ferimusque_vota"/>
+<LB_matin id="LB_Rom_12_1-2"/>
+<RB_matin id="RB_Adiuvabit_eam_Deus_vultu"/>
+<benedictus id="AN_Dixit_Martha_ad"/>
+<oratio id="COL_Omnipotens_sempiterne_Deus_cuius_Filius_in"/>
+<HYMNUS_vepres id="hy_Te_gratulantes_pangimus"/>
+<LB_soir id="LB_Rom_8_28-30"/>
+<RB_soir id="RB_Elegit_eam_Deus_Et"/>
+<magnificat id="AN_Diligebat_Iesus_Martham"/>
+</liturgia>

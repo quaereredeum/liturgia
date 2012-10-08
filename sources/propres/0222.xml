@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<liturgia>
+ <ant_invit id="INV_Regem_Apostolorum_Dominum"/>
+<jour>
+<la>Die 22 februarii</la>
+<fr>Le 22 f&#xE9;vrier</fr>
+</jour>
+<intitule>
+<la>CATHEDR&#xC6; S. PETRI APOSTOLI</la>
+<fr>CHAIRE DE S. PIERRE AP&#xD4;TRE</fr>
+</intitule>
+<rang>
+<la>Festum</la>
+<fr>F&#xEA;te</fr>
+</rang>
+<HYMNUS_laudes id="hy_Petrus_beatus_catenarum_laqueos"/>
+<ant1 id="AN_Dixit_Dominus_Simoni"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Tu_es_Christus"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Dixit_Dominus_Petro"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Act_15_7b-9"/>
+<RB_matin id="RB_Constitues_eos_principes_Super"/>
+<benedictus id="AN_Dixit_Dominus_Simoni"/>
+<preces_matin>
+<la>preces_V</la>
+</preces_matin>
+<oratio id="COL_Praesta_quaesumus_omnipotens_Deus_ut_nullis"/>
+<LB_3 id="LB_Is_22_22"/>
+<RB_3 id="VERS_In_omnem_terram_exivit_sonus"/>
+<LB_6 id="LB_1_Petr_5_1-2a"/>
+<RB_6 id="VERS_Custodiebant_testimonia_Dei_Et_praecepta"/>
+<LB_9 id="LB_2_Petr_1_16"/>
+<RB_9 id="VERS_Gaudete_et_exsultate_dicit_Dominus"/>
+<HYMNUS_vepres id="hy_Divina_vox_te_deligit"/>
+<ant7 id="AN_Petre_amas_me"/>
+<ps7 id="ps115"/>
+<ant8 id="AN_Petrus_servabatur_in"/>
+<ps8 id="ps125"/>
+<ant9 id="AN_Tu_es_Petrus"/>
+<ps9 id="NT4"/>
+<LB_soir id="LB_1_Petr_1_3-5"/>
+<RB_soir id="RB_Annuntiate_inter_gentes_Gloriam"/>
+<magnificat id="AN_Tu_es_pastor"/>
+<preces_soir>
+<la>preces_VI</la>
+</preces_soir>
+<HYMNUS_lectures id="HY_Iam_bone_pastor_Petre_clemens_accipe"/>
+<HYMNUS_lec_jour id=""/>
+</liturgia>

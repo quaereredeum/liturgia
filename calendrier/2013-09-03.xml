@@ -1,0 +1,679 @@
+<?xml version="1.0"?>
+<calendarium><ordo id="RE"><messe>09-03</messe><priorite>10</priorite><pV/><couleur>Blanc</couleur><reference>S. Gregorii Magni, papae et Ecclesiae doctoris</reference><sanctoral><la>S. Gregorii Magni, papae et Ecclesiae doctoris</la><fr>St Gr&#xE9;goire le Grand, pape et docteur de l'Eglise</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XXII per annum</la><fr>XXII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. Gregorii Magni, papae et Ecclesiae doctoris</la><fr>St Gr&#xE9;goire le Grand, pape et docteur de l'Eglise</fr></intitule><rang><la>Memoria</la><fr>M&#xE9;moire</fr></rang><hebdomada_psalterium>2</hebdomada_psalterium><phase_lunaire>6,68</phase_lunaire><age_lunaire>27</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_23</psautier>
+		<psalterium>psalterium_23</psalterium>
+		<ferie>perannum_23</ferie>
+		<special/>
+		<propre>0903</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_23</psautier>
+		<psalterium>psalterium_23</psalterium>
+		<ferie>perannum_23</ferie>
+		<special/>
+		<propre>0903</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. GREGORII MAGNI, PAP&#xC6; ET ECCLESI&#xC6; DOCTORIS"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Nocte_surgentes_vigilemus_omnes</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Ad_preces_nostras_deitatis_aures</HYMNUS_lec_jour>
+<antL1 id="HY_Ad_preces_nostras_deitatis_aures"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Adiutor</Vant1>
+<Vps1>ps45</Vps1>
+<Vant2>AN_Iubilate_in_voce</Vant2>
+<Vps2>ps46</Vps2>
+<Vant3>AN_Magnus_Dominus</Vant3>
+<Vps3>ps47</Vps3>
+<Vant4>AN_Auribus_percipite</Vant4>
+<Vps4>ps48</Vps4>
+<Vant5>AN_Deus_deorum</Vant5>
+<Vps5>ps49</Vps5>
+<Vant6>AN_Confitebor_tibi</Vant6>
+<Vps6>ps51</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia</Vant7>
+<Vps7>ps52</Vps7>
+<Vant8/>
+<Vps8>ps53</Vps8>
+<Vant9/>
+<Vps9>ps54</Vps9>
+<Vant10/>
+<Vps10>ps55</Vps10>
+<Vant11/>
+<Vps11>ps57</Vps11>
+<Vant12/>
+<Vps12>ps58</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Anglorum_iam_apostolus</HYMNUS_laudes>
+<ant1>AN_Emitte_lucem_tuam</ant1>
+<ps1>ps42</ps1>
+<ant2>AN_Cunctis_diebus_vitae</ant2>
+<ps2>AT23</ps2>
+<ant3>AN_Te_decet_hymnus</ant3>
+<ps3>ps64</ps3>
+<LB_matin>LB_Sap_7_13-14</LB_matin> 
+<RB_matin>RB_Sapientiam_sanctorum_Narrent_populi</RB_matin> <benedictus>AN_Pastor_eximius_Gregorius</benedictus><laudes_preces>perannum_23</laudes_preces><oratio_laudes>COL_Deus_qui_populis_tuis_indulgentia_consulis</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_In_loco_peregrinationis</ant4>
+<ps4>ps118VII</ps4>
+<ant5>AN_Convertet_Dominus_captivitatem</ant5>
+<ps5>ps52</ps5>
+<ant6>AN_Deus_adiuvat_me</ant6>
+<ps6>ps53</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. GREGORII MAGNI, PAP&#xC6; ET ECCLESI&#xC6; DOCTORIS</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Sator_princepsque_temporum</HYMNUS_vepres>
+<ant7>AN_Non_potestis_Deo</ant7>
+<ps7>ps48I</ps7>
+<ant8>AN_Thesaurizate_vobis_thesauros</ant8>
+<ps8>ps48II</ps8>
+<ant9>AN_Dignus_est_Agnus</ant9>
+<ps9>NT9</ps9>
+<LB_soir>LB_Rom_8_28-30</LB_soir>
+<RB_soir>RB_In_medio_Ecclesiae_Aperuit</RB_soir>
+<magnificat>AN_Gregorius_praesul_implebat</magnificat>
+<vepres_preces>perannum_23</vepres_preces>
+<oratio_vepres>COL_Deus_qui_populis_tuis_indulgentia_consulis</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+<comp_ant1>AN_Non_abscondas_faciem</comp_ant1>
+<comp_ps1>ps142</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Petr_5_8-9_a</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Noctem_istam_qu&#xE6;sumus_Domine</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="09-03">
+<IN>IN_Sacerdotes_Dei</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_qui_populis_tuis_indulgentia_consulis</COL>
+<LEC1>09-03</LEC1>	
+<PS1>GR_Iuravit_Dominus</PS1>
+<LEC2/>
+<PS2>AL_Spiritus_Sanctus_docebit</PS2>
+<SEQ/>
+<EV>EV_09-03</EV>
+<OF>OF_Veritas_mea</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Fidelis_servus</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SWF"><messe>09-03</messe><priorite>8</priorite><pV/><couleur>Blanc</couleur><reference>S. Gregorii Magni, pape et Ecclesiae doctoris, O.N.</reference><sanctoral><la>S. Gregorii Magni, pape et Ecclesiae doctoris, O.N.</la><fr>St Gr&#xE9;goire le Grand, pape et docteur de l'Eglise, de N.O.</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XXII per annum</la><fr>XXII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. Gregorii Magni, pape et Ecclesiae doctoris, O.N.</la><fr>St Gr&#xE9;goire le Grand, pape et docteur de l'Eglise, de N.O.</fr></intitule><rang><la>Festum</la><fr>F&#xEA;te</fr></rang><hebdomada_psalterium>2</hebdomada_psalterium><phase_lunaire>6,68</phase_lunaire><age_lunaire>27</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_23</psautier>
+		<psalterium>psalterium_23</psalterium>
+		<ferie>perannum_23</ferie>
+		<special/>
+		<propre>0903</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_23</psautier>
+		<psalterium>psalterium_23</psalterium>
+		<ferie>perannum_23</ferie>
+		<special/>
+		<propre>0903</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. GREGORII MAGNI, PAP&#xC6; ET ECCLESI&#xC6; DOCTORIS"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Nocte_surgentes_vigilemus_omnes</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Ad_preces_nostras_deitatis_aures</HYMNUS_lec_jour>
+<antL1 id="HY_Ad_preces_nostras_deitatis_aures"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Adiutor</Vant1>
+<Vps1>ps45</Vps1>
+<Vant2>AN_Iubilate_in_voce</Vant2>
+<Vps2>ps46</Vps2>
+<Vant3>AN_Magnus_Dominus</Vant3>
+<Vps3>ps47</Vps3>
+<Vant4>AN_Auribus_percipite</Vant4>
+<Vps4>ps48</Vps4>
+<Vant5>AN_Deus_deorum</Vant5>
+<Vps5>ps49</Vps5>
+<Vant6>AN_Confitebor_tibi</Vant6>
+<Vps6>ps51</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia</Vant7>
+<Vps7>ps52</Vps7>
+<Vant8/>
+<Vps8>ps53</Vps8>
+<Vant9/>
+<Vps9>ps54</Vps9>
+<Vant10/>
+<Vps10>ps55</Vps10>
+<Vant11/>
+<Vps11>ps57</Vps11>
+<Vant12/>
+<Vps12>ps58</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Anglorum_iam_apostolus</HYMNUS_laudes>
+<ant1>AN_Emitte_lucem_tuam</ant1>
+<ps1>ps42</ps1>
+<ant2>AN_Cunctis_diebus_vitae</ant2>
+<ps2>AT23</ps2>
+<ant3>AN_Te_decet_hymnus</ant3>
+<ps3>ps64</ps3>
+<LB_matin>LB_Sap_7_13-14</LB_matin> 
+<RB_matin>RB_Sapientiam_sanctorum_Narrent_populi</RB_matin> <benedictus>AN_Pastor_eximius_Gregorius</benedictus><laudes_preces>perannum_23</laudes_preces><oratio_laudes>COL_Deus_qui_populis_tuis_indulgentia_consulis</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_In_loco_peregrinationis</ant4>
+<ps4>ps118VII</ps4>
+<ant5>AN_Convertet_Dominus_captivitatem</ant5>
+<ps5>ps52</ps5>
+<ant6>AN_Deus_adiuvat_me</ant6>
+<ps6>ps53</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. GREGORII MAGNI, PAP&#xC6; ET ECCLESI&#xC6; DOCTORIS</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Sator_princepsque_temporum</HYMNUS_vepres>
+<ant7>AN_Non_potestis_Deo</ant7>
+<ps7>ps48I</ps7>
+<ant8>AN_Thesaurizate_vobis_thesauros</ant8>
+<ps8>ps48II</ps8>
+<ant9>AN_Dignus_est_Agnus</ant9>
+<ps9>NT9</ps9>
+<LB_soir>LB_Rom_8_28-30</LB_soir>
+<RB_soir>RB_In_medio_Ecclesiae_Aperuit</RB_soir>
+<magnificat>AN_Gregorius_praesul_implebat</magnificat>
+<vepres_preces>perannum_23</vepres_preces>
+<oratio_vepres>COL_Deus_qui_populis_tuis_indulgentia_consulis</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+<comp_ant1>AN_Non_abscondas_faciem</comp_ant1>
+<comp_ps1>ps142</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Petr_5_8-9_a</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Noctem_istam_qu&#xE6;sumus_Domine</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="09-03">
+<IN>IN_Sacerdotes_Dei</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_qui_populis_tuis_indulgentia_consulis</COL>
+<LEC1>09-03</LEC1>	
+<PS1>GR_Iuravit_Dominus</PS1>
+<LEC2/>
+<PS2>AL_Spiritus_Sanctus_docebit</PS2>
+<SEQ/>
+<EV>EV_09-03</EV>
+<OF>OF_Veritas_mea</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Fidelis_servus</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><ordo id="SMK"><messe>09-03</messe><priorite>8</priorite><pV/><couleur>Blanc</couleur><reference>S. Gregorii Magni, pape et Ecclesiae doctoris, O.N.</reference><sanctoral><la>S. Gregorii Magni, pape et Ecclesiae doctoris, O.N.</la><fr>St Gr&#xE9;goire le Grand, pape et docteur de l'Eglise, de N.O.</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XXII per annum</la><fr>XXII&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. Gregorii Magni, pape et Ecclesiae doctoris, O.N.</la><fr>St Gr&#xE9;goire le Grand, pape et docteur de l'Eglise, de N.O.</fr></intitule><rang><la>Festum</la><fr>F&#xEA;te</fr></rang><hebdomada_psalterium>2</hebdomada_psalterium><phase_lunaire>6,68</phase_lunaire><age_lunaire>27</age_lunaire><selection/><matin>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_23</psautier>
+		<psalterium>psalterium_23</psalterium>
+		<ferie>perannum_23</ferie>
+		<special/>
+		<propre>0903</propre>
+		<lettre_annee>C</lettre_annee>
+		<cel/>
+	</matin><soir>
+		<temps>Tempus per annum</temps>
+		<psautier>psautier_23</psautier>
+		<psalterium>psalterium_23</psalterium>
+		<ferie>perannum_23</ferie>
+		<special/>
+		<propre>0903</propre>
+		<lettre_annee>C</lettre_annee>	
+		<premieresvepres/>
+		<cel/>	
+	</soir>	
+<intitule_matin id="S. GREGORII MAGNI, PAP&#xC6; ET ECCLESI&#xC6; DOCTORIS"/>
+<invitatoire id=""/>
+<HYMNUS_lectures>HY_Nocte_surgentes_vigilemus_omnes</HYMNUS_lectures>
+<HYMNUS_lec_jour>HY_Ad_preces_nostras_deitatis_aures</HYMNUS_lec_jour>
+<antL1 id="HY_Ad_preces_nostras_deitatis_aures"/>
+<psL1 id=""/>
+<antL2 id=""/>
+<psL2 id=""/>
+<antL3 id=""/>
+<psL3 id=""/>
+<osb_vig_ant_attente id="AN_Ego_dormivi"/>
+<osb_vig_ps_attente id=""/>
+<Llec1 id=""/>
+<Lrep1 id=""/>
+<Llec2 id=""/>
+<Lrep2 id=""/>
+<Loratio id=""/>
+<Levangile id=""/>
+<Vant1>AN_Adiutor</Vant1>
+<Vps1>ps45</Vps1>
+<Vant2>AN_Iubilate_in_voce</Vant2>
+<Vps2>ps46</Vps2>
+<Vant3>AN_Magnus_Dominus</Vant3>
+<Vps3>ps47</Vps3>
+<Vant4>AN_Auribus_percipite</Vant4>
+<Vps4>ps48</Vps4>
+<Vant5>AN_Deus_deorum</Vant5>
+<Vps5>ps49</Vps5>
+<Vant6>AN_Confitebor_tibi</Vant6>
+<Vps6>ps51</Vps6>
+<Vlec1 id=""/>
+<Vrep1 id=""/>
+<Vlec2 id=""/>
+<Vrep2 id=""/>
+<Vlec3 id=""/>
+<Vlrep3 id=""/>
+<Vlec4 id=""/>
+<Vrep4 id=""/>
+<Vver1 id=""/>
+<Vant7>AN_Alleluia_alleluia</Vant7>
+<Vps7>ps52</Vps7>
+<Vant8/>
+<Vps8>ps53</Vps8>
+<Vant9/>
+<Vps9>ps54</Vps9>
+<Vant10/>
+<Vps10>ps55</Vps10>
+<Vant11/>
+<Vps11>ps57</Vps11>
+<Vant12/>
+<Vps12>ps58</Vps12>
+<Vver2 id=""/>
+<Vlec5 id=""/>
+<Vrep5 id=""/>
+<Vlec6 id=""/>
+<Vrep6 id=""/>
+<Vlec7 id=""/>
+<Vrep7 id=""/>
+<Vlec8 id=""/>
+<Vrep8 id=""/>
+<Vant13/>
+<Vcant1 id=""/>
+<Vcant2 id=""/>
+<Vcant3 id=""/>
+<Vver3 id=""/>
+<Vev_debut id=""/>
+<Vlec9 id=""/>
+<Vrep9 id=""/>
+<Vlec10 id=""/>
+<Vrep10 id=""/>
+<Vlec11 id=""/>
+<Vrep11 id=""/>
+<Vlec12 id=""/>
+<Vevangile id=""/>
+<Voraison id=""/>
+<HYMNUS_laudes>hy_Anglorum_iam_apostolus</HYMNUS_laudes>
+<ant1>AN_Emitte_lucem_tuam</ant1>
+<ps1>ps42</ps1>
+<ant2>AN_Cunctis_diebus_vitae</ant2>
+<ps2>AT23</ps2>
+<ant3>AN_Te_decet_hymnus</ant3>
+<ps3>ps64</ps3>
+<LB_matin>LB_Sap_7_13-14</LB_matin> 
+<RB_matin>RB_Sapientiam_sanctorum_Narrent_populi</RB_matin> <benedictus>AN_Pastor_eximius_Gregorius</benedictus><laudes_preces>perannum_23</laudes_preces><oratio_laudes>COL_Deus_qui_populis_tuis_indulgentia_consulis</oratio_laudes>
+<osb_laudes_ex_intitule id=""/>
+<osb_laudes_ex_ps1 id=""/>
+<osb_laudes_ex_ps2 id=""/>
+<osb_laudes_ex_ps3 id=""/>
+<osb_laudes_ex_ps4 id=""/>
+<osb_laudes_ex_ps5 id=""/>
+<osb_laudes_ex_ant1 id=""/>
+<osb_laudes_ex_ant2 id=""/>
+<osb_laudes_ex_ant3 id=""/>
+<osb_laudes_ex_ant4 id=""/>
+<osb_laudes_ex_ant5 id=""/>
+<osb_laudes_ex_hymne id=""/>
+<osb_laudes_ex_vers id=""/>
+<osb_laudes_ex_LB id=""/>
+<osb_laudes_ex_RB id=""/>
+<osb_laudes_ex_benedictus id=""/>
+<osb_laudes_ex_oratio id=""/>
+<HYMNUS_3>hy_Certum_tenentes_ordinem</HYMNUS_3>
+<HYMNUS_6>hy_Dicamus_laudes_Domino</HYMNUS_6>
+<HYMNUS_9>hy_Ternis_horarum_terminis</HYMNUS_9>
+<osb_sexte_ant id=""/>
+<osb_none_ant id=""/>
+<osb_sexte_ps1 id=""/>
+<osb_sexte_ant2 id=""/>
+<osb_sexte_ant3 id=""/>
+<osb_none_ps1 id=""/>
+<osb_none_ant2 id=""/>
+<osb_none_ant3 id=""/>
+<ant4>AN_In_loco_peregrinationis</ant4>
+<ps4>ps118VII</ps4>
+<ant5>AN_Convertet_Dominus_captivitatem</ant5>
+<ps5>ps52</ps5>
+<ant6>AN_Deus_adiuvat_me</ant6>
+<ps6>ps53</ps6>
+<LB_3 id=""/>
+<RB_3 id=""/>
+<LB_6 id=""/>
+<RB_6 id=""/>
+<LB_9 id=""/>
+<RB_9 id=""/>
+<Oratio_3 id=""/>
+<Oratio_6 id=""/>
+<Oratio_9 id=""/>
+<intitule_soir><la>S. GREGORII MAGNI, PAP&#xC6; ET ECCLESI&#xC6; DOCTORIS</la></intitule_soir>
+<rang_soir><la/></rang_soir>
+<office_soir><la/></office_soir>
+<HYMNUS_vepres>hy_Sator_princepsque_temporum</HYMNUS_vepres>
+<ant7>AN_Non_potestis_Deo</ant7>
+<ps7>ps48I</ps7>
+<ant8>AN_Thesaurizate_vobis_thesauros</ant8>
+<ps8>ps48II</ps8>
+<ant9>AN_Dignus_est_Agnus</ant9>
+<ps9>NT9</ps9>
+<LB_soir>LB_Rom_8_28-30</LB_soir>
+<RB_soir>RB_In_medio_Ecclesiae_Aperuit</RB_soir>
+<magnificat>AN_Gregorius_praesul_implebat</magnificat>
+<vepres_preces>perannum_23</vepres_preces>
+<oratio_vepres>COL_Deus_qui_populis_tuis_indulgentia_consulis</oratio_vepres>
+<osb_vepres_ps1 id=""/>
+<osb_vepres_ps2 id=""/>
+<osb_vepres_ps3 id=""/>
+<osb_vepres_ps4 id=""/>
+<osb_vepres_ant1 id=""/>
+<osb_vepres_ant2 id=""/>
+<osb_vepres_ant3 id=""/>
+<osb_vepres_ant4 id=""/>
+<osb_vepres_hymne id=""/>
+<osb_vepres_vers id=""/>
+<osb_vepres_LB id=""/>
+<osb_vepres_RB id=""/>
+<osb_vepres_magnificat id=""/>
+<osb_vepres_oratio id=""/>
+<osb_vepres_ex_intitule id=""/>
+<osb_vepres_ex_ps1 id=""/>
+<osb_vepres_ex_ps2 id=""/>
+<osb_vepres_ex_ps3 id=""/>
+<osb_vepres_ex_ps4 id=""/>
+<osb_vepres_ex_ant1 id=""/>
+<osb_vepres_ex_ant2 id=""/>
+<osb_vepres_ex_ant3 id=""/>
+<osb_vepres_ex_ant4 id=""/>
+<osb_vepres_ex_hymne id=""/>
+<osb_vepres_ex_vers id=""/>
+<osb_vepres_ex_LB id=""/>
+<osb_vepres_ex_RB id=""/>
+<osb_vepres_ex_magnificat id=""/>
+<osb_vepres_ex_oratio id=""/>
+		
+<HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
+<comp_ant1>AN_Non_abscondas_faciem</comp_ant1>
+<comp_ps1>ps142</comp_ps1>
+<comp_ant2/>
+<comp_ps2/>
+<comp_LB>LB_1_Petr_5_8-9_a</comp_LB>
+<comp_RB>RB_In_manus_tuas</comp_RB>
+<comp_oratio>COL_Noctem_istam_qu&#xE6;sumus_Domine</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="09-03">
+<IN>IN_Sacerdotes_Dei</IN>
+
+<KY/>
+<GLO/><COL>COL_Deus_qui_populis_tuis_indulgentia_consulis</COL>
+<LEC1>09-03</LEC1>	
+<PS1>GR_Iuravit_Dominus</PS1>
+<LEC2/>
+<PS2>AL_Spiritus_Sanctus_docebit</PS2>
+<SEQ/>
+<EV>EV_09-03</EV>
+<OF>OF_Veritas_mea</OF>
+<SO/>
+<PREF/>
+<SAN/>
+<CAN/>
+<AGN/>
+<CO>CO_Fidelis_servus</CO>
+<PC/>
+<ML_IN/>
+<ML_PS/>
+<ML_AL/>
+<ML_CO/>
+</messe>
+</ordo><viergemarie>
+ <intitule> </intitule></viergemarie><jerusalem/><piete>
+ <intitule/></piete><calendriercivil>
+ <intitule/></calendriercivil><journeesdediees>
+ <intitule/></journeesdediees><biographie>
+ <intitule>St Gr&#xE9;goire le Grand, pape et docteur de l'&#xC9;glise</intitule>
+ <biographiecourte>Pape, il fut un homme de pri&#xE8;re et d'action, soulagea la mis&#xE8;re du peuple romain, embellit la liturgie, docteur de l&#x2019;&#xC9;glise (&#x2020;604)</biographiecourte>
+ <canonisebeatifie/>
+ <patronage/></biographie><martyrologe><para id="0">1. &#xC0; Nicom&#xE9;die en Bithynie, au IIIe sicle, saint Z&#xE9;non, martyr. </para><para id="1">2. &#xC0; Nic&#xE9;e, &#xE9;galement en Bithynie, au IVe si&#xE8;cle, la passion de sainte Th&#xE9;odote avec ses fils &#xC9;vode, Hermog&#xE8;ne, et Calliste. </para><para id="2">3. &#xC0; &#xC9;desse en Oshro&#xE8;ne, en 322, saint Habib, diacre et martyr. Sous l&#x2019;empereur Licinius, il fut condamn&#xE9; par le pr&#xE9;fet Lysanias &#xE0; &#xEA;tre br&#xFB;l&#xE9; vif, achevant ainsi un glorieux combat. </para><para id="3">4. &#xC0; Apam&#xE9;e en Syrie, au IVe si&#xE8;cle, saint Antonin, martyr. Tailleur de pierre, il avait, dit-on, d&#xE9;truit des idoles, ce qui provoqua la vengeance des pa&#xEF;ens qui le tu&#xE8;rent, &#xE0; l&#x2019;&#xE2;ge de vingt ans, victime de son z&#xE8;le pour la foi. </para><para id="4">5. &#xC0; Tarragone en Espagne, au IVe ou Ve si&#xE8;cle, saint Prosper, &#xE9;v&#xEA;que. </para><para id="5">6. &#xC0; Lyon, apr&#xE8;s 381, la mise au tombeau de saint Just, &#xE9;v&#xEA;que. Apr&#xE8;s le concile d&#x2019;Aquil&#xE9;e, il laissa la charge de l&#x2019;&#xE9;piscopat et se retira avec saint Viateur, lecteur, dans le d&#xE9;sert d&#x2019;&#xC9;gypte, o&#xF9; il v&#xE9;cut plusieurs ann&#xE9;es, humblement associ&#xE9; aux moines. Son corps saint fut transf&#xE9;r&#xE9; plus tard &#xE0; Lyon avec les ossements de saint Viateur. </para><para id="6">7. Comm&#xE9;moraison de saint Nonnosus, pr&#xE9;v&#xF4;t du monast&#xE8;re au mont Soracte, pr&#xE8;s de la voie Flaminienne dans le Latium, au VIe si&#xE8;cle. Le pape saint Gr&#xE9;goire le Grand loue son &#xE9;galit&#xE9; d&#x2019;&#xE2;me, sa douceur dans le gouvernement des fr&#xE8;res et la puissance de sa pri&#xE8;re. </para><para id="7">8. &#xC0; Autun, en 599 ou 600, saint Syagre, &#xE9;v&#xEA;que, qui brilla par sa science et son z&#xE8;le dans les conciles auxquels il prit part, fonda le monast&#xE8;re Saint-Martin et l&#x2019;hospice Saint-Andoche, et accueillit tout un hiver saint Augustin et les moines qui l&#x2019;accompagnaient pour pr&#xEA;cher l&#x2019;&#xC9;vangile en Angleterre. </para><para id="8">9*. &#xC0; Avignon, vers 700, saint Agricol, &#xE9;v&#xEA;que. Apr&#xE8;s avoir men&#xE9; la vie monastique &#xE0; L&#xE9;rins, il fut l&#x2019;auxiliaire de son p&#xE8;re, saint Magne, et lui succ&#xE9;da dans l&#x2019;&#xE9;piscopat. </para><para id="9">10. Dans la Marche d&#x2019;Anc&#xF4;ne, &#xE0; une &#xE9;poque incertaine, saint Elpide, qui a donn&#xE9; son nom &#xE0; la ville qui conserve son corps. </para><para id="10">11*. &#xC0; Pontida, pr&#xE8;s de Bergame en Lombardie, vers 1096, saint Albert et saint Guy, moines. Le premier, pr&#xE9;f&#xE9;rant la milice du Christ aux armes et aux honneurs du monde, construisit dans sa propre cit&#xE9;, un monast&#xE8;re, que le second dirigea selon les coutumes de Cluny. </para><para id="11">12*. Au mont Carmel, pr&#xE8;s de la source d&#x2019;&#xC9;lie, vers 1231, le bienheureux Brocard, prieur des ermites, auxquels saint Albert, &#xE9;v&#xEA;que de J&#xE9;rusalem, donna une r&#xE8;gle de vie pour qu&#x2019;ils demeurent jour et nuit dans la m&#xE9;ditation de la loi du Seigneur et veillant dans la pri&#xE8;re. </para><para id="12">13*. &#xC0; Sk&#xE4;ninge en Su&#xE8;de, l&#x2019;an 1282, la bienheureuse Ingrid. Devenue veuve, elle donna ses biens pour la gloire de Dieu et, apr&#xE8;s un p&#xE8;lerinage en Terre sainte, prit l&#x2019;habit des moniales de l&#x2019;Ordre des Pr&#xEA;cheurs. </para><para id="13">14*. &#xC0; Paris, en 1792, la passion des bienheureux martyrs Jean-Marie du Lau d&#x2019;Allemans, Fran&#xE7;ois-Joseph et son fr&#xE8;re Pierre-Louis de la Rochefoucauld, &#xE9;v&#xEA;ques, respectivement d&#x2019;Arles, de Beauvais et de Saintes et quatre-vingt-douze compagnons, pour la plupart pr&#xEA;tres ou religieux, qui, pour avoir refus&#xE9; de pr&#xEA;ter serment &#xE0; la Constitution civile du clerg&#xE9; sous la R&#xE9;volution fran&#xE7;aise, furent rassembl&#xE9;s au Couvent des Carmes et massacr&#xE9;s en haine de la religion. </para><para id="14">15*.&#xA0;&#xC0; Paris encore, vingt-et-un bienheureux martyrs, massacr&#xE9;s le m&#xEA;me jour &#xE0; l&#x2019;abbaye Saint-Germain-des-Pr&#xE9;s.</para></martyrologe></calendarium>

@@ -1,0 +1,632 @@
+<?xml version="1.0"?>
+<mois><ordo id="RE">
+		<jour date="20120401">
+		<intitule>
+		<la>DOMINICA IN PALMIS DE PASSIONE DOMINI</la>
+		<fr>DIMANCHE DES RAMEAUX ET DE LA PASSION DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120402">
+		<intitule>
+		<la>Feria II hebdomadae sanctae</la>
+		<fr>Lundi de la semaine sainte</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120403">
+		<intitule>
+		<la>Feria III hebdomadae sanctae</la>
+		<fr>Mardi de la semaine sainte</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120404">
+		<intitule>
+		<la>Feria IV hebdomadae sanctae</la>
+		<fr>Mercredi de la semaine sainte</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120405">
+		<intitule>
+		<la>IN CENA DOMINI</la>
+		<fr>CENE DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120406">
+		<intitule>
+		<la>IN PASSIONE DOMINI</la>
+		<fr>PASSION DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120407">
+		<intitule>
+		<la>Sabbato Sancto</la>
+		<fr>Samedi Saint</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120408">
+		<intitule>
+		<la>DOMINICA RESURRECTIONIS</la>
+		<fr>DIMANCHE DE LA RESURRECTION</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120409">
+		<intitule>
+		<la>Feria II infra octavam Paschae</la>
+		<fr>Lundi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120410">
+		<intitule>
+		<la>Feria III infra octavam Paschae</la>
+		<fr>Mardi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120411">
+		<intitule>
+		<la>Feria IV infra octavam Paschae</la>
+		<fr>Mercredi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120412">
+		<intitule>
+		<la>Feria V infra octavam Paschae</la>
+		<fr>Jeudi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120413">
+		<intitule>
+		<la>Feria VI infra octavam Paschae</la>
+		<fr>Vendredi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120414">
+		<intitule>
+		<la>Sabbato infra octavam Paschae</la>
+		<fr>Samedi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120415">
+		<intitule>
+		<la>DOMINICA IN OCTAVA PASCH&#xC6; SEU DE SACRA MISERICORDIA</la>
+		<fr>DIMANCHE DANS L'OCTAVE DE P&#xC2;QUES OU DE LA DIVINE MISERICORDE</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120416">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120417">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120418">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120419">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120420">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120421">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120422">
+		<intitule>
+		<la>Dominica III Paschae</la>
+		<fr>III&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120423">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120424">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120425">
+		<intitule>
+		<la>S. Marci, evangelistae</la>
+		<fr>St Marc, &#xE9;vang&#xE9;liste</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120426">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120427">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120428">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120429">
+		<intitule>
+		<la>Dominica IV Paschae</la>
+		<fr>IV&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120430">
+		<intitule>
+		<la>S. Pii V, papae</la>
+		<fr>St Pie V, pape</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour></ordo><ordo id="SWF">
+		<jour date="20120401">
+		<intitule>
+		<la>DOMINICA IN PALMIS DE PASSIONE DOMINI</la>
+		<fr>DIMANCHE DES RAMEAUX ET DE LA PASSION DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120402">
+		<intitule>
+		<la>Feria II hebdomadae sanctae</la>
+		<fr>Lundi de la semaine sainte</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120403">
+		<intitule>
+		<la>Feria III hebdomadae sanctae</la>
+		<fr>Mardi de la semaine sainte</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120404">
+		<intitule>
+		<la>Feria IV hebdomadae sanctae</la>
+		<fr>Mercredi de la semaine sainte</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120405">
+		<intitule>
+		<la>IN CENA DOMINI</la>
+		<fr>CENE DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120406">
+		<intitule>
+		<la>IN PASSIONE DOMINI</la>
+		<fr>PASSION DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120407">
+		<intitule>
+		<la>Sabbato Sancto</la>
+		<fr>Samedi Saint</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120408">
+		<intitule>
+		<la>DOMINICA RESURRECTIONIS</la>
+		<fr>DIMANCHE DE LA RESURRECTION</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120409">
+		<intitule>
+		<la>Feria II infra octavam Paschae</la>
+		<fr>Lundi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120410">
+		<intitule>
+		<la>Feria III infra octavam Paschae</la>
+		<fr>Mardi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120411">
+		<intitule>
+		<la>Feria IV infra octavam Paschae</la>
+		<fr>Mercredi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120412">
+		<intitule>
+		<la>Feria V infra octavam Paschae</la>
+		<fr>Jeudi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120413">
+		<intitule>
+		<la>Feria VI infra octavam Paschae</la>
+		<fr>Vendredi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120414">
+		<intitule>
+		<la>Sabbato infra octavam Paschae</la>
+		<fr>Samedi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120415">
+		<intitule>
+		<la>DOMINICA IN OCTAVA PASCH&#xC6; SEU DE SACRA MISERICORDIA</la>
+		<fr>DIMANCHE DANS L'OCTAVE DE P&#xC2;QUES OU DE LA DIVINE MISERICORDE</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120416">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120417">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120418">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120419">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120420">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120421">
+		<intitule>
+		<la>S. Anselmi, episcopi et Ecclesiae doctoris, O.N.</la>
+		<fr>S. Anselmi, episcopi et Ecclesiae doctoris, O.N.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120422">
+		<intitule>
+		<la>Dominica III Paschae</la>
+		<fr>III&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120423">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120424">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120425">
+		<intitule>
+		<la>S. Marci, evangelistae</la>
+		<fr>St Marc, &#xE9;vang&#xE9;liste</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120426">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120427">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120428">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120429">
+		<intitule>
+		<la>Dominica IV Paschae</la>
+		<fr>IV&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120430">
+		<intitule>
+		<la>S. Pii V, papae</la>
+		<fr>St Pie V, pape</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour></ordo><ordo id="SMK">
+		<jour date="20120401">
+		<intitule>
+		<la>DOMINICA IN PALMIS DE PASSIONE DOMINI</la>
+		<fr>DIMANCHE DES RAMEAUX ET DE LA PASSION DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120402">
+		<intitule>
+		<la>Feria II hebdomadae sanctae</la>
+		<fr>Lundi de la semaine sainte</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120403">
+		<intitule>
+		<la>Feria III hebdomadae sanctae</la>
+		<fr>Mardi de la semaine sainte</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120404">
+		<intitule>
+		<la>Feria IV hebdomadae sanctae</la>
+		<fr>Mercredi de la semaine sainte</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120405">
+		<intitule>
+		<la>IN CENA DOMINI</la>
+		<fr>CENE DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120406">
+		<intitule>
+		<la>IN PASSIONE DOMINI</la>
+		<fr>PASSION DU SEIGNEUR</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120407">
+		<intitule>
+		<la>Sabbato Sancto</la>
+		<fr>Samedi Saint</fr>
+		</intitule>
+		<couleur>Violet</couleur>
+		</jour>
+		<jour date="20120408">
+		<intitule>
+		<la>DOMINICA RESURRECTIONIS</la>
+		<fr>DIMANCHE DE LA RESURRECTION</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120409">
+		<intitule>
+		<la>Feria II infra octavam Paschae</la>
+		<fr>Lundi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120410">
+		<intitule>
+		<la>Feria III infra octavam Paschae</la>
+		<fr>Mardi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120411">
+		<intitule>
+		<la>Feria IV infra octavam Paschae</la>
+		<fr>Mercredi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120412">
+		<intitule>
+		<la>Feria V infra octavam Paschae</la>
+		<fr>Jeudi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120413">
+		<intitule>
+		<la>Feria VI infra octavam Paschae</la>
+		<fr>Vendredi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120414">
+		<intitule>
+		<la>Sabbato infra octavam Paschae</la>
+		<fr>Samedi dans l'octave de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120415">
+		<intitule>
+		<la>DOMINICA IN OCTAVA PASCH&#xC6; SEU DE SACRA MISERICORDIA</la>
+		<fr>DIMANCHE DANS L'OCTAVE DE P&#xC2;QUES OU DE LA DIVINE MISERICORDE</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120416">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120417">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120418">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120419">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120420">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120421">
+		<intitule>
+		<la>S. Anselmi, episcopi et Ecclesiae doctoris, O.N.</la>
+		<fr>S. Anselmi, episcopi et Ecclesiae doctoris, O.N.</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120422">
+		<intitule>
+		<la>Dominica III Paschae</la>
+		<fr>III&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120423">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120424">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120425">
+		<intitule>
+		<la>S. Marci, evangelistae</la>
+		<fr>St Marc, &#xE9;vang&#xE9;liste</fr>
+		</intitule>
+		<couleur>Rouge</couleur>
+		</jour>
+		<jour date="20120426">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120427">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120428">
+		<intitule>
+		<la/>
+		<fr/>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120429">
+		<intitule>
+		<la>Dominica IV Paschae</la>
+		<fr>IV&#xE8;me dimanche de P&#xE2;ques</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour>
+		<jour date="20120430">
+		<intitule>
+		<la>S. Pii V, papae</la>
+		<fr>St Pie V, pape</fr>
+		</intitule>
+		<couleur>Blanc</couleur>
+		</jour></ordo></mois>

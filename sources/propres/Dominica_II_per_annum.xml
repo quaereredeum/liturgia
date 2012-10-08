@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica II per annum</la>
+<fr>II&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Ecce_Agnus_Dei"/>
+<magnificat1_B id="AN_Audierunt_Ioannem_duo"/>
+<magnificat1_C id="AN_Nuptiae_factae_sunt"/>
+<oratio id="COL_Omnipotens_sempiterne_Deus_qui_caelestia_simul"/>
+<benedictus_A id="AN_Hoc_est_testimonium"/>
+<benedictus_B id="AN_Venerunt_discipuli_et"/>
+<benedictus_C id="AN_Dicit_mater_Iesu"/>
+<magnificat2_A id="AN_Descendit_Spiritus_quasi"/>
+<magnificat2_B id="AN_Dixit_Andreas_Simoni"/>
+<magnificat2_C id="AN_Hoc_fecit_initium"/>
+</liturgia>

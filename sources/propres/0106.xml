@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 6 ianuarii</la>
+<fr>Le 6 janvier</fr>
+</jour>
+<intitule>
+<la>IN EPIPHANIA DOMINI</la>
+<fr>EPIPHANIE DU SEIGNEUR</fr>
+</intitule>
+<rang>
+<la>Sollemnitas</la>
+<fr>Solennit&#xE9;</fr>
+</rang>
+<HYMNUS_1V id="hy_Quicumque_Christum_quaeritis"/>
+<ant01 id="AN_Ante_luciferum_genitus"/>
+<ps01 id="ps134I"/>
+<ant02 id="AN_Magnus_est_Dominus"/>
+<ps02 id="ps134II"/>
+<ant03 id="AN_Stella_ista_sicut"/>
+<ps03 id="NT7"/>
+<LB_1V id="LB_2_Tim_1_9-10"/>
+<RB_1V id="RB_Benedicentur_in_ipso_Omnes"/>
+<magnificat_1V id="AN_Magi_videntes_stellam"/>
+<oratio id="COL_Deus_qui_hodierna_die_Unigenitum_tuum"/>
+<ant_invit id="INV_Christus_apparuit_nobis"/>
+<HYMNUS_laudes id="hy_Quicumque_Christum_quaeritis"/>
+<ant1 id="AN_Apertis_thesauris_suis"/>
+<ps1 id="ps62"/>
+<ant2 id="AN_Maria_et_flumina"/>
+<ps2 id="AT41"/>
+<ant3 id="AN_Venit_lumen"/>
+<ps3 id="ps149"/>
+<LB_matin id="LB_Is_52_7-10"/>
+<RB_matin id="RB_Adorabunt_eum_Omnes_reges"/>
+<benedictus id="AN_Hodie_caelesti_sponso"/>
+<ant4 id="AN_Mysterium_quod_absconditum"/>
+<LB_3 id="LB_Ap_15_4"/>
+<RB_3 id="VERS_In_terris_visus_est_Et"/>
+<ant5 id="AN_Veniens_Christus_evangelizavit"/>
+<ps4 id="ps46"/>
+<ps5 id="ps85"/>
+<ps6 id="ps97"/>
+<LB_6 id="LB_Is_49_6"/>
+<RB_6 id="VERS_Videbunt_gentes_iustum_tuum_Et"/>
+<ant6 id="AN_Ecce_dedi_te"/>
+<LB_9 id="LB_Zac_2_15"/>
+<RB_9 id="VERS_Benedicite_gentes_Deum_nostrum_Et"/>
+<HYMNUS_vepres id="hy_Hostis_Herodes_impie"/>
+<ant7 id="AN_Magnificatus_est_Rex"/>
+<ps7 id="ps109"/>
+<ant8 id="AN_Exortum_est_in"/>
+<ps8 id="ps111"/>
+<ant9 id="AN_Omnes_gentes_quascumque"/>
+<ps9 id="NT11"/>
+<LB_soir id="LB_Tit_3_4-5"/>
+<RB_soir id="RB_Benedicentur_in_ipso_Omnes"/>
+<magnificat id="AN_Tribus_miraculis_ornatum"/>
+</liturgia>

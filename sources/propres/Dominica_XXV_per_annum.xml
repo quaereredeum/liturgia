@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<liturgia>
+ <intitule>
+<la>Dominica XXV per annum</la>
+<fr>XXV&#xB0; dimanche "dans l'ann&#xE9;e"</fr>
+</intitule>
+<magnificat1_A id="AN_Ite_et_vos"/>
+<magnificat1_B id="AN_Si_quis_vult"/>
+<magnificat1_C id="AN_Facite_vobis_amicos"/>
+<oratio id="COL_Deus_qui_sacrae_legis_omnia_constituta"/>
+<benedictus_A id="AN_Simile_est_regnum"/>
+<benedictus_B id="AN_Quicumque_me_susceperit"/>
+<benedictus_C id="AN_Qui_fidelis_est"/>
+<magnificat2_A id="AN_Voca_operarios_et"/>
+<magnificat2_B id="AN_Quisquis_unum_ex"/>
+<magnificat2_C id="AN_Nemo_servus_potest"/>
+</liturgia>

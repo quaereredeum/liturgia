@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>Die 26 iulii</la>
+<fr>Le 26 juillet</fr>
+</jour>
+<intitule>
+<la>SS. IOACHIM ET ANN&#xC6;, PARENTUM BEAT&#xC6; MARI&#xC6; VIRGINIS</la>
+<fr>S. JOACHIM ET ANNE, PARENTS DE LA BIENHEUREUSE VIERGE MARIE.</fr>
+</intitule>
+<rang>
+<la>Memoria</la>
+<fr>M&#xE9;moire</fr>
+</rang>
+<preces id="sanctorum_virorum"/>
+<ant_invit id="INV_Mirabilem_Deum_in"/>
+<HYMNUS_laudes id="hy_Nocti_succedit_lucifer"/>
+<LB_matin id="LB_Is_55_3"/>
+<RB_matin id="RB_Per_viscera_misericordiae_suae_"/>
+<benedictus id="AN_ Benedictus_Dominus_Deus_Israel"/>
+<oratio id="COL_Domine_Deus_patrum_nostrorum_qui_beatis"/>
+<HYMNUS_vesperas id="hy_Dum_tuas_festo_pater_o_colende"/>
+<LB_soir id="LB_Rom_9_4-5"/>
+<RB_soir id="RB_Suscepit_Israel_puerum_suum"/>
+<magnificat id="AN_Inclita_stirps_Iesse"/>
+</liturgia>

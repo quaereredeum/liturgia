@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<liturgia>
+ <jour>
+<la>DIE 3 IANUARII</la>
+<fr>LE 3 JANVIER</fr>
+</jour>
+<ant_invit id="INV_Christus_natus_est"/>
+<HYMNUS_laudes id="hy_A_solis_ortus_cardine"/>
+<LB_matin id="LB_Is_62_11-12a"/>
+<RB_matin id="RB_Notum_fecit_Dominus_Alleluia"/>
+<benedictus id="AN_Verbum_caro_factum"/>
+<oratio id="COL_Deus_qui_per_beatum_sacrae_Virginis"/>
+<HYMNUS_tertiam id="hy_Nunc_Sancte_nobis_Spiritus"/>
+<ant4 id="AN_Erant_Ioseph_et"/>
+<LB_3 id="LB_Is_2_3b-4"/>
+<RB_3 id="VERS_Recordatus_est_Dominus_misericordiae_suae"/>
+<HYMNUS_sextam id="hy_Rector_potens_verax_Deus"/>
+<ant5 id="AN_Maria_autem_conservabat"/>
+<LB_6 id="LB_Is_9_1"/>
+<RB_6 id="VERS_Viderunt_omnes_fines_terrae_alleluia"/>
+<HYMNUS_nonam id="hy_Rerum_Deus_tenax_vigor"/>
+<ant6 id="AN_Viderunt_oculi_mei"/>
+<LB_9 id="LB_Is_60_4a-5"/>
+<RB_9 id="VERS_Misericordia_et_veritas_obviaverunt_sibi"/>
+<HYMNUS_vepres id="hy_Christe_redemptor_omnium2"/>
+<LB_soir id="LB_1_Io_1_5b._7"/>
+<RB_soir id="RB_Verbum_caro_factum_est_"/>
+<magnificat id="AN_Exsultemus_in_Domino"/>
+</liturgia>

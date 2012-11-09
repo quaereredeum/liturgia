@@ -20,7 +20,9 @@ function no_accent($str_accent) {
 }
 
 
-$xml=simplexml_load_file("Martyrologe.xml");
+
+
+$xml=simplexml_load_file("Martyrologe_source.xml");
 $select=$xml->xpath("//sect3");
 $date=0;
 
@@ -37,11 +39,10 @@ $output.= "\r\n <jour id='".$date."'>\r\n <date >".trim($tt[0]->title)."</date>"
 	$date++;
 }
 $output.="</xml>";
-
 $xmlmarty=$output;
-$fp = fopen('martyrologe.xml', 'w');
 fwrite($fp, $xmlmarty);
 fclose($fp);
+
 /** Include path **/
 set_include_path(get_include_path() . PATH_SEPARATOR . '../../../Classes/');
 
@@ -138,13 +139,14 @@ function calendriercivil($id,$date_ts) {
 
 
 
+//$xmlmarty=simplexml_load_file("martyrologe.xml");
 
 function martyrologe($date_ts) {
 	global $xmlmarty;
 	//print_r($xmlmarty);
 	$mm=simplexml_load_string($xmlmarty);
 	$expr="//jour[@id='".date('z',$date_ts)."']";
-	//print"  ".$expr;
+	print"  ".$expr;
 	$result=$mm->xpath($expr);
 	//print_r($result);
 	return $result;
@@ -366,7 +368,7 @@ function cal2XML($cal,$m) {
 	
 	
 	$handle = fopen("selection-RE.csv", "r","1");
-	$t=file_get_contents("../liturgia/traductions.xml");
+	$t=file_get_contents("traductions.xml");
 	$traductions=simplexml_load_string($t);
 	$t2=$t=file_get_contents("lectures_semaine_temporal.xml");
 	$lst=simplexml_load_string($t2);

@@ -137,15 +137,15 @@
 <ps5>ps60</ps5>
 <ant6>AN_Per_arma_iustitiae</ant6>
 <ps6>ps63</ps6>
-<LB_3 id=""/>
-<RB_3 id=""/>
-<LB_6 id=""/>
-<RB_6 id=""/>
-<LB_9 id=""/>
-<RB_9 id=""/>
-<Oratio_3 id=""/>
-<Oratio_6 id=""/>
-<Oratio_9 id=""/>
+<LB_3>LB_Ap_3_19-20</LB_3>
+<RB_3>VERS_Cor_mundum_crea_in_me</RB_3>
+<LB_6>LB_Is_44_21-22</LB_6>
+<RB_6>VERS_Averte_faciem_tuam_a_peccatis</RB_6>
+<LB_9>LB_Gal_6_7b-8</LB_9>
+<RB_9>VERS_Sacrificium_Deo_spiritus_contribulatus</RB_9>
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis </oratio_6>
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
 <intitule_soir><la>Dominica III Quadragesimae</la></intitule_soir>
 <rang_soir><la/></rang_soir>
 <office_soir><la>Ad I Vesperas</la></office_soir>
@@ -360,15 +360,15 @@
 <ps5>ps60</ps5>
 <ant6>AN_Per_arma_iustitiae</ant6>
 <ps6>ps63</ps6>
-<LB_3 id=""/>
-<RB_3 id=""/>
-<LB_6 id=""/>
-<RB_6 id=""/>
-<LB_9 id=""/>
-<RB_9 id=""/>
-<Oratio_3 id=""/>
-<Oratio_6 id=""/>
-<Oratio_9 id=""/>
+<LB_3>LB_Ap_3_19-20</LB_3>
+<RB_3>VERS_Cor_mundum_crea_in_me</RB_3>
+<LB_6>LB_Is_44_21-22</LB_6>
+<RB_6>VERS_Averte_faciem_tuam_a_peccatis</RB_6>
+<LB_9>LB_Gal_6_7b-8</LB_9>
+<RB_9>VERS_Sacrificium_Deo_spiritus_contribulatus</RB_9>
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis </oratio_6>
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
 <intitule_soir><la>Dominica III Quadragesimae</la></intitule_soir>
 <rang_soir><la/></rang_soir>
 <office_soir><la>Ad I Vesperas</la></office_soir>
@@ -583,15 +583,15 @@
 <ps5>ps60</ps5>
 <ant6>AN_Per_arma_iustitiae</ant6>
 <ps6>ps63</ps6>
-<LB_3 id=""/>
-<RB_3 id=""/>
-<LB_6 id=""/>
-<RB_6 id=""/>
-<LB_9 id=""/>
-<RB_9 id=""/>
-<Oratio_3 id=""/>
-<Oratio_6 id=""/>
-<Oratio_9 id=""/>
+<LB_3>LB_Ap_3_19-20</LB_3>
+<RB_3>VERS_Cor_mundum_crea_in_me</RB_3>
+<LB_6>LB_Is_44_21-22</LB_6>
+<RB_6>VERS_Averte_faciem_tuam_a_peccatis</RB_6>
+<LB_9>LB_Gal_6_7b-8</LB_9>
+<RB_9>VERS_Sacrificium_Deo_spiritus_contribulatus</RB_9>
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis </oratio_6>
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
 <intitule_soir><la>Dominica III Quadragesimae</la></intitule_soir>
 <rang_soir><la/></rang_soir>
 <office_soir><la>Ad I Vesperas</la></office_soir>

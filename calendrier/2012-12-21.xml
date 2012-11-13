@@ -138,15 +138,15 @@
 <ps5>ps21II</ps5>
 <ant6>AN_Maria_dixit_Qualis</ant6>
 <ps6>ps21III</ps6>
-<LB_3 id=""/>
-<RB_3 id=""/>
-<LB_6 id=""/>
-<RB_6 id=""/>
-<LB_9 id=""/>
-<RB_9 id=""/>
-<Oratio_3 id=""/>
-<Oratio_6 id=""/>
-<Oratio_9 id=""/>
+<LB_3>LB_Is_2_11</LB_3>
+<RB_3>VERS_Timebunt_gentes_nomen_tuum_Domine</RB_3>
+<LB_6>LB_Is_12_2</LB_6>
+<RB_6>VERS_Memento_nostri_Domine_in_beneplacito</RB_6>
+<LB_9>LB_Dan_9_19</LB_9>
+<RB_9>VERS_Veni_Domine_et_noli_tardare</RB_9>
+<oratio_3>COL_Domine_Iesu_Christe_qui_hora_tertia</oratio_3>
+<oratio_6>COL_Domine_Iesu_Christe_qui_hora_sexta </oratio_6>
+<oratio_9>COL_Domine_Iesu_Christe_qui_paenitentem_latronem</oratio_9>
 <intitule_soir><la>S. Petri Canisii, presbyteri et Ecclesiae doctoris</la></intitule_soir>
 <rang_soir><la/></rang_soir>
 <office_soir><la>Ad II Vesperas</la></office_soir>
@@ -362,15 +362,15 @@
 <ps5>ps21II</ps5>
 <ant6>AN_Maria_dixit_Qualis</ant6>
 <ps6>ps21III</ps6>
-<LB_3 id=""/>
-<RB_3 id=""/>
-<LB_6 id=""/>
-<RB_6 id=""/>
-<LB_9 id=""/>
-<RB_9 id=""/>
-<Oratio_3 id=""/>
-<Oratio_6 id=""/>
-<Oratio_9 id=""/>
+<LB_3>LB_Is_2_11</LB_3>
+<RB_3>VERS_Timebunt_gentes_nomen_tuum_Domine</RB_3>
+<LB_6>LB_Is_12_2</LB_6>
+<RB_6>VERS_Memento_nostri_Domine_in_beneplacito</RB_6>
+<LB_9>LB_Dan_9_19</LB_9>
+<RB_9>VERS_Veni_Domine_et_noli_tardare</RB_9>
+<oratio_3>COL_Domine_Iesu_Christe_qui_hora_tertia</oratio_3>
+<oratio_6>COL_Domine_Iesu_Christe_qui_hora_sexta </oratio_6>
+<oratio_9>COL_Domine_Iesu_Christe_qui_paenitentem_latronem</oratio_9>
 <intitule_soir><la>S. Petri Canisii, presbyteri et Ecclesiae doctoris</la></intitule_soir>
 <rang_soir><la/></rang_soir>
 <office_soir><la>Ad II Vesperas</la></office_soir>
@@ -586,15 +586,15 @@
 <ps5>ps21II</ps5>
 <ant6>AN_Maria_dixit_Qualis</ant6>
 <ps6>ps21III</ps6>
-<LB_3 id=""/>
-<RB_3 id=""/>
-<LB_6 id=""/>
-<RB_6 id=""/>
-<LB_9 id=""/>
-<RB_9 id=""/>
-<Oratio_3 id=""/>
-<Oratio_6 id=""/>
-<Oratio_9 id=""/>
+<LB_3>LB_Is_2_11</LB_3>
+<RB_3>VERS_Timebunt_gentes_nomen_tuum_Domine</RB_3>
+<LB_6>LB_Is_12_2</LB_6>
+<RB_6>VERS_Memento_nostri_Domine_in_beneplacito</RB_6>
+<LB_9>LB_Dan_9_19</LB_9>
+<RB_9>VERS_Veni_Domine_et_noli_tardare</RB_9>
+<oratio_3>COL_Domine_Iesu_Christe_qui_hora_tertia</oratio_3>
+<oratio_6>COL_Domine_Iesu_Christe_qui_hora_sexta </oratio_6>
+<oratio_9>COL_Domine_Iesu_Christe_qui_paenitentem_latronem</oratio_9>
 <intitule_soir><la>S. Petri Canisii, presbyteri et Ecclesiae doctoris</la></intitule_soir>
 <rang_soir><la/></rang_soir>
 <office_soir><la>Ad II Vesperas</la></office_soir>

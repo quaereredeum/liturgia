@@ -682,15 +682,15 @@ $output.="
 <ps5>".$liturgia['ps5']."</ps5>
 <ant6>".$liturgia['ant6']."</ant6>
 <ps6>".$liturgia['ps6']."</ps6>
-<LB_3  id=\"\" />
-<RB_3  id=\"\" />
-<LB_6 id=\"\" />
-<RB_6 id=\"\" />
-<LB_9 id=\"\" />
-<RB_9 id=\"\" />
-<Oratio_3 id=\"\" />
-<Oratio_6 id=\"\" />
-<Oratio_9 id=\"\" />";
+<LB_3>".$liturgia['LB_3']."</LB_3>
+<RB_3>".$liturgia['RB_3']."</RB_3>
+<LB_6>".$liturgia['LB_6']."</LB_6>
+<RB_6>".$liturgia['RB_6']."</RB_6>
+<LB_9>".$liturgia['LB_9']."</LB_9>
+<RB_9>".$liturgia['RB_9']."</RB_9>
+<oratio_3>".$liturgia['oratio_3']."</oratio_3>
+<oratio_6>".$liturgia['oratio_6']." </oratio_6>
+<oratio_9>".$liturgia['oratio_9']."</oratio_9>";
 
 			$output.="
 <intitule_soir><la>".$liturgia['intitule_soir_la']."</la></intitule_soir>

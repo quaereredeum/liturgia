@@ -137,15 +137,15 @@
 <ps5>PS33I</ps5>
 <ant6>AN_Missus_est_Raphael</ant6>
 <ps6>PS33II</ps6>
-<LB_3 id=""/>
-<RB_3 id=""/>
-<LB_6 id=""/>
-<RB_6 id=""/>
-<LB_9 id=""/>
-<RB_9 id=""/>
-<Oratio_3 id=""/>
-<Oratio_6 id=""/>
-<Oratio_9 id=""/>
+<LB_3>LB_Dan_12_1</LB_3>
+<RB_3>VERS_Mittet_Dominus_angelos_suos_cum</RB_3>
+<LB_6>LB_Dan_9_22-23</LB_6>
+<RB_6>VERS_Benedicite_Domino_omnes_virtutes_eius</RB_6>
+<LB_9>LB_Tob_12_15._18._20b</LB_9>
+<RB_9>VERS_Angelis_suis_Deus_mandavit_de</RB_9>
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis </oratio_6>
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
 <intitule_soir><la>Dominica XXVI per annum</la></intitule_soir>
 <rang_soir><la/></rang_soir>
 <office_soir><la>Ad I Vesperas</la></office_soir>
@@ -360,15 +360,15 @@
 <ps5>PS33I</ps5>
 <ant6>AN_Missus_est_Raphael</ant6>
 <ps6>PS33II</ps6>
-<LB_3 id=""/>
-<RB_3 id=""/>
-<LB_6 id=""/>
-<RB_6 id=""/>
-<LB_9 id=""/>
-<RB_9 id=""/>
-<Oratio_3 id=""/>
-<Oratio_6 id=""/>
-<Oratio_9 id=""/>
+<LB_3>LB_Dan_12_1</LB_3>
+<RB_3>VERS_Mittet_Dominus_angelos_suos_cum</RB_3>
+<LB_6>LB_Dan_9_22-23</LB_6>
+<RB_6>VERS_Benedicite_Domino_omnes_virtutes_eius</RB_6>
+<LB_9>LB_Tob_12_15._18._20b</LB_9>
+<RB_9>VERS_Angelis_suis_Deus_mandavit_de</RB_9>
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis </oratio_6>
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
 <intitule_soir><la>Dominica XXVI per annum</la></intitule_soir>
 <rang_soir><la/></rang_soir>
 <office_soir><la>Ad I Vesperas</la></office_soir>
@@ -583,15 +583,15 @@
 <ps5>PS33I</ps5>
 <ant6>AN_Missus_est_Raphael</ant6>
 <ps6>PS33II</ps6>
-<LB_3 id=""/>
-<RB_3 id=""/>
-<LB_6 id=""/>
-<RB_6 id=""/>
-<LB_9 id=""/>
-<RB_9 id=""/>
-<Oratio_3 id=""/>
-<Oratio_6 id=""/>
-<Oratio_9 id=""/>
+<LB_3>LB_Dan_12_1</LB_3>
+<RB_3>VERS_Mittet_Dominus_angelos_suos_cum</RB_3>
+<LB_6>LB_Dan_9_22-23</LB_6>
+<RB_6>VERS_Benedicite_Domino_omnes_virtutes_eius</RB_6>
+<LB_9>LB_Tob_12_15._18._20b</LB_9>
+<RB_9>VERS_Angelis_suis_Deus_mandavit_de</RB_9>
+<oratio_3>COL_Domine_Deus_Pater_omnipotens_nobis_maiestati</oratio_3>
+<oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis </oratio_6>
+<oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
 <intitule_soir><la>Dominica XXVI per annum</la></intitule_soir>
 <rang_soir><la/></rang_soir>
 <office_soir><la>Ad I Vesperas</la></office_soir>

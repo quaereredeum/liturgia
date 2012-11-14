@@ -23,15 +23,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>hy_Mediae_noctis_tempus_est</HYMNUS_lectures>
 <HYMNUS_lec_jour>HY_Salve_dies_dierum_gloria</HYMNUS_lec_jour>
-<antL1 id="HY_Salve_dies_dierum_gloria"/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Exsurge_Domine_in</antL1>
+<psL1>ps103I</psL1>
+<antL2>AN_Iudica_causam_meam;</antL2>
+<psL2>ps103II</psL2>
+<antL3>AN_Lingua_mea_tota</antL3>
+<psL3>ps103III</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>
@@ -246,15 +246,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>hy_Mediae_noctis_tempus_est</HYMNUS_lectures>
 <HYMNUS_lec_jour>HY_Salve_dies_dierum_gloria</HYMNUS_lec_jour>
-<antL1 id="HY_Salve_dies_dierum_gloria"/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Exsurge_Domine_in</antL1>
+<psL1>ps103I</psL1>
+<antL2>AN_Iudica_causam_meam;</antL2>
+<psL2>ps103II</psL2>
+<antL3>AN_Lingua_mea_tota</antL3>
+<psL3>ps103III</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>
@@ -469,15 +469,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>hy_Mediae_noctis_tempus_est</HYMNUS_lectures>
 <HYMNUS_lec_jour>HY_Salve_dies_dierum_gloria</HYMNUS_lec_jour>
-<antL1 id="HY_Salve_dies_dierum_gloria"/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Exsurge_Domine_in</antL1>
+<psL1>ps103I</psL1>
+<antL2>AN_Iudica_causam_meam;</antL2>
+<psL2>ps103II</psL2>
+<antL3>AN_Lingua_mea_tota</antL3>
+<psL3>ps103III</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>

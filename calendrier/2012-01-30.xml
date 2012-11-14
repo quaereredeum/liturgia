@@ -23,15 +23,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>HY_Ipsum_nunc_nobis_tempus_est</HYMNUS_lectures>
 <HYMNUS_lec_jour>HY_Vita_sanctorum_via_spes_salusque</HYMNUS_lec_jour>
-<antL1 id="HY_Vita_sanctorum_via_spes_salusque"/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Quam_bonus_Israel</antL1>
+<psL1>ps72I</psL1>
+<antL2>AN_Risus_eorum_in</antL2>
+<psL2>ps72II</psL2>
+<antL3>AN_Qui_elongant_se</antL3>
+<psL3>ps72III</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>
@@ -246,15 +246,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>HY_Ipsum_nunc_nobis_tempus_est</HYMNUS_lectures>
 <HYMNUS_lec_jour>HY_Vita_sanctorum_via_spes_salusque</HYMNUS_lec_jour>
-<antL1 id="HY_Vita_sanctorum_via_spes_salusque"/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Quam_bonus_Israel</antL1>
+<psL1>ps72I</psL1>
+<antL2>AN_Risus_eorum_in</antL2>
+<psL2>ps72II</psL2>
+<antL3>AN_Qui_elongant_se</antL3>
+<psL3>ps72III</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>
@@ -469,15 +469,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>HY_Ipsum_nunc_nobis_tempus_est</HYMNUS_lectures>
 <HYMNUS_lec_jour>HY_Vita_sanctorum_via_spes_salusque</HYMNUS_lec_jour>
-<antL1 id="HY_Vita_sanctorum_via_spes_salusque"/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Quam_bonus_Israel</antL1>
+<psL1>ps72I</psL1>
+<antL2>AN_Risus_eorum_in</antL2>
+<psL2>ps72II</psL2>
+<antL3>AN_Qui_elongant_se</antL3>
+<psL3>ps72III</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>

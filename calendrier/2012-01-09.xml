@@ -23,15 +23,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>HY_Ipsum_nunc_nobis_tempus_est</HYMNUS_lectures>
 <HYMNUS_lec_jour>HY_Vita_sanctorum_via_spes_salusque</HYMNUS_lec_jour>
-<antL1 id="HY_Vita_sanctorum_via_spes_salusque"/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Fuit_Ioannes_in</antL1>
+<psL1>ps134I</psL1>
+<antL2>AN_Ego_quidem_aqua</antL2>
+<psL2>ps134II</psL2>
+<antL3>AN_Baptizatus_Iesus_confestim</antL3>
+<psL3>NT7</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>
@@ -246,15 +246,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>HY_Somno_refectis_artubus</HYMNUS_lectures>
 <HYMNUS_lec_jour>HY_Aeterna_lux_divinitas</HYMNUS_lec_jour>
-<antL1 id="HY_Aeterna_lux_divinitas"/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Salvum_me_fac</antL1>
+<psL1>ps6</psL1>
+<antL2>AN_Factus_est</antL2>
+<psL2>ps9AI</psL2>
+<antL3>AN_Annuntiabo_laudationes_tuas</antL3>
+<psL3>ps09II</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>
@@ -469,15 +469,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>HY_Somno_refectis_artubus</HYMNUS_lectures>
 <HYMNUS_lec_jour>HY_Aeterna_lux_divinitas</HYMNUS_lec_jour>
-<antL1 id="HY_Aeterna_lux_divinitas"/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Salvum_me_fac</antL1>
+<psL1>ps6</psL1>
+<antL2>AN_Factus_est</antL2>
+<psL2>ps9AI</psL2>
+<antL3>AN_Annuntiabo_laudationes_tuas</antL3>
+<psL3>ps09II</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>

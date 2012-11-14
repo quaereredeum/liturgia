@@ -23,15 +23,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>HY_Nocte_surgentes_vigilemus_omnes</HYMNUS_lectures>
 <HYMNUS_lec_jour>HY_Ad_preces_nostras_deitatis_aures</HYMNUS_lec_jour>
-<antL1 id="HY_Ad_preces_nostras_deitatis_aures"/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Committe_Domino_viam</antL1>
+<psL1>ps36I</psL1>
+<antL2>AN_Declina_a_malo</antL2>
+<psL2>ps36II</psL2>
+<antL3>AN_Exspecta_Dominum_et</antL3>
+<psL3>ps36III</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>
@@ -246,15 +246,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>HY_Nocte_surgentes_vigilemus_omnes</HYMNUS_lectures>
 <HYMNUS_lec_jour>HY_Ad_preces_nostras_deitatis_aures</HYMNUS_lec_jour>
-<antL1 id="HY_Ad_preces_nostras_deitatis_aures"/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Committe_Domino_viam</antL1>
+<psL1>ps36I</psL1>
+<antL2>AN_Declina_a_malo</antL2>
+<psL2>ps36II</psL2>
+<antL3>AN_Exspecta_Dominum_et</antL3>
+<psL3>ps36III</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>
@@ -469,15 +469,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>HY_Nocte_surgentes_vigilemus_omnes</HYMNUS_lectures>
 <HYMNUS_lec_jour>HY_Ad_preces_nostras_deitatis_aures</HYMNUS_lec_jour>
-<antL1 id="HY_Ad_preces_nostras_deitatis_aures"/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Committe_Domino_viam</antL1>
+<psL1>ps36I</psL1>
+<antL2>AN_Declina_a_malo</antL2>
+<psL2>ps36II</psL2>
+<antL3>AN_Exspecta_Dominum_et</antL3>
+<psL3>ps36III</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>

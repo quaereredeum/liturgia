@@ -251,6 +251,7 @@ function ajoutexml($liturgia,$xml) {
 		if($result=@$xml->xpath('/liturgia/ant02/@id')) $liturgia['ant02']=$result[0];
 		if($result=@$xml->xpath('/liturgia/ps02/@id')) $liturgia['ps02']=$result[0];
 		if($result=@$xml->xpath('/liturgia/ant03/@id')) $liturgia['ant03']=$result[0];
+		if($result=@$xml->xpath('/liturgia/ps03/@id')) $liturgia['ps03']=$result[0];
 		if($result=@$xml->xpath('/liturgia/VERS/@id')) $liturgia['VERS']=$result[0];
 		if($result=@$xml->xpath('/liturgia/HYMNUS_laudes/@id')) $liturgia['HYMNUS_laudes']=$result[0];
 		if($result=@$xml->xpath('/liturgia/ant1/@id')) $liturgia['ant1']=$result[0];
@@ -355,8 +356,8 @@ function ajoutexml($liturgia,$xml) {
 		if($result=@$xml->xpath('/liturgia/osb_vig_vers3/@id')) $liturgia['osb_vig_vers3']=$result[0];
 		if($result=@$xml->xpath('/liturgia/osb_vig_ben3/@id')) $liturgia['osb_vig_ben3']=$result[0];
 		if($result=@$xml->xpath('/liturgia/osb_vig_ben3/@id')) $liturgia['osb_vig_ben3']=$result[0];
-		if ($result=@$xml->xpath('/liturgia/intitule/la')) $liturgia['intitule_matin_la']=$result[0];
-		if ($result=@$xml->xpath('/liturgia/intitule/la')) $liturgia['intitule_soir_la']=$result[0];
+		$result="";if ($result=@$xml->xpath('/liturgia/intitule/la')) $liturgia['intitule_matin_la']=$result[0];
+		$result="";if ($result=@$xml->xpath('/liturgia/intitule/la')) $liturgia['intitule_soir_la']=$result[0];
 	}
 	//print"</table>";
 	//print"\r\n ICI";
@@ -551,22 +552,30 @@ function cal2XML($cal,$m) {
 				//print "\r\n".date('Ymd',$date_courante);
 				//$liturgia['rang_soir_la']="Sollemnitas";
 			}
-			
+/*
+ * 
+ * if($result=@$xml->xpath('/liturgia/ant01/@id')) $liturgia['ant01']=$result[0];
+		if($result=@$xml->xpath('/liturgia/ps01/@id')) $liturgia['ps01']=$result[0];
+		if($result=@$xml->xpath('/liturgia/ant02/@id')) $liturgia['ant02']=$result[0];
+		if($result=@$xml->xpath('/liturgia/ps02/@id')) $liturgia['ps02']=$result[0];
+		if($result=@$xml->xpath('/liturgia/ant03/@id')) $liturgia['ant03']=$result[0];
+		if($result=@$xml->xpath('/liturgia/VERS/@id')) $liturgia['VERS']=$result[0];
+ * 
+ */			
 	
 			$output.="
-<intitule_matin id=	\"".$liturgia['intitule_matin_la']."\" />
 <invitatoire id=\"\" />
 <HYMNUS_lectures>".$liturgia['HYMNUS_lectures']."</HYMNUS_lectures>
 <HYMNUS_lec_jour>".$liturgia['HYMNUS_lec_jour']."</HYMNUS_lec_jour>
-<antL1 id=\"".$liturgia['HYMNUS_lec_jour']."\" />
-<psL1 id=\"".$liturgia['psL1']."\" />
-<antL2 id=\"".$liturgia['antL2']."\" />
-<psL2 id=\"".$liturgia['psL2']."\" />
-<antL3 id=\"".$liturgia['antL3']."\" />
-<psL3 id=\"".$liturgia['psL3']."\" />
+<antL1>".$liturgia['ant01']."</antL1>
+<psL1>".$liturgia['ps01']."</psL1>
+<antL2>".$liturgia['ant02']."</antL2>
+<psL2>".$liturgia['ps02']."</psL2>
+<antL3>".$liturgia['ant03']."</antL3>
+<psL3>".$liturgia['ps03']."</psL3>
 <osb_vig_ant_attente id=\"".$liturgia['osb_vig_ant_attente']."\" />
 <osb_vig_ps_attente id=\"".$liturgia['osb_vig_ps_attente']."\" />
-<Llec1 id=\"\" />
+<Llec1></Llec1>
 <Lrep1 id=\"\" />
 <Llec2 id=\"\" />
 <Lrep2 id=\"\" />

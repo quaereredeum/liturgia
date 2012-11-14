@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <liturgia>
- <ant_invit id="INV_Venite_exsultemus_Domino"/>
+<ant_invit id="INV_Venite_exsultemus_Domino"/>
 <HYMNUS_lectures id="HY_Primo_dierum_omnium"/>
 <HYMNUS_lec_jour id="HY_Dies_aetasque_ceteris"/>
 <ant01 id="AN_Lignum_vitae_in"/>

@@ -23,15 +23,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>HY_Galli_cantu_mediante</HYMNUS_lectures>
 <HYMNUS_lec_jour>HY_Adesto_rerum_conditor</HYMNUS_lec_jour>
-<antL1 id="HY_Adesto_rerum_conditor"/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Deus_meus_ne</antL1>
+<psL1>ps54I</psL1>
+<antL2>AN_Liberabit_nos_Dominus</antL2>
+<psL2>ps54II</psL2>
+<antL3>AN_Iacta_super_Dominum</antL3>
+<psL3>ps54III</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>
@@ -247,15 +247,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>HY_Galli_cantu_mediante</HYMNUS_lectures>
 <HYMNUS_lec_jour>HY_Adesto_rerum_conditor</HYMNUS_lec_jour>
-<antL1 id="HY_Adesto_rerum_conditor"/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Deus_meus_ne</antL1>
+<psL1>ps54I</psL1>
+<antL2>AN_Liberabit_nos_Dominus</antL2>
+<psL2>ps54II</psL2>
+<antL3>AN_Iacta_super_Dominum</antL3>
+<psL3>ps54III</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>
@@ -471,15 +471,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>HY_Galli_cantu_mediante</HYMNUS_lectures>
 <HYMNUS_lec_jour>HY_Adesto_rerum_conditor</HYMNUS_lec_jour>
-<antL1 id="HY_Adesto_rerum_conditor"/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Deus_meus_ne</antL1>
+<psL1>ps54I</psL1>
+<antL2>AN_Liberabit_nos_Dominus</antL2>
+<psL2>ps54II</psL2>
+<antL3>AN_Iacta_super_Dominum</antL3>
+<psL3>ps54III</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>

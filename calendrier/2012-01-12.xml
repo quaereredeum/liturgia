@@ -23,15 +23,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>HY_Nox_atra_rerum_contegit</HYMNUS_lectures>
 <HYMNUS_lec_jour>HY_Christe_precamur_adnuas</HYMNUS_lec_jour>
-<antL1 id="HY_Christe_precamur_adnuas"/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Eloquium_Domini_scutum</antL1>
+<psL1>ps17IV</psL1>
+<antL2>AN_Dextera_tua_Domine</antL2>
+<psL2>ps17V</psL2>
+<antL3>AN_Vivat_Dominus_et</antL3>
+<psL3>ps17VI</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>
@@ -246,15 +246,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>HY_Nox_atra_rerum_contegit</HYMNUS_lectures>
 <HYMNUS_lec_jour>HY_Christe_precamur_adnuas</HYMNUS_lec_jour>
-<antL1 id="HY_Christe_precamur_adnuas"/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Eloquium_Domini_scutum</antL1>
+<psL1>ps17IV</psL1>
+<antL2>AN_Dextera_tua_Domine</antL2>
+<psL2>ps17V</psL2>
+<antL3>AN_Vivat_Dominus_et</antL3>
+<psL3>ps17VI</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>
@@ -469,15 +469,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>HY_Nox_atra_rerum_contegit</HYMNUS_lectures>
 <HYMNUS_lec_jour>HY_Christe_precamur_adnuas</HYMNUS_lec_jour>
-<antL1 id="HY_Christe_precamur_adnuas"/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Eloquium_Domini_scutum</antL1>
+<psL1>ps17IV</psL1>
+<antL2>AN_Dextera_tua_Domine</antL2>
+<psL2>ps17V</psL2>
+<antL3>AN_Vivat_Dominus_et</antL3>
+<psL3>ps17VI</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>

@@ -23,15 +23,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>HY_Somno_refectis_artubus</HYMNUS_lectures>
 <HYMNUS_lec_jour>HY_O_sacrosancta_Trinitas</HYMNUS_lec_jour>
-<antL1 id="HY_O_sacrosancta_Trinitas"/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Deus_noster_manifeste</antL1>
+<psL1>ps49I</psL1>
+<antL2>AN_Immola_Deo_sacrificium</antL2>
+<psL2>ps49II</psL2>
+<antL3>AN_Misericordiam_volui_et</antL3>
+<psL3>ps49III</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>
@@ -246,15 +246,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>HY_Somno_refectis_artubus</HYMNUS_lectures>
 <HYMNUS_lec_jour>HY_O_sacrosancta_Trinitas</HYMNUS_lec_jour>
-<antL1 id="HY_O_sacrosancta_Trinitas"/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Deus_noster_manifeste</antL1>
+<psL1>ps49I</psL1>
+<antL2>AN_Immola_Deo_sacrificium</antL2>
+<psL2>ps49II</psL2>
+<antL3>AN_Misericordiam_volui_et</antL3>
+<psL3>ps49III</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>
@@ -469,15 +469,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>HY_Somno_refectis_artubus</HYMNUS_lectures>
 <HYMNUS_lec_jour>HY_O_sacrosancta_Trinitas</HYMNUS_lec_jour>
-<antL1 id="HY_O_sacrosancta_Trinitas"/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Deus_noster_manifeste</antL1>
+<psL1>ps49I</psL1>
+<antL2>AN_Immola_Deo_sacrificium</antL2>
+<psL2>ps49II</psL2>
+<antL3>AN_Misericordiam_volui_et</antL3>
+<psL3>ps49III</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>

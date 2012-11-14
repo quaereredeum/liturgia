@@ -23,15 +23,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>HY_Pressi_malorum_pondere</HYMNUS_lectures>
 <HYMNUS_lec_jour/>
-<antL1 id=""/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Libenter_gloriabor_in</antL1>
+<psL1>ps116</psL1>
+<antL2>AN_Ego_plantavi_Apollo</antL2>
+<psL2>ps147</psL2>
+<antL3>AN_Mihi_vivere_Christus</antL3>
+<psL3>NT5</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>
@@ -246,15 +246,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>HY_Pressi_malorum_pondere</HYMNUS_lectures>
 <HYMNUS_lec_jour/>
-<antL1 id=""/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Libenter_gloriabor_in</antL1>
+<psL1>ps116</psL1>
+<antL2>AN_Ego_plantavi_Apollo</antL2>
+<psL2>ps147</psL2>
+<antL3>AN_Mihi_vivere_Christus</antL3>
+<psL3>NT5</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>
@@ -469,15 +469,15 @@
 <invitatoire id=""/>
 <HYMNUS_lectures>HY_Pressi_malorum_pondere</HYMNUS_lectures>
 <HYMNUS_lec_jour/>
-<antL1 id=""/>
-<psL1 id=""/>
-<antL2 id=""/>
-<psL2 id=""/>
-<antL3 id=""/>
-<psL3 id=""/>
+<antL1>AN_Libenter_gloriabor_in</antL1>
+<psL1>ps116</psL1>
+<antL2>AN_Ego_plantavi_Apollo</antL2>
+<psL2>ps147</psL2>
+<antL3>AN_Mihi_vivere_Christus</antL3>
+<psL3>NT5</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1 id=""/>
+<Llec1/>
 <Lrep1 id=""/>
 <Llec2 id=""/>
 <Lrep2 id=""/>

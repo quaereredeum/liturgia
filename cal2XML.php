@@ -1,5 +1,6 @@
 <?php
 include_once("lune.php");
+date_default_timezone_set('Europe/Paris');
 
 include_once("get_traduction.php");
 $p=pathinfo("__FILE__");

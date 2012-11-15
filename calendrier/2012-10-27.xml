@@ -30,10 +30,10 @@
 <psL3>PS131II</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1/>
-<Lrep1 id=""/>
-<Llec2 id=""/>
-<Lrep2 id=""/>
+<Llec1>L1_perannum_29-7</Llec1>
+<Lrep1>R1_perannum_29-7</Lrep1>
+<Llec2>L2_perannum_29-7</Llec2>
+<Lrep2>R2_perannum_29-7</Lrep2>
 <Loratio id=""/>
 <Levangile id=""/>
 <Vant1>AN_Clamor_meus</Vant1>
@@ -252,10 +252,10 @@
 <psL3>PS131II</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1/>
-<Lrep1 id=""/>
-<Llec2 id=""/>
-<Lrep2 id=""/>
+<Llec1>L1_perannum_29-7</Llec1>
+<Lrep1>R1_perannum_29-7</Lrep1>
+<Llec2>L2_perannum_29-7</Llec2>
+<Lrep2>R2_perannum_29-7</Lrep2>
 <Loratio id=""/>
 <Levangile id=""/>
 <Vant1>AN_Clamor_meus</Vant1>
@@ -474,10 +474,10 @@
 <psL3>PS131II</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1/>
-<Lrep1 id=""/>
-<Llec2 id=""/>
-<Lrep2 id=""/>
+<Llec1>L1_perannum_29-7</Llec1>
+<Lrep1>R1_perannum_29-7</Lrep1>
+<Llec2>L2_perannum_29-7</Llec2>
+<Lrep2>R2_perannum_29-7</Lrep2>
 <Loratio id=""/>
 <Levangile id=""/>
 <Vant1>AN_Clamor_meus</Vant1>

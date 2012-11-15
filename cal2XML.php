@@ -311,7 +311,6 @@ function ajoutexml($liturgia,$xml) {
 		if($result=@$xml->xpath('/liturgia/oratio_vesperas/@id')) $liturgia['oratio_vesperas']=$result[0];
 		if($result=@$xml->xpath('/liturgia/oratio/@id')) $liturgia['oratio_vesperas']=$result[0]; 
 		if($result=@$xml->xpath('/liturgia/preces/@id')) $liturgia['vepres_preces']=$result[0];
-		//else unset($liturgia['vepres_preces']);
 		if($result=@$xml->xpath('/liturgia/HYMNUS_completorium/@id')) $liturgia['HYMNUS_completorium']=$result[0];
 		if($result=@$xml->xpath('/liturgia/ant10/@id')) $liturgia['ant10']=$result[0];
 		if($result=@$xml->xpath('/liturgia/ps10/@id')) $liturgia['ps10']=$result[0];
@@ -360,8 +359,6 @@ function ajoutexml($liturgia,$xml) {
 		$result="";if ($result=@$xml->xpath('/liturgia/intitule/la')) $liturgia['intitule_matin_la']=$result[0];
 		$result="";if ($result=@$xml->xpath('/liturgia/intitule/la')) $liturgia['intitule_soir_la']=$result[0];
 	}
-	//print"</table>";
-	//print"\r\n ICI";
 	return $liturgia;
 }
 
@@ -576,10 +573,10 @@ function cal2XML($cal,$m) {
 <psL3>".$liturgia['ps03']."</psL3>
 <osb_vig_ant_attente id=\"".$liturgia['osb_vig_ant_attente']."\" />
 <osb_vig_ps_attente id=\"".$liturgia['osb_vig_ps_attente']."\" />
-<Llec1></Llec1>
-<Lrep1 id=\"\" />
-<Llec2 id=\"\" />
-<Lrep2 id=\"\" />
+<Llec1>L1_".$messe."</Llec1>
+<Lrep1>R1_".$messe."</Lrep1>
+<Llec2>L2_".$messe."</Llec2>
+<Lrep2>R2_".$messe."</Lrep2>
 <Loratio id=\"\" />
 <Levangile id=\"\" />
 <Vant1>".$liturgia['osb_vig_ant1']."</Vant1>

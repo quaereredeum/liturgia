@@ -30,10 +30,10 @@
 <psL3>NT4</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1/>
-<Lrep1 id=""/>
-<Llec2 id=""/>
-<Lrep2 id=""/>
+<Llec1>L1_D.N._IESU_CHRISTI_UNIVERSORUM_REGIS</Llec1>
+<Lrep1>R1_D.N._IESU_CHRISTI_UNIVERSORUM_REGIS</Lrep1>
+<Llec2>L2_D.N._IESU_CHRISTI_UNIVERSORUM_REGIS</Llec2>
+<Lrep2>R2_D.N._IESU_CHRISTI_UNIVERSORUM_REGIS</Lrep2>
 <Loratio id=""/>
 <Levangile id=""/>
 <Vant1>AN_Domine_in_virtute</Vant1>
@@ -252,10 +252,10 @@
 <psL3>NT4</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1/>
-<Lrep1 id=""/>
-<Llec2 id=""/>
-<Lrep2 id=""/>
+<Llec1>L1_D.N._IESU_CHRISTI_UNIVERSORUM_REGIS</Llec1>
+<Lrep1>R1_D.N._IESU_CHRISTI_UNIVERSORUM_REGIS</Lrep1>
+<Llec2>L2_D.N._IESU_CHRISTI_UNIVERSORUM_REGIS</Llec2>
+<Lrep2>R2_D.N._IESU_CHRISTI_UNIVERSORUM_REGIS</Lrep2>
 <Loratio id=""/>
 <Levangile id=""/>
 <Vant1>AN_Domine_in_virtute</Vant1>
@@ -474,10 +474,10 @@
 <psL3>NT4</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1/>
-<Lrep1 id=""/>
-<Llec2 id=""/>
-<Lrep2 id=""/>
+<Llec1>L1_D.N._IESU_CHRISTI_UNIVERSORUM_REGIS</Llec1>
+<Lrep1>R1_D.N._IESU_CHRISTI_UNIVERSORUM_REGIS</Lrep1>
+<Llec2>L2_D.N._IESU_CHRISTI_UNIVERSORUM_REGIS</Llec2>
+<Lrep2>R2_D.N._IESU_CHRISTI_UNIVERSORUM_REGIS</Lrep2>
 <Loratio id=""/>
 <Levangile id=""/>
 <Vant1>AN_Domine_in_virtute</Vant1>

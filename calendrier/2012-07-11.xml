@@ -30,10 +30,10 @@
 <psL3>ps51</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1/>
-<Lrep1 id=""/>
-<Llec2 id=""/>
-<Lrep2 id=""/>
+<Llec1>L1_07-11</Llec1>
+<Lrep1>R1_07-11</Lrep1>
+<Llec2>L2_07-11</Llec2>
+<Lrep2>R2_07-11</Lrep2>
 <Loratio id=""/>
 <Levangile id=""/>
 <Vant1>AN_Da_nobis_Domine</Vant1>
@@ -221,7 +221,7 @@
 <ML_AL/>
 <ML_CO/>
 </messe>
-</ordo><ordo id="SWF"><messe>07-11</messe><priorite>4</priorite><pV>1</pV><couleur>Blanc</couleur><reference>S. PATRIS NOSTRI BENEDICTI</reference><sanctoral><la>S. PATRIS NOSTRI BENEDICTI</la><fr>S. PATRIS NOSTRI BENEDICTI</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XIV per annum</la><fr>XIV&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. PATRIS NOSTRI BENEDICTI</la><fr>S. PATRIS NOSTRI BENEDICTI</fr></intitule><rang><la>Sollemnitas maior</la><fr>Sollemnitas maior</fr></rang><hebdomada_psalterium>2</hebdomada_psalterium><phase_lunaire>51,35</phase_lunaire><age_lunaire>22</age_lunaire><selection/><matin>
+</ordo><ordo id="SWF"><messe>07-11</messe><priorite>4</priorite><pV>1</pV><couleur>Blanc</couleur><reference>S. PATRIS NOSTRI BENEDICTI</reference><sanctoral><la>S. PATRIS NOSTRI BENEDICTI</la><fr>NBP SAINT BENOIT</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XIV per annum</la><fr>XIV&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. PATRIS NOSTRI BENEDICTI</la><fr>NBP SAINT BENOIT</fr></intitule><rang><la>Sollemnitas maior</la><fr>Sollemnitas maior</fr></rang><hebdomada_psalterium>2</hebdomada_psalterium><phase_lunaire>51,35</phase_lunaire><age_lunaire>22</age_lunaire><selection/><matin>
 		<temps>Tempus per annum</temps>
 		<psautier>psautier_24</psautier>
 		<psalterium>psalterium_24</psalterium>
@@ -252,10 +252,10 @@
 <psL3>ps51</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1/>
-<Lrep1 id=""/>
-<Llec2 id=""/>
-<Lrep2 id=""/>
+<Llec1>L1_07-11</Llec1>
+<Lrep1>R1_07-11</Lrep1>
+<Llec2>L2_07-11</Llec2>
+<Lrep2>R2_07-11</Lrep2>
 <Loratio id=""/>
 <Levangile id=""/>
 <Vant1>AN_Da_nobis_Domine</Vant1>
@@ -443,7 +443,7 @@
 <ML_AL/>
 <ML_CO/>
 </messe>
-</ordo><ordo id="SMK"><messe>07-11</messe><priorite>4</priorite><pV>1</pV><couleur>Blanc</couleur><reference>S. PATRIS NOSTRI BENEDICTI</reference><sanctoral><la>S. PATRIS NOSTRI BENEDICTI</la><fr>S. PATRIS NOSTRI BENEDICTI</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XIV per annum</la><fr>XIV&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. PATRIS NOSTRI BENEDICTI</la><fr>S. PATRIS NOSTRI BENEDICTI</fr></intitule><rang><la>Sollemnitas maior</la><fr>Sollemnitas maior</fr></rang><hebdomada_psalterium>2</hebdomada_psalterium><phase_lunaire>51,35</phase_lunaire><age_lunaire>22</age_lunaire><selection/><matin>
+</ordo><ordo id="SMK"><messe>07-11</messe><priorite>4</priorite><pV>1</pV><couleur>Blanc</couleur><reference>S. PATRIS NOSTRI BENEDICTI</reference><sanctoral><la>S. PATRIS NOSTRI BENEDICTI</la><fr>NBP SAINT BENOIT</fr></sanctoral><tempus><la>Tempus per annum</la><fr>Temps dans l'ann&#xE9;e</fr></tempus><hebdomada><la>Hebdomada XIV per annum</la><fr>XIV&#xE8;me semaine dans l'ann&#xE9;e</fr></hebdomada><intitule><la>S. PATRIS NOSTRI BENEDICTI</la><fr>NBP SAINT BENOIT</fr></intitule><rang><la>Sollemnitas maior</la><fr>Sollemnitas maior</fr></rang><hebdomada_psalterium>2</hebdomada_psalterium><phase_lunaire>51,35</phase_lunaire><age_lunaire>22</age_lunaire><selection/><matin>
 		<temps>Tempus per annum</temps>
 		<psautier>psautier_24</psautier>
 		<psalterium>psalterium_24</psalterium>
@@ -474,10 +474,10 @@
 <psL3>ps51</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1/>
-<Lrep1 id=""/>
-<Llec2 id=""/>
-<Lrep2 id=""/>
+<Llec1>L1_07-11</Llec1>
+<Lrep1>R1_07-11</Lrep1>
+<Llec2>L2_07-11</Llec2>
+<Lrep2>R2_07-11</Lrep2>
 <Loratio id=""/>
 <Levangile id=""/>
 <Vant1>AN_Da_nobis_Domine</Vant1>

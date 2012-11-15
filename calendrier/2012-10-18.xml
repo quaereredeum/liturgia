@@ -30,10 +30,10 @@
 <psL3>ps43III</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1/>
-<Lrep1 id=""/>
-<Llec2 id=""/>
-<Lrep2 id=""/>
+<Llec1>L1_10-18</Llec1>
+<Lrep1>R1_10-18</Lrep1>
+<Llec2>L2_10-18</Llec2>
+<Lrep2>R2_10-18</Lrep2>
 <Loratio id=""/>
 <Levangile id=""/>
 <Vant1>AN_Liberasti_virgam</Vant1>
@@ -252,10 +252,10 @@
 <psL3>ps43III</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1/>
-<Lrep1 id=""/>
-<Llec2 id=""/>
-<Lrep2 id=""/>
+<Llec1>L1_10-18</Llec1>
+<Lrep1>R1_10-18</Lrep1>
+<Llec2>L2_10-18</Llec2>
+<Lrep2>R2_10-18</Lrep2>
 <Loratio id=""/>
 <Levangile id=""/>
 <Vant1>AN_Liberasti_virgam</Vant1>
@@ -474,10 +474,10 @@
 <psL3>ps43III</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1/>
-<Lrep1 id=""/>
-<Llec2 id=""/>
-<Lrep2 id=""/>
+<Llec1>L1_10-18</Llec1>
+<Lrep1>R1_10-18</Lrep1>
+<Llec2>L2_10-18</Llec2>
+<Lrep2>R2_10-18</Lrep2>
 <Loratio id=""/>
 <Levangile id=""/>
 <Vant1>AN_Liberasti_virgam</Vant1>

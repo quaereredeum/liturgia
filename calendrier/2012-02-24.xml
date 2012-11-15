@@ -30,10 +30,10 @@
 <psL3>ps54III</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1/>
-<Lrep1 id=""/>
-<Llec2 id=""/>
-<Lrep2 id=""/>
+<Llec1>L1_quadragesima_06</Llec1>
+<Lrep1>R1_quadragesima_06</Lrep1>
+<Llec2>L2_quadragesima_06</Llec2>
+<Lrep2>R2_quadragesima_06</Lrep2>
 <Loratio id=""/>
 <Levangile id=""/>
 <Vant1>AN_Inclina_Domine</Vant1>
@@ -253,10 +253,10 @@
 <psL3>ps54III</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1/>
-<Lrep1 id=""/>
-<Llec2 id=""/>
-<Lrep2 id=""/>
+<Llec1>L1_quadragesima_06</Llec1>
+<Lrep1>R1_quadragesima_06</Lrep1>
+<Llec2>L2_quadragesima_06</Llec2>
+<Lrep2>R2_quadragesima_06</Lrep2>
 <Loratio id=""/>
 <Levangile id=""/>
 <Vant1>AN_Inclina_Domine</Vant1>
@@ -476,10 +476,10 @@
 <psL3>ps54III</psL3>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
-<Llec1/>
-<Lrep1 id=""/>
-<Llec2 id=""/>
-<Lrep2 id=""/>
+<Llec1>L1_quadragesima_06</Llec1>
+<Lrep1>R1_quadragesima_06</Lrep1>
+<Llec2>L2_quadragesima_06</Llec2>
+<Lrep2>R2_quadragesima_06</Lrep2>
 <Loratio id=""/>
 <Levangile id=""/>
 <Vant1>AN_Inclina_Domine</Vant1>

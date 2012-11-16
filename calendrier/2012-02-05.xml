@@ -140,8 +140,8 @@
 <RB_3>VERS_Inclina_cor</RB_3>
 <LB_6>LB_Gal6.7-8</LB_6>
 <RB_6>VERS_In_aeternum</RB_6>
-<LB_9>LB_Phil_4_8._9b</LB_9>
-<RB_9>VERS_Exaltabo_te</RB_9>
+<LB_9>LB_CfGal6,9-10</LB_9>
+<RB_9>VERS_Clamavi_in</RB_9>
 <oratio_3>COL</oratio_3>
 <oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis </oratio_6>
 <oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
@@ -192,12 +192,9 @@
 		
 <HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
 <comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
-<comp_ps1>ps90</comp_ps1>
-<comp_ant2/>
-<comp_ps2/>
-<comp_LB>LB_Ap_22_4-5</comp_LB>
+<comp_ps1>ps90</comp_ps1><comp_LB>LB_Ap_22_4-5</comp_LB>
 <comp_RB>RB_In_manus_tuas</comp_RB>
-<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="perannum_5-1">
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="perannum_5-1">
 <IN>IN_Venite_adoremus</IN>
 
 <KY/>
@@ -362,8 +359,8 @@
 <RB_3>VERS_Inclina_cor</RB_3>
 <LB_6>LB_Gal6.7-8</LB_6>
 <RB_6>VERS_In_aeternum</RB_6>
-<LB_9>LB_Phil_4_8._9b</LB_9>
-<RB_9>VERS_Exaltabo_te</RB_9>
+<LB_9>LB_CfGal6,9-10</LB_9>
+<RB_9>VERS_Clamavi_in</RB_9>
 <oratio_3>COL</oratio_3>
 <oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis </oratio_6>
 <oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
@@ -414,12 +411,9 @@
 		
 <HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
 <comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
-<comp_ps1>ps90</comp_ps1>
-<comp_ant2/>
-<comp_ps2/>
-<comp_LB>LB_Ap_22_4-5</comp_LB>
+<comp_ps1>ps90</comp_ps1><comp_LB>LB_Ap_22_4-5</comp_LB>
 <comp_RB>RB_In_manus_tuas</comp_RB>
-<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="perannum_5-1">
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="perannum_5-1">
 <IN>IN_Venite_adoremus</IN>
 
 <KY/>
@@ -584,8 +578,8 @@
 <RB_3>VERS_Inclina_cor</RB_3>
 <LB_6>LB_Gal6.7-8</LB_6>
 <RB_6>VERS_In_aeternum</RB_6>
-<LB_9>LB_Phil_4_8._9b</LB_9>
-<RB_9>VERS_Exaltabo_te</RB_9>
+<LB_9>LB_CfGal6,9-10</LB_9>
+<RB_9>VERS_Clamavi_in</RB_9>
 <oratio_3>COL</oratio_3>
 <oratio_6>COL_Concede_nobis_Domine_lux_ardens_caritatis </oratio_6>
 <oratio_9>COL_Exaudi_nos_Domine_et_praesta_pacem</oratio_9>
@@ -636,12 +630,9 @@
 		
 <HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
 <comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
-<comp_ps1>ps90</comp_ps1>
-<comp_ant2/>
-<comp_ps2/>
-<comp_LB>LB_Ap_22_4-5</comp_LB>
+<comp_ps1>ps90</comp_ps1><comp_LB>LB_Ap_22_4-5</comp_LB>
 <comp_RB>RB_In_manus_tuas</comp_RB>
-<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="perannum_5-1">
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="perannum_5-1">
 <IN>IN_Venite_adoremus</IN>
 
 <KY/>

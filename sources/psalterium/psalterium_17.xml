@@ -2,14 +2,14 @@
 <liturgia>
 <ps01 id="PS130"/> 
 <ps02 id="PS131I"/> 
- <ps03 id="PS131II"/> 
-  <ps1 id="PS118XIX"/> 
-  <ps2 id="AT1"/> 
-  <ps3 id="PS116"/> 
+<ps03 id="PS131II"/> 
+<ps1 id="PS118XIX"/> 
+<ps2 id="AT1"/> 
+<ps3 id="PS116"/> 
 <ps4 id="PS118V"/> 
-  <ps5 id="PS33I"/> 
-  <ps6 id="PS33II"/> 
- <ant_invit id="INV_Domini_est_terra"/>
+<ps5 id="PS33I"/> 
+<ps6 id="PS33II"/> 
+<ant_invit id="INV_Domini_est_terra"/>
 <HYMNUS_laudes id="hy_Aurora_iam_spargit_polum"/>
 <ant1 id="AN_Praevenerunt_oculi_mei"/>
 <ant2 id="AN_Fortitudo_mea_et"/>
@@ -17,7 +17,7 @@
 <LB_matin id="LB_2_Petr_1_10-11"/>
 <RB_matin id="RB_Clamavi_ad_te_Domine" />
 <benedictus id="AN_Illumina_Domine_sedentes" />
-  <preces id="perannum_17"/>
+<preces id="perannum_17"/>
 <oratio_laudes id="COL_Corda_nostra_quaesumus_Domine_resurrectionis_splendor"/>
 <HYMNUS_tertiam id="hy_Nunc_Sancte_nobis_Spiritus"/>
 <HYMNUS_sextam id="hy_Rector_potens_verax_Deus"/>

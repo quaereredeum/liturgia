@@ -315,9 +315,7 @@ function ajoutexml($liturgia,$xml) {
 		if($result=@$xml->xpath('/liturgia/ant10/@id')) $liturgia['ant10']=$result[0];
 		if($result=@$xml->xpath('/liturgia/ps10/@id')) $liturgia['ps10']=$result[0];
 		if($result=@$xml->xpath('/liturgia/ant11/@id')) $liturgia['ant11']=$result[0];
-		else $liturgia['ant11']="";
 		if($result=@$xml->xpath('/liturgia/ps11/@id')) $liturgia['ps11']=$result[0];
-		else $liturgia['ps11']="";
 		if($result=@$xml->xpath('/liturgia/LB_completorium/@id')) $liturgia['LB_completorium']=$result[0];
 		if($result=@$xml->xpath('/liturgia/RB_completorium/@id')) $liturgia['RB_completorium']=$result[0];
 		if($result=@$xml->xpath('/liturgia/oratio_completorium/@id')) $liturgia['oratio_completorium']=$result[0];
@@ -478,8 +476,6 @@ function cal2XML($cal,$m) {
  ******************************************************************************/
 			$psautier=simplexml_load_file("sources/psalterium/".$tableau['matin']['psalterium'].".xml");
 			$liturgia=ajoutexml($liturgia,$psautier);
-			//$liturgia['preces_matin']=$tableau['matin']['ferie'];
-			//$liturgia['preces_soir']=$tableau['soir']['ferie'];
 			$ord=date('w',$date_courante)+1;
 			$osb_psalterium="";
 			$osb_psalterium=simplexml_load_file("sources/psalterium/psalterium_osb_".$ord.".xml");
@@ -496,7 +492,7 @@ function cal2XML($cal,$m) {
 			if($tableau['matin']['propre']) $propre=simplexml_load_file("sources/propres/".str_replace(" ","_",$tableau['matin']['propre']).".xml");
 			if($propre) $liturgia=ajoutexml($liturgia,$propre);
 			if($liturgia['commun']!="") {
-				//print"\r\n commun=".$liturgia['commun'];
+				
 				$commun=simplexml_load_file("sources/propres/".$liturgia['commun'].".xml") or die("\r\n ERREUR !");
 				$liturgia=ajoutexml($liturgia,$commun);
 				if($special) $liturgia=ajoutexml($liturgia,$special);
@@ -535,11 +531,11 @@ function cal2XML($cal,$m) {
 					if($result=@$premV->xpath('/liturgia/intitule/la')) $liturgia['intitule_soir_la']=$result[0];
 					if($result=@$premV->xpath('/liturgia/rang/la')) $liturgia['rang_soir_la']=$result[0];
 					$liturgia['office_soir_la']="Ad I Vesperas";
-					// prévoir l'antienne mariale qui change : Sub tuum praesidium
+					// TODO : prévoir l'antienne mariale qui change : Sub tuum praesidium
 
-					//ajoutexml($liturgia, $premV);
+					
 				}
-				//print "\r\n debug propre=".$tableau['soir']['propre'];
+				
 			}
 				
 			if($calendarium['1V'][$d]=="1") { // il y a des II vêpres
@@ -547,19 +543,10 @@ function cal2XML($cal,$m) {
 				$liturgia['office_soir_la']="Ad II Vesperas";
 
 				$liturgia['intitule_soir_la']=$calendarium['intitule'][$d];
-				//print "\r\n".date('Ymd',$date_courante);
-				//$liturgia['rang_soir_la']="Sollemnitas";
+				
 			}
-/*
- * 
- * if($result=@$xml->xpath('/liturgia/ant01/@id')) $liturgia['ant01']=$result[0];
-		if($result=@$xml->xpath('/liturgia/ps01/@id')) $liturgia['ps01']=$result[0];
-		if($result=@$xml->xpath('/liturgia/ant02/@id')) $liturgia['ant02']=$result[0];
-		if($result=@$xml->xpath('/liturgia/ps02/@id')) $liturgia['ps02']=$result[0];
-		if($result=@$xml->xpath('/liturgia/ant03/@id')) $liturgia['ant03']=$result[0];
-		if($result=@$xml->xpath('/liturgia/VERS/@id')) $liturgia['VERS']=$result[0];
- * 
- */			
+
+			
 	
 			$output.="
 <invitatoire id=\"\" />
@@ -748,10 +735,12 @@ $output.="
 	$output.="		
 <HYMNUS_complies>".$liturgia['HYMNUS_completorium']."</HYMNUS_complies>
 <comp_ant1>".$liturgia['ant10']."</comp_ant1>
-<comp_ps1>".$liturgia['ps10']."</comp_ps1>
-<comp_ant2>".$liturgia['ant11']."</comp_ant2>
-<comp_ps2>".$liturgia['ps11']."</comp_ps2>
-<comp_LB>".$liturgia['LB_completorium']."</comp_LB>
+<comp_ps1>".$liturgia['ps10']."</comp_ps1>";
+if($liturgia['ant11']) $output.="<comp_ant2>".$liturgia['ant11']."</comp_ant2>";
+$liturgia['ant11']="";
+if($liturgia['ps11']) $output.="<comp_ps2>".$liturgia['ps11']."</comp_ps2>";
+$liturgia['ps11']="";
+$output.="<comp_LB>".$liturgia['LB_completorium']."</comp_LB>
 <comp_RB>".$liturgia['RB_completorium']."</comp_RB>
 <comp_oratio>".$liturgia['oratio_completorium']."</comp_oratio>";
 	

@@ -192,10 +192,7 @@
 		
 <HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
 <comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
-<comp_ps1>ps4</comp_ps1>
-<comp_ant2/>
-<comp_ps2/>
-<comp_LB>LB_Deut_6_4-7</comp_LB>
+<comp_ps1>ps4</comp_ps1><comp_ant2>AN_In_noctibus</comp_ant2><comp_ps2>ps133</comp_ps2><comp_LB>LB_Deut_6_4-7</comp_LB>
 <comp_RB>RB_In_manus_tuas</comp_RB>
 <comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="perannum_30-7">
 <IN>IN_Laetetur_cor</IN>
@@ -414,10 +411,7 @@
 		
 <HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
 <comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
-<comp_ps1>ps4</comp_ps1>
-<comp_ant2/>
-<comp_ps2/>
-<comp_LB>LB_Deut_6_4-7</comp_LB>
+<comp_ps1>ps4</comp_ps1><comp_ant2>AN_In_noctibus</comp_ant2><comp_ps2>ps133</comp_ps2><comp_LB>LB_Deut_6_4-7</comp_LB>
 <comp_RB>RB_In_manus_tuas</comp_RB>
 <comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="perannum_30-7">
 <IN>IN_Laetetur_cor</IN>
@@ -636,10 +630,7 @@
 		
 <HYMNUS_complies>HY_Christe_qui_splendor</HYMNUS_complies>
 <comp_ant1>AN_Miserere_mei_Domine</comp_ant1>
-<comp_ps1>ps4</comp_ps1>
-<comp_ant2/>
-<comp_ps2/>
-<comp_LB>LB_Deut_6_4-7</comp_LB>
+<comp_ps1>ps4</comp_ps1><comp_ant2>AN_In_noctibus</comp_ant2><comp_ps2>ps133</comp_ps2><comp_LB>LB_Deut_6_4-7</comp_LB>
 <comp_RB>RB_In_manus_tuas</comp_RB>
 <comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="perannum_30-7">
 <IN>IN_Laetetur_cor</IN>

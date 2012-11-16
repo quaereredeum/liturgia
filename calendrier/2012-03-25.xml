@@ -192,12 +192,9 @@
 		
 <HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
 <comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
-<comp_ps1>ps90</comp_ps1>
-<comp_ant2/>
-<comp_ps2/>
-<comp_LB>LB_Ap_22_4-5</comp_LB>
+<comp_ps1>ps90</comp_ps1><comp_LB>LB_Ap_22_4-5</comp_LB>
 <comp_RB>RB_In_manus_tuas</comp_RB>
-<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Ave_regina_caelorum</comp_AM><messe id="quadragesima_51">
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio><comp_AM>Ave_regina_caelorum</comp_AM><messe id="quadragesima_51">
 <IN>IN_Iudica_me_Deus</IN><IN>IN_Iudica_me_Deus</IN><IN>IN_Iudica_me_Deus</IN>
 
 <KY/>
@@ -414,12 +411,9 @@
 		
 <HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
 <comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
-<comp_ps1>ps90</comp_ps1>
-<comp_ant2/>
-<comp_ps2/>
-<comp_LB>LB_Ap_22_4-5</comp_LB>
+<comp_ps1>ps90</comp_ps1><comp_LB>LB_Ap_22_4-5</comp_LB>
 <comp_RB>RB_In_manus_tuas</comp_RB>
-<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Ave_regina_caelorum</comp_AM><messe id="quadragesima_51">
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio><comp_AM>Ave_regina_caelorum</comp_AM><messe id="quadragesima_51">
 <IN>IN_Iudica_me_Deus</IN><IN>IN_Iudica_me_Deus</IN><IN>IN_Iudica_me_Deus</IN>
 
 <KY/>
@@ -636,12 +630,9 @@
 		
 <HYMNUS_complies>HY_Te_lucis_ante_terminum</HYMNUS_complies>
 <comp_ant1>AN_Alis_suis_obumbrabit</comp_ant1>
-<comp_ps1>ps90</comp_ps1>
-<comp_ant2/>
-<comp_ps2/>
-<comp_LB>LB_Ap_22_4-5</comp_LB>
+<comp_ps1>ps90</comp_ps1><comp_LB>LB_Ap_22_4-5</comp_LB>
 <comp_RB>RB_In_manus_tuas</comp_RB>
-<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Ave_regina_caelorum</comp_AM><messe id="quadragesima_51">
+<comp_oratio>COL_Vox_nostra_te_Domine</comp_oratio><comp_AM>Ave_regina_caelorum</comp_AM><messe id="quadragesima_51">
 <IN>IN_Iudica_me_Deus</IN><IN>IN_Iudica_me_Deus</IN><IN>IN_Iudica_me_Deus</IN>
 
 <KY/>

@@ -28,6 +28,7 @@
 <psL2>ps103II</psL2>
 <antL3>AN_Natus_est_nobis</antL3>
 <psL3>ps103III</psL3>
+<LVers>VERS_Fili_mi</LVers>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
 <Llec1>L1_nativitatis_01-08</Llec1>
@@ -247,6 +248,7 @@
 <psL2>ps134II</psL2>
 <antL3>AN_Baptizatus_Iesus_confestim</antL3>
 <psL3>NT7</psL3>
+<LVers>VERS_Fili_mi</LVers>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
 <Llec1>L1_IN_BAPTISMATE_DOMINI</Llec1>
@@ -466,6 +468,7 @@
 <psL2>ps134II</psL2>
 <antL3>AN_Baptizatus_Iesus_confestim</antL3>
 <psL3>NT7</psL3>
+<LVers>VERS_Fili_mi</LVers>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
 <Llec1>L1_IN_BAPTISMATE_DOMINI</Llec1>

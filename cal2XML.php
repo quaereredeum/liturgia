@@ -558,6 +558,7 @@ function cal2XML($cal,$m) {
 <psL2>".$liturgia['ps02']."</psL2>
 <antL3>".$liturgia['ant03']."</antL3>
 <psL3>".$liturgia['ps03']."</psL3>
+<LVers>".$liturgia['VERS']."</LVers>
 <osb_vig_ant_attente id=\"".$liturgia['osb_vig_ant_attente']."\" />
 <osb_vig_ps_attente id=\"".$liturgia['osb_vig_ps_attente']."\" />
 <Llec1>L1_".$messe."</Llec1>

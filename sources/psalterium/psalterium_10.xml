@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <liturgia>
+	<preces id="perannum_10"/>
  <HYMNUS_1V id="hy_Deus_creator_omnium"/>
 <ant7 id="AN_Dirigatur_Domine_oratio"/>
 <ant8 id="AN_Tu_es_refugium"/>

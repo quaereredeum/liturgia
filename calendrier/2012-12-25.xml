@@ -28,6 +28,7 @@
 <psL2>ps147</psL2>
 <antL3>AN_Verbum_supernum_a</antL3>
 <psL3>NT5</psL3>
+<LVers>VERS_Attendite_popule</LVers>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
 <Llec1>L1_12-25_jour</Llec1>
@@ -194,7 +195,7 @@
 <comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
 <comp_ps1>ps85</comp_ps1><comp_LB>LB_1_Th_5_9-10</comp_LB>
 <comp_RB>RB_In_manus_tuas</comp_RB>
-<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Alma_redemptoris</comp_AM><messe id="12-25_jour">
+<comp_oratio>COL_Noctem_istam_quaesumus_Domine</comp_oratio><comp_AM>Alma_redemptoris</comp_AM><messe id="12-25_jour">
 <IN>IN_Puer_natus_est_nobis</IN>
 
 <KY/>
@@ -247,6 +248,7 @@
 <psL2>ps147</psL2>
 <antL3>AN_Verbum_supernum_a</antL3>
 <psL3>NT5</psL3>
+<LVers>VERS_Attendite_popule</LVers>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
 <Llec1>L1_12-25_jour</Llec1>
@@ -413,7 +415,7 @@
 <comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
 <comp_ps1>ps85</comp_ps1><comp_LB>LB_1_Th_5_9-10</comp_LB>
 <comp_RB>RB_In_manus_tuas</comp_RB>
-<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Alma_redemptoris</comp_AM><messe id="12-25_jour">
+<comp_oratio>COL_Noctem_istam_quaesumus_Domine</comp_oratio><comp_AM>Alma_redemptoris</comp_AM><messe id="12-25_jour">
 <IN>IN_Puer_natus_est_nobis</IN>
 
 <KY/>
@@ -466,6 +468,7 @@
 <psL2>ps147</psL2>
 <antL3>AN_Verbum_supernum_a</antL3>
 <psL3>NT5</psL3>
+<LVers>VERS_Attendite_popule</LVers>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
 <Llec1>L1_12-25_jour</Llec1>
@@ -632,7 +635,7 @@
 <comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
 <comp_ps1>ps85</comp_ps1><comp_LB>LB_1_Th_5_9-10</comp_LB>
 <comp_RB>RB_In_manus_tuas</comp_RB>
-<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Alma_redemptoris</comp_AM><messe id="12-25_jour">
+<comp_oratio>COL_Noctem_istam_quaesumus_Domine</comp_oratio><comp_AM>Alma_redemptoris</comp_AM><messe id="12-25_jour">
 <IN>IN_Puer_natus_est_nobis</IN>
 
 <KY/>

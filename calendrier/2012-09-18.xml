@@ -28,6 +28,7 @@
 <psL2>ps101II</psL2>
 <antL3>AN_Tu_Domine_terram</antL3>
 <psL3>ps101III</psL3>
+<LVers>VERS_Attendite_popule</LVers>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
 <Llec1>L1_perannum_24-3</Llec1>
@@ -194,7 +195,7 @@
 <comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
 <comp_ps1>ps85</comp_ps1><comp_LB>LB_1_Th_5_9-10</comp_LB>
 <comp_RB>RB_In_manus_tuas</comp_RB>
-<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="perannum_24-3">
+<comp_oratio>COL_Noctem_istam_quaesumus_Domine</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="perannum_24-3">
 <IN>IN_Da_pacem</IN>
 
 <KY/>
@@ -247,6 +248,7 @@
 <psL2>ps101II</psL2>
 <antL3>AN_Tu_Domine_terram</antL3>
 <psL3>ps101III</psL3>
+<LVers>VERS_Attendite_popule</LVers>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
 <Llec1>L1_perannum_24-3</Llec1>
@@ -413,7 +415,7 @@
 <comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
 <comp_ps1>ps85</comp_ps1><comp_LB>LB_1_Th_5_9-10</comp_LB>
 <comp_RB>RB_In_manus_tuas</comp_RB>
-<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="perannum_24-3">
+<comp_oratio>COL_Noctem_istam_quaesumus_Domine</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="perannum_24-3">
 <IN>IN_Da_pacem</IN>
 
 <KY/>
@@ -466,6 +468,7 @@
 <psL2>ps101II</psL2>
 <antL3>AN_Tu_Domine_terram</antL3>
 <psL3>ps101III</psL3>
+<LVers>VERS_Attendite_popule</LVers>
 <osb_vig_ant_attente id="AN_Ego_dormivi"/>
 <osb_vig_ps_attente id=""/>
 <Llec1>L1_perannum_24-3</Llec1>
@@ -632,7 +635,7 @@
 <comp_ant1>AN_Tu_Domine_Deus</comp_ant1>
 <comp_ps1>ps85</comp_ps1><comp_LB>LB_1_Th_5_9-10</comp_LB>
 <comp_RB>RB_In_manus_tuas</comp_RB>
-<comp_oratio>COL_Quietem_Domine_corporibus_nostris_tribue_salutarem</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="perannum_24-3">
+<comp_oratio>COL_Noctem_istam_quaesumus_Domine</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="perannum_24-3">
 <IN>IN_Da_pacem</IN>
 
 <KY/>

@@ -198,7 +198,6 @@
 <comp_RB>RB_In_manus_tuas</comp_RB>
 <comp_oratio>COL_Domine_Deus_noster</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="perannum_32-6">
 <IN>IN_Intret_oratio_mea</IN>
-
 <KY/>
 <GLO/><COL>COL_Gratiae_tuae_quaesumus_Domine_supplicibus_tuis</COL>
 <LEC1>2Io4-9</LEC1>	
@@ -418,8 +417,7 @@
 <comp_ps1>ps87</comp_ps1><comp_LB>LB_Cf._Ier._14_9</comp_LB>
 <comp_RB>RB_In_manus_tuas</comp_RB>
 <comp_oratio>COL_Domine_Deus_noster</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="11-16">
-<IN>IN_Cognovi_Domine</IN><IN>IN_Dilexisti</IN>
-
+<IN>IN_Cognovi_Domine</IN>
 <KY/>
 <GLO/><COL>COL_Gratiae_tuae_quaesumus_Domine_supplicibus_tuis</COL>
 <LEC1>11-16</LEC1>	
@@ -639,8 +637,7 @@
 <comp_ps1>ps87</comp_ps1><comp_LB>LB_Cf._Ier._14_9</comp_LB>
 <comp_RB>RB_In_manus_tuas</comp_RB>
 <comp_oratio>COL_Domine_Deus_noster</comp_oratio><comp_AM>Salve_regina</comp_AM><messe id="11-16">
-<IN>IN_Cognovi_Domine</IN><IN>IN_Dilexisti</IN>
-
+<IN>IN_Cognovi_Domine</IN>
 <KY/>
 <GLO/><COL>COL_Gratiae_tuae_quaesumus_Domine_supplicibus_tuis</COL>
 <LEC1>11-16</LEC1>	

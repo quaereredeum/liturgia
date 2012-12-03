@@ -196,8 +196,7 @@
 <comp_ps1>ps4</comp_ps1><comp_ant2>AN_In_noctibus</comp_ant2><comp_ps2>ps133</comp_ps2><comp_LB>LB_Deut_6_4-7</comp_LB>
 <comp_RB>RB_In_manus_tuas</comp_RB>
 <comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio><comp_AM>Regina_caeli</comp_AM><messe id="05-26">
-<IN>IN_Caritas_Dei</IN><IN>IN_Os_iusti</IN>
-
+<IN>IN_Caritas_Dei</IN>
 <KY/>
 <GLO/><COL>COL_Deus_qui_fideles_tibi_servos_sanctitatis</COL>
 <LEC1>05-26</LEC1>	
@@ -417,7 +416,6 @@
 <comp_RB>RB_In_manus_tuas</comp_RB>
 <comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio><comp_AM>Regina_caeli</comp_AM><messe id="pascha_77">
 <IN>IN_Repleatur_os_meum</IN>
-
 <KY/>
 <GLO/><COL>COL_Praesta_quaesumus_omnipotens_Deus_ut_qui</COL>
 <LEC1>Ac28,16-31</LEC1>	
@@ -637,7 +635,6 @@
 <comp_RB>RB_In_manus_tuas</comp_RB>
 <comp_oratio>COL_Visita_nos_quaesumus_Domine</comp_oratio><comp_AM>Regina_caeli</comp_AM><messe id="pascha_77">
 <IN>IN_Repleatur_os_meum</IN>
-
 <KY/>
 <GLO/><COL>COL_Praesta_quaesumus_omnipotens_Deus_ut_qui</COL>
 <LEC1>Ac28,16-31</LEC1>	

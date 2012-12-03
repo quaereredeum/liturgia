@@ -799,10 +799,9 @@ $output.="<comp_LB>".$liturgia['LB_completorium']."</comp_LB>
 			}
 			$output.="<messe id=\"".$messe."\">
 <IN>".$propre[0]->IN_."</IN>";
-			if($propre[1]->IN_) $output.="<IN>".$propre[1]->IN_."</IN>";
-			if($propre[2]->IN_) $output.="<IN>".$propre[2]->IN_."</IN>";
-			$output.="
-
+//if($propre[1]->IN_) $output.="<IN>".$propre[1]->IN_."</IN>";
+//if($propre[2]->IN_) $output.="<IN>".$propre[2]->IN_."</IN>";
+$output.="
 <KY></KY>
 <GLO></GLO>";
 			if($liturgia['oratio'])	$output.="<COL>".$liturgia['oratio']."</COL>";

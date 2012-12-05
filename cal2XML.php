@@ -517,7 +517,7 @@ function cal2XML($cal,$m) {
 					if($result=@$premV->xpath('/liturgia/ps03/@id')) $liturgia['ps9']=$result[0];
 					if($result=@$premV->xpath('/liturgia/LB_1V/@id')) $liturgia['LB_soir']=$result[0];
 					if($result=@$premV->xpath('/liturgia/RB_1V/@id')) $liturgia['RB_soir']=$result[0];
-					if($result=@$premV->xpath('/liturgia/pmagnificat/@id')) $liturgia['magnificat']=$result[0];
+					if($result=@$premV->xpath('/liturgia/magnificat_1V/@id')) $liturgia['magnificat']=$result[0];
 					if($result=@$premV->xpath('/liturgia/oratio/@id')) $liturgia['oratio_vesperas']=$result[0];
 					if($result=@$premV->xpath('/liturgia/preces/@id')) $liturgia['vepres_preces']=$result[0];
 					if($result=@$premV->xpath('/liturgia/HYMNUS_completorium/@id')) $liturgia['HYMNUS_completorium']=$result[0];
